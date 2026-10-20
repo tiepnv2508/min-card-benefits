@@ -1,0 +1,1108 @@
+{
+  "amex-blue-business-cash": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-cash.png",
+    "sha256": "ee06095d9bb79257dabc4b7e4195c17102c9c0276341c66940b4d869fc02b19e",
+    "bytes": 40858,
+    "width": 380,
+    "height": 240
+  },
+  "amex-blue-business-plus": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-plus.png",
+    "sha256": "9183546505ef7738a2ebe804cfd33e063e18affdc35de45ec3d5185e018a7691",
+    "bytes": 81932,
+    "width": 480,
+    "height": 304
+  },
+  "amex-blue-cash-everyday": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png",
+    "sha256": "bfccadb4c5dc3dc5a88464e70bf2c7339280bf494e9c8fad0ee4e5230c465dc4",
+    "bytes": 55748,
+    "width": 480,
+    "height": 304
+  },
+  "amex-blue-cash-preferred": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000264_480x304_straight_withname.png",
+    "sha256": "ccaad97c2f83ae487c971e28ee08e0530f6ac9b0ff06705b4f2cee72dabe80cc",
+    "bytes": 99920,
+    "width": 480,
+    "height": 304
+  },
+  "amex-blue-cash-preferred-morgan-stanley": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000284_480x304_straight_withname.png",
+    "sha256": "9f436aec1b58ff68d81d942cbf2a8aa60ca2364d61a1dfa3f0cea718e1ab6210",
+    "bytes": 104467,
+    "width": 480,
+    "height": 304
+  },
+  "amex-business-gold": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-gold.png",
+    "sha256": "abcdba80febf7b4a50ffbb1820f1bffaf1cfae4f545105522dee6e919f6b2a90",
+    "bytes": 42578,
+    "width": 380,
+    "height": 241
+  },
+  "amex-business-green": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-green-rewards.png",
+    "sha256": "2e7aa094899e015a014462e90cb5911318296f5091f1dfdff2be52586721a47f",
+    "bytes": 120985,
+    "width": 480,
+    "height": 304
+  },
+  "amex-business-platinum": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-platinum.png",
+    "sha256": "8c3aa2e5d7b962554ef9724e739ee0aeb520a38454078bbe44514bee0f40d974",
+    "bytes": 338148,
+    "width": 480,
+    "height": 304
+  },
+  "amex-cash-magnet": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/cash-magnet.png",
+    "sha256": "67e923e1c018021a1d19fc17229619cb40a17d9da2d8fc82c70c52d1348b0d22",
+    "bytes": 48115,
+    "width": 314,
+    "height": 199
+  },
+  "amex-delta-skymiles-blue": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000386_480x304_straight_withname.png",
+    "sha256": "bb8b50d0baf3d593aab4593fb99c63a5766ae76f2cb93aed915b22901265960b",
+    "bytes": 227910,
+    "width": 480,
+    "height": 304
+  },
+  "amex-delta-skymiles-gold": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000385_480x304_straight_withname.png",
+    "sha256": "61c498d62799368d1975bbd8fed62548e45dcfa8f6253b6aa6726ece5b755eb7",
+    "bytes": 251163,
+    "width": 480,
+    "height": 304
+  },
+  "amex-delta-skymiles-gold-business": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/gold-delta-skymiles-business.png",
+    "sha256": "d2e2f60eed3eee375c088a8748a5156ff988423ee10d9b842f25becf2cb5184c",
+    "bytes": 1068329,
+    "width": 960,
+    "height": 608
+  },
+  "amex-delta-skymiles-platinum": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000384_480x304_straight_withname.png",
+    "sha256": "3fa2cca90383bed4b8300dde44a8b7c2dd4a2a1254c317d307873d647b44940a",
+    "bytes": 240917,
+    "width": 480,
+    "height": 304
+  },
+  "amex-delta-skymiles-platinum-business": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/platinum-delta-skymiles-business.png",
+    "sha256": "5c418426967c334467d8f575c2506dc66baced01d0bf7b54a3b27a38d1633613",
+    "bytes": 1033238,
+    "width": 960,
+    "height": 608
+  },
+  "amex-delta-skymiles-reserve": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000383_480x304_straight_withname.png",
+    "sha256": "451939280fdccde7dff7d9bc10652f99d4631fac2ad52de09ee891eab3fd8c60",
+    "bytes": 215159,
+    "width": 480,
+    "height": 304
+  },
+  "amex-delta-skymiles-reserve-business": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/delta-reserve-business.png",
+    "sha256": "47ddf32e6a128c5835d178439bd90363d9a7ba5b673c873af3382f604fd68be6",
+    "bytes": 876682,
+    "width": 960,
+    "height": 608
+  },
+  "amex-everyday": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday.png",
+    "sha256": "e3394a04e98bc309faf292fc514f880b3564d617747ee80bcc8d9b3484406f67",
+    "bytes": 118314,
+    "width": 480,
+    "height": 304
+  },
+  "amex-everyday-preferred": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday-preferred.png",
+    "sha256": "5178465a24a05e70a1919423d7fd07dd584f2b8fa299a5f043e13a7700fabbb6",
+    "bytes": 53546,
+    "width": 320,
+    "height": 202
+  },
+  "amex-gold": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png",
+    "sha256": "ed13acce47869fa42961a58c2e3d6a72df726835fa9307640ff6a750a8b6c175",
+    "bytes": 118249,
+    "width": 480,
+    "height": 304
+  },
+  "amex-green": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png",
+    "sha256": "b9f53316c21d5ff2cd9b59adab9ac5f5d307c916d713550ae9909b53c24c3ed6",
+    "bytes": 116122,
+    "width": 480,
+    "height": 304
+  },
+  "amex-hilton-honors": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
+    "sha256": "ca063c34ea62de2f0b78909c6ca7f75fbcce89c3c9db83e569bb75caebc29e4d",
+    "bytes": 40395,
+    "width": 480,
+    "height": 304
+  },
+  "amex-hilton-honors-aspire": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-aspire.png",
+    "sha256": "d4dbd7f5eed2e400e2d57e5fbe55faf2424cd552883028132a272a63f89a911e",
+    "bytes": 105181,
+    "width": 480,
+    "height": 304
+  },
+  "amex-hilton-honors-business": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/hilton-honors.png",
+    "sha256": "c96bbdce750f5aec0bd4051dd8426fafe0e0c762b7fd730fcad4b67256754348",
+    "bytes": 105511,
+    "width": 480,
+    "height": 304
+  },
+  "amex-hilton-honors-surpass": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png",
+    "sha256": "0ba7d706e714d9cdca83ed47fc3677b1dd8606fd9dc30510901944a352d74ddf",
+    "bytes": 64654,
+    "width": 480,
+    "height": 304
+  },
+  "amex-lowes": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/lowes-business-rewards.png",
+    "sha256": "e39c6adb9d1590340d7844bb7ddc869e1e0678d5cbf3cf26cc52b35419167245",
+    "bytes": 27223,
+    "width": 380,
+    "height": 240
+  },
+  "amex-marriott-bonvoy-bevy": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
+    "sha256": "b14b179a8875603be63687357edce5899ec748dae8c1b0cee8c5acf65e6c7d23",
+    "bytes": 80692,
+    "width": 480,
+    "height": 304
+  },
+  "amex-marriott-bonvoy-brilliant": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
+    "sha256": "7d230d455af9f141f0f0548b108c4a07b6581e5eaa5e209351a06918c053788c",
+    "bytes": 53942,
+    "width": 480,
+    "height": 304
+  },
+  "amex-marriott-bonvoy-business": {
+    "url": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/amex-marriott-bonvoy-business.png",
+    "sha256": "9f3bf24dabcad307242a0102483746fe787148354f0aefc240a3aeccb29e9239",
+    "bytes": 56820,
+    "width": 319,
+    "height": 202
+  },
+  "amex-platinum": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png",
+    "sha256": "7d636d11ac582e1a0a713c25b82c5c22fe97af233d14073569fd3908561d4078",
+    "bytes": 129126,
+    "width": 480,
+    "height": 304
+  },
+  "amex-platinum-morgan-stanley": {
+    "url": "https://icm.aexp-static.com/acquisition/card-art/NUS000000365_480x304_straight_withname.png",
+    "sha256": "6b79f8acca2dbb7ef36db0ec2f575a3c02c2dfe4ec9acc9db5f51525f0a9982b",
+    "bytes": 69977,
+    "width": 480,
+    "height": 304
+  },
+  "amex-platinum-schwab": {
+    "url": "https://www.aexp-static.com/online/myca/shared/summary/cardasset/images/NUS000000367_480x304_STRAIGHT_96.png",
+    "sha256": "8c8dc2901fc91c7e1296d40c19f4425c24ec715f8fd5546ddddd29a6fad21ed8",
+    "bytes": 323450,
+    "width": 480,
+    "height": 304
+  },
+  "amex-schwab-investor": {
+    "url": "https://www.aexp-static.com/online/myca/shared/summary/cardasset/images/NUS000000377_480x304_STRAIGHT_96.png",
+    "sha256": "408c982a586d0d764dea04b3db36c50b6cba32df009f65f50f68dc654c11640e",
+    "bytes": 107013,
+    "width": 480,
+    "height": 304
+  },
+  "barclays-aadvantage-aviator-business": {
+    "url": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
+    "sha256": "8126c51a80fc0472a1c8c105562462a30199ed7693bfb857ab80dcac0deb7d8a",
+    "bytes": 38056,
+    "width": 620,
+    "height": 391
+  },
+  "barclays-aadvantage-aviator-red": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/AA2_card_rRGB_AviatorRed_WE_359x246_4074_072418.png",
+    "sha256": "fef29ee99930ca1b2c03c491b80a1980fda9f69061d58dab7b0a9e1b9f791f51",
+    "bytes": 133378,
+    "width": 359,
+    "height": 246
+  },
+  "barclays-aarp-essential-rewards": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/ARE_card_rRGB_Essential_6146_359x246_Angle_L.png",
+    "sha256": "5a00ef73834e20b68013ec12f19320ad3687a2f8b9db5d768bf45d16ad74c5e5",
+    "bytes": 74449,
+    "width": 359,
+    "height": 246
+  },
+  "barclays-aarp-travel-rewards": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/aarp/card-art/ART_card_rCMY_Travel_WM_5492_359x246_angle_L.png-Medium.png",
+    "sha256": "06db7a1734fa3bc9f8c0c5bd868d128a17c421fe49cf7e714bbfc8f3063b7e9e",
+    "bytes": 114959,
+    "width": 360,
+    "height": 240
+  },
+  "barclays-carnival-world-mastercard": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/carnival/card-art/SMC_LP_Card_Carnival_447x281.png",
+    "sha256": "e8b27a1bc3c6f277b9b44bb5aca2971ad45f898b585c686ac5feb13682dd7ae6",
+    "bytes": 273993,
+    "width": 447,
+    "height": 281
+  },
+  "barclays-emirates-skywards-premium": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/EKE_LP_Card_SkywardsPrem_320x205.png",
+    "sha256": "884690371017e7829d3455edac2f0c1b8c729192ea59bae364e705da27e04534",
+    "bytes": 135552,
+    "width": 320,
+    "height": 205
+  },
+  "barclays-emirates-skywards-rewards-world-elite": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/EKS_card_Rewards_359x227.png",
+    "sha256": "d4f700e04a0bc90ac626f49f6d799140e86956d9838aa3e9da047c91b9f4b288",
+    "bytes": 145673,
+    "width": 359,
+    "height": 227
+  },
+  "barclays-frontier-airlines-world": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/adobe-dam/frontier/FTF_card_rRGB_Fee_MC_NoBleed_padding.png",
+    "sha256": "f559aac9a4c1aead36271b9285e62e9b858549745813acfd5a0dfe23ca7a4822",
+    "bytes": 108801,
+    "width": 359,
+    "height": 246
+  },
+  "barclays-hawaiian-airlines-world-elite": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/card_HCL_DHR3ZHC1_359x226.png",
+    "sha256": "8ac55030b276915cfa5133440b066e0e7577f535c2c9bc5c7581755a09a3e486",
+    "bytes": 149245,
+    "width": 359,
+    "height": 226
+  },
+  "barclays-jetblue": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBM_card_NoFee_WM_Flat_230x157.png",
+    "sha256": "b6b6b88b69a1874e2a0ca299f2e7ce890c3bc62fb2e2c56d10dd5bfd3279a23a",
+    "bytes": 23960,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-jetblue-business": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/BJT_card_BC_WE_Flat_230x157.png",
+    "sha256": "46466607a186165b27441dde62cda315df0dd00b5057ba6d4e93160bb6bccf43",
+    "bytes": 33907,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-jetblue-plus": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBE_card_Plus_WE_Flat_230x157.png",
+    "sha256": "4eadd5988385d1178472000c1e4ed80b1ee8cd479872eda05cfc3b167b9a2bf6",
+    "bytes": 29240,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-jetblue-premier": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBP_CD_card_Premier_WE_Flat_230x157.png",
+    "sha256": "9f000e4dcf55076772fff0de6563b3c2ac09c0f9685f9bc0805c6558c07bd921",
+    "bytes": 30120,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-lufthansa-miles-more": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/LFT_DFW1ZLF1.png",
+    "sha256": "d8a634efd7ee1b0f069e66be2012400080d7f0b961819bdd414f8fd4dbb2b2a2",
+    "bytes": 25880,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-upromise": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/UPR_card_rRGB_Upromise_WM_230x157.png",
+    "sha256": "fae178e8d8b36b4161d56c7894b14a5bfb40af7b099bd7b9e9687d47954d737b",
+    "bytes": 54892,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-wyndham-rewards-earner": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYD-WYZ-Rewards-Earner-VS_noBleed_230x157.png",
+    "sha256": "8ae02f0e8f811b988233b8e6a3aa0927c90e46cb23df1bbcf895bd2689e69f82",
+    "bytes": 48307,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-wyndham-rewards-earner-business": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/BWY-Earner-Business-Card_VS_noBleed_230x157.png",
+    "sha256": "ccbd0e8f14e5c0d9721bd372fdbedcf092d7e32517352fb492049a62b1c1f0d4",
+    "bytes": 51408,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-wyndham-rewards-earner-plus": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYF-Earner-Plus_VS_noBleed_230x157.png",
+    "sha256": "fad99b13edddb4de88b35dade4cb7fe504f363436b6040ad8c1c5be11017c1a7",
+    "bytes": 50525,
+    "width": 230,
+    "height": 157
+  },
+  "barclays-xbox": {
+    "url": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/XBO_card_Xbox_MC_Angle_359x246.png",
+    "sha256": "6255996901c5b82f16cedf45f8057be626f9ee09e965dd8f49dfe697442c34ab",
+    "bytes": 49993,
+    "width": 359,
+    "height": 246
+  },
+  "bilt-blue": {
+    "url": "https://img.bilt.com/43819/1790799681-bilt-tahoe.webp",
+    "sha256": "d0b57b7d055624b1d5345da09300c8b92c2a6c8a20e140a1650cc82cab92d8d8",
+    "bytes": 101355,
+    "width": 500,
+    "height": 317
+  },
+  "bilt-obsidian": {
+    "url": "https://img.bilt.com/43819/1790799681-bilt-vail.webp",
+    "sha256": "1a88e7a82acfc8b6c9e3f23494514f4d1722034d6f25813950e2156486ee143a",
+    "bytes": 83456,
+    "width": 500,
+    "height": 317
+  },
+  "bilt-palladium": {
+    "url": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
+    "sha256": "609858e50f5ede5fe01c03e014625f9e1c3e60c8f4c5560812ae8118edb3bb72",
+    "bytes": 78762,
+    "width": 500,
+    "height": 317
+  },
+  "boa-air-france-klm": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_eltwldcm_mc_250x158.jpg",
+    "sha256": "19b25df5f4e3569976062ef32c0d42734fc0ab654cfc995de0e5033e0d3b1e67",
+    "bytes": 75546,
+    "width": 250,
+    "height": 157
+  },
+  "boa-atmos-rewards-ascent": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bbt_sigcm_v_atmos_ascent_250.png",
+    "sha256": "fe4a31dbef01374b30523f5336e14d241ddf3644f3831616db741e630a2f38a1",
+    "bytes": 29565,
+    "width": 250,
+    "height": 158
+  },
+  "boa-atmos-rewards-business": {
+    "url": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Business-Card.png",
+    "sha256": "12ede5ee352f444012ab8efdc4c5a7a5d8012756cada83c566ac83cf0864fae9",
+    "bytes": 125799,
+    "width": 500,
+    "height": 315
+  },
+  "boa-atmos-rewards-summit": {
+    "url": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Summit-Card.png",
+    "sha256": "7e82bd555c49fba15d789376494c95bed068947109c45f3dc66ba8217c58ca14",
+    "bytes": 160893,
+    "width": 500,
+    "height": 315
+  },
+  "boa-business-advantage-customized-cash": {
+    "url": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/customized_cash_rewards_1200x756.png",
+    "sha256": "c77a4ac4f62e4f2a9089dffeda4849b004de9eb4c2d0a1ab82b19a341d7f7eff",
+    "bytes": 370273,
+    "width": 1200,
+    "height": 756
+  },
+  "boa-business-advantage-travel-rewards": {
+    "url": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/travel_rewards_1200x756.png",
+    "sha256": "d49984e0dde1eae49d15164542a429fad36e2cc532318eaf697e546bd517c7ad",
+    "bytes": 219134,
+    "width": 1200,
+    "height": 756
+  },
+  "boa-business-advantage-unlimited-cash": {
+    "url": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_1200x756.png",
+    "sha256": "beba8f744a2bc8365706a4b25886371d32143bab8c8194686b03d87db5a048a8",
+    "bytes": 251377,
+    "width": 1200,
+    "height": 756
+  },
+  "boa-customized-cash-rewards": {
+    "url": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-masthead-container-default-bofa_cshsigcm_v.png",
+    "sha256": "3daeac537f32e5fd5fdd38e2653ac0224ba83768d1dca31ad324009c250c87cc",
+    "bytes": 124016,
+    "width": 500,
+    "height": 315
+  },
+  "boa-free-spirit": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragb_eltcm_mc_blk_250.png",
+    "sha256": "50090fb3c6ef79167998b6c9c71051d8f9cc60fbbbb3973891ab2666d1b53790",
+    "bytes": 33138,
+    "width": 250,
+    "height": 158
+  },
+  "boa-platinum-plus": {
+    "url": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/platinum_plus_mc_1200x756.png",
+    "sha256": "03993a291943961353ef224b993856f22a065f9224a1f1b0b1f65638069bd736",
+    "bytes": 155584,
+    "width": 1200,
+    "height": 756
+  },
+  "boa-premium-rewards": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8CAL_prmsigcm_v_250_158.png",
+    "sha256": "58384226375029e07ea4339192727bc68ff84472e93a4dbc66ba21d520981e8e",
+    "bytes": 39428,
+    "width": 250,
+    "height": 158
+  },
+  "boa-premium-rewards-elite": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
+    "sha256": "8ff69f1d48d95c5377a0de8f18b96bb90b1f4435b9fa1c8278720ac4d9c8054b",
+    "bytes": 52879,
+    "width": 250,
+    "height": 158
+  },
+  "boa-travel-rewards": {
+    "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png",
+    "sha256": "addeddfc5817cc1de021303259b95dcea569a705d195f73818e3e3ff0e28c3e9",
+    "bytes": 34136,
+    "width": 250,
+    "height": 157
+  },
+  "capitalone-quicksilver": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+    "sha256": "ed9ccb93e40b030b8e10ec1d91564690ee6451e7e632c6ba28d591f4914a9b4d",
+    "bytes": 71721,
+    "width": 300,
+    "height": 189
+  },
+  "capitalone-savor": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art.png",
+    "sha256": "448d2625e3d82eec399571aea431952331c5195d2c6ec26faf30853b4242647a",
+    "bytes": 175377,
+    "width": 450,
+    "height": 282
+  },
+  "capitalone-spark-1-5-cash-select": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/cash_new_2021_optimized.png",
+    "sha256": "f8e02c4e6a970db38dfc611827b8baeeecd243bd5fd59f6bfca7ce7397c5b18b",
+    "bytes": 299385,
+    "width": 645,
+    "height": 406
+  },
+  "capitalone-spark-2-cash-plus": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/spark-cash-plus2.png",
+    "sha256": "abf85bef024e8f8b6d7e7f671e9ed0c5673aa0a43c4599aabbf62593f4ed06dc",
+    "bytes": 272002,
+    "width": 645,
+    "height": 406
+  },
+  "capitalone-venture-business": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-vb-card-art.png",
+    "sha256": "9bcfc5514405894adcac214c349859627916fc9b8a12332d5cb1d6ac54f507f3",
+    "bytes": 76232,
+    "width": 645,
+    "height": 406
+  },
+  "capitalone-venture-rewards": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/venture_cardart_prim_323x203-1.png",
+    "sha256": "70eb525d2c1011b99ccfa3e1fee616d95b7921e535e7f5bc6d39a7b737ec6f55",
+    "bytes": 99045,
+    "width": 323,
+    "height": 203
+  },
+  "capitalone-venture-x": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
+    "sha256": "12478bf1100e8298da7f599144ba74f207b089d1ac51caf719baef0e0285d451",
+    "bytes": 446762,
+    "width": 1000,
+    "height": 630
+  },
+  "capitalone-venture-x-business": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/vxb-card-alt-at-2x.png",
+    "sha256": "a3d85ba1572fbb7f5b987e92419bdd7234f22c81ab140a608b19a17f8baf47b4",
+    "bytes": 523817,
+    "width": 747,
+    "height": 471
+  },
+  "capitalone-ventureone": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203.png",
+    "sha256": "0eee5ca68030d7741f4a28ca03ee822c7260d463bc562718b55103188662b353",
+    "bytes": 44507,
+    "width": 323,
+    "height": 203
+  },
+  "capitalone-ventureone-business": {
+    "url": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-vb-card-art.png",
+    "sha256": "9bcfc5514405894adcac214c349859627916fc9b8a12332d5cb1d6ac54f507f3",
+    "bytes": 76232,
+    "width": 645,
+    "height": 406
+  },
+  "chase-aer-lingus-signature": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/aer_lingus_card.png",
+    "sha256": "253e3f6d539d506a1ae003996d56da2658fbf7bb54fbbf6c077571ecdd60821b",
+    "bytes": 48725,
+    "width": 289,
+    "height": 181
+  },
+  "chase-aeroplan": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/AirCanada_Aeroplan_cardart.png",
+    "sha256": "f831f7c7ff4203088daefb820fdba32fd18e0d6aa40353e3eeefc3139cc051b7",
+    "bytes": 88708,
+    "width": 289,
+    "height": 181
+  },
+  "chase-amazon-prime": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/prime_visa.png",
+    "sha256": "a79efcc7407701420b2bac5922bef46526c8bb406e5d543cb6e3a434a1a4e43b",
+    "bytes": 84454,
+    "width": 289,
+    "height": 181
+  },
+  "chase-british-airways-signature": {
+    "url": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/british-airways.png",
+    "sha256": "3db8b4ab4bec5a919533ecd69cf15d0e65743e0304df70296db6dd99b8c30524",
+    "bytes": 41325,
+    "width": 289,
+    "height": 181
+  },
+  "chase-disney": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney_vintage_mickey_Jan_2026.png",
+    "sha256": "847e8dadff9dfd0c4400f47a5b131c4262a1aeeb97b222e3005df3285eb6e759",
+    "bytes": 59603,
+    "width": 289,
+    "height": 181
+  },
+  "chase-disney-premier": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney_sleeping_beauty_premier_vs_Jan_2026.png",
+    "sha256": "adb56a79aba8cd226c327a1f3bed992aaaef85b8016a1198baf38efb968c5c36",
+    "bytes": 123300,
+    "width": 287,
+    "height": 181
+  },
+  "chase-freedom-flex": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/site-assets/images/freedom_cal_freedom_flex_card.png",
+    "sha256": "52508eb9325896b592feb0c3f46832a68327a2377dc0808c145978e9e809b488",
+    "bytes": 82258,
+    "width": 307,
+    "height": 197
+  },
+  "chase-freedom-unlimited": {
+    "url": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-unlimited/card_freedomUtld_V.png",
+    "sha256": "b0a646ee28d180ac56d37fde5be75baa2fc830524dd6c619a3cd87ff9175ad9d",
+    "bytes": 491231,
+    "width": 1080,
+    "height": 720
+  },
+  "chase-iberia-signature": {
+    "url": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/iberia.png",
+    "sha256": "1b87bc2361c41c6f2485b4ed00a0d1ccde2d285ed249797f8a49cd4544cdca48",
+    "bytes": 42981,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ihg-premier": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihgpremiercardart2026.png",
+    "sha256": "2e732c8cef2b91972901da613f0a6e2b3534859668ca552f419b46a243794929",
+    "bytes": 39965,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ihg-premier-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewards-biz-card2026.png",
+    "sha256": "31d1e2dc5f83cc09dc275ee1f0870ab4c014885774c30e8159022bf20e56b44a",
+    "bytes": 36385,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ihg-traveler": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewardscard.png",
+    "sha256": "4dbd0b28cc999d3ea4bcf11582d0ee1cd904a41f8bd4b13656bb421902b4ccea",
+    "bytes": 29815,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ink-business-cash": {
+    "url": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/ink-cash.png",
+    "sha256": "8e74c332db57a0bf04066fa489dbeda9a6e8f27e0d853fb0e923a2225cad2be3",
+    "bytes": 69898,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ink-business-preferred": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_preferred_card.png",
+    "sha256": "4b1874229ea26c4f4a5311191f65dd23a23d4654e181056c4b3253201dcb8b9d",
+    "bytes": 67820,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ink-business-premier": {
+    "url": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/ink-premier.png",
+    "sha256": "901b37bd0dc2b72a47b46b531c6437e7bbe6f35d7a6e0ee94627d3f5948b830a",
+    "bytes": 49281,
+    "width": 289,
+    "height": 181
+  },
+  "chase-ink-business-unlimited": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_unlimited_card.png",
+    "sha256": "a29fa0e6d33c4d51fe92054f4253e36f3bf29620746800dbd03502cc4bd00d2f",
+    "bytes": 69151,
+    "width": 289,
+    "height": 181
+  },
+  "chase-marriott-bonvoy-boundless": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott-bonvoy-boundless-card.png",
+    "sha256": "cb38337108925b3580e88cf85ce04e530657f88b50519c601dddec058acfd4b5",
+    "bytes": 35042,
+    "width": 289,
+    "height": 181
+  },
+  "chase-marriott-bonvoy-bountiful": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott_bonvoy_bountiful_card.png",
+    "sha256": "a7f92752cd621fcb3623631dccb13bdbe1d67184393d457ba93088ebf3e0b15e",
+    "bytes": 89573,
+    "width": 289,
+    "height": 181
+  },
+  "chase-sapphire-preferred": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire-preferredcard2026.png",
+    "sha256": "2485aeded6c0c596d236846d16961d5acdff3d7e1efe09f7f11483b06e1a429a",
+    "bytes": 67595,
+    "width": 289,
+    "height": 181
+  },
+  "chase-sapphire-reserve": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_card_Halo.png",
+    "sha256": "71f60c3845a1939e127e1727a8587d6943aac71ceaedccd2009febe0a9899aff",
+    "bytes": 72868,
+    "width": 289,
+    "height": 181
+  },
+  "chase-sapphire-reserve-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_biz_card.png",
+    "sha256": "0f34b5628222bfe3773b9c155af5846efc943be02929fe02417654b7959386ff",
+    "bytes": 126459,
+    "width": 289,
+    "height": 181
+  },
+  "chase-southwest-performance-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_performance_biz_card.png",
+    "sha256": "e126cd1c1749433656959f6d248f1e7c9d3f8f1f1a6b3bdfa8c56078aacbf52d",
+    "bytes": 58768,
+    "width": 289,
+    "height": 181
+  },
+  "chase-southwest-plus": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_plus_card_New.png",
+    "sha256": "18d1c72dcb4c9885c9fbbb1abc07c1b8625e21431fb0519b26f6d8dd47b6e30f",
+    "bytes": 36754,
+    "width": 289,
+    "height": 181
+  },
+  "chase-southwest-premier": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_premier_card.png",
+    "sha256": "23769e7ef5dcee7210d273973bf2ed2993206ce989fe0fc5116190f672d7b610",
+    "bytes": 72633,
+    "width": 289,
+    "height": 181
+  },
+  "chase-southwest-premier-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_premier_biz_card.png",
+    "sha256": "01d074fda4a6207afe582b259053fa504e3d66a91a3bbc6ea346046d39bacbd3",
+    "bytes": 61964,
+    "width": 289,
+    "height": 181
+  },
+  "chase-southwest-priority": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_priority_card-2.png",
+    "sha256": "28b67ed4b39f568a1c2ec3fb485be00a376e0a2e5828655ad33cd326dab6d2fa",
+    "bytes": 71725,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
+    "sha256": "38899b81973ce55b792fa09c3b10d8298f0bf36b28329038c8faa962279318b4",
+    "bytes": 70056,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-club": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_new_infinite_card.png",
+    "sha256": "79a360c2b8c060b7549d298b8ac2d1543e4f4e86032a0df93efb345874e5af97",
+    "bytes": 57192,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-club-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
+    "sha256": "32afce895a91f3d628f5a782ae41abc60ccbfafc000a3e566362803b5e54c07e",
+    "bytes": 59586,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-explorer": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
+    "sha256": "ed4ba36e693dc8947bcaad9fd033b3e6d9fa0e7ea437bd6500777283fc1f72bf",
+    "bytes": 70430,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-gateway": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_card.png",
+    "sha256": "1f621b15ac5d2ec87e07f09ca4ac5b59c5100ab67b656d0a8500162b0b790a1c",
+    "bytes": 60328,
+    "width": 289,
+    "height": 181
+  },
+  "chase-united-quest": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
+    "sha256": "9508bcda5d1365e7e51adb6fa144636fe8b3fd75ede124c60673c6aacd2c720d",
+    "bytes": 61240,
+    "width": 290,
+    "height": 181
+  },
+  "chase-world-of-hyatt": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_of_hyatt_card.png",
+    "sha256": "857417ce39944a3bf955ee8507a1692832280f0781ced6e6db0aa6f678f975ba",
+    "bytes": 91742,
+    "width": 289,
+    "height": 181
+  },
+  "chase-world-of-hyatt-business": {
+    "url": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_hyatt_biz_card.png",
+    "sha256": "9a5d16dac1f8fe35f501f83d24ef6d3e4ee4765e41b8d52a315533e0f6e6fc45",
+    "bytes": 76117,
+    "width": 289,
+    "height": 181
+  },
+  "citi-aadvantage-business-world-elite": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citibusiness-aadvantage-platinum-select-credit-card/citibusiness-aadvantage-platinum-select-credit-card_306x192.webp",
+    "sha256": "5909d604e7b11427b8777036ae63061e4902f03b4977737a30cedf8c950d4e6c",
+    "bytes": 10318,
+    "width": 306,
+    "height": 193
+  },
+  "citi-aadvantage-executive": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-executive-world-legend-mastercard/citi-aadvantage-executive-world-legend-mastercard_306x192.webp",
+    "sha256": "234048d1fba3f68a5b1932e3f87a379de49adcae05824bcdd48457cf376d0733",
+    "bytes": 11168,
+    "width": 306,
+    "height": 192
+  },
+  "citi-aadvantage-globe": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-globe-mastercard/citi-aadvantage-globe-mastercard_306x192.webp",
+    "sha256": "aa870d9500f2f3f066b5f9d1a17c473c391bd337e096493e08777177b8250f54",
+    "bytes": 35790,
+    "width": 306,
+    "height": 192
+  },
+  "citi-aadvantage-mileup": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/aadvantage-mile-up-credit-card/aadvantage-mile-up-credit-card_306x192.webp",
+    "sha256": "5972a77fa3b86a5c0fe44e0c9db3fb0485da923354bb22bd97d29bd76b5fec4c",
+    "bytes": 27098,
+    "width": 760,
+    "height": 480
+  },
+  "citi-aadvantage-platinum-select-world-elite": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-platinum-elite-credit-card/citi-aadvantage-platinum-elite-credit-card_306x192.webp",
+    "sha256": "974aaaba46babed070bd23bff6698ca9905e86b0babea3f42d8d176059978242",
+    "bytes": 27926,
+    "width": 306,
+    "height": 192
+  },
+  "citi-at-t-points-plus": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-att-pointsplus-credit-card/citi-att-pointsplus-credit-card_306x192.webp",
+    "sha256": "efe3a0f9de4a544d76a18430fc3d3a77f80e3b8f46f5ac6c08414804f3a7c1bd",
+    "bytes": 16412,
+    "width": 306,
+    "height": 192
+  },
+  "citi-custom-cash": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-custom-cash-credit-card/citi-custom-cash-credit-card_306x192.webp",
+    "sha256": "3b77a4e0958161967dfda0dfde8c65df80f3b46d8d11890d03d5a5671c9104e6",
+    "bytes": 30526,
+    "width": 306,
+    "height": 192
+  },
+  "citi-double-cash": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-double-cash-credit-card/citi-double-cash-credit-card_306x192.webp",
+    "sha256": "4cf2b3e8aab4108d7a449c853503e2acbb9a07983df0e33df37efd6d19443c6d",
+    "bytes": 20700,
+    "width": 306,
+    "height": 192
+  },
+  "citi-strata": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-credit-card/citi-strata-credit-card_306x192.webp",
+    "sha256": "6652a5d7c88c4221aa1323cf56833b496c40debf5f30242c0e4a073d7730bf8a",
+    "bytes": 30932,
+    "width": 342,
+    "height": 215
+  },
+  "citi-strata-elite": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-elite-credit-card/citi-strata-elite-credit-card_306x192.webp",
+    "sha256": "b639c80320a34d79ca8b04eefa747b5a9ac134b96cdc759d686f5346edb7d4fa",
+    "bytes": 25432,
+    "width": 342,
+    "height": 216
+  },
+  "citi-strata-premier": {
+    "url": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-premier-credit-card/citi-strata-premier-credit-card_306x192.webp",
+    "sha256": "18a43fad07b4f37fee756c0414bdd38c2d81484e8cf4ab2e8db3caab2357561d",
+    "bytes": 27910,
+    "width": 324,
+    "height": 216
+  },
+  "comenity-aaa-daily-advantage": {
+    "url": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20daily%205050.png",
+    "sha256": "614724a2a58c261e43492fa6d81f0017e97860e5638dfb108bc3a8dec90d49f9",
+    "bytes": 243877,
+    "width": 400,
+    "height": 645
+  },
+  "comenity-aaa-travel-advantage": {
+    "url": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20travel%205050.png",
+    "sha256": "68142636bd13d15b840765a0c16f143fd0b9cd8b77e89b0deae1740ca9f57a29",
+    "bytes": 182785,
+    "width": 400,
+    "height": 645
+  },
+  "discover-discover-it": {
+    "url": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-cashit-with-shadow.png",
+    "sha256": "7337487d4e364592ba8778b4ae74ede38f9fae5024f537b16007af523bb29836",
+    "bytes": 192256,
+    "width": 620,
+    "height": 382
+  },
+  "first-ana-card-usa-plus": {
+    "url": "https://www.anacardusa.com/wp-content/uploads/2025/02/card-new.png",
+    "sha256": "1ca94ced9c0c0cf32dd90a661797e3e0bfb6acf57d393318b7b1246b1ac0c6f2",
+    "bytes": 183707,
+    "width": 704,
+    "height": 442
+  },
+  "first-latam-airlines": {
+    "url": "https://www.cardless.com/_next/static/media/card-blue-chip.e77ba1d9.png",
+    "sha256": "172e79d6a4315aa3186ebc6d121036d273e3ba1da054c30272485d14d2d79408",
+    "bytes": 2019651,
+    "width": 2048,
+    "height": 1292
+  },
+  "first-latam-airlines-world-elite": {
+    "url": "https://www.cardless.com/_next/static/media/card-black-chip.7708717e.png",
+    "sha256": "100cd24408d2e4964cff405c81a7ef4c0c498da2ce904af464674a410ec71fe6",
+    "bytes": 1453501,
+    "width": 2048,
+    "height": 1292
+  },
+  "fnbo-amtrak-guest-rewards": {
+    "url": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-white-cardart.png",
+    "sha256": "aa30d483631cec30febfe415b72460c8626606ff15f1fe1b20172764a88b419b",
+    "bytes": 82165,
+    "width": 219,
+    "height": 318
+  },
+  "fnbo-amtrak-guest-rewards-preferred": {
+    "url": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-front-facing-cardart.png",
+    "sha256": "3662f9cf5f7db493bd06e0a4c6733493e2bb5be9522b216c638fd360a196f295",
+    "bytes": 243480,
+    "width": 800,
+    "height": 1268
+  },
+  "synchrony-amazon-prime-store-card": {
+    "url": "https://m.media-amazon.com/images/G/01/credit/PLCC/CardArt/PLCC_MAPLE_Prime_card_500x315.png",
+    "sha256": "789b3cae6a2c0bb405aae24d5689092b34809ce2881aae593844ca6d1841fede",
+    "bytes": 54151,
+    "width": 500,
+    "height": 315
+  },
+  "synchrony-verizon-visa": {
+    "url": "https://www.synchrony.com/syc/img/verizon-cards.png",
+    "sha256": "bdfd361059b94a117a0409800b21631de1e41dddcc81f2f1826d5fc33798dba8",
+    "bytes": 131980,
+    "width": 641,
+    "height": 641
+  },
+  "synchrony-virgin-red-rewards": {
+    "url": "https://images.ctfassets.net/ubrcxzi8y7m2/6K9D8BhRWWXG9KMYDEsJ5i/810e5253bc00a7155cd709799003703f/img_creditCard.png",
+    "sha256": "6dabcab0ceaa5aeb4e1e8c9fe9c34581af8a744216ef11e10da8c8f4b9ad29d4",
+    "bytes": 59029,
+    "width": 652,
+    "height": 262
+  },
+  "usbank-altitude-connect": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",
+    "sha256": "3ade34baa77b7e792b39a59eb8ab9d8ef10810cdf9a5247e732faffc268883ed",
+    "bytes": 65389,
+    "width": 378,
+    "height": 600
+  },
+  "usbank-altitude-go": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/altitude-go-visa-signature-credit-card.png",
+    "sha256": "27b3b8bb67eda15c855d79ff21bdf122f0c98977bdb2ec70b8135e9c086ac614",
+    "bytes": 22310,
+    "width": 639,
+    "height": 1015
+  },
+  "usbank-altitude-reserve": {
+    "url": "https://www.usbank.com/content/dam/usbank/images/rps/large/Altitude_Reserve_382x609.png",
+    "sha256": "3a8086b980203367dee1076d37de4e63389c4795ee3209fed380e7af5d4cd330",
+    "bytes": 128711,
+    "width": 384,
+    "height": 609
+  },
+  "usbank-business-altitude-connect": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
+    "sha256": "26b3cdc98028dff04f0dc837824e3530f5e2d2425fc4e7e0f383631541aa04ad",
+    "bytes": 26752,
+    "width": 400,
+    "height": 252
+  },
+  "usbank-business-altitude-power": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-power-credit-card.webp",
+    "sha256": "b73b5cb4602550bc7dea9b747057cbf6cb9b125da9e770ebce8b0d7d8aab2dd7",
+    "bytes": 16700,
+    "width": 400,
+    "height": 252
+  },
+  "usbank-business-leverage": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-leverage-credit-card.webp",
+    "sha256": "639540584729db6601110859530294033215f091b9ae5db65d0111b9b4217b37",
+    "bytes": 38238,
+    "width": 400,
+    "height": 252
+  },
+  "usbank-business-triple-cash-rewards": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-triple-cash-credit-card.webp",
+    "sha256": "dbdfd65e2f29b586682dc47a881b2f560319d20baeef2b4882c13806559d794c",
+    "bytes": 11690,
+    "width": 400,
+    "height": 252
+  },
+  "usbank-cash": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-cash-plus-signature-lg.png",
+    "sha256": "329b40cf992e155825ad38af0c85faaaebc8c52917e72af37e8c0b78f624fd35",
+    "bytes": 36620,
+    "width": 200,
+    "height": 318
+  },
+  "usbank-flexperks-gold": {
+    "url": "https://www.usbank.com/content/dam/usbank/images/rps/large/cardArt_flexperks-gold-large-638x1013.png",
+    "sha256": "34ba1e5ebfe63cb723c302214a940cf94139464a0ca8fc77416ef2b5fe33fc80",
+    "bytes": 37085,
+    "width": 638,
+    "height": 1013
+  },
+  "usbank-shopper-cash-rewards": {
+    "url": "https://www.usbank.com/content/dam/usbank/images/rps/large/Shopper-cash-rewards-209x333-no_glow.png",
+    "sha256": "5c29808b9ee4baeafeef9bf9caf16f04856e2c34f23a79b202c03620041fe243",
+    "bytes": 66267,
+    "width": 209,
+    "height": 333
+  },
+  "usbank-skypass": {
+    "url": "https://www.skypassvisa.com/credit/skypass/images/signature-spv-card.png",
+    "sha256": "d414a89b6f741a5f186a95ee617089030390856e7db629deef8fbf7ef73de332",
+    "bytes": 345110,
+    "width": 422,
+    "height": 672
+  },
+  "usbank-skypass-blue": {
+    "url": "https://www.skypassvisa.com/credit/skypass/images/spv-nav-card.png",
+    "sha256": "f0e00485672996b54367bfcdc17d79cf411f5e097604a6e5210461d9ce33ef3a",
+    "bytes": 365372,
+    "width": 422,
+    "height": 672
+  },
+  "usbank-skypass-business": {
+    "url": "https://www.skypassvisa.com/credit/skypass/images/biz-spv-card.png",
+    "sha256": "445330b7d8f6f68da9d0d35fcae5e1c2901fb8496b23eff5c20d6664ccbb0899",
+    "bytes": 350697,
+    "width": 422,
+    "height": 672
+  },
+  "usbank-skypass-select": {
+    "url": "https://www.skypassvisa.com/credit/skypass/images/select-spv-card.png",
+    "sha256": "ae6718f1da70ce63f7122cceb6d1a5f174e9f6a4f33aef5c922154b955431113",
+    "bytes": 354082,
+    "width": 422,
+    "height": 672
+  },
+  "usbank-smartly": {
+    "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-bank-smartly-card-art.png",
+    "sha256": "3f8439ad26c0967217b41ba9d839447d58a327f80e6671dc35ddb0a52ef009bf",
+    "bytes": 77195,
+    "width": 310,
+    "height": 492
+  },
+  "webbank-gemini": {
+    "url": "https://images.ctfassets.net/jg6lo9a2ukvr/3z9JLwzKSHFuRGf6Cah3ys/c21f2c0019c14c6165cc432d1b828390/Hero_Cards_Alt_Desktop.png",
+    "sha256": "8baccaafb1e2605e0b71057af6bbc2ed50e44f7ffe6854b998eb0c0733285c2d",
+    "bytes": 1136029,
+    "width": 1533,
+    "height": 685
+  },
+  "wellsfargo-active-cash": {
+    "url": "https://creditcards.wellsfargo.com/rv/next/images/cards/active-cash.webp",
+    "sha256": "9e7a23a92cfe5a95bdafd9f134cf0cd55419d4e2e31eb32a56bb946620db782c",
+    "bytes": 8582,
+    "width": 427,
+    "height": 270
+  },
+  "wellsfargo-attune": {
+    "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/AttuneBonus/attune_card_d.png",
+    "sha256": "5675f365a4823b6b8de3c085d88f13e2d5c32cab3032d655298d5d806cbff5ec",
+    "bytes": 63825,
+    "width": 391,
+    "height": 247
+  },
+  "wellsfargo-autograph": {
+    "url": "https://creditcards.wellsfargo.com/rv/next/images/cards/autograph.webp",
+    "sha256": "d0fcdcc4261c5847e7d0a07900784e1328f10e5406aae63967adc5a0d0a031bd",
+    "bytes": 7978,
+    "width": 427,
+    "height": 269
+  },
+  "wellsfargo-autograph-journey": {
+    "url": "https://creditcards.wellsfargo.com/rv/next/images/cards/autograph-journey.webp",
+    "sha256": "e9aa2d7a7fc15001c92ccba91d6287b3300d8e9791bba2179f4d32b8d2b0df78",
+    "bytes": 8174,
+    "width": 432,
+    "height": 276
+  },
+  "wellsfargo-choice-privileges": {
+    "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/ChoicePrivileges/WF_Choice_NoFee_Card.png",
+    "sha256": "e0d0eae45405aa4dbb9b5b1f811020b2478e767fa0dfcd39574483219e36bec1",
+    "bytes": 61712,
+    "width": 482,
+    "height": 310
+  },
+  "wellsfargo-choice-privileges-select": {
+    "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/ChoicePrivilegesSelect/WF_Choice_Fee_Card.png",
+    "sha256": "e5e587c5637badc1a2db0c9c620bb601c96e1da133a60888cf4a5f937d24e13b",
+    "bytes": 118771,
+    "width": 476,
+    "height": 300
+  },
+  "wellsfargo-expedia-one-key": {
+    "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeycash_card.png",
+    "sha256": "8f764aaf88a4ab03e6b90c7513bbd977f6401a9496b03c959665e4d19f1d499e",
+    "bytes": 31443,
+    "width": 237,
+    "height": 362
+  },
+  "wellsfargo-expedia-one-key-plus": {
+    "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeyplus_card.png",
+    "sha256": "ef16d703f7e03f4f03e6819b7e030956ffc465e58b563a8ba1533710aa147099",
+    "bytes": 31307,
+    "width": 237,
+    "height": 362
+  },
+  "wellsfargo-signify-business-cash": {
+    "url": "https://creditcards.wellsfargo.com/rv/next/images/cards/signify.webp",
+    "sha256": "e7e8310f5181621a4f16cfbb99a4ceb2a32754591415377058446c53fc40aca7",
+    "bytes": 7704,
+    "width": 426,
+    "height": 268
+  }
+}
