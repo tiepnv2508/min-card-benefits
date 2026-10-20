@@ -17,7 +17,8 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
-    "https://www.instacart.com/p/chase-southwest-airlines"
+    "https://www.instacart.com/p/chase-southwest-airlines",
+    "https://creditcards.chase.com/southwest/premier-business-credit-card"
   ],
   "benefits": [
     {
@@ -92,7 +93,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter through 12/31/2027 while enrolled in DashPass via the card. Several Chase co-brands switched DashPass activations from 9/1/2026 onward to a monthly $10; this card's page could not be read to confirm.",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
     }
   ]
