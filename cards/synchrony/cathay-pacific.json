@@ -3,7 +3,7 @@
   "id": "synchrony-cathay-pacific",
   "name": "Cathay Pacific",
   "issuer": "SYNCHRONY",
-  "network": "visa",
+  "network": "mastercard",
   "isBusiness": false,
   "currency": "CATHAY_PACIFIC",
   "annualFee": 99,

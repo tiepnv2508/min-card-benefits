@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "cardCount": 178,
-  "benefitCount": 432,
+  "benefitCount": 433,
   "cards": [
     {
       "id": "amex-amazon-business",
@@ -12,14 +12,15 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/",
       "legacyIds": [
         "15cc2b7c31596c0112cfba30180ab739"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/",
+        "https://www.americanexpress.com/us/customer-service/faq.amazon-program-update.html"
       ],
       "benefits": []
     },
@@ -40,7 +41,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/"
+        "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinesscash-credit-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -61,7 +63,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinessplus-credit-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -83,7 +86,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",
-        "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/"
+        "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0"
       ],
       "benefits": [
         {
@@ -139,7 +143,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
-        "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/"
+        "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0"
       ],
       "benefits": [
         {
@@ -178,7 +183,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
-        "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/"
+        "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/",
+        "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38"
       ],
       "benefits": [
         {
@@ -235,7 +241,8 @@
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
         "https://www.uscreditcardguide.com/amex-business-gold-rewards-card/",
-        "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/"
+        "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -328,7 +335,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -353,7 +361,8 @@
         "https://www.uscreditcardguide.com/amex-business-platinum-card/",
         "https://www.doctorofcredit.com/american-express-refreshes-platinum-business-platinum-cards-895-fee-175k-200k-bonus-many-new-credits/",
         "https://thriftytraveler.com/news/credit-card/amex-business-platinum-dell-adobe-credits/",
-        "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/"
+        "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -651,7 +660,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/"
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/26129-10-0"
       ],
       "benefits": []
     },
@@ -673,7 +683,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold-american-express-card/91101-10-0"
       ],
       "benefits": [
         {
@@ -757,7 +768,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold/61468-9-0"
       ],
       "benefits": [
         {
@@ -841,7 +853,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum-american-express-card/91101-10-0"
       ],
       "benefits": [
         {
@@ -974,7 +987,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0"
       ],
       "benefits": [
         {
@@ -1107,7 +1121,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0"
       ],
       "benefits": [
         {
@@ -1254,7 +1269,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve/65147-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -3324,14 +3340,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/customized_cash_rewards_1200x756.png",
       "legacyIds": [
         "4f6d71dd4d06ff960cae0990b5efda21"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards"
       ],
       "benefits": []
     },
@@ -3345,14 +3361,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-travel-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/travel_rewards_1200x756.png",
       "legacyIds": [
         "1e75cf9ca2ccded9a621d5e8f5630c3c"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-travel-rewards"
       ],
       "benefits": []
     },
@@ -3366,14 +3382,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_1200x756.png",
       "legacyIds": [
         "a99aa675065459b90144275ac18d9ab1"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards"
       ],
       "benefits": []
     },
@@ -3429,14 +3445,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/platinum-plus",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/platinum_plus_mc_1200x756.png",
       "legacyIds": [
         "9dce80bda519a8616ca4eb288d7cc693"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/platinum-plus"
       ],
       "benefits": []
     },
@@ -3693,7 +3709,7 @@
       "currency": "AMERICAN",
       "annualFee": 95,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
       "imageUrl": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
       "legacyIds": [
@@ -3701,6 +3717,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
         "https://thepointsguy.com/credit-cards/reviews/aadvantage-aviator-business-mastercard-review",
         "https://awardwallet.com/news/credit-cards/citi-sole-issuer-aadvantage-cards/"
       ],
@@ -6242,6 +6259,20 @@
           "notes": "Free Night Award (up to 50,000 points) after $15,000 in purchases in a calendar year."
         },
         {
+          "id": "elite-night-credits",
+          "name": "Elite Night Credits",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "15 Elite Night Credits deposited on or before March 1 each year after the first (card must be open and linked to a Marriott Bonvoy account)."
+        },
+        {
           "id": "instacart-credit",
           "name": "Instacart credit",
           "type": "credit",
@@ -8238,7 +8269,7 @@
       "name": "World of Hyatt Business",
       "issuer": "CHASE",
       "network": "visa",
-      "isBusiness": false,
+      "isBusiness": true,
       "currency": "HYATT",
       "annualFee": 199,
       "afWaivedFirstYear": false,
@@ -8694,7 +8725,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.att.com/deals/att-points-plus-citi/"
+        "https://www.att.com/deals/att-points-plus-citi/",
+        "https://citi.com/credit-cards/citi-att-pointsplus-credit-card"
       ],
       "benefits": []
     },
@@ -8707,7 +8739,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-custom-cash-credit-card/citi-custom-cash-credit-card_306x192.webp",
       "legacyIds": [
@@ -9220,7 +9252,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amtrak.com/Apply",
-      "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-white-cardart.png",
       "legacyIds": [
         "1f13c36d3b8218b1a22d5ab050d30b09"
       ],
@@ -9247,6 +9278,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.amtrak.com/Apply",
         "https://upgradedpoints.com/credit-cards/reviews/amtrak-guest-rewards-preferred-mastercard/"
       ],
       "benefits": [
@@ -9528,7 +9560,7 @@
       "id": "synchrony-cathay-pacific",
       "name": "Cathay Pacific",
       "issuer": "SYNCHRONY",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CATHAY_PACIFIC",
       "annualFee": 99,
@@ -9555,7 +9587,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.verizon.com/financial-services/verizon-visa-card/",
-      "imageUrl": "https://www.synchrony.com/syc/img/verizon-cards.png",
       "legacyIds": [
         "d2dd7fe800c9788452ec41c3fc3a06fa"
       ],
@@ -9658,7 +9689,7 @@
       "isBusiness": false,
       "currency": "US_BANK",
       "annualFee": 0,
-      "afWaivedFirstYear": true,
+      "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",
@@ -9820,20 +9851,20 @@
       "id": "usbank-business-altitude-connect",
       "name": "Business Altitude Connect",
       "issuer": "US_BANK",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": true,
       "currency": "US_BANK",
       "annualFee": 95,
       "afWaivedFirstYear": true,
       "discontinued": false,
-      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
       "legacyIds": [
         "1e6ddb097a524ce3b68719ae6c5eb1e8"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
         "https://www.cnbc.com/select/us-bank-business-altitude-connect-review/"
       ],
       "benefits": [
@@ -9898,7 +9929,7 @@
       "currency": "US_BANK",
       "annualFee": 195,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-power-credit-card.webp",
       "legacyIds": [
@@ -9906,6 +9937,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
         "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html"
       ],
       "benefits": []
@@ -9919,7 +9951,7 @@
       "currency": "USD",
       "annualFee": 95,
       "afWaivedFirstYear": true,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-leverage-credit-card.webp",
       "legacyIds": [
@@ -9927,6 +9959,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
         "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html"
       ],
       "benefits": []
@@ -9935,7 +9968,7 @@
       "id": "usbank-business-triple-cash-rewards",
       "name": "Business Triple Cash Rewards",
       "issuer": "US_BANK",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": true,
       "currency": "USD",
       "annualFee": 0,
@@ -10021,7 +10054,7 @@
       "currency": "USD",
       "annualFee": 95,
       "afWaivedFirstYear": true,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/images/rps/large/Shopper-cash-rewards-209x333-no_glow.png",
       "legacyIds": [
@@ -10029,6 +10062,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/credit-cards.html",
         "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html"
       ],
       "benefits": []
@@ -10090,7 +10124,7 @@
       "network": "visa",
       "isBusiness": false,
       "currency": "KOREAN",
-      "annualFee": 95,
+      "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
@@ -10277,7 +10311,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": true,
+      "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-bank-smartly-card-art.png",
       "legacyIds": [
@@ -10300,7 +10334,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.gemini.com/credit-card",
-      "imageUrl": "https://images.ctfassets.net/jg6lo9a2ukvr/3z9JLwzKSHFuRGf6Cah3ys/c21f2c0019c14c6165cc432d1b828390/Hero_Cards_Alt_Desktop.png",
       "legacyIds": [
         "eb105ba41f6ad2ea3b5f151f03f3dcfa"
       ],
@@ -10340,7 +10373,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
       "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/AttuneBonus/attune_card_d.png",
       "legacyIds": [
@@ -10348,6 +10381,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/",
         "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card"
       ],
       "benefits": []
@@ -10405,7 +10439,7 @@
           "type": "credit",
           "value": 50,
           "frequency": "annual",
-          "alignment": "calendar",
+          "alignment": "anniversary",
           "category": "travel",
           "notes": "One-time $50 credit each year on the first airline purchase of $50+."
         }
@@ -10435,7 +10469,7 @@
       "id": "wellsfargo-choice-privileges",
       "name": "Choice Privileges",
       "issuer": "WELLS_FARGO",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CHOICE",
       "annualFee": 0,
@@ -10456,7 +10490,7 @@
       "id": "wellsfargo-choice-privileges-select",
       "name": "Choice Privileges Select",
       "issuer": "WELLS_FARGO",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CHOICE",
       "annualFee": 95,
@@ -10525,6 +10559,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/one-key-credit-card/",
         "https://www.expedia.com/one-key-cards"
       ],
       "benefits": []
@@ -10546,6 +10581,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/one-key-plus-credit-card/",
         "https://upgradedpoints.com/credit-cards/reviews/one-key-plus-card/",
         "https://www.nerdwallet.com/travel/learn/is-the-one-key-card-worth-its-annual-fee"
       ],

@@ -7,7 +7,7 @@
   "isBusiness": false,
   "currency": "US_BANK",
   "annualFee": 0,
-  "afWaivedFirstYear": true,
+  "afWaivedFirstYear": false,
   "discontinued": false,
   "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",

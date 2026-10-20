@@ -3,7 +3,7 @@
   "id": "usbank-business-triple-cash-rewards",
   "name": "Business Triple Cash Rewards",
   "issuer": "US_BANK",
-  "network": "mastercard",
+  "network": "visa",
   "isBusiness": true,
   "currency": "USD",
   "annualFee": 0,

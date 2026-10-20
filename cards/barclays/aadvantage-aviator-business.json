@@ -8,7 +8,7 @@
   "currency": "AMERICAN",
   "annualFee": 95,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
   "imageUrl": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
   "legacyIds": [
@@ -16,6 +16,7 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
     "https://thepointsguy.com/credit-cards/reviews/aadvantage-aviator-business-mastercard-review",
     "https://awardwallet.com/news/credit-cards/citi-sole-issuer-aadvantage-cards/"
   ],

@@ -4,7 +4,7 @@
   "name": "World of Hyatt Business",
   "issuer": "CHASE",
   "network": "visa",
-  "isBusiness": false,
+  "isBusiness": true,
   "currency": "HYATT",
   "annualFee": 199,
   "afWaivedFirstYear": false,

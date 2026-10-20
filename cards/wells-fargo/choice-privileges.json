@@ -3,7 +3,7 @@
   "id": "wellsfargo-choice-privileges",
   "name": "Choice Privileges",
   "issuer": "WELLS_FARGO",
-  "network": "visa",
+  "network": "mastercard",
   "isBusiness": false,
   "currency": "CHOICE",
   "annualFee": 0,

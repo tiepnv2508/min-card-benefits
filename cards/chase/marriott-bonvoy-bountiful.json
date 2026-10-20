@@ -35,6 +35,20 @@
       "notes": "Free Night Award (up to 50,000 points) after $15,000 in purchases in a calendar year."
     },
     {
+      "id": "elite-night-credits",
+      "name": "Elite Night Credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits deposited on or before March 1 each year after the first (card must be open and linked to a Marriott Bonvoy account)."
+    },
+    {
       "id": "instacart-credit",
       "name": "Instacart credit",
       "type": "credit",
