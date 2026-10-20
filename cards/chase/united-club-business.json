@@ -18,7 +18,8 @@
   "sources": [
     "https://www2.theexplorercard.com/business-rewards-cards/club-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-    "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+    "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "benefits": [
     {
@@ -142,7 +143,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter through 12/31/2027 while enrolled in DashPass via the card. Several Chase co-brands switched DashPass activations from 9/1/2026 onward to a monthly $10; this card's page could not be read to confirm.",
+      "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
       "endDate": "2027-12-31"
     }
   ]
