@@ -1,4 +1,4 @@
-# min-card-benefits
+# US Credit Card Benefits
 
 An open, community-maintained dataset of **recurring US credit card benefits** — monthly/quarterly/annual statement credits and perks — in a format apps can use to set up benefit tracking automatically.
 
@@ -19,7 +19,7 @@ Card benefit trackers usually make you type every credit by hand: *“$10 dining
 One file has everything:
 
 ```
-https://raw.githubusercontent.com/tiepnv2508/min-card-benefits/main/exports/benefits.json
+https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/exports/benefits.json
 ```
 
 ```jsonc

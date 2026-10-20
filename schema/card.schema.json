@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/tiepnv2508/min-card-benefits/schema/card.schema.json",
+  "$id": "https://github.com/tiepnv2508/us-credit-card-benefits/schema/card.schema.json",
   "title": "Card benefits",
   "description": "Recurring benefits (statement credits and perks) of one US credit card.",
   "type": "object",
