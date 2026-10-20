@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-bilt",
+  "name": "Bilt",
+  "issuer": "WELLS_FARGO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "WELLS_FARGO",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.biltrewards.com/card",
+  "legacyIds": [
+    "c077a47639c7b47d1895200c72588ee3"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.biltrewards.com/card"
+  ],
+  "benefits": []
+}

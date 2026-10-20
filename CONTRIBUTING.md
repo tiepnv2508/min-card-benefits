@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping! Every card lives in its own file: `cards/<issuer>/<card-slug>.json`.
+Thanks for helping! Every card lives in its own file: `cards/<issuer>/<card-slug>.json` — including cards with no recurring benefits (`benefits: []`), so the dataset is also a full card catalog.
 
 ## Rules
 
@@ -21,6 +21,6 @@ npm run build      # validates and regenerates exports/benefits.json
 
 Commit both your card file and `exports/benefits.json`. CI runs `npm run validate` on every pull request.
 
-## Finding a card's `cardId`
+## Adding a new card
 
-Look the card up in <https://raw.githubusercontent.com/andenacitelli/credit-card-bonuses-api/main/exports/data.json> and copy its `cardId`. If the card isn't there yet, open an issue and we'll sort it out.
+Create `cards/<issuer>/<card-slug>.json` and give it a new `id` of the form `<issuer-short>-<card-slug>` (e.g. `chase-sapphire-reserve`). Ids are permanent — never rename or reuse one; if a card is replaced, mark the old one `discontinued: true` and add a new file. Use the issuer's card page for `url`, `annualFee` and benefits.

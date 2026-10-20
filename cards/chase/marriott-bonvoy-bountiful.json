@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "fb5e3887059d5d8600b2a5eaed7ddaf7",
+  "id": "chase-marriott-bonvoy-bountiful",
   "name": "Marriott Bonvoy Bountiful",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "MARRIOTT",
   "annualFee": 250,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+  "legacyIds": [
+    "fb5e3887059d5d8600b2a5eaed7ddaf7"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",

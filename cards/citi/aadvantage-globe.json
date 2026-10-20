@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "c6b04cf07dd821ddcfba3dbe398a4b31",
+  "id": "citi-aadvantage-globe",
   "name": "AAdvantage Globe",
   "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMERICAN",
   "annualFee": 350,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
+  "legacyIds": [
+    "c6b04cf07dd821ddcfba3dbe398a4b31"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/"

@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "a9fe40efecc22039a980c039bb6841be",
+  "id": "usbank-business-triple-cash-rewards",
   "name": "Business Triple Cash Rewards",
   "issuer": "US_BANK",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
+  "legacyIds": [
+    "a9fe40efecc22039a980c039bb6841be"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",

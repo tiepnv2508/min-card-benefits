@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "capitalone-quicksilver",
+  "name": "Quicksilver",
+  "issuer": "CAPITAL_ONE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/credit-cards/quicksilver/",
+  "legacyIds": [
+    "66f7413248c7f2c61ce1e8008685eac2"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.capitalone.com/credit-cards/quicksilver/"
+  ],
+  "benefits": []
+}

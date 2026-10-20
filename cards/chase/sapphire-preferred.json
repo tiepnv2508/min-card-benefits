@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "57f8a819c3bb4c6aa494016703281f35",
+  "id": "chase-sapphire-preferred",
   "name": "Sapphire Preferred",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHASE",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+  "legacyIds": [
+    "57f8a819c3bb4c6aa494016703281f35"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",

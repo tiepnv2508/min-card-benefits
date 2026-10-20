@@ -1,13 +1,82 @@
 {
-  "schemaVersion": 1,
-  "cardCount": 100,
+  "schemaVersion": 2,
+  "cardCount": 175,
   "benefitCount": 428,
   "cards": [
     {
-      "cardId": "6980c320c341292b63273e4362601aa8",
+      "id": "amex-amazon-business",
+      "name": "Amazon Business",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/",
+      "legacyIds": [
+        "15cc2b7c31596c0112cfba30180ab739"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-blue-business-cash",
+      "name": "Blue Business Cash",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
+      "legacyIds": [
+        "a37efd1da4e7f0d468c87d3b6f021250"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-blue-business-plus",
+      "name": "Blue Business Plus",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "AMERICAN_EXPRESS",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
+      "legacyIds": [
+        "a851f08b98f839a01a7e8fa367d8b8be"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-blue-cash-everyday",
       "name": "Blue Cash Everyday",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+      "legacyIds": [
+        "6980c320c341292b63273e4362601aa8"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",
@@ -50,10 +119,19 @@
       ]
     },
     {
-      "cardId": "04abf9273e03fbe626fe80a9ffd53523",
+      "id": "amex-blue-cash-preferred",
       "name": "Blue Cash Preferred",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
       "annualFee": 95,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+      "legacyIds": [
+        "04abf9273e03fbe626fe80a9ffd53523"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
@@ -79,10 +157,19 @@
       ]
     },
     {
-      "cardId": "b628058009b9f1a24093028750e18112",
+      "id": "amex-blue-cash-preferred-morgan-stanley",
       "name": "Blue Cash Preferred (Morgan Stanley)",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
       "annualFee": 95,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
+      "legacyIds": [
+        "b628058009b9f1a24093028750e18112"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
@@ -125,10 +212,19 @@
       ]
     },
     {
-      "cardId": "191f603ca5af9306d5db0fb208e9a646",
+      "id": "amex-business-gold",
       "name": "Business Gold",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 375,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
+      "legacyIds": [
+        "191f603ca5af9306d5db0fb208e9a646"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
@@ -210,10 +306,39 @@
       ]
     },
     {
-      "cardId": "656a6a4296d40de4c62cc3ec888e5018",
+      "id": "amex-business-green",
+      "name": "Business Green",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "AMERICAN_EXPRESS",
+      "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
+      "legacyIds": [
+        "aff8fcfdc6a69cef4936e1e474820516"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-business-platinum",
       "name": "Business Platinum",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 895,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+      "legacyIds": [
+        "656a6a4296d40de4c62cc3ec888e5018"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
@@ -481,10 +606,59 @@
       ]
     },
     {
-      "cardId": "99d4ec3c5bcd51b70b83b4b792af3ef6",
+      "id": "amex-cash-magnet",
+      "name": "Cash Magnet",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/",
+      "legacyIds": [
+        "27ebb66ce240c9dcf6e1d13d63e319b4"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-delta-skymiles-blue",
+      "name": "Delta SkyMiles Blue",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "DELTA",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
+      "legacyIds": [
+        "90436ebe63417596fbc6cb5b7e5a2e8c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-delta-skymiles-gold",
       "name": "Delta SkyMiles Gold",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "DELTA",
       "annualFee": 150,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+      "legacyIds": [
+        "99d4ec3c5bcd51b70b83b4b792af3ef6"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -555,10 +729,19 @@
       ]
     },
     {
-      "cardId": "509a09cbd31edd8df85928d044ef7802",
+      "id": "amex-delta-skymiles-gold-business",
       "name": "Delta SkyMiles Gold Business",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "DELTA",
       "annualFee": 150,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+      "legacyIds": [
+        "509a09cbd31edd8df85928d044ef7802"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -629,10 +812,19 @@
       ]
     },
     {
-      "cardId": "bdf4ae17ff6808592f785fff3ae81a2a",
+      "id": "amex-delta-skymiles-platinum",
       "name": "Delta SkyMiles Platinum",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "DELTA",
       "annualFee": 350,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+      "legacyIds": [
+        "bdf4ae17ff6808592f785fff3ae81a2a"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -752,10 +944,19 @@
       ]
     },
     {
-      "cardId": "1e9c3dae029612a7a40adf6144bf43d4",
+      "id": "amex-delta-skymiles-platinum-business",
       "name": "Delta SkyMiles Platinum Business",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "DELTA",
       "annualFee": 350,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+      "legacyIds": [
+        "1e9c3dae029612a7a40adf6144bf43d4"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -875,10 +1076,19 @@
       ]
     },
     {
-      "cardId": "2a3949c2232cf6646a59531728264a5c",
+      "id": "amex-delta-skymiles-reserve",
       "name": "Delta SkyMiles Reserve",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "DELTA",
       "annualFee": 650,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+      "legacyIds": [
+        "2a3949c2232cf6646a59531728264a5c"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -1012,10 +1222,19 @@
       ]
     },
     {
-      "cardId": "a8032dfcc9bc6af82eb1a0a487e710b5",
+      "id": "amex-delta-skymiles-reserve-business",
       "name": "Delta SkyMiles Reserve Business",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "DELTA",
       "annualFee": 650,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+      "legacyIds": [
+        "a8032dfcc9bc6af82eb1a0a487e710b5"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
@@ -1149,10 +1368,59 @@
       ]
     },
     {
-      "cardId": "cafe43d37256bec116dff4be6cced2cf",
+      "id": "amex-everyday",
+      "name": "Everyday",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": true,
+      "url": "https://global.americanexpress.com/card-benefits/view-all/amex-everyday",
+      "legacyIds": [
+        "54fddf9e59dfad730320eb65a04b7ea5"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://global.americanexpress.com/card-benefits/view-all/amex-everyday"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-everyday-preferred",
+      "name": "Everyday Preferred",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
+      "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": true,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/amex-everyday-preferred/",
+      "legacyIds": [
+        "84c122e1077e2929b1f563bd143ce82e"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/card/amex-everyday-preferred/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-gold",
       "name": "Gold",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 325,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "legacyIds": [
+        "cafe43d37256bec116dff4be6cced2cf"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
@@ -1247,10 +1515,19 @@
       ]
     },
     {
-      "cardId": "ad9a96ed5f730a79d0171f1f8ca92d0c",
+      "id": "amex-green",
       "name": "Green",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 150,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/green/",
+      "legacyIds": [
+        "ad9a96ed5f730a79d0171f1f8ca92d0c"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://dannydealguru.com/clear-raises-membership-price-to-219/",
@@ -1276,10 +1553,39 @@
       ]
     },
     {
-      "cardId": "59c1e4c423d078c91e9b7c51d72e893d",
+      "id": "amex-hilton-honors",
+      "name": "Hilton Honors",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "HILTON",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "legacyIds": [
+        "0710239dc6fbd92077bce7118572e217"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.hilton.com/en/hilton-honors/credit-cards/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-hilton-honors-aspire",
       "name": "Hilton Honors Aspire",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "HILTON",
       "annualFee": 550,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "legacyIds": [
+        "59c1e4c423d078c91e9b7c51d72e893d"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
@@ -1409,10 +1715,19 @@
       ]
     },
     {
-      "cardId": "434df114291a974c876d58cf79158376",
+      "id": "amex-hilton-honors-business",
       "name": "Hilton Honors Business",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "HILTON",
       "annualFee": 195,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "legacyIds": [
+        "434df114291a974c876d58cf79158376"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
@@ -1481,10 +1796,19 @@
       ]
     },
     {
-      "cardId": "f6c6aa50b533b758df7be5151d805571",
+      "id": "amex-hilton-honors-surpass",
       "name": "Hilton Honors Surpass",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "HILTON",
       "annualFee": 150,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "legacyIds": [
+        "f6c6aa50b533b758df7be5151d805571"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
@@ -1551,10 +1875,39 @@
       ]
     },
     {
-      "cardId": "653b14a655f4edc9bfc0332e9370e139",
+      "id": "amex-lowes",
+      "name": "Lowes",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
+      "legacyIds": [
+        "9bf8d331ae97a8ddc47ef3d22dcaf213"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-marriott-bonvoy-bevy",
       "name": "Marriott Bonvoy Bevy",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "MARRIOTT",
       "annualFee": 250,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+      "legacyIds": [
+        "653b14a655f4edc9bfc0332e9370e139"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
@@ -1605,10 +1958,19 @@
       ]
     },
     {
-      "cardId": "4d2115812f09d194440ef99b1a5210cd",
+      "id": "amex-marriott-bonvoy-brilliant",
       "name": "Marriott Bonvoy Brilliant",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "MARRIOTT",
       "annualFee": 650,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "legacyIds": [
+        "4d2115812f09d194440ef99b1a5210cd"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
@@ -1709,10 +2071,19 @@
       ]
     },
     {
-      "cardId": "1129280627d633940e575deabdaa105f",
+      "id": "amex-marriott-bonvoy-business",
       "name": "Marriott Bonvoy Business",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "MARRIOTT",
       "annualFee": 125,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+      "legacyIds": [
+        "1129280627d633940e575deabdaa105f"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.marriott.com/credit-cards/marriott-bonvoy-business-american-express-card.mi",
@@ -1764,10 +2135,19 @@
       ]
     },
     {
-      "cardId": "ec1872dfd8a65491a33bae2da4dd487f",
+      "id": "amex-platinum",
       "name": "Platinum",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 895,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "legacyIds": [
+        "ec1872dfd8a65491a33bae2da4dd487f"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/card/platinum/",
@@ -2044,10 +2424,19 @@
       ]
     },
     {
-      "cardId": "ab55a96910ffc7f31fc1605c99430ec5",
+      "id": "amex-platinum-morgan-stanley",
       "name": "Platinum (Morgan Stanley)",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 895,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://us.etrade.com/l/morgan-stanley-platinum",
+      "legacyIds": [
+        "ab55a96910ffc7f31fc1605c99430ec5"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://us.etrade.com/l/morgan-stanley-platinum",
@@ -2323,10 +2712,19 @@
       ]
     },
     {
-      "cardId": "7eb93f5f9ab64e1c12b82ec8822c25ef",
+      "id": "amex-platinum-schwab",
       "name": "Platinum (Schwab)",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 895,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.schwab.com/credit-cards/platinum-card",
+      "legacyIds": [
+        "7eb93f5f9ab64e1c12b82ec8822c25ef"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.schwab.com/credit-cards/platinum-card",
@@ -2621,10 +3019,59 @@
       ]
     },
     {
-      "cardId": "f2d769efdbe2b9d8734787bc24297be6",
+      "id": "amex-rakuten",
+      "name": "Rakuten",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.rakuten.com/american-express-card/",
+      "legacyIds": [
+        "6ca9fd6caab5364f72928dd5ba04bb58"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.rakuten.com/american-express-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "amex-schwab-investor",
+      "name": "Schwab Investor",
+      "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards",
+      "legacyIds": [
+        "a3b091353bd1a45ad58f75e5287f1fd6"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-air-france-klm",
       "name": "Air France KLM",
       "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "FLYING_BLUE",
       "annualFee": 89,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://wwws.airfrance.us/information/flyingblue/carte-bancaire-partenaire",
+      "legacyIds": [
+        "f2d769efdbe2b9d8734787bc24297be6"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://thepointsguy.com/credit-cards/reviews/air-france-klm-mastercard-review",
@@ -2662,10 +3109,19 @@
       ]
     },
     {
-      "cardId": "12a1230229f936ee5f7b2d333e796ab8",
+      "id": "boa-atmos-rewards-ascent",
       "name": "Atmos Rewards Ascent",
       "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "ALASKA",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "legacyIds": [
+        "12a1230229f936ee5f7b2d333e796ab8"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.alaskaair.com/atmosrewards/content/credit-cards/benefits/visa-ascent",
@@ -2689,10 +3145,19 @@
       ]
     },
     {
-      "cardId": "9e42d6cf9c6dcfda0cf7d5f5f015285d",
+      "id": "boa-atmos-rewards-business",
       "name": "Atmos Rewards Business",
       "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "ALASKA",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "legacyIds": [
+        "9e42d6cf9c6dcfda0cf7d5f5f015285d"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/",
@@ -2716,10 +3181,19 @@
       ]
     },
     {
-      "cardId": "2878b32104d7bf242496a8af56f33952",
+      "id": "boa-atmos-rewards-summit",
       "name": "Atmos Rewards Summit",
       "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "ALASKA",
       "annualFee": 395,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "legacyIds": [
+        "2878b32104d7bf242496a8af56f33952"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",
@@ -2805,10 +3279,139 @@
       ]
     },
     {
-      "cardId": "eb8bc1a6f86dc471aa0deeca619fbf59",
+      "id": "boa-business-advantage-customized-cash",
+      "name": "Business Advantage Customized Cash",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card",
+      "legacyIds": [
+        "4f6d71dd4d06ff960cae0990b5efda21"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-business-advantage-travel-rewards",
+      "name": "Business Advantage Travel Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "BANK_OF_AMERICA",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card",
+      "legacyIds": [
+        "1e75cf9ca2ccded9a621d5e8f5630c3c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-business-advantage-unlimited-cash",
+      "name": "Business Advantage Unlimited Cash",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card",
+      "legacyIds": [
+        "a99aa675065459b90144275ac18d9ab1"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-customized-cash-rewards",
+      "name": "Customized Cash Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+      "legacyIds": [
+        "f2461735a56702c428c209486e2f9e55"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-free-spirit",
+      "name": "Free Spirit",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "SPIRIT",
+      "annualFee": 79,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
+      "legacyIds": [
+        "541d121bd20b148d43a8c896d0de6830"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-platinum-plus",
+      "name": "Platinum Plus",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card",
+      "legacyIds": [
+        "9dce80bda519a8616ca4eb288d7cc693"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-premium-rewards",
       "name": "Premium Rewards",
       "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "BANK_OF_AMERICA",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+      "legacyIds": [
+        "eb8bc1a6f86dc471aa0deeca619fbf59"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
@@ -2854,10 +3457,19 @@
       ]
     },
     {
-      "cardId": "20594480e9f5656485a12e13389f60c7",
+      "id": "boa-premium-rewards-elite",
       "name": "Premium Rewards Elite",
       "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "BANK_OF_AMERICA",
       "annualFee": 550,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+      "legacyIds": [
+        "20594480e9f5656485a12e13389f60c7"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
@@ -2933,10 +3545,59 @@
       ]
     },
     {
-      "cardId": "bb54057b74adc9514885254a82fd8634",
+      "id": "boa-travel-rewards",
+      "name": "Travel Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "BANK_OF_AMERICA",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+      "legacyIds": [
+        "fecfaab2c32f3edd5d97eafd8f3f19d6"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-unlimited-cash-rewards",
+      "name": "Unlimited Cash Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+      "legacyIds": [
+        "98db04658d4deee69293bd67bd2fd341"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-aadvantage-aviator-red",
       "name": "AAdvantage Aviator Red World Elite",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMERICAN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/aadvantage-aviator-red-world-elite-mastercard/",
+      "legacyIds": [
+        "bb54057b74adc9514885254a82fd8634"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.cnbc.com/select/aviator-aadvantage-red-world-elite-mastercard-review/",
@@ -2978,10 +3639,19 @@
       ]
     },
     {
-      "cardId": "4b3dee677718c19aace2e927e6e26704",
+      "id": "barclays-aadvantage-aviator-business",
       "name": "AAdvantage Aviator World Elite Business",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "AMERICAN",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
+      "legacyIds": [
+        "4b3dee677718c19aace2e927e6e26704"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://thepointsguy.com/credit-cards/reviews/aadvantage-aviator-business-mastercard-review",
@@ -3019,10 +3689,59 @@
       ]
     },
     {
-      "cardId": "b52f6b684aec5d5b2465c27e6ccd1adc",
+      "id": "barclays-aarp-essential-rewards",
+      "name": "AARP Essential Rewards",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/",
+      "legacyIds": [
+        "f2fcdd7db964fb3c55f6df704f5678c8"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-aarp-travel-rewards",
+      "name": "AARP Travel Rewards",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/",
+      "legacyIds": [
+        "fc80c887a321dde1faa7e9282c813683"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-breeze",
       "name": "Breeze",
       "issuer": "BARCLAYS",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "BREEZE",
       "annualFee": 89,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+      "legacyIds": [
+        "b52f6b684aec5d5b2465c27e6ccd1adc"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/breeze-airways/"
@@ -3045,10 +3764,39 @@
       ]
     },
     {
-      "cardId": "990a75f557890d22402183b20a8fe09d",
+      "id": "barclays-carnival-world-mastercard",
+      "name": "Carnival World Mastercard",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "CARNIVAL",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/",
+      "legacyIds": [
+        "eddb365c3098a64170b9e4fb322b2a05"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-emirates-skywards-premium",
       "name": "Emirates Skywards Premium World Elite",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "EMIRATES",
       "annualFee": 499,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/",
+      "legacyIds": [
+        "990a75f557890d22402183b20a8fe09d"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/"
@@ -3090,10 +3838,39 @@
       ]
     },
     {
-      "cardId": "e33d8701c8e81d5befe82ec5ed5cda23",
+      "id": "barclays-emirates-skywards-rewards-world-elite",
+      "name": "Emirates Skywards Rewards World Elite",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "EMIRATES",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-rewards-world-elite-mastercard/",
+      "legacyIds": [
+        "e33253806e1da76436e527e3c7b6179d"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://cards.barclaycardus.com/banking/cards/emirates-skywards-rewards-world-elite-mastercard/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-frontier-airlines-world",
       "name": "Frontier Airlines World",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "FRONTIER",
       "annualFee": 99,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/",
+      "legacyIds": [
+        "e33d8701c8e81d5befe82ec5ed5cda23"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/"
@@ -3116,10 +3893,19 @@
       ]
     },
     {
-      "cardId": "44effaf95f470d31302d6f366207a543",
+      "id": "barclays-hawaiian-airlines-world-elite",
       "name": "Hawaiian Airlines World Elite",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "HAWAIIAN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/child/hawaiian-hcl-inflight-landing-page/",
+      "legacyIds": [
+        "44effaf95f470d31302d6f366207a543"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/child/hawaiian-hcl-inflight-landing-page/",
@@ -3143,10 +3929,19 @@
       ]
     },
     {
-      "cardId": "9cbc127f6a0a485b64a7ddb5ed52d931",
+      "id": "barclays-hawaiian-airlines-world-elite-business",
       "name": "Hawaiian Airlines World Elite Business",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "HAWAIIAN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/combo-app/hawaiian-bha-boh---combo-app/",
+      "legacyIds": [
+        "9cbc127f6a0a485b64a7ddb5ed52d931"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://thepointsguy.com/credit-cards/reviews/hawaiian-airlines-business-card-review/",
@@ -3170,10 +3965,39 @@
       ]
     },
     {
-      "cardId": "499685453910108ad817d64f9728eb46",
+      "id": "barclays-jetblue",
+      "name": "JetBlue",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "JETBLUE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/jetblue-card/",
+      "legacyIds": [
+        "d760441e47fada8604f084285fbaeb39"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://cards.barclaycardus.com/banking/cards/jetblue-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-jetblue-business",
       "name": "JetBlue Business",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "JETBLUE",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/jetblue-business-card/",
+      "legacyIds": [
+        "499685453910108ad817d64f9728eb46"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/jetblue-business-card/"
@@ -3213,10 +4037,19 @@
       ]
     },
     {
-      "cardId": "fafac50a80daae929873eca389fafd15",
+      "id": "barclays-jetblue-plus",
       "name": "JetBlue Plus",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "JETBLUE",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
+      "legacyIds": [
+        "fafac50a80daae929873eca389fafd15"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/"
@@ -3256,10 +4089,19 @@
       ]
     },
     {
-      "cardId": "c7698b8b99a60ae3ccdd4d880ff5fe68",
+      "id": "barclays-jetblue-premier",
       "name": "JetBlue Premier",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "JETBLUE",
       "annualFee": 499,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",
+      "legacyIds": [
+        "c7698b8b99a60ae3ccdd4d880ff5fe68"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",
@@ -3362,10 +4204,19 @@
       ]
     },
     {
-      "cardId": "fdd9a5b1485ab0f88d0abd28c32e3b89",
+      "id": "barclays-lufthansa-miles-more",
       "name": "Lufthansa Miles & More",
       "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "LUFTHANSA",
       "annualFee": 89,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard",
+      "legacyIds": [
+        "fdd9a5b1485ab0f88d0abd28c32e3b89"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard/"
@@ -3402,10 +4253,39 @@
       ]
     },
     {
-      "cardId": "6496ff471ffd822105f59ea276547110",
+      "id": "barclays-upromise",
+      "name": "Upromise",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/",
+      "legacyIds": [
+        "d0fa846548af110fa31bc7bfa25828df"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "barclays-wyndham-rewards-earner",
       "name": "Wyndham Rewards Earner",
       "issuer": "BARCLAYS",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "WYNDHAM",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.wyndhamrewardscreditcard.com/#earner",
+      "legacyIds": [
+        "6496ff471ffd822105f59ea276547110"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-card/"
@@ -3428,10 +4308,19 @@
       ]
     },
     {
-      "cardId": "ba9027fba78b5ca88e4d9471aa9e31bd",
+      "id": "barclays-wyndham-rewards-earner-business",
       "name": "Wyndham Rewards Earner Business",
       "issuer": "BARCLAYS",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "WYNDHAM",
       "annualFee": 149,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.wyndhamrewardscreditcard.com/#earnerbusiness",
+      "legacyIds": [
+        "ba9027fba78b5ca88e4d9471aa9e31bd"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-business-card/",
@@ -3473,10 +4362,19 @@
       ]
     },
     {
-      "cardId": "b910f422064772c65840288c632cf900",
+      "id": "barclays-wyndham-rewards-earner-plus",
       "name": "Wyndham Rewards Earner Plus",
       "issuer": "BARCLAYS",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "WYNDHAM",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.wyndhamrewardscreditcard.com/#earnerplus",
+      "legacyIds": [
+        "b910f422064772c65840288c632cf900"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-plus-card/",
@@ -3520,10 +4418,139 @@
       ]
     },
     {
-      "cardId": "e48261ce7908f2ed8403245217f44de7",
+      "id": "barclays-xbox",
+      "name": "Xbox",
+      "issuer": "BARCLAYS",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BARCLAYS",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/",
+      "legacyIds": [
+        "274b5ad3d42b14ff81fb588dd8938aa6"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "brex-brex",
+      "name": "Brex",
+      "issuer": "BREX",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BREX",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.brex.com/product/credit-card/",
+      "legacyIds": [
+        "be49d60cb01b9d5c3e919e6c570e9a48"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.brex.com/product/credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-quicksilver",
+      "name": "Quicksilver",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/credit-cards/quicksilver/",
+      "legacyIds": [
+        "66f7413248c7f2c61ce1e8008685eac2"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/credit-cards/quicksilver/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-savor",
+      "name": "Savor",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/credit-cards/savor/",
+      "legacyIds": [
+        "2d16431e0caee645b420cc3d3255b2ee"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/credit-cards/savor/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-spark-1-5-cash-select",
+      "name": "Spark 1.5% Cash Select",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-select",
+      "legacyIds": [
+        "d4955a21df61a45ad86c3d60c58b91fc"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/small-business/credit-cards/spark-cash-select"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-spark-2-cash-plus",
+      "name": "Spark 2% Cash Plus",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 150,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+      "legacyIds": [
+        "9bd7d14db16dcc106d2eb062b08bf15f"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-venture-business",
       "name": "Venture Business",
       "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CAPITAL_ONE",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/small-business/credit-cards/venture-business/",
+      "legacyIds": [
+        "e48261ce7908f2ed8403245217f44de7"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/venture-business/",
@@ -3582,10 +4609,19 @@
       ]
     },
     {
-      "cardId": "4a7a8036e514f187ca7c41b31925251e",
+      "id": "capitalone-venture-rewards",
       "name": "Venture Rewards",
       "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CAPITAL_ONE",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/credit-cards/venture/",
+      "legacyIds": [
+        "4a7a8036e514f187ca7c41b31925251e"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.capitalone.com/credit-cards/venture/"
@@ -3612,10 +4648,19 @@
       ]
     },
     {
-      "cardId": "9aa036266b8cc7e7512a630efdecae0b",
+      "id": "capitalone-venture-x",
       "name": "Venture X",
       "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CAPITAL_ONE",
       "annualFee": 395,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/credit-cards/venture-x/",
+      "legacyIds": [
+        "9aa036266b8cc7e7512a630efdecae0b"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.capitalone.com/credit-cards/venture-x/",
@@ -3698,10 +4743,19 @@
       ]
     },
     {
-      "cardId": "1d2ff07648fdd4b06d89ef0309f1c4cb",
+      "id": "capitalone-venture-x-business",
       "name": "Venture X Business",
       "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CAPITAL_ONE",
       "annualFee": 395,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+      "legacyIds": [
+        "1d2ff07648fdd4b06d89ef0309f1c4cb"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
@@ -3782,10 +4836,59 @@
       ]
     },
     {
-      "cardId": "dcafcac45d86331a7f6b9cfdb980b81e",
+      "id": "capitalone-ventureone",
+      "name": "VentureOne",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CAPITAL_ONE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/credit-cards/ventureone/",
+      "legacyIds": [
+        "d0298263cc453d34160558a93fd1bcb2"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/credit-cards/ventureone/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "capitalone-ventureone-business",
+      "name": "VentureOne Business",
+      "issuer": "CAPITAL_ONE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CAPITAL_ONE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.capitalone.com/small-business/credit-cards/ventureone-business/",
+      "legacyIds": [
+        "c8d364bb32a8d2f6a359cf57a5e58cde"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.capitalone.com/small-business/credit-cards/ventureone-business/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-aer-lingus-signature",
       "name": "Aer Lingus Signature",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "AVIOS",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
+      "legacyIds": [
+        "dcafcac45d86331a7f6b9cfdb980b81e"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
@@ -3853,10 +4956,19 @@
       ]
     },
     {
-      "cardId": "7662e34a89a906b869b93bb12a2e1b3b",
+      "id": "chase-aeroplan",
       "name": "Aeroplan",
       "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AEROPLAN",
       "annualFee": 195,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+      "legacyIds": [
+        "7662e34a89a906b869b93bb12a2e1b3b"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
@@ -3932,10 +5044,39 @@
       ]
     },
     {
-      "cardId": "7b06f0b6a307509b71862ffa5933ef0b",
+      "id": "chase-amazon-prime",
+      "name": "Amazon Prime",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.amazon.com/dp/BT00LN946S",
+      "legacyIds": [
+        "f4d8c429f58f9f74944a9108bcae4a22"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.amazon.com/dp/BT00LN946S"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-british-airways-signature",
       "name": "British Airways Signature",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "AVIOS",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
+      "legacyIds": [
+        "7b06f0b6a307509b71862ffa5933ef0b"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
@@ -4020,10 +5161,19 @@
       ]
     },
     {
-      "cardId": "12a1578aeb5bfcdd3bc794154ad1f6cc",
+      "id": "chase-disney",
       "name": "Disney",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
+      "legacyIds": [
+        "12a1578aeb5bfcdd3bc794154ad1f6cc"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
@@ -4063,10 +5213,19 @@
       ]
     },
     {
-      "cardId": "cd81837eb0aedd4752197e044e77381a",
+      "id": "chase-disney-premier",
       "name": "Disney Premier",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
       "annualFee": 49,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
+      "legacyIds": [
+        "cd81837eb0aedd4752197e044e77381a"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
@@ -4106,10 +5265,59 @@
       ]
     },
     {
-      "cardId": "60c2e7b4bc2e526bf38dac5be5f4433c",
+      "id": "chase-freedom-flex",
+      "name": "Freedom Flex",
+      "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "CHASE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "legacyIds": [
+        "6ba7f561f6a4f7f2934bec25bd9a3130"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-freedom-unlimited",
+      "name": "Freedom Unlimited",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHASE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+      "legacyIds": [
+        "3a9ea798ce73485fc8456280fd4b1816"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-iberia-signature",
       "name": "Iberia Signature",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "AVIOS",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
+      "legacyIds": [
+        "60c2e7b4bc2e526bf38dac5be5f4433c"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
@@ -4177,10 +5385,19 @@
       ]
     },
     {
-      "cardId": "40192e08e31f059d91a108ff09ec5dd5",
+      "id": "chase-ihg-premier",
       "name": "IHG Premier",
       "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "IHG",
       "annualFee": 150,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+      "legacyIds": [
+        "40192e08e31f059d91a108ff09ec5dd5"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
@@ -4299,10 +5516,19 @@
       ]
     },
     {
-      "cardId": "bc82fb7022c639f90b9378410127b9e6",
+      "id": "chase-ihg-premier-business",
       "name": "IHG Premier Business",
       "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "IHG",
       "annualFee": 200,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
+      "legacyIds": [
+        "bc82fb7022c639f90b9378410127b9e6"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
@@ -4437,10 +5663,19 @@
       ]
     },
     {
-      "cardId": "2c6c7e215b4a1e791250d1fb48997e02",
+      "id": "chase-ihg-traveler",
       "name": "IHG Traveler",
       "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "IHG",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
+      "legacyIds": [
+        "2c6c7e215b4a1e791250d1fb48997e02"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
@@ -4480,10 +5715,19 @@
       ]
     },
     {
-      "cardId": "8ec7f405d03afa62eaeea7e197a29e8a",
+      "id": "chase-ink-business-cash",
       "name": "Ink Business Cash",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CHASE",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+      "legacyIds": [
+        "8ec7f405d03afa62eaeea7e197a29e8a"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/ink/cash",
@@ -4508,10 +5752,19 @@
       ]
     },
     {
-      "cardId": "c80cdb77c3eda940e2a36abb4f943c69",
+      "id": "chase-ink-business-preferred",
       "name": "Ink Business Preferred",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CHASE",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+      "legacyIds": [
+        "c80cdb77c3eda940e2a36abb4f943c69"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
@@ -4550,10 +5803,39 @@
       ]
     },
     {
-      "cardId": "4a1c1e46f145b76fcc72ebd391fc5766",
+      "id": "chase-ink-business-premier",
+      "name": "Ink Business Premier",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 195,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/ink/premier",
+      "legacyIds": [
+        "94c9b624738adce05fbe0e5bfc5d620e"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/business-credit-cards/ink/premier"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-ink-business-unlimited",
       "name": "Ink Business Unlimited",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CHASE",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
+      "legacyIds": [
+        "4a1c1e46f145b76fcc72ebd391fc5766"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
@@ -4578,10 +5860,19 @@
       ]
     },
     {
-      "cardId": "918c978a06c7c36f9a321b2efa0ff974",
+      "id": "chase-marriott-bonvoy-bold",
       "name": "Marriott Bonvoy Bold",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "MARRIOTT",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
+      "legacyIds": [
+        "918c978a06c7c36f9a321b2efa0ff974"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
@@ -4621,10 +5912,19 @@
       ]
     },
     {
-      "cardId": "6a4a30b866d4d37216b9d586a15ad1cc",
+      "id": "chase-marriott-bonvoy-boundless",
       "name": "Marriott Bonvoy Boundless",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "MARRIOTT",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+      "legacyIds": [
+        "6a4a30b866d4d37216b9d586a15ad1cc"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
@@ -4696,10 +5996,19 @@
       ]
     },
     {
-      "cardId": "fb5e3887059d5d8600b2a5eaed7ddaf7",
+      "id": "chase-marriott-bonvoy-bountiful",
       "name": "Marriott Bonvoy Bountiful",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "MARRIOTT",
       "annualFee": 250,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+      "legacyIds": [
+        "fb5e3887059d5d8600b2a5eaed7ddaf7"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
@@ -4753,10 +6062,19 @@
       ]
     },
     {
-      "cardId": "57f8a819c3bb4c6aa494016703281f35",
+      "id": "chase-sapphire-preferred",
       "name": "Sapphire Preferred",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHASE",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+      "legacyIds": [
+        "57f8a819c3bb4c6aa494016703281f35"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
@@ -4830,10 +6148,19 @@
       ]
     },
     {
-      "cardId": "77e3ef2fc9c35498ba1a3f46a63235cb",
+      "id": "chase-sapphire-reserve",
       "name": "Sapphire Reserve",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHASE",
       "annualFee": 795,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+      "legacyIds": [
+        "77e3ef2fc9c35498ba1a3f46a63235cb"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
@@ -5108,10 +6435,19 @@
       ]
     },
     {
-      "cardId": "5d8c589d1e7c1294d04fa6e4a2685624",
+      "id": "chase-sapphire-reserve-business",
       "name": "Sapphire Reserve Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "CHASE",
       "annualFee": 795,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
+      "legacyIds": [
+        "5d8c589d1e7c1294d04fa6e4a2685624"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
@@ -5331,10 +6667,19 @@
       ]
     },
     {
-      "cardId": "682a4f0c425d15b5ca34214378cfc3de",
+      "id": "chase-southwest-performance-business",
       "name": "Southwest Performance Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "SOUTHWEST",
       "annualFee": 299,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+      "legacyIds": [
+        "682a4f0c425d15b5ca34214378cfc3de"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
@@ -5421,10 +6766,19 @@
       ]
     },
     {
-      "cardId": "32a0c8c7eda25330e2c176589e386d7f",
+      "id": "chase-southwest-plus",
       "name": "Southwest Plus",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "SOUTHWEST",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
+      "legacyIds": [
+        "32a0c8c7eda25330e2c176589e386d7f"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
@@ -5506,10 +6860,19 @@
       ]
     },
     {
-      "cardId": "76e73a4afe8dfc1f8f1be1e345d7eca8",
+      "id": "chase-southwest-premier",
       "name": "Southwest Premier",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "SOUTHWEST",
       "annualFee": 149,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+      "legacyIds": [
+        "76e73a4afe8dfc1f8f1be1e345d7eca8"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
@@ -5591,10 +6954,19 @@
       ]
     },
     {
-      "cardId": "f86d26bad5af78feff0335845003c47e",
+      "id": "chase-southwest-premier-business",
       "name": "Southwest Premier Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "SOUTHWEST",
       "annualFee": 149,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
+      "legacyIds": [
+        "f86d26bad5af78feff0335845003c47e"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
@@ -5676,10 +7048,19 @@
       ]
     },
     {
-      "cardId": "169256a9988f3161381ee6a9ebe6667e",
+      "id": "chase-southwest-priority",
       "name": "Southwest Priority",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "SOUTHWEST",
       "annualFee": 229,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+      "legacyIds": [
+        "169256a9988f3161381ee6a9ebe6667e"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
@@ -5747,10 +7128,19 @@
       ]
     },
     {
-      "cardId": "8101f7827e3a1e797b09653f117b72d9",
+      "id": "chase-united-business",
       "name": "United Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "UNITED",
       "annualFee": 150,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+      "legacyIds": [
+        "8101f7827e3a1e797b09653f117b72d9"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www2.theexplorercard.com/business-rewards-cards/business-card",
@@ -5897,10 +7287,19 @@
       ]
     },
     {
-      "cardId": "d2517ce6b72999e14f50c399347100ed",
+      "id": "chase-united-club",
       "name": "United Club",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "UNITED",
       "annualFee": 695,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/rewards-cards/club-card",
+      "legacyIds": [
+        "d2517ce6b72999e14f50c399347100ed"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www2.theexplorercard.com/rewards-cards/club-card",
@@ -6037,10 +7436,19 @@
       ]
     },
     {
-      "cardId": "80c6aca49a0e1442d51635c316f4a5ff",
+      "id": "chase-united-club-business",
       "name": "United Club Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "UNITED",
       "annualFee": 695,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/business-rewards-cards/club-card",
+      "legacyIds": [
+        "80c6aca49a0e1442d51635c316f4a5ff"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www2.theexplorercard.com/business-rewards-cards/club-card",
@@ -6174,10 +7582,19 @@
       ]
     },
     {
-      "cardId": "85cd2b7d172e494eefad5b2ab012f21c",
+      "id": "chase-united-explorer",
       "name": "United Explorer",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "UNITED",
       "annualFee": 150,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+      "legacyIds": [
+        "85cd2b7d172e494eefad5b2ab012f21c"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www2.theexplorercard.com/rewards-cards/explorer-card",
@@ -6327,10 +7744,39 @@
       ]
     },
     {
-      "cardId": "34ab99720941eaa2a1671e5b3a996b19",
+      "id": "chase-united-gateway",
+      "name": "United Gateway",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "UNITED",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+      "legacyIds": [
+        "4071699fe4b21cafb02cf8b2c9c57c86"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.theexplorercard.com/rewards-cards/gateway-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-united-quest",
       "name": "United Quest",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "UNITED",
       "annualFee": 350,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+      "legacyIds": [
+        "34ab99720941eaa2a1671e5b3a996b19"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www2.theexplorercard.com/rewards-cards/quest-card",
@@ -6481,10 +7927,19 @@
       ]
     },
     {
-      "cardId": "d378a38b56d4c9bd5e1ad184a6ce84f0",
+      "id": "chase-world-of-hyatt",
       "name": "World of Hyatt",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "HYATT",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+      "legacyIds": [
+        "d378a38b56d4c9bd5e1ad184a6ce84f0"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
@@ -6552,10 +8007,19 @@
       ]
     },
     {
-      "cardId": "0d9d833e7298ab0f1892a4035686fa06",
+      "id": "chase-world-of-hyatt-business",
       "name": "World of Hyatt Business",
       "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "HYATT",
       "annualFee": 199,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+      "legacyIds": [
+        "0d9d833e7298ab0f1892a4035686fa06"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
@@ -6611,10 +8075,19 @@
       ]
     },
     {
-      "cardId": "f6ff3383cc6c52a81eb4715eb8d5de03",
+      "id": "citi-aadvantage-business-world-elite",
       "name": "AAdvantage Business World Elite",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "AMERICAN",
       "annualFee": 99,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/",
+      "legacyIds": [
+        "f6ff3383cc6c52a81eb4715eb8d5de03"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/"
@@ -6637,10 +8110,19 @@
       ]
     },
     {
-      "cardId": "3543149f6555df6f7e4974923c55d853",
+      "id": "citi-aadvantage-executive",
       "name": "AAdvantage Executive",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMERICAN",
       "annualFee": 695,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
+      "legacyIds": [
+        "3543149f6555df6f7e4974923c55d853"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
@@ -6778,10 +8260,19 @@
       ]
     },
     {
-      "cardId": "c6b04cf07dd821ddcfba3dbe398a4b31",
+      "id": "citi-aadvantage-globe",
       "name": "AAdvantage Globe",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMERICAN",
       "annualFee": 350,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
+      "legacyIds": [
+        "c6b04cf07dd821ddcfba3dbe398a4b31"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/"
@@ -6883,10 +8374,39 @@
       ]
     },
     {
-      "cardId": "a497d6ba509538db9e3e4a3e5e313fe9",
+      "id": "citi-aadvantage-mileup",
+      "name": "AAdvantage MileUp",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMERICAN",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
+      "legacyIds": [
+        "196b33e005dd1bc8e1c505f2bf98a1d1"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-aadvantage-platinum-select-world-elite",
       "name": "AAdvantage Platinum Select World Elite",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMERICAN",
       "annualFee": 99,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
+      "legacyIds": [
+        "a497d6ba509538db9e3e4a3e5e313fe9"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/"
@@ -6925,10 +8445,99 @@
       ]
     },
     {
-      "cardId": "19c94f90056968ebde2882f7bb0f1010",
+      "id": "citi-at-t-points-plus",
+      "name": "AT&T Points Plus",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.att.com/deals/att-points-plus-citi/",
+      "legacyIds": [
+        "d4bbd57e45d6a6ddb445ddec4e781d7c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.att.com/deals/att-points-plus-citi/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-custom-cash",
+      "name": "Custom Cash",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
+      "legacyIds": [
+        "49fe6c73c0e823a89346979f50d5b981"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-custom-cash-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-double-cash",
+      "name": "Double Cash",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+      "legacyIds": [
+        "06b9a384d710e73db7f0ded7613c9c4b"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-strata",
+      "name": "Strata",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "CITI",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-strata-credit-card",
+      "legacyIds": [
+        "cbc737da5cbd44575dec6325bbbd8688"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-strata-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-strata-elite",
       "name": "Strata Elite",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "CITI",
       "annualFee": 595,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+      "legacyIds": [
+        "19c94f90056968ebde2882f7bb0f1010"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
@@ -7033,10 +8642,19 @@
       ]
     },
     {
-      "cardId": "d7e2e5b5e595ca6510c101349c914513",
+      "id": "citi-strata-premier",
       "name": "Strata Premier",
       "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "CITI",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
+      "legacyIds": [
+        "d7e2e5b5e595ca6510c101349c914513"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.citi.com/credit-cards/citi-strata-premier-credit-card"
@@ -7059,10 +8677,119 @@
       ]
     },
     {
-      "cardId": "0bcc80cc6922e7c7d89e9c9b2efcd9e1",
+      "id": "comenity-aaa-daily-advantage",
+      "name": "AAA Daily Advantage",
+      "issuer": "COMENITY",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+      "legacyIds": [
+        "eb573cdc20d07fc2d60e8528f73cafb0"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.ace.aaa.com/financial/aaa-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "comenity-aaa-travel-advantage",
+      "name": "AAA Travel Advantage",
+      "issuer": "COMENITY",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+      "legacyIds": [
+        "6862ac82f65ac34d31032dbe0cf1e87b"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.ace.aaa.com/financial/aaa-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it",
+      "name": "Discover It",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/",
+      "legacyIds": [
+        "dae75a5609dea8f39f750f4b225d2c5c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-ana-card-usa-plus",
+      "name": "ANA Card USA Plus",
+      "issuer": "FIRST",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "ANA",
+      "annualFee": 85,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.anacardusa.com/en/",
+      "legacyIds": [
+        "0b3a9849575c68ce5cbf31aad08f015e"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.anacardusa.com/en/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-avianca-lifemiles",
+      "name": "Avianca LifeMiles",
+      "issuer": "FIRST",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AVIANCA",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+      "legacyIds": [
+        "1babfb0011a010a6149965531021ad2e"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-avianca-lifemiles-elite",
       "name": "Avianca LifeMiles Elite",
       "issuer": "FIRST",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AVIANCA",
       "annualFee": 249,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+      "legacyIds": [
+        "0bcc80cc6922e7c7d89e9c9b2efcd9e1"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.cardless.com/cards/avianca/lifemiles-elite",
@@ -7114,10 +8841,79 @@
       ]
     },
     {
-      "cardId": "7e578b54e8976a7b9027124c56b2377f",
+      "id": "first-cardless-qatar-infinite",
+      "name": "Cardless Qatar Infinite",
+      "issuer": "FIRST",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "AVIOS",
+      "annualFee": 499,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://qatarairways.cardless.com/compare",
+      "legacyIds": [
+        "ea277f6af8a60065a83e5f16569dcce8"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://qatarairways.cardless.com/compare"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-cardless-qatar-signature",
+      "name": "Cardless Qatar Signature",
+      "issuer": "FIRST",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "AVIOS",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://qatarairways.cardless.com/compare",
+      "legacyIds": [
+        "684de802ca5bf73c791a752537da84c5"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://qatarairways.cardless.com/compare"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-latam-airlines",
+      "name": "LATAM Airlines",
+      "issuer": "FIRST",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "LATAM",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+      "legacyIds": [
+        "73015adf7b2ca52331e05203c4ad5462"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "first-latam-airlines-world-elite",
       "name": "LATAM Airlines World Elite",
       "issuer": "FIRST",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "LATAM",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+      "legacyIds": [
+        "7e578b54e8976a7b9027124c56b2377f"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.cardless.com/cards/latam/compare",
@@ -7169,10 +8965,39 @@
       ]
     },
     {
-      "cardId": "4a2f48392c94bc6b0ef9b6d30153bddc",
+      "id": "fnbo-amtrak-guest-rewards",
+      "name": "Amtrak Guest Rewards",
+      "issuer": "FNBO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMTRAK",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.amtrak.com/Apply",
+      "legacyIds": [
+        "1f13c36d3b8218b1a22d5ab050d30b09"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.amtrak.com/Apply"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "fnbo-amtrak-guest-rewards-preferred",
       "name": "Amtrak Guest Rewards Preferred",
       "issuer": "FNBO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "AMTRAK",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.amtrak.com/Apply",
+      "legacyIds": [
+        "4a2f48392c94bc6b0ef9b6d30153bddc"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/amtrak-guest-rewards-preferred-mastercard/"
@@ -7223,10 +9048,19 @@
       ]
     },
     {
-      "cardId": "1b70fa39672eb066b7a3a5092888e7b2",
+      "id": "fnbo-best-western-rewards",
       "name": "Best Western Rewards",
       "issuer": "FNBO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BEST_WESTERN",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+      "legacyIds": [
+        "1b70fa39672eb066b7a3a5092888e7b2"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
@@ -7249,10 +9083,19 @@
       ]
     },
     {
-      "cardId": "cf10cfcfab787460b24ecbf8b76f7bdc",
+      "id": "fnbo-best-western-rewards-premium",
       "name": "Best Western Rewards Premium",
       "issuer": "FNBO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BEST_WESTERN",
       "annualFee": 89,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+      "legacyIds": [
+        "cf10cfcfab787460b24ecbf8b76f7bdc"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/best-western-rewards-premium-visa-signature-card/",
@@ -7290,10 +9133,19 @@
       ]
     },
     {
-      "cardId": "9afcb83bfffcdc108fc3ac90a8b384da",
+      "id": "penfed-pathfinder",
       "name": "Pathfinder",
       "issuer": "PENFED",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "PENFED",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.penfed.org/credit-cards/pathfinder-rewards",
+      "legacyIds": [
+        "9afcb83bfffcdc108fc3ac90a8b384da"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.penfed.org/content/dam/penfed/en/general/pdf/credit-cards/penfed-pathfinder-travel-credits.pdf",
@@ -7345,10 +9197,139 @@
       ]
     },
     {
-      "cardId": "06b77b791c904e42695dd12747e89cd8",
+      "id": "penfed-platinum-rewards",
+      "name": "Platinum Rewards",
+      "issuer": "PENFED",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "PENFED",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.penfed.org/credit-cards/platinum-rewards-visa",
+      "legacyIds": [
+        "2743ba5aabdadc15aa6bd046f1b71a5c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.penfed.org/credit-cards/platinum-rewards-visa"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "penfed-power-cash-rewards",
+      "name": "Power Cash Rewards",
+      "issuer": "PENFED",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.penfed.org/credit-cards/power-cash-rewards-visa",
+      "legacyIds": [
+        "879d4dccd8e59ba55a3a688adeb2c773"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.penfed.org/credit-cards/power-cash-rewards-visa"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "pnc-cash-rewards-visa-signature-business",
+      "name": "Cash Rewards Visa Signature Business",
+      "issuer": "PNC",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.pnc.com/en/small-business/borrowing/business-credit-cards/pnc-cash-rewards-visa-signature-business-credit-card.html",
+      "legacyIds": [
+        "dfaa58e5c67e69cb711960cfd4567f9c"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.pnc.com/en/small-business/borrowing/business-credit-cards/pnc-cash-rewards-visa-signature-business-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "synchrony-amazon-prime-store-card",
+      "name": "Amazon Prime Store Card",
+      "issuer": "SYNCHRONY",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.amazon.com/Synchrony-Bank-Amazon-com-Store-Card/dp/B008A0GNA8",
+      "legacyIds": [
+        "25e394e76617c0a660b48d7c5c4449ea"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.amazon.com/Synchrony-Bank-Amazon-com-Store-Card/dp/B008A0GNA8"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "synchrony-cathay-pacific",
+      "name": "Cathay Pacific",
+      "issuer": "SYNCHRONY",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CATHAY_PACIFIC",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html",
+      "legacyIds": [
+        "0d2caa1705cde187692a28873930c605"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "synchrony-verizon-visa",
+      "name": "Verizon Visa",
+      "issuer": "SYNCHRONY",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.verizon.com/financial-services/verizon-visa-card/",
+      "legacyIds": [
+        "d2dd7fe800c9788452ec41c3fc3a06fa"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.verizon.com/financial-services/verizon-visa-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "synchrony-virgin-red-rewards",
       "name": "Virgin Red Rewards",
       "issuer": "SYNCHRONY",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "VIRGIN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
+      "legacyIds": [
+        "06b77b791c904e42695dd12747e89cd8"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/virgin-red-rewards-world-elite-mastercard/",
@@ -7400,10 +9381,39 @@
       ]
     },
     {
-      "cardId": "9a35bfe5845f7f9909244b1e3549b7e1",
+      "id": "synchrony-walmart-onepay-cashrewards",
+      "name": "Walmart OnePay CashRewards",
+      "issuer": "SYNCHRONY",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376",
+      "legacyIds": [
+        "145320d72bf260a11a537333d4425820"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-altitude-connect",
       "name": "Altitude Connect",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "US_BANK",
       "annualFee": 0,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
+      "legacyIds": [
+        "9a35bfe5845f7f9909244b1e3549b7e1"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
@@ -7446,10 +9456,19 @@
       ]
     },
     {
-      "cardId": "b523a3cc7d6d355737b1c4dda1eb7a04",
+      "id": "usbank-altitude-go",
       "name": "Altitude Go",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "US_BANK",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html",
+      "legacyIds": [
+        "b523a3cc7d6d355737b1c4dda1eb7a04"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html"
@@ -7474,10 +9493,19 @@
       ]
     },
     {
-      "cardId": "f81e751b8d46af2e7c84cc4cf4083dec",
+      "id": "usbank-altitude-reserve",
       "name": "Altitude Reserve",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "US_BANK",
       "annualFee": 400,
+      "afWaivedFirstYear": true,
+      "discontinued": true,
+      "url": "https://www.nerdwallet.com/article/credit-cards/u-s-bank-altitude-reserve-closed-to-new-applications",
+      "legacyIds": [
+        "f81e751b8d46af2e7c84cc4cf4083dec"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/news/us-bank-altitude-reserve-card-changes/",
@@ -7536,10 +9564,19 @@
       ]
     },
     {
-      "cardId": "1e6ddb097a524ce3b68719ae6c5eb1e8",
+      "id": "usbank-business-altitude-connect",
       "name": "Business Altitude Connect",
       "issuer": "US_BANK",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "US_BANK",
       "annualFee": 95,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+      "legacyIds": [
+        "1e6ddb097a524ce3b68719ae6c5eb1e8"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
@@ -7599,10 +9636,59 @@
       ]
     },
     {
-      "cardId": "a9fe40efecc22039a980c039bb6841be",
+      "id": "usbank-business-altitude-power",
+      "name": "Business Altitude Power",
+      "issuer": "US_BANK",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "US_BANK",
+      "annualFee": 195,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html",
+      "legacyIds": [
+        "3d777bda73262fa43b11626eb383f9ab"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-business-leverage",
+      "name": "Business Leverage",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 95,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html",
+      "legacyIds": [
+        "4899141df2aa46191c192c6f216b74cf"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-business-triple-cash-rewards",
       "name": "Business Triple Cash Rewards",
       "issuer": "US_BANK",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
       "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
+      "legacyIds": [
+        "a9fe40efecc22039a980c039bb6841be"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
@@ -7628,10 +9714,79 @@
       ]
     },
     {
-      "cardId": "824f4be5b9f38164fb8f44522467876e",
+      "id": "usbank-cash",
+      "name": "Cash+",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html",
+      "legacyIds": [
+        "78726438553c1f6b63383f3bac6df57b"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-flexperks-gold",
+      "name": "FlexPerks Gold",
+      "issuer": "US_BANK",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "US_BANK",
+      "annualFee": 85,
+      "afWaivedFirstYear": false,
+      "discontinued": true,
+      "url": "https://www.usbank.com/credit-cards/flexperks-gold-american-express-credit-card.html",
+      "legacyIds": [
+        "6ad6818a9b47a8e42efd29440616e249"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/flexperks-gold-american-express-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-shopper-cash-rewards",
+      "name": "Shopper Cash Rewards",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 95,
+      "afWaivedFirstYear": true,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html",
+      "legacyIds": [
+        "8de694e89b9c26c9f72fc7450c66665b"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-skypass",
       "name": "Skypass",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "KOREAN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.skypassvisa.com/credit/visaSignatureCard.do",
+      "legacyIds": [
+        "824f4be5b9f38164fb8f44522467876e"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.skypassvisa.com/credit/visaSignatureCard.do"
@@ -7668,10 +9823,39 @@
       ]
     },
     {
-      "cardId": "cf146925642ec392eee6c924cfc7ec0d",
+      "id": "usbank-skypass-blue",
+      "name": "Skypass Blue",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "KOREAN",
+      "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
+      "legacyIds": [
+        "90d9bd31d33bc6cfbdb1eb0962cbce57"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.skypassvisa.com/credit/visaSkyBlueCard.do"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-skypass-business",
       "name": "Skypass Business",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "KOREAN",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.skypassvisa.com/credit/visaBusinessCard.do",
+      "legacyIds": [
+        "cf146925642ec392eee6c924cfc7ec0d"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.skypassvisa.com/credit/visaBusinessCard.do"
@@ -7708,10 +9892,19 @@
       ]
     },
     {
-      "cardId": "aceef720d7ec6cf06ee46865fc39d612",
+      "id": "usbank-skypass-select",
       "name": "Skypass Select",
       "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "KOREAN",
       "annualFee": 450,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.skypassvisa.com/credit/visaSelectCard.do",
+      "legacyIds": [
+        "aceef720d7ec6cf06ee46865fc39d612"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.skypassvisa.com/credit/visaSelectCard.do",
@@ -7812,10 +10005,119 @@
       ]
     },
     {
-      "cardId": "d1fcd95962c94d1b56d691fda30acead",
+      "id": "usbank-smartly",
+      "name": "Smartly",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": true,
+      "url": "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html",
+      "legacyIds": [
+        "e1679e714c2139ed85bd250e229ded16"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "webbank-gemini",
+      "name": "Gemini",
+      "issuer": "WEB_BANK",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.gemini.com/credit-card",
+      "legacyIds": [
+        "eb105ba41f6ad2ea3b5f151f03f3dcfa"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.gemini.com/credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-active-cash",
+      "name": "Active Cash",
+      "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/active-cash-credit-card/",
+      "legacyIds": [
+        "df2960b75b50536daa6e05a33479b198"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/active-cash-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-attune",
+      "name": "Attune",
+      "issuer": "WELLS_FARGO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
+      "legacyIds": [
+        "8b60912df8dd8406cbbf96469c4cfaec"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-autograph",
+      "name": "Autograph",
+      "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "WELLS_FARGO",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/autograph-visa-credit-card",
+      "legacyIds": [
+        "ce08e0bddd774433cb77be87f5d6af76"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/autograph-visa-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-autograph-journey",
       "name": "Autograph Journey",
       "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "WELLS_FARGO",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card",
+      "legacyIds": [
+        "d1fcd95962c94d1b56d691fda30acead"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"
@@ -7840,10 +10142,59 @@
       ]
     },
     {
-      "cardId": "c68bed03d88b439b70c905e490757271",
+      "id": "wellsfargo-bilt",
+      "name": "Bilt",
+      "issuer": "WELLS_FARGO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "WELLS_FARGO",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.biltrewards.com/card",
+      "legacyIds": [
+        "c077a47639c7b47d1895200c72588ee3"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.biltrewards.com/card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-choice-privileges",
+      "name": "Choice Privileges",
+      "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHOICE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "legacyIds": [
+        "2745fd62ecf1bba1056f7933b1ab285e"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-choice-privileges-select",
       "name": "Choice Privileges Select",
       "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHOICE",
       "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "legacyIds": [
+        "c68bed03d88b439b70c905e490757271"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
@@ -7886,10 +10237,39 @@
       ]
     },
     {
-      "cardId": "dfdf46ff6cbfcea7b738c7092e00af78",
+      "id": "wellsfargo-expedia-one-key",
+      "name": "Expedia One Key",
+      "issuer": "WELLS_FARGO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "EXPEDIA",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.expedia.com/one-key-cards",
+      "legacyIds": [
+        "546dccf995e97f42d656d069c95efacf"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.expedia.com/one-key-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "wellsfargo-expedia-one-key-plus",
       "name": "Expedia One Key+",
       "issuer": "WELLS_FARGO",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "EXPEDIA",
       "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.expedia.com/one-key-cards",
+      "legacyIds": [
+        "dfdf46ff6cbfcea7b738c7092e00af78"
+      ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/one-key-plus-card/",
@@ -7929,6 +10309,26 @@
           "category": "security"
         }
       ]
+    },
+    {
+      "id": "wellsfargo-signify-business-cash",
+      "name": "Signify Business Cash",
+      "issuer": "WELLS_FARGO",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card",
+      "legacyIds": [
+        "429640c66f9a2e3bd077978aa5a1f0aa"
+      ],
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card"
+      ],
+      "benefits": []
     }
   ]
 }

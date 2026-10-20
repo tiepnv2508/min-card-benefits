@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "ab55a96910ffc7f31fc1605c99430ec5",
+  "id": "amex-platinum-morgan-stanley",
   "name": "Platinum (Morgan Stanley)",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "AMERICAN_EXPRESS",
   "annualFee": 895,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://us.etrade.com/l/morgan-stanley-platinum",
+  "legacyIds": [
+    "ab55a96910ffc7f31fc1605c99430ec5"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://us.etrade.com/l/morgan-stanley-platinum",

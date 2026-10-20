@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-at-t-points-plus",
+  "name": "AT&T Points Plus",
+  "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.att.com/deals/att-points-plus-citi/",
+  "legacyIds": [
+    "d4bbd57e45d6a6ddb445ddec4e781d7c"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.att.com/deals/att-points-plus-citi/"
+  ],
+  "benefits": []
+}

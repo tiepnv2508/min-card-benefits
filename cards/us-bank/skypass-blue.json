@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-skypass-blue",
+  "name": "Skypass Blue",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "KOREAN",
+  "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
+  "legacyIds": [
+    "90d9bd31d33bc6cfbdb1eb0962cbce57"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.skypassvisa.com/credit/visaSkyBlueCard.do"
+  ],
+  "benefits": []
+}

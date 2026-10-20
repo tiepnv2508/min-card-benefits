@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "a497d6ba509538db9e3e4a3e5e313fe9",
+  "id": "citi-aadvantage-platinum-select-world-elite",
   "name": "AAdvantage Platinum Select World Elite",
   "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMERICAN",
   "annualFee": 99,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
+  "legacyIds": [
+    "a497d6ba509538db9e3e4a3e5e313fe9"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/"

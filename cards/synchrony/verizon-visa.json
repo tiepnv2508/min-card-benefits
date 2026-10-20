@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "synchrony-verizon-visa",
+  "name": "Verizon Visa",
+  "issuer": "SYNCHRONY",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.verizon.com/financial-services/verizon-visa-card/",
+  "legacyIds": [
+    "d2dd7fe800c9788452ec41c3fc3a06fa"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.verizon.com/financial-services/verizon-visa-card/"
+  ],
+  "benefits": []
+}

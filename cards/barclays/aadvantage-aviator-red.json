@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "bb54057b74adc9514885254a82fd8634",
+  "id": "barclays-aadvantage-aviator-red",
   "name": "AAdvantage Aviator Red World Elite",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMERICAN",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/aadvantage-aviator-red-world-elite-mastercard/",
+  "legacyIds": [
+    "bb54057b74adc9514885254a82fd8634"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.cnbc.com/select/aviator-aadvantage-red-world-elite-mastercard-review/",

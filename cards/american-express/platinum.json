@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "ec1872dfd8a65491a33bae2da4dd487f",
+  "id": "amex-platinum",
   "name": "Platinum",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "AMERICAN_EXPRESS",
   "annualFee": 895,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+  "legacyIds": [
+    "ec1872dfd8a65491a33bae2da4dd487f"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card/platinum/",

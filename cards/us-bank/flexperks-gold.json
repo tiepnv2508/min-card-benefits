@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-flexperks-gold",
+  "name": "FlexPerks Gold",
+  "issuer": "US_BANK",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "US_BANK",
+  "annualFee": 85,
+  "afWaivedFirstYear": false,
+  "discontinued": true,
+  "url": "https://www.usbank.com/credit-cards/flexperks-gold-american-express-credit-card.html",
+  "legacyIds": [
+    "6ad6818a9b47a8e42efd29440616e249"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/flexperks-gold-american-express-credit-card.html"
+  ],
+  "benefits": []
+}

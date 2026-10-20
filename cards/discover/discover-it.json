@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "discover-discover-it",
+  "name": "Discover It",
+  "issuer": "DISCOVER",
+  "network": "discover",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.discover.com/credit-cards/",
+  "legacyIds": [
+    "dae75a5609dea8f39f750f4b225d2c5c"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.discover.com/credit-cards/"
+  ],
+  "benefits": []
+}

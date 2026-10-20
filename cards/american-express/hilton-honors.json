@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "amex-hilton-honors",
+  "name": "Hilton Honors",
+  "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "HILTON",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+  "legacyIds": [
+    "0710239dc6fbd92077bce7118572e217"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.hilton.com/en/hilton-honors/credit-cards/"
+  ],
+  "benefits": []
+}

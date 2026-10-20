@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "cd81837eb0aedd4752197e044e77381a",
+  "id": "chase-disney-premier",
   "name": "Disney Premier",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
   "annualFee": 49,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
+  "legacyIds": [
+    "cd81837eb0aedd4752197e044e77381a"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/disney/premier",

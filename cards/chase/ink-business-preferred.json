@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "c80cdb77c3eda940e2a36abb4f943c69",
+  "id": "chase-ink-business-preferred",
   "name": "Ink Business Preferred",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "CHASE",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+  "legacyIds": [
+    "c80cdb77c3eda940e2a36abb4f943c69"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "first-cardless-qatar-signature",
+  "name": "Cardless Qatar Signature",
+  "issuer": "FIRST",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "AVIOS",
+  "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://qatarairways.cardless.com/compare",
+  "legacyIds": [
+    "684de802ca5bf73c791a752537da84c5"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://qatarairways.cardless.com/compare"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "barclays-carnival-world-mastercard",
+  "name": "Carnival World Mastercard",
+  "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "CARNIVAL",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/",
+  "legacyIds": [
+    "eddb365c3098a64170b9e4fb322b2a05"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/"
+  ],
+  "benefits": []
+}

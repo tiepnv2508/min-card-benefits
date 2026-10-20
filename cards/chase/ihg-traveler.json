@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "2c6c7e215b4a1e791250d1fb48997e02",
+  "id": "chase-ihg-traveler",
   "name": "IHG Traveler",
   "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "IHG",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
+  "legacyIds": [
+    "2c6c7e215b4a1e791250d1fb48997e02"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",

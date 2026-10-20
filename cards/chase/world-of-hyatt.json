@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "d378a38b56d4c9bd5e1ad184a6ce84f0",
+  "id": "chase-world-of-hyatt",
   "name": "World of Hyatt",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "HYATT",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+  "legacyIds": [
+    "d378a38b56d4c9bd5e1ad184a6ce84f0"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",

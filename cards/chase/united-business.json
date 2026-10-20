@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "8101f7827e3a1e797b09653f117b72d9",
+  "id": "chase-united-business",
   "name": "United Business",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "UNITED",
   "annualFee": 150,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+  "legacyIds": [
+    "8101f7827e3a1e797b09653f117b72d9"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www2.theexplorercard.com/business-rewards-cards/business-card",

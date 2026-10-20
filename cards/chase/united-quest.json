@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "34ab99720941eaa2a1671e5b3a996b19",
+  "id": "chase-united-quest",
   "name": "United Quest",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "UNITED",
   "annualFee": 350,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+  "legacyIds": [
+    "34ab99720941eaa2a1671e5b3a996b19"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www2.theexplorercard.com/rewards-cards/quest-card",

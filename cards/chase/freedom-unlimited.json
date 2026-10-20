@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-freedom-unlimited",
+  "name": "Freedom Unlimited",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHASE",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+  "legacyIds": [
+    "3a9ea798ce73485fc8456280fd4b1816"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+  ],
+  "benefits": []
+}

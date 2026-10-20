@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "990a75f557890d22402183b20a8fe09d",
+  "id": "barclays-emirates-skywards-premium",
   "name": "Emirates Skywards Premium World Elite",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "EMIRATES",
   "annualFee": 499,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/",
+  "legacyIds": [
+    "990a75f557890d22402183b20a8fe09d"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/"

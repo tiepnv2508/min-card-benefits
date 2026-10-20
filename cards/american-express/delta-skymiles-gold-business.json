@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "509a09cbd31edd8df85928d044ef7802",
+  "id": "amex-delta-skymiles-gold-business",
   "name": "Delta SkyMiles Gold Business",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "DELTA",
   "annualFee": 150,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+  "legacyIds": [
+    "509a09cbd31edd8df85928d044ef7802"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",

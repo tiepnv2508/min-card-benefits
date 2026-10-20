@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "4a7a8036e514f187ca7c41b31925251e",
+  "id": "capitalone-venture-rewards",
   "name": "Venture Rewards",
   "issuer": "CAPITAL_ONE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CAPITAL_ONE",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/credit-cards/venture/",
+  "legacyIds": [
+    "4a7a8036e514f187ca7c41b31925251e"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.capitalone.com/credit-cards/venture/"

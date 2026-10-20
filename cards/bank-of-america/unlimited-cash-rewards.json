@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-unlimited-cash-rewards",
+  "name": "Unlimited Cash Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+  "legacyIds": [
+    "98db04658d4deee69293bd67bd2fd341"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+  ],
+  "benefits": []
+}

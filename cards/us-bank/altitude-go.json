@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "b523a3cc7d6d355737b1c4dda1eb7a04",
+  "id": "usbank-altitude-go",
   "name": "Altitude Go",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "US_BANK",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html",
+  "legacyIds": [
+    "b523a3cc7d6d355737b1c4dda1eb7a04"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html"

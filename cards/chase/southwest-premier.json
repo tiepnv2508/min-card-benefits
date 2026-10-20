@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "76e73a4afe8dfc1f8f1be1e345d7eca8",
+  "id": "chase-southwest-premier",
   "name": "Southwest Premier",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "SOUTHWEST",
   "annualFee": 149,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+  "legacyIds": [
+    "76e73a4afe8dfc1f8f1be1e345d7eca8"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/southwest/premier",

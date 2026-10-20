@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "4a2f48392c94bc6b0ef9b6d30153bddc",
+  "id": "fnbo-amtrak-guest-rewards-preferred",
   "name": "Amtrak Guest Rewards Preferred",
   "issuer": "FNBO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMTRAK",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.amtrak.com/Apply",
+  "legacyIds": [
+    "4a2f48392c94bc6b0ef9b6d30153bddc"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/amtrak-guest-rewards-preferred-mastercard/"

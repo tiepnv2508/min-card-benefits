@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "bc82fb7022c639f90b9378410127b9e6",
+  "id": "chase-ihg-premier-business",
   "name": "IHG Premier Business",
   "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "IHG",
   "annualFee": 200,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
+  "legacyIds": [
+    "bc82fb7022c639f90b9378410127b9e6"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",

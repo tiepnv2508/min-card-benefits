@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "eb8bc1a6f86dc471aa0deeca619fbf59",
+  "id": "boa-premium-rewards",
   "name": "Premium Rewards",
   "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "BANK_OF_AMERICA",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+  "legacyIds": [
+    "eb8bc1a6f86dc471aa0deeca619fbf59"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "first-latam-airlines",
+  "name": "LATAM Airlines",
+  "issuer": "FIRST",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "LATAM",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+  "legacyIds": [
+    "73015adf7b2ca52331e05203c4ad5462"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards"
+  ],
+  "benefits": []
+}

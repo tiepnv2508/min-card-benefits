@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "1b70fa39672eb066b7a3a5092888e7b2",
+  "id": "fnbo-best-western-rewards",
   "name": "Best Western Rewards",
   "issuer": "FNBO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BEST_WESTERN",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+  "legacyIds": [
+    "1b70fa39672eb066b7a3a5092888e7b2"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"

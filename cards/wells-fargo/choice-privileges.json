@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-choice-privileges",
+  "name": "Choice Privileges",
+  "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHOICE",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+  "legacyIds": [
+    "2745fd62ecf1bba1056f7933b1ab285e"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards"
+  ],
+  "benefits": []
+}

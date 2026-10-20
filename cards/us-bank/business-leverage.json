@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-business-leverage",
+  "name": "Business Leverage",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 95,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html",
+  "legacyIds": [
+    "4899141df2aa46191c192c6f216b74cf"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html"
+  ],
+  "benefits": []
+}

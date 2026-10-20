@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "first-cardless-qatar-infinite",
+  "name": "Cardless Qatar Infinite",
+  "issuer": "FIRST",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "AVIOS",
+  "annualFee": 499,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://qatarairways.cardless.com/compare",
+  "legacyIds": [
+    "ea277f6af8a60065a83e5f16569dcce8"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://qatarairways.cardless.com/compare"
+  ],
+  "benefits": []
+}

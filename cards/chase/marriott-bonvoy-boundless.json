@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "6a4a30b866d4d37216b9d586a15ad1cc",
+  "id": "chase-marriott-bonvoy-boundless",
   "name": "Marriott Bonvoy Boundless",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "MARRIOTT",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+  "legacyIds": [
+    "6a4a30b866d4d37216b9d586a15ad1cc"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",

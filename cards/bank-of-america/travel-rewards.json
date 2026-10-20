@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-travel-rewards",
+  "name": "Travel Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "BANK_OF_AMERICA",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+  "legacyIds": [
+    "fecfaab2c32f3edd5d97eafd8f3f19d6"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "amex-schwab-investor",
+  "name": "Schwab Investor",
+  "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards",
+  "legacyIds": [
+    "a3b091353bd1a45ad58f75e5287f1fd6"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards"
+  ],
+  "benefits": []
+}

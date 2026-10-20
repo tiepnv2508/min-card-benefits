@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "824f4be5b9f38164fb8f44522467876e",
+  "id": "usbank-skypass",
   "name": "Skypass",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "KOREAN",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.skypassvisa.com/credit/visaSignatureCard.do",
+  "legacyIds": [
+    "824f4be5b9f38164fb8f44522467876e"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.skypassvisa.com/credit/visaSignatureCard.do"

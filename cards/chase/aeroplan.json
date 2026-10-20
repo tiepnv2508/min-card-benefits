@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "7662e34a89a906b869b93bb12a2e1b3b",
+  "id": "chase-aeroplan",
   "name": "Aeroplan",
   "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AEROPLAN",
   "annualFee": 195,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+  "legacyIds": [
+    "7662e34a89a906b869b93bb12a2e1b3b"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",

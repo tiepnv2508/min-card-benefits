@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "synchrony-cathay-pacific",
+  "name": "Cathay Pacific",
+  "issuer": "SYNCHRONY",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CATHAY_PACIFIC",
+  "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html",
+  "legacyIds": [
+    "0d2caa1705cde187692a28873930c605"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html"
+  ],
+  "benefits": []
+}

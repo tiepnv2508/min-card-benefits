@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "7e578b54e8976a7b9027124c56b2377f",
+  "id": "first-latam-airlines-world-elite",
   "name": "LATAM Airlines World Elite",
   "issuer": "FIRST",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "LATAM",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+  "legacyIds": [
+    "7e578b54e8976a7b9027124c56b2377f"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.cardless.com/cards/latam/compare",

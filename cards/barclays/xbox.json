@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "barclays-xbox",
+  "name": "Xbox",
+  "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BARCLAYS",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/",
+  "legacyIds": [
+    "274b5ad3d42b14ff81fb588dd8938aa6"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/"
+  ],
+  "benefits": []
+}

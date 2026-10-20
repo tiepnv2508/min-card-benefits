@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "4b3dee677718c19aace2e927e6e26704",
+  "id": "barclays-aadvantage-aviator-business",
   "name": "AAdvantage Aviator World Elite Business",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "AMERICAN",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
+  "legacyIds": [
+    "4b3dee677718c19aace2e927e6e26704"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://thepointsguy.com/credit-cards/reviews/aadvantage-aviator-business-mastercard-review",

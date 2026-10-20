@@ -1,6 +1,6 @@
 # US Credit Card Benefits
 
-An open, community-maintained dataset of **recurring US credit card benefits** — monthly/quarterly/annual statement credits and perks — in a format apps can use to set up benefit tracking automatically.
+An open, community-maintained **US credit card catalog** — card identity, annual fee and **every recurring benefit** (monthly/quarterly/annual statement credits and perks) — in a format apps can use to set up card and benefit tracking automatically.
 
 Used by [Min](https://minbudget.net) (Budget & card perks tracker). Free for anyone to use under the MIT license.
 
@@ -24,13 +24,19 @@ https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/export
 
 ```jsonc
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "cards": [
     {
-      "cardId": "…",                 // id in andenacitelli/credit-card-bonuses-api
+      "id": "amex-gold",
       "name": "Gold",
       "issuer": "AMERICAN_EXPRESS",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "AMERICAN_EXPRESS",
       "annualFee": 325,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
       "lastVerified": "2026-10-20",
       "sources": ["https://www.americanexpress.com/…"],
       "benefits": [
@@ -54,7 +60,7 @@ https://raw.githubusercontent.com/tiepnv2508/us-credit-card-benefits/main/export
 }
 ```
 
-`cardId` matches the card ids in [andenacitelli/credit-card-bonuses-api](https://github.com/andenacitelli/credit-card-bonuses-api), so you can join benefits to card names, images and sign-up offers.
+Every card has a stable `id` (`<issuer>-<card>`). Cards with no recurring benefits are still listed (with `benefits: []`) so the file doubles as a card catalog. `signupBonus` and `imageUrl` are optional and may be missing.
 
 ## Contribute
 

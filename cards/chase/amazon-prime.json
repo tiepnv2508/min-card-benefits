@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-amazon-prime",
+  "name": "Amazon Prime",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.amazon.com/dp/BT00LN946S",
+  "legacyIds": [
+    "f4d8c429f58f9f74944a9108bcae4a22"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.amazon.com/dp/BT00LN946S"
+  ],
+  "benefits": []
+}

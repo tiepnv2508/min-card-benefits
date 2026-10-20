@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-custom-cash",
+  "name": "Custom Cash",
+  "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
+  "legacyIds": [
+    "49fe6c73c0e823a89346979f50d5b981"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-custom-cash-credit-card"
+  ],
+  "benefits": []
+}

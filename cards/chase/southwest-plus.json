@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "32a0c8c7eda25330e2c176589e386d7f",
+  "id": "chase-southwest-plus",
   "name": "Southwest Plus",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "SOUTHWEST",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
+  "legacyIds": [
+    "32a0c8c7eda25330e2c176589e386d7f"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/southwest/plus",

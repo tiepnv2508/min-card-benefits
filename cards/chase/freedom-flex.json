@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-freedom-flex",
+  "name": "Freedom Flex",
+  "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "CHASE",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+  "legacyIds": [
+    "6ba7f561f6a4f7f2934bec25bd9a3130"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
+  ],
+  "benefits": []
+}

@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "499685453910108ad817d64f9728eb46",
+  "id": "barclays-jetblue-business",
   "name": "JetBlue Business",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "JETBLUE",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/jetblue-business-card/",
+  "legacyIds": [
+    "499685453910108ad817d64f9728eb46"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/jetblue-business-card/"

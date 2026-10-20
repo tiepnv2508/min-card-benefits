@@ -35,7 +35,7 @@ const validate = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schema/card.sch
 
 const errors = [];
 const cards = [];
-const seenCardIds = new Map();
+const seenIds = new Map();
 for (const file of walk(join(ROOT, 'cards')).sort()) {
   const rel = relative(ROOT, file);
   let card;
@@ -49,8 +49,8 @@ for (const file of walk(join(ROOT, 'cards')).sort()) {
     for (const e of validate.errors) errors.push(`${rel}: ${e.instancePath || '/'} ${e.message}`);
     continue;
   }
-  if (seenCardIds.has(card.cardId)) errors.push(`${rel}: cardId also used by ${seenCardIds.get(card.cardId)}`);
-  seenCardIds.set(card.cardId, rel);
+  if (seenIds.has(card.id)) errors.push(`${rel}: id also used by ${seenIds.get(card.id)}`);
+  seenIds.set(card.id, rel);
   const ids = new Set();
   for (const b of card.benefits) {
     if (ids.has(b.id)) errors.push(`${rel}: duplicate benefit id "${b.id}"`);
@@ -74,7 +74,7 @@ if (errors.length) {
 cards.sort((a, b) => a.issuer.localeCompare(b.issuer) || a.name.localeCompare(b.name));
 const out =
   JSON.stringify(
-    { schemaVersion: 1, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), cards },
+    { schemaVersion: 2, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), cards },
     null,
     2,
   ) + '\n';

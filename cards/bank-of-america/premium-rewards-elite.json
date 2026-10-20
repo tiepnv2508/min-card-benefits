@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "20594480e9f5656485a12e13389f60c7",
+  "id": "boa-premium-rewards-elite",
   "name": "Premium Rewards Elite",
   "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "BANK_OF_AMERICA",
   "annualFee": 550,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+  "legacyIds": [
+    "20594480e9f5656485a12e13389f60c7"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",

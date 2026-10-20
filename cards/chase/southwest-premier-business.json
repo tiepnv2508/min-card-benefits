@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "f86d26bad5af78feff0335845003c47e",
+  "id": "chase-southwest-premier-business",
   "name": "Southwest Premier Business",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "SOUTHWEST",
   "annualFee": 149,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
+  "legacyIds": [
+    "f86d26bad5af78feff0335845003c47e"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",

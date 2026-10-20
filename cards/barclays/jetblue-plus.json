@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "fafac50a80daae929873eca389fafd15",
+  "id": "barclays-jetblue-plus",
   "name": "JetBlue Plus",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "JETBLUE",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
+  "legacyIds": [
+    "fafac50a80daae929873eca389fafd15"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/"

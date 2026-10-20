@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "c68bed03d88b439b70c905e490757271",
+  "id": "wellsfargo-choice-privileges-select",
   "name": "Choice Privileges Select",
   "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHOICE",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+  "legacyIds": [
+    "c68bed03d88b439b70c905e490757271"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",

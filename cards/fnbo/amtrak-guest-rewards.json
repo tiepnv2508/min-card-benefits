@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "fnbo-amtrak-guest-rewards",
+  "name": "Amtrak Guest Rewards",
+  "issuer": "FNBO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMTRAK",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.amtrak.com/Apply",
+  "legacyIds": [
+    "1f13c36d3b8218b1a22d5ab050d30b09"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.amtrak.com/Apply"
+  ],
+  "benefits": []
+}

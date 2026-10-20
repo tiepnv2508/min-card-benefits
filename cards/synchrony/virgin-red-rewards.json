@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "06b77b791c904e42695dd12747e89cd8",
+  "id": "synchrony-virgin-red-rewards",
   "name": "Virgin Red Rewards",
   "issuer": "SYNCHRONY",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "VIRGIN",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
+  "legacyIds": [
+    "06b77b791c904e42695dd12747e89cd8"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/virgin-red-rewards-world-elite-mastercard/",

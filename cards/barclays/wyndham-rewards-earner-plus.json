@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "b910f422064772c65840288c632cf900",
+  "id": "barclays-wyndham-rewards-earner-plus",
   "name": "Wyndham Rewards Earner Plus",
   "issuer": "BARCLAYS",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "WYNDHAM",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.wyndhamrewardscreditcard.com/#earnerplus",
+  "legacyIds": [
+    "b910f422064772c65840288c632cf900"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-plus-card/",

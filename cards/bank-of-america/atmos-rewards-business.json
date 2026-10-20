@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "9e42d6cf9c6dcfda0cf7d5f5f015285d",
+  "id": "boa-atmos-rewards-business",
   "name": "Atmos Rewards Business",
   "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "ALASKA",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+  "legacyIds": [
+    "9e42d6cf9c6dcfda0cf7d5f5f015285d"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/",

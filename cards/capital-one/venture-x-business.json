@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "1d2ff07648fdd4b06d89ef0309f1c4cb",
+  "id": "capitalone-venture-x-business",
   "name": "Venture X Business",
   "issuer": "CAPITAL_ONE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "CAPITAL_ONE",
   "annualFee": 395,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+  "legacyIds": [
+    "1d2ff07648fdd4b06d89ef0309f1c4cb"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"

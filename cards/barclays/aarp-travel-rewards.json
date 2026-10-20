@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "barclays-aarp-travel-rewards",
+  "name": "AARP Travel Rewards",
+  "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/",
+  "legacyIds": [
+    "fc80c887a321dde1faa7e9282c813683"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/"
+  ],
+  "benefits": []
+}

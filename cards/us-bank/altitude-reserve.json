@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "f81e751b8d46af2e7c84cc4cf4083dec",
+  "id": "usbank-altitude-reserve",
   "name": "Altitude Reserve",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "US_BANK",
   "annualFee": 400,
+  "afWaivedFirstYear": true,
+  "discontinued": true,
+  "url": "https://www.nerdwallet.com/article/credit-cards/u-s-bank-altitude-reserve-closed-to-new-applications",
+  "legacyIds": [
+    "f81e751b8d46af2e7c84cc4cf4083dec"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/news/us-bank-altitude-reserve-card-changes/",

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "brex-brex",
+  "name": "Brex",
+  "issuer": "BREX",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BREX",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.brex.com/product/credit-card/",
+  "legacyIds": [
+    "be49d60cb01b9d5c3e919e6c570e9a48"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.brex.com/product/credit-card/"
+  ],
+  "benefits": []
+}

@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "191f603ca5af9306d5db0fb208e9a646",
+  "id": "amex-business-gold",
   "name": "Business Gold",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "AMERICAN_EXPRESS",
   "annualFee": 375,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
+  "legacyIds": [
+    "191f603ca5af9306d5db0fb208e9a646"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",

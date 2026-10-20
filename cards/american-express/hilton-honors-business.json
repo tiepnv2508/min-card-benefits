@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "434df114291a974c876d58cf79158376",
+  "id": "amex-hilton-honors-business",
   "name": "Hilton Honors Business",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "HILTON",
   "annualFee": 195,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+  "legacyIds": [
+    "434df114291a974c876d58cf79158376"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",

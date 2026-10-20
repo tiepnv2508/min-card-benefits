@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "synchrony-walmart-onepay-cashrewards",
+  "name": "Walmart OnePay CashRewards",
+  "issuer": "SYNCHRONY",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376",
+  "legacyIds": [
+    "145320d72bf260a11a537333d4425820"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376"
+  ],
+  "benefits": []
+}

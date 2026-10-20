@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "19c94f90056968ebde2882f7bb0f1010",
+  "id": "citi-strata-elite",
   "name": "Strata Elite",
   "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "CITI",
   "annualFee": 595,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+  "legacyIds": [
+    "19c94f90056968ebde2882f7bb0f1010"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",

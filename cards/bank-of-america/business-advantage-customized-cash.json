@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-business-advantage-customized-cash",
+  "name": "Business Advantage Customized Cash",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card",
+  "legacyIds": [
+    "4f6d71dd4d06ff960cae0990b5efda21"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card"
+  ],
+  "benefits": []
+}

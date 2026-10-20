@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "40192e08e31f059d91a108ff09ec5dd5",
+  "id": "chase-ihg-premier",
   "name": "IHG Premier",
   "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "IHG",
   "annualFee": 150,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+  "legacyIds": [
+    "40192e08e31f059d91a108ff09ec5dd5"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",

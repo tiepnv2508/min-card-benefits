@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "penfed-power-cash-rewards",
+  "name": "Power Cash Rewards",
+  "issuer": "PENFED",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.penfed.org/credit-cards/power-cash-rewards-visa",
+  "legacyIds": [
+    "879d4dccd8e59ba55a3a688adeb2c773"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.penfed.org/credit-cards/power-cash-rewards-visa"
+  ],
+  "benefits": []
+}

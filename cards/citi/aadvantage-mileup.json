@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-aadvantage-mileup",
+  "name": "AAdvantage MileUp",
+  "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMERICAN",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
+  "legacyIds": [
+    "196b33e005dd1bc8e1c505f2bf98a1d1"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/"
+  ],
+  "benefits": []
+}

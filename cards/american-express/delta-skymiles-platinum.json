@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "bdf4ae17ff6808592f785fff3ae81a2a",
+  "id": "amex-delta-skymiles-platinum",
   "name": "Delta SkyMiles Platinum",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "DELTA",
   "annualFee": 350,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+  "legacyIds": [
+    "bdf4ae17ff6808592f785fff3ae81a2a"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",

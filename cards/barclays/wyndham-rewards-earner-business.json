@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "ba9027fba78b5ca88e4d9471aa9e31bd",
+  "id": "barclays-wyndham-rewards-earner-business",
   "name": "Wyndham Rewards Earner Business",
   "issuer": "BARCLAYS",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "WYNDHAM",
   "annualFee": 149,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.wyndhamrewardscreditcard.com/#earnerbusiness",
+  "legacyIds": [
+    "ba9027fba78b5ca88e4d9471aa9e31bd"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-business-card/",

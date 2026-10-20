@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "85cd2b7d172e494eefad5b2ab012f21c",
+  "id": "chase-united-explorer",
   "name": "United Explorer",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "UNITED",
   "annualFee": 150,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+  "legacyIds": [
+    "85cd2b7d172e494eefad5b2ab012f21c"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www2.theexplorercard.com/rewards-cards/explorer-card",

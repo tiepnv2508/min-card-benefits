@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "60c2e7b4bc2e526bf38dac5be5f4433c",
+  "id": "chase-iberia-signature",
   "name": "Iberia Signature",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "AVIOS",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
+  "legacyIds": [
+    "60c2e7b4bc2e526bf38dac5be5f4433c"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/avios/iberia",

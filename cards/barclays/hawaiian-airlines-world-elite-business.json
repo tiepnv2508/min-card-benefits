@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "9cbc127f6a0a485b64a7ddb5ed52d931",
+  "id": "barclays-hawaiian-airlines-world-elite-business",
   "name": "Hawaiian Airlines World Elite Business",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "HAWAIIAN",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/combo-app/hawaiian-bha-boh---combo-app/",
+  "legacyIds": [
+    "9cbc127f6a0a485b64a7ddb5ed52d931"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://thepointsguy.com/credit-cards/reviews/hawaiian-airlines-business-card-review/",

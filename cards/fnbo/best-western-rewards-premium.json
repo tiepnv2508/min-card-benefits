@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "cf10cfcfab787460b24ecbf8b76f7bdc",
+  "id": "fnbo-best-western-rewards-premium",
   "name": "Best Western Rewards Premium",
   "issuer": "FNBO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BEST_WESTERN",
   "annualFee": 89,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+  "legacyIds": [
+    "cf10cfcfab787460b24ecbf8b76f7bdc"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/best-western-rewards-premium-visa-signature-card/",

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "penfed-platinum-rewards",
+  "name": "Platinum Rewards",
+  "issuer": "PENFED",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "PENFED",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.penfed.org/credit-cards/platinum-rewards-visa",
+  "legacyIds": [
+    "2743ba5aabdadc15aa6bd046f1b71a5c"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.penfed.org/credit-cards/platinum-rewards-visa"
+  ],
+  "benefits": []
+}

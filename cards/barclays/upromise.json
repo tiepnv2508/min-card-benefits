@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "barclays-upromise",
+  "name": "Upromise",
+  "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/",
+  "legacyIds": [
+    "d0fa846548af110fa31bc7bfa25828df"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/"
+  ],
+  "benefits": []
+}

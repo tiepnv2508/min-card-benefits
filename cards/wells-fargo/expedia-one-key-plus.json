@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "dfdf46ff6cbfcea7b738c7092e00af78",
+  "id": "wellsfargo-expedia-one-key-plus",
   "name": "Expedia One Key+",
   "issuer": "WELLS_FARGO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "EXPEDIA",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.expedia.com/one-key-cards",
+  "legacyIds": [
+    "dfdf46ff6cbfcea7b738c7092e00af78"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/one-key-plus-card/",

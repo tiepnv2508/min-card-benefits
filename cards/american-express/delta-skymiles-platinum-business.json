@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "1e9c3dae029612a7a40adf6144bf43d4",
+  "id": "amex-delta-skymiles-platinum-business",
   "name": "Delta SkyMiles Platinum Business",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "DELTA",
   "annualFee": 350,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+  "legacyIds": [
+    "1e9c3dae029612a7a40adf6144bf43d4"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",

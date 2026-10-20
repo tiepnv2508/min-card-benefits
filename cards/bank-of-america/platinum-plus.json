@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-platinum-plus",
+  "name": "Platinum Plus",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card",
+  "legacyIds": [
+    "9dce80bda519a8616ca4eb288d7cc693"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card"
+  ],
+  "benefits": []
+}

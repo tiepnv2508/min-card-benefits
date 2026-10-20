@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "amex-rakuten",
+  "name": "Rakuten",
+  "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.rakuten.com/american-express-card/",
+  "legacyIds": [
+    "6ca9fd6caab5364f72928dd5ba04bb58"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.rakuten.com/american-express-card/"
+  ],
+  "benefits": []
+}

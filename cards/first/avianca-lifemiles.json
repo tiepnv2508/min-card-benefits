@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "first-avianca-lifemiles",
+  "name": "Avianca LifeMiles",
+  "issuer": "FIRST",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "AVIANCA",
+  "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+  "legacyIds": [
+    "1babfb0011a010a6149965531021ad2e"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard"
+  ],
+  "benefits": []
+}

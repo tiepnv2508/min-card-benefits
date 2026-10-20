@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "comenity-aaa-daily-advantage",
+  "name": "AAA Daily Advantage",
+  "issuer": "COMENITY",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+  "legacyIds": [
+    "eb573cdc20d07fc2d60e8528f73cafb0"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.ace.aaa.com/financial/aaa-credit-card.html"
+  ],
+  "benefits": []
+}

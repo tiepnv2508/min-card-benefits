@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-free-spirit",
+  "name": "Free Spirit",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "SPIRIT",
+  "annualFee": 79,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
+  "legacyIds": [
+    "541d121bd20b148d43a8c896d0de6830"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/"
+  ],
+  "benefits": []
+}

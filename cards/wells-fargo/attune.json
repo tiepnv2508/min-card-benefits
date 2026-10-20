@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-attune",
+  "name": "Attune",
+  "issuer": "WELLS_FARGO",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
+  "legacyIds": [
+    "8b60912df8dd8406cbbf96469c4cfaec"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card"
+  ],
+  "benefits": []
+}

@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "9a35bfe5845f7f9909244b1e3549b7e1",
+  "id": "usbank-altitude-connect",
   "name": "Altitude Connect",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "US_BANK",
   "annualFee": 0,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
+  "legacyIds": [
+    "9a35bfe5845f7f9909244b1e3549b7e1"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",

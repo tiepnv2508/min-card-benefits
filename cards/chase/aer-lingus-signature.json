@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "dcafcac45d86331a7f6b9cfdb980b81e",
+  "id": "chase-aer-lingus-signature",
   "name": "Aer Lingus Signature",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "AVIOS",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
+  "legacyIds": [
+    "dcafcac45d86331a7f6b9cfdb980b81e"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",

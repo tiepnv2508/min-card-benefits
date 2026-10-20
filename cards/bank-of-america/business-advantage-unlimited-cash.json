@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-business-advantage-unlimited-cash",
+  "name": "Business Advantage Unlimited Cash",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card",
+  "legacyIds": [
+    "a99aa675065459b90144275ac18d9ab1"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card"
+  ],
+  "benefits": []
+}

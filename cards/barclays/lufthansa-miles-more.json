@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "fdd9a5b1485ab0f88d0abd28c32e3b89",
+  "id": "barclays-lufthansa-miles-more",
   "name": "Lufthansa Miles & More",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "LUFTHANSA",
   "annualFee": 89,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard",
+  "legacyIds": [
+    "fdd9a5b1485ab0f88d0abd28c32e3b89"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard/"

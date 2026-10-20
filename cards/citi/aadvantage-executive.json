@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "3543149f6555df6f7e4974923c55d853",
+  "id": "citi-aadvantage-executive",
   "name": "AAdvantage Executive",
   "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "AMERICAN",
   "annualFee": 695,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
+  "legacyIds": [
+    "3543149f6555df6f7e4974923c55d853"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",

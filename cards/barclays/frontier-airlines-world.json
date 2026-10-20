@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "e33d8701c8e81d5befe82ec5ed5cda23",
+  "id": "barclays-frontier-airlines-world",
   "name": "Frontier Airlines World",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "FRONTIER",
   "annualFee": 99,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/",
+  "legacyIds": [
+    "e33d8701c8e81d5befe82ec5ed5cda23"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/"

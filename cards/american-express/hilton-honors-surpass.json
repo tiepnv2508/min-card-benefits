@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "f6c6aa50b533b758df7be5151d805571",
+  "id": "amex-hilton-honors-surpass",
   "name": "Hilton Honors Surpass",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "HILTON",
   "annualFee": 150,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+  "legacyIds": [
+    "f6c6aa50b533b758df7be5151d805571"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",

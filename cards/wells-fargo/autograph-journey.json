@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "d1fcd95962c94d1b56d691fda30acead",
+  "id": "wellsfargo-autograph-journey",
   "name": "Autograph Journey",
   "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "WELLS_FARGO",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card",
+  "legacyIds": [
+    "d1fcd95962c94d1b56d691fda30acead"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"

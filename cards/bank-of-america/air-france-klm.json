@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "f2d769efdbe2b9d8734787bc24297be6",
+  "id": "boa-air-france-klm",
   "name": "Air France KLM",
   "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "FLYING_BLUE",
   "annualFee": 89,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://wwws.airfrance.us/information/flyingblue/carte-bancaire-partenaire",
+  "legacyIds": [
+    "f2d769efdbe2b9d8734787bc24297be6"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://thepointsguy.com/credit-cards/reviews/air-france-klm-mastercard-review",

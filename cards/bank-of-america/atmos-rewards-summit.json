@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "2878b32104d7bf242496a8af56f33952",
+  "id": "boa-atmos-rewards-summit",
   "name": "Atmos Rewards Summit",
   "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "ALASKA",
   "annualFee": 395,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+  "legacyIds": [
+    "2878b32104d7bf242496a8af56f33952"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",

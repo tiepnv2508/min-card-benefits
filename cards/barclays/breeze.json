@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "b52f6b684aec5d5b2465c27e6ccd1adc",
+  "id": "barclays-breeze",
   "name": "Breeze",
   "issuer": "BARCLAYS",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "BREEZE",
   "annualFee": 89,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+  "legacyIds": [
+    "b52f6b684aec5d5b2465c27e6ccd1adc"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/breeze-airways/"

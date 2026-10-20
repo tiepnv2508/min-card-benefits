@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "barclays-jetblue",
+  "name": "JetBlue",
+  "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "JETBLUE",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/jetblue-card/",
+  "legacyIds": [
+    "d760441e47fada8604f084285fbaeb39"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/jetblue-card/"
+  ],
+  "benefits": []
+}

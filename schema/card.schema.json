@@ -1,24 +1,143 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/tiepnv2508/us-credit-card-benefits/schema/card.schema.json",
-  "title": "Card benefits",
-  "description": "Recurring benefits (statement credits and perks) of one US credit card.",
+  "title": "US credit card",
+  "description": "One US credit card: identity, annual fee and every recurring benefit (statement credits and perks).",
   "type": "object",
   "additionalProperties": false,
-  "required": ["cardId", "name", "issuer", "annualFee", "lastVerified", "sources", "benefits"],
+  "required": [
+    "id",
+    "name",
+    "issuer",
+    "network",
+    "isBusiness",
+    "currency",
+    "annualFee",
+    "afWaivedFirstYear",
+    "discontinued",
+    "lastVerified",
+    "sources",
+    "benefits"
+  ],
   "properties": {
-    "$schema": { "type": "string" },
-    "cardId": {
-      "type": "string",
-      "pattern": "^[0-9a-f]{32}$",
-      "description": "Card id from andenacitelli/credit-card-bonuses-api (exports/data.json). Joins this file to the card catalog."
+    "$schema": {
+      "type": "string"
     },
-    "name": { "type": "string", "minLength": 1, "description": "Card name as in the catalog (for humans; cardId is the key)." },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable id: <issuer-short>-<card-slug>, e.g. \"amex-gold\". Never reuse or rename once published."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Card name without the issuer and without ®/™, e.g. \"Gold\", \"Sapphire Reserve\"."
+    },
     "issuer": {
       "type": "string",
-      "enum": ["AMERICAN_EXPRESS", "BANK_OF_AMERICA", "BARCLAYS", "BREX", "CAPITAL_ONE", "CHASE", "CITI", "COMENITY", "DISCOVER", "FIRST", "FNBO", "PENFED", "PNC", "SYNCHRONY", "US_BANK", "WEB_BANK", "WELLS_FARGO", "BILT", "OTHER"]
+      "enum": [
+        "AMERICAN_EXPRESS",
+        "BANK_OF_AMERICA",
+        "BARCLAYS",
+        "BREX",
+        "CAPITAL_ONE",
+        "CHASE",
+        "CITI",
+        "COMENITY",
+        "DISCOVER",
+        "FIRST",
+        "FNBO",
+        "PENFED",
+        "PNC",
+        "SYNCHRONY",
+        "US_BANK",
+        "WEB_BANK",
+        "WELLS_FARGO",
+        "BILT",
+        "OTHER"
+      ]
     },
-    "annualFee": { "type": "number", "minimum": 0, "description": "Current annual fee in USD." },
+    "network": {
+      "enum": [
+        "visa",
+        "mastercard",
+        "amex",
+        "discover",
+        null
+      ],
+      "description": "Payment network (null if unknown)."
+    },
+    "isBusiness": {
+      "type": "boolean"
+    },
+    "currency": {
+      "type": "string",
+      "description": "Rewards currency code, e.g. USD (cash back), AMERICAN_EXPRESS (MR), CHASE (UR), CITI (TYP), DELTA, MARRIOTT, HILTON…"
+    },
+    "annualFee": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Current annual fee in USD."
+    },
+    "afWaivedFirstYear": {
+      "type": "boolean"
+    },
+    "discontinued": {
+      "type": "boolean",
+      "description": "Closed to new applicants (existing cardholders may keep benefits)."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Issuer card page."
+    },
+    "imageUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "Card art image (issuer-hosted or licensed). Optional."
+    },
+    "signupBonus": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "amount",
+        "spend",
+        "days",
+        "asOf"
+      ],
+      "description": "Current public welcome offer. Optional — offers change often; include asOf.",
+      "properties": {
+        "amount": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Points/miles, or USD for cash-back cards."
+        },
+        "spend": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Minimum spend in USD."
+        },
+        "days": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Spend window in days."
+        },
+        "details": {
+          "type": "string"
+        },
+        "asOf": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "legacyIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Ids this card had in other catalogs (e.g. andenacitelli/credit-card-bonuses-api cardId) — lets apps migrate references."
+    },
     "lastVerified": {
       "type": "string",
       "format": "date",
@@ -27,53 +146,112 @@
     "sources": {
       "type": "array",
       "minItems": 1,
-      "items": { "type": "string", "format": "uri" },
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
       "description": "Issuer benefit pages (preferred) or reputable references used to verify this file."
     },
     "benefits": {
       "type": "array",
-      "description": "EVERY recurring benefit of the card, whether or not you personally use it. Apps let users untick what they don't want.",
-      "items": { "$ref": "#/$defs/benefit" }
+      "description": "EVERY recurring benefit of the card, whether or not you personally use it (empty array if the card has none). Apps let users untick what they don't want.",
+      "items": {
+        "$ref": "#/$defs/benefit"
+      }
     }
   },
   "$defs": {
     "benefit": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "name", "type", "value", "frequency", "alignment", "category", "inApp", "enrollmentRequired", "matchKeywords", "matchVerified"],
+      "required": [
+        "id",
+        "name",
+        "type",
+        "value",
+        "frequency",
+        "alignment",
+        "category",
+        "inApp",
+        "enrollmentRequired",
+        "matchKeywords",
+        "matchVerified"
+      ],
       "properties": {
-        "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable kebab-case id, unique within the card." },
-        "name": { "type": "string", "minLength": 2, "maxLength": 40, "description": "Short display name, e.g. \"Uber Cash\", \"Resy credit\"." },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Stable kebab-case id, unique within the card."
+        },
+        "name": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 40,
+          "description": "Short display name, e.g. \"Uber Cash\", \"Resy credit\"."
+        },
         "type": {
-          "enum": ["credit", "perk"],
+          "enum": [
+            "credit",
+            "perk"
+          ],
           "description": "credit = dollar statement credit (value required); perk = non-cash benefit, optionally valued (lounge access, free night)."
         },
         "value": {
-          "type": ["number", "null"],
+          "type": [
+            "number",
+            "null"
+          ],
           "minimum": 0,
           "description": "USD value PER PERIOD (e.g. 15 for a $15/month credit). null = unvalued perk."
         },
-        "frequency": { "enum": ["monthly", "quarterly", "semiannual", "annual", "custom"] },
+        "frequency": {
+          "enum": [
+            "monthly",
+            "quarterly",
+            "semiannual",
+            "annual",
+            "custom"
+          ]
+        },
         "intervalMonths": {
           "type": "integer",
           "minimum": 1,
           "description": "Required when frequency is custom, e.g. 48 for a Global Entry credit every 4 years."
         },
         "alignment": {
-          "enum": ["calendar", "anniversary"],
+          "enum": [
+            "calendar",
+            "anniversary"
+          ],
           "description": "calendar = resets on Jan 1 / quarter / month boundaries; anniversary = resets on the cardmember year."
         },
         "category": {
-          "enum": ["travel", "hotel", "dining", "rideshare", "entertainment", "shopping", "grocery", "security", "lounge", "bonus"]
+          "enum": [
+            "travel",
+            "hotel",
+            "dining",
+            "rideshare",
+            "entertainment",
+            "shopping",
+            "grocery",
+            "security",
+            "lounge",
+            "bonus"
+          ]
         },
         "inApp": {
           "type": "boolean",
           "description": "Applied inside a partner app/portal (Uber Cash, DashPass, Lyft, issuer travel portal) — no statement credit posts, so it can't be auto-matched."
         },
-        "enrollmentRequired": { "type": "boolean" },
+        "enrollmentRequired": {
+          "type": "boolean"
+        },
         "matchKeywords": {
           "type": "array",
-          "items": { "type": "string", "pattern": "^[a-z0-9]{3,}$" },
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]{3,}$"
+          },
           "description": "Lower-case words that appear WHOLE in the statement-credit line (merchant/name/description). Prefer the most specific word(s); generic words (credit, fee, annual, amex, chase…) are ignored by matchers. Empty for inApp credits and perks."
         },
         "matchVerified": {
@@ -82,16 +260,68 @@
         },
         "descriptorExamples": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Real statement-credit descriptors seen for this benefit, e.g. \"AMEX RESY CREDIT\"."
         },
-        "notes": { "type": "string", "description": "Caveats: variable amounts (\"$35 in December\"), split periods, exclusions." },
-        "endDate": { "type": "string", "format": "date", "description": "Last day of a limited-time benefit, if announced." }
+        "notes": {
+          "type": "string",
+          "description": "Caveats: variable amounts (\"$35 in December\"), split periods, exclusions."
+        },
+        "endDate": {
+          "type": "string",
+          "format": "date",
+          "description": "Last day of a limited-time benefit, if announced."
+        }
       },
       "allOf": [
-        { "if": { "properties": { "frequency": { "const": "custom" } } }, "then": { "required": ["intervalMonths"] } },
-        { "if": { "properties": { "type": { "const": "credit" } } }, "then": { "properties": { "value": { "type": "number" } } } },
-        { "if": { "properties": { "inApp": { "const": true } } }, "then": { "properties": { "matchKeywords": { "maxItems": 0 } } } }
+        {
+          "if": {
+            "properties": {
+              "frequency": {
+                "const": "custom"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "intervalMonths"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "credit"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "value": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "inApp": {
+                "const": true
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "matchKeywords": {
+                "maxItems": 0
+              }
+            }
+          }
+        }
       ]
     }
   }

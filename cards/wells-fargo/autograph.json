@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-autograph",
+  "name": "Autograph",
+  "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "WELLS_FARGO",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/autograph-visa-credit-card",
+  "legacyIds": [
+    "ce08e0bddd774433cb77be87f5d6af76"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/autograph-visa-credit-card"
+  ],
+  "benefits": []
+}

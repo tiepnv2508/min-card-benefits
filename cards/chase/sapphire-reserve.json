@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "77e3ef2fc9c35498ba1a3f46a63235cb",
+  "id": "chase-sapphire-reserve",
   "name": "Sapphire Reserve",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHASE",
   "annualFee": 795,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+  "legacyIds": [
+    "77e3ef2fc9c35498ba1a3f46a63235cb"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
@@ -47,7 +56,7 @@
       "descriptorExamples": [
         "THE EDIT $500/YEAR CREDIT"
       ],
-      "notes": "Two separate up-to-$250 credits per calendar year for prepaid 2+ night stays booked through The Edit by Chase Travel (since 2026 usable any time in the year; was Jan\u2013Jun / Jul\u2013Dec in 2025)."
+      "notes": "Two separate up-to-$250 credits per calendar year for prepaid 2+ night stays booked through The Edit by Chase Travel (since 2026 usable any time in the year; was Jan–Jun / Jul–Dec in 2025)."
     },
     {
       "id": "select-hotels-credit",
@@ -86,7 +95,7 @@
       "descriptorExamples": [
         "DINING CREDIT $300/YEAR"
       ],
-      "notes": "Up to $150 Jan\u2013Jun and $150 Jul\u2013Dec at Sapphire Reserve Exclusive Tables restaurants on OpenTable."
+      "notes": "Up to $150 Jan–Jun and $150 Jul–Dec at Sapphire Reserve Exclusive Tables restaurants on OpenTable."
     },
     {
       "id": "stubhub-credit",
@@ -103,7 +112,7 @@
         "viagogo"
       ],
       "matchVerified": false,
-      "notes": "Up to $150 Jan\u2013Jun and $150 Jul\u2013Dec on StubHub / viagogo purchases; activation required.",
+      "notes": "Up to $150 Jan–Jun and $150 Jul–Dec on StubHub / viagogo purchases; activation required.",
       "endDate": "2027-12-31"
     },
     {

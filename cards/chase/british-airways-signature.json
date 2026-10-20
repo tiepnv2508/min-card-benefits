@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "7b06f0b6a307509b71862ffa5933ef0b",
+  "id": "chase-british-airways-signature",
   "name": "British Airways Signature",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "AVIOS",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
+  "legacyIds": [
+    "7b06f0b6a307509b71862ffa5933ef0b"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",

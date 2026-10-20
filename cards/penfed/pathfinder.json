@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "9afcb83bfffcdc108fc3ac90a8b384da",
+  "id": "penfed-pathfinder",
   "name": "Pathfinder",
   "issuer": "PENFED",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "PENFED",
   "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.penfed.org/credit-cards/pathfinder-rewards",
+  "legacyIds": [
+    "9afcb83bfffcdc108fc3ac90a8b384da"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.penfed.org/content/dam/penfed/en/general/pdf/credit-cards/penfed-pathfinder-travel-credits.pdf",

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-cash",
+  "name": "Cash+",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html",
+  "legacyIds": [
+    "78726438553c1f6b63383f3bac6df57b"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html"
+  ],
+  "benefits": []
+}

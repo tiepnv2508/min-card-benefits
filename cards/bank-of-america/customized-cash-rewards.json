@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-customized-cash-rewards",
+  "name": "Customized Cash Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+  "legacyIds": [
+    "f2461735a56702c428c209486e2f9e55"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+  ],
+  "benefits": []
+}

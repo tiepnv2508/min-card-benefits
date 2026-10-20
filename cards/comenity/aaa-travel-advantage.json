@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "comenity-aaa-travel-advantage",
+  "name": "AAA Travel Advantage",
+  "issuer": "COMENITY",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+  "legacyIds": [
+    "6862ac82f65ac34d31032dbe0cf1e87b"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.ace.aaa.com/financial/aaa-credit-card.html"
+  ],
+  "benefits": []
+}

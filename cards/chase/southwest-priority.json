@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "169256a9988f3161381ee6a9ebe6667e",
+  "id": "chase-southwest-priority",
   "name": "Southwest Priority",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "SOUTHWEST",
   "annualFee": 229,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+  "legacyIds": [
+    "169256a9988f3161381ee6a9ebe6667e"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/southwest/priority",

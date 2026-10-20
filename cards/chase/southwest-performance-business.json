@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "682a4f0c425d15b5ca34214378cfc3de",
+  "id": "chase-southwest-performance-business",
   "name": "Southwest Performance Business",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "SOUTHWEST",
   "annualFee": 299,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+  "legacyIds": [
+    "682a4f0c425d15b5ca34214378cfc3de"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",

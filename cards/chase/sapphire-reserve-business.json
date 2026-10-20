@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "5d8c589d1e7c1294d04fa6e4a2685624",
+  "id": "chase-sapphire-reserve-business",
   "name": "Sapphire Reserve Business",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "CHASE",
   "annualFee": 795,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
+  "legacyIds": [
+    "5d8c589d1e7c1294d04fa6e4a2685624"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",

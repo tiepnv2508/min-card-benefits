@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-united-gateway",
+  "name": "United Gateway",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "UNITED",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+  "legacyIds": [
+    "4071699fe4b21cafb02cf8b2c9c57c86"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.theexplorercard.com/rewards-cards/gateway-card"
+  ],
+  "benefits": []
+}

@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "59c1e4c423d078c91e9b7c51d72e893d",
+  "id": "amex-hilton-honors-aspire",
   "name": "Hilton Honors Aspire",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "HILTON",
   "annualFee": 550,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+  "legacyIds": [
+    "59c1e4c423d078c91e9b7c51d72e893d"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",

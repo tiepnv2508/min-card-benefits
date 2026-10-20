@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "c7698b8b99a60ae3ccdd4d880ff5fe68",
+  "id": "barclays-jetblue-premier",
   "name": "JetBlue Premier",
   "issuer": "BARCLAYS",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "JETBLUE",
   "annualFee": 499,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",
+  "legacyIds": [
+    "c7698b8b99a60ae3ccdd4d880ff5fe68"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",

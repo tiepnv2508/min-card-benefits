@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-signify-business-cash",
+  "name": "Signify Business Cash",
+  "issuer": "WELLS_FARGO",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card",
+  "legacyIds": [
+    "429640c66f9a2e3bd077978aa5a1f0aa"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-business-advantage-travel-rewards",
+  "name": "Business Advantage Travel Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "BANK_OF_AMERICA",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card",
+  "legacyIds": [
+    "1e75cf9ca2ccded9a621d5e8f5630c3c"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card"
+  ],
+  "benefits": []
+}

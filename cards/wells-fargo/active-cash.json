@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-active-cash",
+  "name": "Active Cash",
+  "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/active-cash-credit-card/",
+  "legacyIds": [
+    "df2960b75b50536daa6e05a33479b198"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/active-cash-credit-card/"
+  ],
+  "benefits": []
+}

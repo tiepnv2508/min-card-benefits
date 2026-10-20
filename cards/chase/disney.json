@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "12a1578aeb5bfcdd3bc794154ad1f6cc",
+  "id": "chase-disney",
   "name": "Disney",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
+  "legacyIds": [
+    "12a1578aeb5bfcdd3bc794154ad1f6cc"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",

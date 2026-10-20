@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "cf146925642ec392eee6c924cfc7ec0d",
+  "id": "usbank-skypass-business",
   "name": "Skypass Business",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "KOREAN",
   "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.skypassvisa.com/credit/visaBusinessCard.do",
+  "legacyIds": [
+    "cf146925642ec392eee6c924cfc7ec0d"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.skypassvisa.com/credit/visaBusinessCard.do"

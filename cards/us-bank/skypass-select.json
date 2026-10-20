@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "aceef720d7ec6cf06ee46865fc39d612",
+  "id": "usbank-skypass-select",
   "name": "Skypass Select",
   "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "KOREAN",
   "annualFee": 450,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.skypassvisa.com/credit/visaSelectCard.do",
+  "legacyIds": [
+    "aceef720d7ec6cf06ee46865fc39d612"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.skypassvisa.com/credit/visaSelectCard.do",

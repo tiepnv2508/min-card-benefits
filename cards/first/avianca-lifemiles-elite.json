@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "0bcc80cc6922e7c7d89e9c9b2efcd9e1",
+  "id": "first-avianca-lifemiles-elite",
   "name": "Avianca LifeMiles Elite",
   "issuer": "FIRST",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "AVIANCA",
   "annualFee": 249,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+  "legacyIds": [
+    "0bcc80cc6922e7c7d89e9c9b2efcd9e1"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.cardless.com/cards/avianca/lifemiles-elite",

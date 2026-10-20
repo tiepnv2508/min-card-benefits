@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "6980c320c341292b63273e4362601aa8",
+  "id": "amex-blue-cash-everyday",
   "name": "Blue Cash Everyday",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "USD",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+  "legacyIds": [
+    "6980c320c341292b63273e4362601aa8"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",

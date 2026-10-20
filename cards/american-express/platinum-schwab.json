@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "7eb93f5f9ab64e1c12b82ec8822c25ef",
+  "id": "amex-platinum-schwab",
   "name": "Platinum (Schwab)",
   "issuer": "AMERICAN_EXPRESS",
+  "network": "amex",
+  "isBusiness": false,
+  "currency": "AMERICAN_EXPRESS",
   "annualFee": 895,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.schwab.com/credit-cards/platinum-card",
+  "legacyIds": [
+    "7eb93f5f9ab64e1c12b82ec8822c25ef"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.schwab.com/credit-cards/platinum-card",

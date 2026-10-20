@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "first-ana-card-usa-plus",
+  "name": "ANA Card USA Plus",
+  "issuer": "FIRST",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "ANA",
+  "annualFee": 85,
+  "afWaivedFirstYear": true,
+  "discontinued": false,
+  "url": "https://www.anacardusa.com/en/",
+  "legacyIds": [
+    "0b3a9849575c68ce5cbf31aad08f015e"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.anacardusa.com/en/"
+  ],
+  "benefits": []
+}

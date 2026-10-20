@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "0d9d833e7298ab0f1892a4035686fa06",
+  "id": "chase-world-of-hyatt-business",
   "name": "World of Hyatt Business",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "HYATT",
   "annualFee": 199,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+  "legacyIds": [
+    "0d9d833e7298ab0f1892a4035686fa06"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",

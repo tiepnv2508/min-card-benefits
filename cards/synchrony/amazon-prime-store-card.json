@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "synchrony-amazon-prime-store-card",
+  "name": "Amazon Prime Store Card",
+  "issuer": "SYNCHRONY",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.amazon.com/Synchrony-Bank-Amazon-com-Store-Card/dp/B008A0GNA8",
+  "legacyIds": [
+    "25e394e76617c0a660b48d7c5c4449ea"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.amazon.com/Synchrony-Bank-Amazon-com-Store-Card/dp/B008A0GNA8"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-double-cash",
+  "name": "Double Cash",
+  "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+  "legacyIds": [
+    "06b9a384d710e73db7f0ded7613c9c4b"
+  ],
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
+  ],
+  "benefits": []
+}

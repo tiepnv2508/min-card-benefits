@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "918c978a06c7c36f9a321b2efa0ff974",
+  "id": "chase-marriott-bonvoy-bold",
   "name": "Marriott Bonvoy Bold",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "MARRIOTT",
   "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
+  "legacyIds": [
+    "918c978a06c7c36f9a321b2efa0ff974"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",

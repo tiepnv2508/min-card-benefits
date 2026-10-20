@@ -1,9 +1,18 @@
 {
   "$schema": "../../schema/card.schema.json",
-  "cardId": "d2517ce6b72999e14f50c399347100ed",
+  "id": "chase-united-club",
   "name": "United Club",
   "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "UNITED",
   "annualFee": 695,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.theexplorercard.com/rewards-cards/club-card",
+  "legacyIds": [
+    "d2517ce6b72999e14f50c399347100ed"
+  ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www2.theexplorercard.com/rewards-cards/club-card",
