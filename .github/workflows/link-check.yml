@@ -1,0 +1,32 @@
+name: link-check
+on:
+  schedule:
+    - cron: '17 14 * * 1' # Mondays 14:17 UTC
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - id: check
+        run: node scripts/check-links.mjs
+        continue-on-error: true
+      - name: Open, update or close the tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OUTCOME: ${{ steps.check.outcome }}
+        run: |
+          TITLE="Broken card image links"
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
+          if [ "$OUTCOME" = "failure" ]; then
+            if [ -n "$NUM" ]; then gh issue edit "$NUM" --body-file link-report.md;
+            else gh issue create --title "$TITLE" --body-file link-report.md; fi
+          elif [ -n "$NUM" ]; then
+            gh issue close "$NUM" --comment "All card images load again ($(date -u +%F))."
+          fi
