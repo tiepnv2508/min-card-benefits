@@ -91,6 +91,11 @@
       "format": "uri",
       "description": "Issuer card page."
     },
+    "notes": {
+      "type": "string",
+      "maxLength": 300,
+      "description": "Card-level caveats a user should know when picking the card (e.g. a membership the no-fee pricing depends on, a fee range set by creditworthiness, the real issuing bank of a co-brand)."
+    },
     "imageUrl": {
       "type": "string",
       "format": "uri",

@@ -3159,6 +3159,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.rakuten.com/american-express-card/",
+      "notes": "Issued by First Electronic Bank under license from American Express (not by Amex itself).",
       "legacyIds": [
         "6ca9fd6caab5364f72928dd5ba04bb58"
       ],
@@ -9863,6 +9864,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
+      "notes": "No annual fee for the card itself, but a paid Costco membership is required to get and keep it.",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-credit-card/citi-costco-anywhere-visa-credit-card_306x192.webp",
       "lastVerified": "2026-10-20",
       "sources": [
@@ -9882,6 +9884,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/costco-anywhere-visa-business-card",
+      "notes": "No annual fee for the card itself, but a paid Costco business membership is required to get and keep it.",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-business-credit-card/citi-costco-anywhere-visa-business-credit-card_306x192.webp",
       "lastVerified": "2026-10-20",
       "sources": [
@@ -10133,6 +10136,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
+      "notes": "Citi sets the annual fee at $0–$59 based on creditworthiness; listed as $0.",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-best-buy-credit-cards/citi-best-buy-credit-cards1_306x192.png",
       "lastVerified": "2026-10-20",
       "sources": [
@@ -10947,7 +10951,7 @@
     {
       "id": "fnbo-best-western-rewards",
       "name": "Best Western Rewards",
-      "issuer": "FNBO",
+      "issuer": "OTHER",
       "network": "visa",
       "isBusiness": false,
       "currency": "BEST_WESTERN",
@@ -10955,6 +10959,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+      "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
       "legacyIds": [
         "1b70fa39672eb066b7a3a5092888e7b2"
       ],
@@ -10985,7 +10990,7 @@
     {
       "id": "fnbo-best-western-rewards-premium",
       "name": "Best Western Rewards Premium",
-      "issuer": "FNBO",
+      "issuer": "OTHER",
       "network": "visa",
       "isBusiness": false,
       "currency": "BEST_WESTERN",
@@ -10993,6 +10998,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+      "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
       "legacyIds": [
         "cf10cfcfab787460b24ecbf8b76f7bdc"
       ],

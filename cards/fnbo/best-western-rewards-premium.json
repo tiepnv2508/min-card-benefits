@@ -2,7 +2,7 @@
   "$schema": "../../schema/card.schema.json",
   "id": "fnbo-best-western-rewards-premium",
   "name": "Best Western Rewards Premium",
-  "issuer": "FNBO",
+  "issuer": "OTHER",
   "network": "visa",
   "isBusiness": false,
   "currency": "BEST_WESTERN",
@@ -10,6 +10,7 @@
   "afWaivedFirstYear": false,
   "discontinued": false,
   "url": "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+  "notes": "Issued by First Bank & Trust (Brookings, SD) and serviced by Mercury Financial — not FNBO.",
   "legacyIds": [
     "cf10cfcfab787460b24ecbf8b76f7bdc"
   ],
