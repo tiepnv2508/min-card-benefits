@@ -72,7 +72,7 @@ Benefits change every year, and nobody holds every card — your corrections are
 
 ## Card images
 
-`imageUrl` links to card art **hosted by the issuer** (or the card program's official site). The images are **not** part of this repository and are **not** covered by the MIT license — they remain the property of their owners and are linked only to identify the card. We don't copy or re-host them. If you own an image and want the link removed, open an issue and it will be removed promptly. A weekly job checks every link and opens an issue when one breaks.
+`imageUrl` links to card art **hosted by the issuer** (or the card program's official site). The images are **not** part of this repository and are **not** covered by the MIT license — they remain the property of their owners and are linked only to identify the card. We don't copy or re-host them. If you own an image and want the link removed, open an issue and it will be removed promptly. A weekly job checks every link and opens an issue when one breaks — or when an image changes under the same URL (issuers sometimes swap in promo art), so it can be reviewed.
 
 Image guidelines: use a **flat, front-facing card** with no promotional overlay ("NEW OFFER", "NO ANNUAL FEE", bonus-points badges), no lifestyle scene, and one card per image. If the issuer only publishes promo or angled art, leave `imageUrl` out — apps fall back to their own rendering.
 

@@ -3,9 +3,15 @@ on:
   schedule:
     - cron: '17 14 * * 1' # Mondays 14:17 UTC
   workflow_dispatch:
+    inputs:
+      accept:
+        description: 'Accept every changed card image as the new baseline (after reviewing the issue)'
+        type: boolean
+        default: false
 permissions:
-  contents: read
+  contents: write # commits image-fingerprints.json
   issues: write
+concurrency: link-check
 jobs:
   links:
     runs-on: ubuntu-latest
@@ -15,18 +21,30 @@ jobs:
         with:
           node-version: 20
       - id: check
-        run: node scripts/check-links.mjs
+        run: node scripts/check-links.mjs ${{ inputs.accept && '--accept' || '' }}
         continue-on-error: true
-      - name: Open, update or close the tracking issue
+      - name: Save image fingerprints
+        run: |
+          git add image-fingerprints.json
+          if ! git diff --cached --quiet; then
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "chore: update card image fingerprints"
+            git push
+          fi
+      - name: Open, update or close the tracking issues
         env:
           GH_TOKEN: ${{ github.token }}
           OUTCOME: ${{ steps.check.outcome }}
         run: |
-          TITLE="Broken card image links"
-          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
-          if [ "$OUTCOME" = "failure" ]; then
-            if [ -n "$NUM" ]; then gh issue edit "$NUM" --body-file link-report.md;
-            else gh issue create --title "$TITLE" --body-file link-report.md; fi
-          elif [ -n "$NUM" ]; then
-            gh issue close "$NUM" --comment "All card images load again ($(date -u +%F))."
-          fi
+          sync_issue() { # title, open?, body file, close message
+            NUM=$(gh issue list --state open --search "in:title \"$1\"" --json number --jq '.[0].number')
+            if [ "$2" = "yes" ]; then
+              if [ -n "$NUM" ]; then gh issue edit "$NUM" --body-file "$3"; else gh issue create --title "$1" --body-file "$3"; fi
+            elif [ -n "$NUM" ]; then
+              gh issue close "$NUM" --comment "$4 ($(date -u +%F))."
+            fi
+          }
+          [ "$OUTCOME" = "failure" ] && BROKEN=yes || BROKEN=no
+          grep -q '^### ' image-changes.md && CHANGED=yes || CHANGED=no
+          sync_issue "Broken card image links" "$BROKEN" link-report.md "All card images load again"
+          sync_issue "Card images changed — review" "$CHANGED" image-changes.md "No unreviewed image changes"

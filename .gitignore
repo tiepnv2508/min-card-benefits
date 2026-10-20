@@ -1,3 +1,4 @@
-node_modules/
 .DS_Store
+image-changes.md
 link-report.md
+node_modules/
