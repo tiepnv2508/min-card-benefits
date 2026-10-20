@@ -74,6 +74,8 @@ Benefits change every year, and nobody holds every card — your corrections are
 
 `imageUrl` links to card art **hosted by the issuer** (or the card program's official site). The images are **not** part of this repository and are **not** covered by the MIT license — they remain the property of their owners and are linked only to identify the card. We don't copy or re-host them. If you own an image and want the link removed, open an issue and it will be removed promptly. A weekly job checks every link and opens an issue when one breaks.
 
+Image guidelines: use a **flat, front-facing card** with no promotional overlay ("NEW OFFER", "NO ANNUAL FEE", bonus-points badges), no lifestyle scene, and one card per image. If the issuer only publishes promo or angled art, leave `imageUrl` out — apps fall back to their own rendering.
+
 ## Disclaimer
 
 Not affiliated with any card issuer. Benefits, terms and enrollment requirements change; always confirm with your issuer. Card and brand names are trademarks of their owners, used here only to identify the products.

@@ -3152,7 +3152,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
-      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/blt2d6e98619050fddd/6a99bb6c5301913049e37f84/70k-ascent-card-ar.jpg",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bbt_sigcm_v_atmos_ascent_250.png",
       "legacyIds": [
         "12a1230229f936ee5f7b2d333e796ab8"
       ],
@@ -3189,7 +3189,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
-      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltcda6249a54b3eda1/6a99bb6f8c8f8c22c287b19b/Asset-Card-Overlay-Business-AR-BP-Badge.jpg",
       "legacyIds": [
         "9e42d6cf9c6dcfda0cf7d5f5f015285d"
       ],
@@ -3226,7 +3225,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
-      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltce5a39e78490b34a/6a99bb7106d1394d0f4eda1f/Asset-Card-Overlay-Summit-AR-BP-Badge.jpg",
       "legacyIds": [
         "2878b32104d7bf242496a8af56f33952"
       ],
@@ -3388,7 +3386,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
-      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_250x158.png",
+      "imageUrl": "https://www1.bac-assets.com/credit-cards/spa-assets/images/assets-images-site-credit-cards-masthead-container-default-bofa_cshsigcm_v.png",
       "legacyIds": [
         "f2461735a56702c428c209486e2f9e55"
       ],
@@ -3620,7 +3618,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
-      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png",
       "legacyIds": [
         "98db04658d4deee69293bd67bd2fd341"
       ],
@@ -3789,7 +3786,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
-      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/breeze/card/BRZ_card_wMoneyBadge_CardDetails_359x226.png",
       "legacyIds": [
         "b52f6b684aec5d5b2465c27e6ccd1adc"
       ],
@@ -4514,7 +4510,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bilt.com/card/blue",
-      "imageUrl": "https://img.bilt.com/43819/1778286910-blue_sq.png",
+      "imageUrl": "https://img.bilt.com/43819/1790799681-bilt-tahoe.webp",
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bilt.com/card/blue",
@@ -4534,7 +4530,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bilt.com/card/obsidian",
-      "imageUrl": "https://img.bilt.com/43819/1778286910-obsidian_sq.png",
+      "imageUrl": "https://img.bilt.com/43819/1790799681-bilt-vail.webp",
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bilt.com/card/obsidian",
@@ -4569,7 +4565,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bilt.com/card/palladium",
-      "imageUrl": "https://img.bilt.com/43819/1778286910-palladium_sq.png",
+      "imageUrl": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.bilt.com/card/palladium",
@@ -5252,7 +5248,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amazon.com/dp/BT00LN946S",
-      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/prime-visa.png",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/prime_visa.png",
       "legacyIds": [
         "f4d8c429f58f9f74944a9108bcae4a22"
       ],
@@ -5477,7 +5473,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
-      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/freedom_flex_card.png",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/site-assets/images/freedom_cal_freedom_flex_card.png",
       "legacyIds": [
         "6ba7f561f6a4f7f2934bec25bd9a3130"
       ],
@@ -5498,7 +5494,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
-      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/freedom_unlimited_card_alt.png",
+      "imageUrl": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-unlimited/card_freedomUtld_V.png",
       "legacyIds": [
         "3a9ea798ce73485fc8456280fd4b1816"
       ],
@@ -6082,7 +6078,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
-      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott_bonvoy_bold_card_NAF.png",
       "legacyIds": [
         "918c978a06c7c36f9a321b2efa0ff974"
       ],
@@ -7981,7 +7976,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
-      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_new_ribbon_card.png",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_card.png",
       "legacyIds": [
         "4071699fe4b21cafb02cf8b2c9c57c86"
       ],
@@ -9013,7 +9008,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
-      "imageUrl": "https://www.cardless.com/_next/static/media/card-angled-standard.85056e73.png",
       "legacyIds": [
         "1babfb0011a010a6149965531021ad2e"
       ],
@@ -9034,7 +9028,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
-      "imageUrl": "https://www.cardless.com/_next/static/media/card-angled-premium.a4b2fc80.png",
       "legacyIds": [
         "0bcc80cc6922e7c7d89e9c9b2efcd9e1"
       ],
@@ -9540,7 +9533,6 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html",
-      "imageUrl": "https://www.cathaypacific.com/content/dam/focal-point/digital-library/US/sync-update-2026-apr/1600x1600-card-blackshadow.renditionimage.900.900.jpg",
       "legacyIds": [
         "0d2caa1705cde187692a28873930c605"
       ],
