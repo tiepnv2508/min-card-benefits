@@ -6803,7 +6803,7 @@
           "frequency": "annual",
           "alignment": "calendar",
           "category": "shopping",
-          "notes": "Choose up to 2 of: 1stDibs, AAdvantage Hotels bookings, Future Personal Training, Live Nation."
+          "notes": "Choose up to 2 of: 1stDibs, AAdvantage Hotels bookings, Future Personal Training, Live Nation. Citi posts Splurge credits as \"SPLURGE CREDIT <MERCHANT> Rebate\" (seen on Strata Elite)."
         },
         {
           "inApp": false,
@@ -6961,7 +6961,7 @@
             "bestbuy",
             "livenation"
           ],
-          "matchVerified": false,
+          "matchVerified": true,
           "id": "splurge-credit",
           "name": "Splurge Credit",
           "type": "credit",
@@ -6969,7 +6969,10 @@
           "frequency": "annual",
           "alignment": "calendar",
           "category": "shopping",
-          "notes": "Choose up to 2 of: 1stDibs, American Airlines, Best Buy, Future Personal Training, Live Nation."
+          "notes": "Choose up to 2 of: 1stDibs, American Airlines, Best Buy, Future Personal Training, Live Nation. Posts as \"SPLURGE CREDIT <MERCHANT> Rebate\" (e.g. BESTBUY), sometimes split across several credits; match on \"splurge\".",
+          "descriptorExamples": [
+            "SPLURGE CREDIT BESTBUY Rebate"
+          ]
         },
         {
           "inApp": false,
