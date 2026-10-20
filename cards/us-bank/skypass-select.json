@@ -1,0 +1,105 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "aceef720d7ec6cf06ee46865fc39d612",
+  "name": "Skypass Select",
+  "issuer": "US_BANK",
+  "annualFee": 450,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.skypassvisa.com/credit/visaSelectCard.do",
+    "https://upgradedpoints.com/credit-cards/reviews/skypass-select-visa-signature-card/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "travel"
+      ],
+      "matchVerified": false,
+      "id": "travel-credit",
+      "name": "Travel credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Up to $200 in statement credits per cardmember year on purchases made directly with airlines, hotels and car rental companies."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "korean-air-lounge-vouchers",
+      "name": "Korean Air Lounge vouchers",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "Two Korean Air Lounge vouchers each year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "priority-pass-visits",
+      "name": "Priority Pass visits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "4 complimentary Priority Pass lounge visits per membership year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "duty-free-coupons",
+      "name": "In-flight duty-free coupons",
+      "type": "perk",
+      "value": 50,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "shopping",
+      "notes": "Two $25 Korean Air in-flight duty-free coupons each year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "ticket-discount-coupons",
+      "name": "Korean Air 5% coupons",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Two 5% discount coupons on Korean Air tickets each year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Up to $120 toward TSA PreCheck or Global Entry application fee (issuer lists as periodic, typically every four years)."
+    }
+  ]
+}

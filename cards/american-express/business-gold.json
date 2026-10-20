@@ -1,0 +1,86 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "191f603ca5af9306d5db0fb208e9a646",
+  "name": "Business Gold",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 375,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
+    "https://www.uscreditcardguide.com/amex-business-gold-rewards-card/",
+    "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/"
+  ],
+  "benefits": [
+    {
+      "id": "flexible-business-credit",
+      "name": "Flexible business credit",
+      "type": "credit",
+      "value": 20,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "flexible",
+        "business"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "FLEXIBLE BUSINESS CREDIT"
+      ],
+      "notes": "Grubhub, U.S. office supply stores and UPS (UPS replaced FedEx in October 2026)."
+    },
+    {
+      "id": "walmart-plus-credit",
+      "name": "Walmart+ credit",
+      "type": "credit",
+      "value": 12.95,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "walmart"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Walmart"
+      ],
+      "notes": "Covers one monthly Walmart+ membership ($12.95 plus applicable taxes)."
+    },
+    {
+      "id": "chatgpt-business-credit",
+      "name": "ChatGPT Business credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "chatgpt"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. ChatGPT Business subscriptions, added May 2026."
+    },
+    {
+      "id": "squarespace-credit",
+      "name": "Squarespace credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "squarespace"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. Squarespace purchases, added October 2025."
+    }
+  ]
+}

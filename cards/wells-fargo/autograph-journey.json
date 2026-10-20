@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "d1fcd95962c94d1b56d691fda30acead",
+  "name": "Autograph Journey",
+  "issuer": "WELLS_FARGO",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airline"
+      ],
+      "matchVerified": false,
+      "id": "airline-credit",
+      "name": "Airline credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "One-time $50 credit each year on the first airline purchase of $50+."
+    }
+  ]
+}

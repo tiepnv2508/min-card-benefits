@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "4a7a8036e514f187ca7c41b31925251e",
+  "name": "Venture Rewards",
+  "issuer": "CAPITAL_ONE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.capitalone.com/credit-cards/venture/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

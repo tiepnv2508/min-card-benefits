@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "1b70fa39672eb066b7a3a5092888e7b2",
+  "name": "Best Western Rewards",
+  "issuer": "FNBO",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-points",
+      "name": "10,000 anniversary points",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched card is issued by Mercury Financial."
+    }
+  ]
+}

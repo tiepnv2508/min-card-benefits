@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "c68bed03d88b439b70c905e490757271",
+  "name": "Choice Privileges Select",
+  "issuer": "WELLS_FARGO",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+    "https://frequentmiler.com/ChoiceSelect/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "anniversary-points",
+      "name": "Anniversary bonus points",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "notes": "30,000 Choice Privileges points each account anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Wells Fargo page says up to $120; some older sources say $100."
+    }
+  ]
+}

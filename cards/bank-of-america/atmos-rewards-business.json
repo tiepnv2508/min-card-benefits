@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "9e42d6cf9c6dcfda0cf7d5f5f015285d",
+  "name": "Atmos Rewards Business",
+  "issuer": "BANK_OF_AMERICA",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/",
+    "https://www.nerdwallet.com/business/credit-cards/reviews/atmos-rewards-visa-signature-business"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "companion-fare",
+      "name": "Companion Fare",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "$99 Companion Fare (plus taxes and fees from $23) issued each account anniversary after $6,000+ in purchases during the anniversary year. Annual fee is $70 per company + $25 per card."
+    }
+  ]
+}

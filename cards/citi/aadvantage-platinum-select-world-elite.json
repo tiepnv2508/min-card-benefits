@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "a497d6ba509538db9e3e4a3e5e313fe9",
+  "name": "AAdvantage Platinum Select World Elite",
+  "issuer": "CITI",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "turo"
+      ],
+      "matchVerified": false,
+      "id": "turo-credit",
+      "name": "Turo credit",
+      "type": "credit",
+      "value": 180,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Up to $30 per trip, $180 per year; link card at Turo.com/AAdvantagePlatinum."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "flight-discount",
+      "name": "AA Flight Discount",
+      "value": 125,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Only after $20,000+ in purchases in the cardmembership year and renewal."
+    }
+  ]
+}

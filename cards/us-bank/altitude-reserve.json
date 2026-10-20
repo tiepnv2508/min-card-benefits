@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "f81e751b8d46af2e7c84cc4cf4083dec",
+  "name": "Altitude Reserve",
+  "issuer": "US_BANK",
+  "annualFee": 400,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/news/us-bank-altitude-reserve-card-changes/",
+    "https://www.uscreditcardguide.com/us-bank-altitude-reserve-credit-card/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "travel"
+      ],
+      "matchVerified": false,
+      "id": "travel-credit",
+      "name": "Travel credit",
+      "type": "credit",
+      "value": 325,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Up to $325 in statement credits per cardmember year. Since Dec 15, 2025 only purchases made through the U.S. Bank Travel Center qualify (previously any travel and dining). Closed to new applicants."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "priority-pass-visits",
+      "name": "Priority Pass visits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "8 complimentary Priority Pass lounge visits per membership year. Restaurants no longer eligible per U.S. Bank; guest visits count toward the total."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 100,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Statement credit toward TSA PreCheck or Global Entry application fee once every four years (up to $100; may be up to $120 for Global Entry per current terms)."
+    }
+  ]
+}

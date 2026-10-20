@@ -1,0 +1,107 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "c7698b8b99a60ae3ccdd4d880ff5fe68",
+  "name": "JetBlue Premier",
+  "issuer": "BARCLAYS",
+  "annualFee": 499,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",
+    "https://www.nerdwallet.com/credit-cards/news/jetblue-premier-new-perks",
+    "https://upgradedpoints.com/news/jetblue-premier-card-adds-perks-2026/"
+  ],
+  "benefits": [
+    {
+      "id": "trueblue-travel-credit",
+      "name": "TrueBlue Travel credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "trueblue",
+        "paisly"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $300 in statement credits per calendar year on hotels, car rentals, cruises and other bookings made through TrueBlue Travel (formerly Paisly by JetBlue). Before the April 2026 refresh it was $50 back per $250+ Paisly purchase, up to 6 times a year."
+    },
+    {
+      "id": "global-entry-precheck",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "precheck",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 statement credit for the Global Entry or TSA PreCheck application fee every 4 years."
+    },
+    {
+      "id": "anniversary-points",
+      "name": "Anniversary 5,000 points",
+      "type": "perk",
+      "value": 65,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5,000 TrueBlue points each year after the account anniversary (from year two); value is an estimate (~1.3 cents/point)."
+    },
+    {
+      "id": "mosaic-tiles-bonus",
+      "name": "25-tile Mosaic bonus",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25 Mosaic tiles credited after each calendar year-end toward next year's Mosaic status."
+    },
+    {
+      "id": "companion-pass-500",
+      "name": "Companion pass ($15k spend)",
+      "type": "perk",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Companion pass worth up to $500, applied as a statement credit after travel, earned after $15,000 in eligible purchases in a calendar year."
+    },
+    {
+      "id": "companion-pass-1500",
+      "name": "Companion pass ($75k spend)",
+      "type": "perk",
+      "value": 1500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Second companion pass worth up to $1,500, applied as a statement credit after travel, earned after $75,000 total eligible purchases in a calendar year."
+    }
+  ]
+}

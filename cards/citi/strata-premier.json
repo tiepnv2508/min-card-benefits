@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "d7e2e5b5e595ca6510c101349c914513",
+  "name": "Strata Premier",
+  "issuer": "CITI",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-strata-premier-credit-card"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "hotel-benefit",
+      "name": "Citi Travel hotel benefit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "notes": "$100 off a single hotel stay of $500+ (excl. taxes/fees) booked via cititravel.com; applied at booking."
+    }
+  ]
+}

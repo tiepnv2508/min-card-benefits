@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "9a35bfe5845f7f9909244b1e3549b7e1",
+  "name": "Altitude Connect",
+  "issuer": "US_BANK",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
+    "https://www.nerdwallet.com/credit-cards/reviews/us-bank-altitude-connect"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "priority-pass-visits",
+      "name": "Priority Pass visits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "4 complimentary Priority Pass lounge visits per membership year. Priority Pass Select membership requires enrollment at prioritypass.com."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 100,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Up to $100 toward TSA PreCheck or Global Entry application fee once every four years."
+    }
+  ]
+}

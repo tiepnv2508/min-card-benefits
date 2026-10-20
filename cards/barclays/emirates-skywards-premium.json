@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "990a75f557890d22402183b20a8fe09d",
+  "name": "Emirates Skywards Premium World Elite",
+  "issuer": "BARCLAYS",
+  "annualFee": 499,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/"
+  ],
+  "benefits": [
+    {
+      "id": "global-entry-precheck",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 60,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "precheck",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "One Global Entry or TSA PreCheck application fee (up to $120) every five years, per Barclays terms."
+    },
+    {
+      "id": "anniversary-miles",
+      "name": "10,000 anniversary miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000 Skywards Miles each cardmembership year after spending $30,000 on purchases."
+    }
+  ]
+}

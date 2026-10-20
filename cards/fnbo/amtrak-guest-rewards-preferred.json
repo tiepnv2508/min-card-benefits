@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "4a2f48392c94bc6b0ef9b6d30153bddc",
+  "name": "Amtrak Guest Rewards Preferred",
+  "issuer": "FNBO",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/reviews/amtrak-guest-rewards-preferred-mastercard/"
+  ],
+  "benefits": [
+    {
+      "id": "companion-coupon",
+      "name": "Companion coupon",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Round-trip companion coupon at account opening and each card anniversary."
+    },
+    {
+      "id": "upgrade-coupon",
+      "name": "One-class upgrade coupon",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One single-class upgrade certificate each year."
+    },
+    {
+      "id": "station-lounge-pass",
+      "name": "Station lounge pass",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One Amtrak station lounge pass each year."
+    }
+  ]
+}

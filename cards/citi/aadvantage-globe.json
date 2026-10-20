@@ -1,0 +1,108 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "c6b04cf07dd821ddcfba3dbe398a4b31",
+  "name": "AAdvantage Globe",
+  "issuer": "CITI",
+  "annualFee": 350,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "splurge",
+        "1stdibs",
+        "livenation"
+      ],
+      "matchVerified": false,
+      "id": "splurge-credit",
+      "name": "Splurge Credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "notes": "Choose up to 2 of: 1stDibs, AAdvantage Hotels bookings, Future Personal Training, Live Nation."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "turo"
+      ],
+      "matchVerified": false,
+      "id": "turo-credit",
+      "name": "Turo credit",
+      "type": "credit",
+      "value": 240,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Up to $30 per trip, $240 per calendar year; link card at Turo.com/Globe."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "inflight"
+      ],
+      "matchVerified": false,
+      "id": "inflight-credit",
+      "name": "Inflight purchase credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "admirals-club-passes",
+      "name": "Admirals Club Globe passes",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "lounge",
+      "notes": "4 passes per calendar year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "companion-certificate",
+      "name": "Companion Certificate",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Each renewal from year two; $99 + taxes/fees for a domestic main cabin companion."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

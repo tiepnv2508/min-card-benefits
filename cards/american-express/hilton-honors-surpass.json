@@ -1,0 +1,71 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "f6c6aa50b533b758df7be5151d805571",
+  "name": "Hilton Honors Surpass",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 150,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.hilton.com/en/hilton-honors/credit-cards/",
+    "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/"
+  ],
+  "benefits": [
+    {
+      "id": "hilton-credit",
+      "name": "Hilton credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "hilton"
+      ],
+      "matchVerified": false,
+      "notes": "Eligible purchases made directly with a Hilton property."
+    },
+    {
+      "id": "free-night-15k",
+      "name": "Free Night after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Free Night Reward after $15,000 of purchases in a calendar year."
+    },
+    {
+      "id": "gold-status",
+      "name": "Hilton Honors Gold",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Diamond status after $40,000 in a calendar year."
+    },
+    {
+      "id": "national-executive-status",
+      "name": "National Emerald Club Executive",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    }
+  ]
+}

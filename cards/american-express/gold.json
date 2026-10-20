@@ -1,0 +1,99 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "cafe43d37256bec116dff4be6cced2cf",
+  "name": "Gold",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 325,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+    "https://upgradedpoints.com/news/amex-gold-easier-to-use-benefits-refresh/"
+  ],
+  "benefits": [
+    {
+      "id": "dining-credit",
+      "name": "Dining credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "dining"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "AMEX Dining Credit"
+      ],
+      "notes": "Grubhub (incl. Seamless), Buffalo Wild Wings, Five Guys, The Cheesecake Factory and Wonder (BWW and Wonder added April 2026)."
+    },
+    {
+      "id": "uber-cash",
+      "name": "Uber Cash",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 Uber Cash each month for U.S. Uber rides or Uber Eats; card must be added to the Uber app."
+    },
+    {
+      "id": "resy-credit",
+      "name": "Resy credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "resy"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "AMEX RESY CREDIT"
+      ],
+      "notes": "Up to $50 Jan-Jun and $50 Jul-Dec at U.S. Resy restaurants."
+    },
+    {
+      "id": "dunkin-credit",
+      "name": "Dunkin' credit",
+      "type": "credit",
+      "value": 7,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "dunkin",
+        "donuts"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Dunkin' Donuts"
+      ],
+      "notes": "U.S. Dunkin' locations."
+    },
+    {
+      "id": "hertz-five-star",
+      "name": "Hertz Five Star status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    }
+  ]
+}

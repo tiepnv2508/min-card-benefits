@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "f6ff3383cc6c52a81eb4715eb8d5de03",
+  "name": "AAdvantage Business World Elite",
+  "issuer": "CITI",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "companion-certificate",
+      "name": "Companion Certificate",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Only after $30,000+ in purchases in the cardmembership year and renewal; $99 + taxes/fees."
+    }
+  ]
+}

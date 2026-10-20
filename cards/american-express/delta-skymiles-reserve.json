@@ -1,0 +1,138 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "2a3949c2232cf6646a59531728264a5c",
+  "name": "Delta SkyMiles Reserve",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 650,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
+    "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+  ],
+  "benefits": [
+    {
+      "id": "delta-stays-credit",
+      "name": "Delta Stays credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "stays",
+        "delta"
+      ],
+      "matchVerified": false,
+      "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
+    },
+    {
+      "id": "resy-credit",
+      "name": "Resy credit",
+      "type": "credit",
+      "value": 20,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "resy"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. Resy restaurants."
+    },
+    {
+      "id": "rideshare-credit",
+      "name": "Rideshare credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "rideshare"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. rideshare purchases with select providers (Uber, Lyft, Curb, Alto)."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+    },
+    {
+      "id": "companion-certificate",
+      "name": "Companion Certificate",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Round-trip companion certificate each card renewal (First Class, Delta Comfort, Premium Select or Main Cabin); domestic, Caribbean and Central America; also usable on Delta Vacations since June 2026."
+    },
+    {
+      "id": "sky-club-access",
+      "name": "Delta Sky Club access",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 visits per Medallion year when flying Delta (unlimited after $75,000 calendar-year spend); Centurion Lounge access when flying Delta."
+    },
+    {
+      "id": "mqd-headstart",
+      "name": "MQD Headstart (2,500 MQDs)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "2,500 Medallion Qualification Dollars each Medallion year."
+    },
+    {
+      "id": "free-checked-bags",
+      "name": "Free checked bags",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
+    }
+  ]
+}

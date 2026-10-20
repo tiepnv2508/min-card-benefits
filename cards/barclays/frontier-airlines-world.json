@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "e33d8701c8e81d5befe82ec5ed5cda23",
+  "name": "Frontier Airlines World",
+  "issuer": "BARCLAYS",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/"
+  ],
+  "benefits": [
+    {
+      "id": "flight-voucher",
+      "name": "$100 flight voucher",
+      "type": "perk",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$100 Frontier flight voucher each account anniversary after spending $2,500+ in the cardmember year. Voucher excludes taxes/fees and is valid 180 days."
+    }
+  ]
+}

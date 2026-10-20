@@ -1,0 +1,85 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "1d2ff07648fdd4b06d89ef0309f1c4cb",
+  "name": "Venture X Business",
+  "issuer": "CAPITAL_ONE",
+  "annualFee": 395,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "travel-credit",
+      "name": "Business Travel credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Bookings through Capital One Business Travel; applied in the portal, expires on the account anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "anniversary-miles",
+      "name": "Anniversary bonus miles",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "10,000 miles each account anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "capital-one-lounges",
+      "name": "Capital One Lounge access",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "priority-pass",
+      "name": "Priority Pass",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

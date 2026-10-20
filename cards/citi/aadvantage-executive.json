@@ -1,0 +1,142 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "3543149f6555df6f7e4974923c55d853",
+  "name": "AAdvantage Executive",
+  "issuer": "CITI",
+  "annualFee": 695,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
+    "https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/",
+    "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "admirals-club",
+      "name": "Admirals Club membership",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "Primary cardmember + up to 2 guests."
+    },
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "lyft-credit",
+      "name": "Lyft credit",
+      "type": "credit",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "notes": "Lyft credit after 3 eligible rides in a calendar month (was $10 before the Aug 2026 refresh)."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "vacations",
+        "aavacations"
+      ],
+      "matchVerified": false,
+      "id": "aa-vacations-credit",
+      "name": "AA Vacations credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Up to $250 Jan-Jun and $250 Jul-Dec on American Airlines Vacations packages. Added Aug 2026."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "inflight",
+        "admirals"
+      ],
+      "matchVerified": false,
+      "id": "inflight-admirals-credit",
+      "name": "Inflight & Admirals Club credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "avis",
+        "budget"
+      ],
+      "matchVerified": false,
+      "id": "avis-budget-credit",
+      "name": "Avis/Budget credit",
+      "type": "credit",
+      "value": 120,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Prepaid rentals booked directly with Avis or Budget."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "grubhub"
+      ],
+      "matchVerified": false,
+      "id": "grubhub-credit",
+      "name": "Grubhub credit (legacy)",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "anniversary",
+      "category": "dining",
+      "endDate": "2027-08-31",
+      "notes": "Per billing statement. Only for accounts opened before Aug 23, 2026; ends Aug 31, 2027."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "omni-free-night",
+      "name": "Omni free night",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "notes": "Earned after a qualifying 2+ night stay booked directly with Omni; requires Omni Champion enrollment. Added Aug 2026."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

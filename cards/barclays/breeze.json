@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "b52f6b684aec5d5b2465c27e6ccd1adc",
+  "name": "Breeze",
+  "issuer": "BARCLAYS",
+  "annualFee": 89,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/breeze-airways/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-points",
+      "name": "7,500 anniversary BreezePoints",
+      "type": "perk",
+      "value": 75,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "7,500 BreezePoints after every account anniversary with eligible purchases (BreezePoints are worth 1 cent each)."
+    }
+  ]
+}

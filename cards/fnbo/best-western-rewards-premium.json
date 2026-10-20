@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "cf10cfcfab787460b24ecbf8b76f7bdc",
+  "name": "Best Western Rewards Premium",
+  "issuer": "FNBO",
+  "annualFee": 89,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/best-western-rewards-premium-visa-signature-card/",
+    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-free-night",
+      "name": "Anniversary free night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One free night award each cardmember anniversary at Best Western properties in the U.S., Canada or Caribbean."
+    },
+    {
+      "id": "spend-free-night",
+      "name": "Free night ($10k spend)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Second free night award after spending $10,000 net in the cardmember year. The relaunched card is issued by Mercury Financial."
+    }
+  ]
+}

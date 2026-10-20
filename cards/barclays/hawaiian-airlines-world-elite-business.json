@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "9cbc127f6a0a485b64a7ddb5ed52d931",
+  "name": "Hawaiian Airlines World Elite Business",
+  "issuer": "BARCLAYS",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://thepointsguy.com/credit-cards/reviews/hawaiian-airlines-business-card-review/",
+    "https://finance.yahoo.com/personal-finance/credit-cards/review/hawaiian-airlines-world-elite-business-mastercard-184551949.html"
+  ],
+  "benefits": [
+    {
+      "id": "annual-spend-bonus",
+      "name": "Annual spend bonus points",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "20,000 bonus points after $50,000-$99,999 in purchases in the account year, or 40,000 total after $100,000+. Now Atmos Rewards points."
+    }
+  ]
+}

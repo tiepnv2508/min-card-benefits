@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "dfdf46ff6cbfcea7b738c7092e00af78",
+  "name": "Expedia One Key+",
+  "issuer": "WELLS_FARGO",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/reviews/one-key-plus-card/",
+    "https://www.nerdwallet.com/travel/learn/is-the-one-key-card-worth-its-annual-fee"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "anniversary-onekeycash",
+      "name": "Anniversary OneKeyCash",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "$100 OneKeyCash deposited to the One Key account each card anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

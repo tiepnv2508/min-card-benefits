@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "b523a3cc7d6d355737b1c4dda1eb7a04",
+  "name": "Altitude Go",
+  "issuer": "US_BANK",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "streaming"
+      ],
+      "matchVerified": false,
+      "id": "streaming-credit",
+      "name": "Streaming credit",
+      "type": "credit",
+      "value": 15,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "entertainment",
+      "notes": "Posts within 2 billing cycles after 11 consecutive calendar months of eligible streaming service purchases (rolling 12-month cycle)."
+    }
+  ]
+}

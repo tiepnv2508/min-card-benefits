@@ -1,0 +1,105 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "4d2115812f09d194440ef99b1a5210cd",
+  "name": "Marriott Bonvoy Brilliant",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 650,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+    "https://www.uscreditcardguide.com/amex-spg-luxury-credit-card/",
+    "https://frequentmiler.com/amex-marriott-bonvoy-brilliant-credit-card-review/"
+  ],
+  "benefits": [
+    {
+      "id": "dining-credit",
+      "name": "Dining credit",
+      "type": "credit",
+      "value": 25,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "dining"
+      ],
+      "matchVerified": false,
+      "notes": "Eligible purchases at restaurants worldwide. Descriptor not verified."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "Global Entry (every 4 years) or TSA PreCheck (every 4.5 years) application fee. Sources differ on the cap ($100 vs $120)."
+    },
+    {
+      "id": "free-night-award",
+      "name": "Free Night Award (85K)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One free night (up to 85,000 points; points top-up allowed) each card anniversary."
+    },
+    {
+      "id": "free-night-60k",
+      "name": "$60K spend choice benefit",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "After $60,000 in a calendar year: choose a second 85K free night or another Brilliant Earned Choice Award."
+    },
+    {
+      "id": "platinum-status",
+      "name": "Marriott Bonvoy Platinum Elite",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "elite-night-credits",
+      "name": "25 Elite Night Credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "25 Elite Night Credits toward status each calendar year."
+    }
+  ]
+}

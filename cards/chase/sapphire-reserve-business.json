@@ -1,0 +1,224 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "5d8c589d1e7c1294d04fa6e4a2685624",
+  "name": "Sapphire Reserve Business",
+  "issuer": "CHASE",
+  "annualFee": 795,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
+    "https://www.doctorofcredit.com/chase-sapphire-reserve-for-business-increases-the-edit-credit-to-1000-per-year-4-x-250/",
+    "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/"
+  ],
+  "benefits": [
+    {
+      "id": "travel-credit",
+      "name": "Annual travel credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "travel"
+      ],
+      "matchVerified": false,
+      "notes": "Automatic statement credits on travel purchases; resets each cardmember year. Descriptor assumed same as the personal Reserve (\"TRAVEL CREDIT $300/YEAR\")."
+    },
+    {
+      "id": "the-edit-credit",
+      "name": "The Edit hotel credit",
+      "type": "credit",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "edit"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $250 per prepaid 2+ night stay booked through The Edit, $500 per calendar year. From 1/1/2027: four $250 credits ($1,000/yr). Not for employee cards."
+    },
+    {
+      "id": "select-hotels-credit",
+      "name": "Select hotels credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "hotel"
+      ],
+      "matchVerified": false,
+      "notes": "2026 only: prepaid 2+ night Chase Travel stays at IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific.",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "google-workspace-credit",
+      "name": "Google Workspace credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "google",
+        "workspace"
+      ],
+      "matchVerified": false,
+      "notes": "Purchases made directly with Google Workspace.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "ziprecruiter-credit",
+      "name": "ZipRecruiter credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "ziprecruiter"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $200 Jan–Jun and $200 Jul–Dec on direct ZipRecruiter purchases.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "gift-card-credit",
+      "name": "Gift card credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "gift",
+        "giftcards"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $50 Jan–Jun and $50 Jul–Dec on gift cards from giftcards.com/reservebusiness.",
+      "endDate": "2028-10-31"
+    },
+    {
+      "id": "lyft-credit",
+      "name": "Lyft credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 in-app Lyft credit each month; add the card in the Lyft app.",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "doordash-promos",
+      "name": "DoorDash promos",
+      "type": "credit",
+      "value": 25,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "With DashPass activated via the card: $5 restaurant promo + two $10 non-restaurant promos each month.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary DashPass; activate by 12/31/2027."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "global",
+        "nexus"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+    },
+    {
+      "id": "priority-pass",
+      "name": "Priority Pass Select",
+      "type": "perk",
+      "value": 469,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Priority Pass Select membership plus Chase Sapphire Lounge access and select Air Canada Maple Leaf Lounges. Not for employee cards."
+    },
+    {
+      "id": "shops-at-chase-credit",
+      "name": "The Shops at Chase credit",
+      "type": "credit",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Only after $120,000 spend in a calendar year: $500 at The Shops at Chase for the rest of that year and the next."
+    },
+    {
+      "id": "southwest-credit",
+      "name": "Southwest Chase Travel credit",
+      "type": "credit",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "southwest"
+      ],
+      "matchVerified": false,
+      "notes": "Only after $120,000 spend in a calendar year: $500 on Southwest flights booked through Chase Travel. Descriptor unverified."
+    }
+  ]
+}

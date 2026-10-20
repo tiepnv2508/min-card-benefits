@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "fafac50a80daae929873eca389fafd15",
+  "name": "JetBlue Plus",
+  "issuer": "BARCLAYS",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-points",
+      "name": "Anniversary 5,000 points",
+      "type": "perk",
+      "value": 65,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5,000 TrueBlue points each year after the account anniversary; value is an estimate (~1.3 cents/point)."
+    },
+    {
+      "id": "jetblue-vacations-credit",
+      "name": "JetBlue Vacations credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "vacations",
+        "jetblue"
+      ],
+      "matchVerified": false,
+      "notes": "$100 statement credit after buying a JetBlue Vacations package of $100 or more with the card; one per calendar year."
+    }
+  ]
+}

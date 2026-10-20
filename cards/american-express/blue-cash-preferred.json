@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "04abf9273e03fbe626fe80a9ffd53523",
+  "name": "Blue Cash Preferred",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
+    "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/"
+  ],
+  "benefits": [
+    {
+      "id": "disney-streaming-credit",
+      "name": "Disney streaming credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "disney"
+      ],
+      "matchVerified": false,
+      "notes": "Monthly subscriptions at DisneyPlus.com, Hulu.com or Stream.ESPN.com (incl. bundles). Raised from $7 to $10 in late 2025; no minimum spend."
+    }
+  ]
+}

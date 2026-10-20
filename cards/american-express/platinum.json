@@ -1,0 +1,281 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "ec1872dfd8a65491a33bae2da4dd487f",
+  "name": "Platinum",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 895,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+    "https://upgradedpoints.com/credit-cards/reviews/american-express-platinum-card/benefits/",
+    "https://frequentmiler.com/amex-removes-saks-benefit-for-new-platinum-cardholders-cardholders-prior-to-3-26-unaffected/",
+    "https://upgradedpoints.com/news/clear-plus-membership-price-increase-july-2026/"
+  ],
+  "benefits": [
+    {
+      "id": "hotel-credit",
+      "name": "FHR / Hotel Collection credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "hotel",
+        "platinum"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
+    },
+    {
+      "id": "resy-credit",
+      "name": "Resy credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "resy"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $100 per quarter at U.S. Resy restaurants."
+    },
+    {
+      "id": "digital-entertainment-credit",
+      "name": "Digital entertainment credit",
+      "type": "credit",
+      "value": 25,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "entertainment",
+        "digital"
+      ],
+      "matchVerified": false,
+      "notes": "Disney+, Hulu, ESPN streaming, Paramount+, Peacock, YouTube Premium/TV, The New York Times, The Wall Street Journal."
+    },
+    {
+      "id": "lululemon-credit",
+      "name": "lululemon credit",
+      "type": "credit",
+      "value": 75,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "lululemon"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. lululemon stores (excl. outlets) and lululemon.com."
+    },
+    {
+      "id": "uber-cash",
+      "name": "Uber Cash",
+      "type": "credit",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$15 Uber Cash each month plus a bonus $20 in December ($35 in December, $200/yr). Card must be added to the Uber app; loaded as Uber Cash, no statement credit."
+    },
+    {
+      "id": "uber-one-credit",
+      "name": "Uber One credit",
+      "type": "credit",
+      "value": 120,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "uber",
+        "one"
+      ],
+      "matchVerified": false,
+      "notes": "Statement credits for an auto-renewing Uber One membership charged to the card, up to $120 per calendar year."
+    },
+    {
+      "id": "airline-fee-credit",
+      "name": "Airline fee credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "airline",
+        "reimbursement"
+      ],
+      "matchVerified": false,
+      "notes": "Incidental fees on one selected airline. Business Platinum posts as \"AMEX Airline Fee Reimbursement\"."
+    },
+    {
+      "id": "clear-plus-credit",
+      "name": "CLEAR+ credit",
+      "type": "credit",
+      "value": 219,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "clear"
+      ],
+      "matchVerified": false,
+      "notes": "Raised from $209 to $219 on July 1, 2026 to match the CLEAR+ price increase."
+    },
+    {
+      "id": "walmart-plus-credit",
+      "name": "Walmart+ credit",
+      "type": "credit",
+      "value": 12.95,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "walmart"
+      ],
+      "matchVerified": false,
+      "notes": "Covers one monthly Walmart+ membership ($12.95 plus applicable taxes)."
+    },
+    {
+      "id": "equinox-credit",
+      "name": "Equinox credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "equinox"
+      ],
+      "matchVerified": false,
+      "notes": "Equinox club membership or Equinox+ digital subscription, up to $300 per calendar year."
+    },
+    {
+      "id": "oura-credit",
+      "name": "Oura Ring credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "oura"
+      ],
+      "matchVerified": false,
+      "notes": "Oura Ring hardware purchased at ouraring.com (not the subscription)."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+    },
+    {
+      "id": "lounge-access",
+      "name": "Global Lounge Collection",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
+    },
+    {
+      "id": "marriott-gold-status",
+      "name": "Marriott Bonvoy Gold Elite",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "hilton-gold-status",
+      "name": "Hilton Honors Gold",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "leaders-club-status",
+      "name": "Leaders Club Sterling status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "The Leading Hotels of the World."
+    },
+    {
+      "id": "car-rental-status",
+      "name": "Car rental elite status",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."
+    }
+  ]
+}

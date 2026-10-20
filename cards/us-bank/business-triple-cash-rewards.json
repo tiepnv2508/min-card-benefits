@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "a9fe40efecc22039a980c039bb6841be",
+  "name": "Business Triple Cash Rewards",
+  "issuer": "US_BANK",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
+    "https://www.nerdwallet.com/business/credit-cards/reviews/us-bank-business-triple-cash-rewards-world-elite"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "software"
+      ],
+      "matchVerified": false,
+      "id": "software-credit",
+      "name": "Software services credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "shopping",
+      "notes": "Up to $100 per 12-month period, posted within 1-2 billing cycles after 11 consecutive months of eligible software service purchases (e.g. FreshBooks, QuickBooks) made directly with the provider."
+    }
+  ]
+}

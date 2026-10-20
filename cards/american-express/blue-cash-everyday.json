@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "6980c320c341292b63273e4362601aa8",
+  "name": "Blue Cash Everyday",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",
+    "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/"
+  ],
+  "benefits": [
+    {
+      "id": "disney-streaming-credit",
+      "name": "Disney streaming credit",
+      "type": "credit",
+      "value": 7,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "disney"
+      ],
+      "matchVerified": false,
+      "notes": "Monthly subscriptions at DisneyPlus.com, Hulu.com or Stream.ESPN.com (incl. bundles); no minimum spend."
+    },
+    {
+      "id": "home-chef-credit",
+      "name": "Home Chef credit",
+      "type": "credit",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "home",
+        "chef"
+      ],
+      "matchVerified": false,
+      "notes": "Home Chef meal kits purchased online."
+    }
+  ]
+}

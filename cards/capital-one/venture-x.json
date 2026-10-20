@@ -1,0 +1,87 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "9aa036266b8cc7e7512a630efdecae0b",
+  "name": "Venture X",
+  "issuer": "CAPITAL_ONE",
+  "annualFee": 395,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.capitalone.com/credit-cards/venture-x/",
+    "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
+    "https://upgradedpoints.com/credit-cards/reviews/capital-one-venture-x/benefits-history/"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "travel-credit",
+      "name": "Capital One Travel credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Bookings through Capital One Travel; applied at portal checkout."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "anniversary-miles",
+      "name": "Anniversary bonus miles",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "10,000 miles each account anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "capital-one-lounges",
+      "name": "Capital One Lounge access",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "priority-pass",
+      "name": "Priority Pass",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "77e3ef2fc9c35498ba1a3f46a63235cb",
+  "name": "Sapphire Reserve",
+  "issuer": "CHASE",
+  "annualFee": 795,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+    "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/",
+    "https://frequentmiler.com/new-sapphire-reserve-benefit-for-2026-a-250-credit-for-select-chase-travel%E2%84%A0-hotels/"
+  ],
+  "benefits": [
+    {
+      "id": "travel-credit",
+      "name": "Annual travel credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "travel"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "TRAVEL CREDIT $300/YEAR"
+      ],
+      "notes": "Automatic statement credits on any travel purchase; resets each cardmember year."
+    },
+    {
+      "id": "the-edit-credit",
+      "name": "The Edit hotel credit",
+      "type": "credit",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "edit"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "THE EDIT $500/YEAR CREDIT"
+      ],
+      "notes": "Two separate up-to-$250 credits per calendar year for prepaid 2+ night stays booked through The Edit by Chase Travel (since 2026 usable any time in the year; was Jan\u2013Jun / Jul\u2013Dec in 2025)."
+    },
+    {
+      "id": "select-hotels-credit",
+      "name": "Select hotels credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "hotel"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "HOTEL CREDIT $250/YEAR"
+      ],
+      "notes": "2026 only: prepaid 2+ night stays booked through Chase Travel at IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific hotels. Stackable with The Edit credit.",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "dining-credit",
+      "name": "Exclusive Tables dining credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "dining"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "DINING CREDIT $300/YEAR"
+      ],
+      "notes": "Up to $150 Jan\u2013Jun and $150 Jul\u2013Dec at Sapphire Reserve Exclusive Tables restaurants on OpenTable."
+    },
+    {
+      "id": "stubhub-credit",
+      "name": "StubHub credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "stubhub",
+        "viagogo"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $150 Jan\u2013Jun and $150 Jul\u2013Dec on StubHub / viagogo purchases; activation required.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "peloton-credit",
+      "name": "Peloton membership credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "peloton"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $10/month in statement credits toward an eligible Peloton membership; enroll at onepeloton.com.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "lyft-credit",
+      "name": "Lyft credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 in-app Lyft credit each month; add the card as payment in the Lyft app.",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "doordash-restaurant",
+      "name": "DoorDash restaurant",
+      "type": "credit",
+      "value": 15,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Restaurant-order promo, part of the $420/yr DoorDash benefit. Monthly in-app DoorDash promos with DashPass activated through the card: one restaurant promo plus two $10 non-restaurant promos (Chase totals $420/yr). Non-cumulative.",
+      "endDate": "2029-12-31"
+    },
+    {
+      "id": "doordash-grocery",
+      "name": "DoorDash grocery",
+      "type": "credit",
+      "value": 20,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Grocery / retail (non-restaurant) promo, part of the $420/yr DoorDash benefit. Monthly in-app DoorDash promos with DashPass activated through the card: one restaurant promo plus two $10 non-restaurant promos (Chase totals $420/yr). Non-cumulative.",
+      "endDate": "2029-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary DashPass when activated with the card (activate by 12/31/2029)."
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "type": "perk",
+      "value": 12.99,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary Apple TV subscription; activate by 6/22/2027.",
+      "endDate": "2027-06-22"
+    },
+    {
+      "id": "apple-music",
+      "name": "Apple Music",
+      "type": "perk",
+      "value": 10.99,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary Apple Music subscription; activate by 6/22/2027.",
+      "endDate": "2027-06-22"
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "global",
+        "nexus"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+    },
+    {
+      "id": "priority-pass",
+      "name": "Priority Pass Select",
+      "type": "perk",
+      "value": 469,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Priority Pass Select membership (1,300+ lounges, 2 guests). Also includes Chase Sapphire Lounges and select Air Canada Maple Leaf Lounges."
+    },
+    {
+      "id": "shops-at-chase-credit",
+      "name": "The Shops at Chase credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Only after $75,000 spend in a calendar year: $250 credit at The Shops at Chase for the rest of that year and the next."
+    },
+    {
+      "id": "southwest-credit",
+      "name": "Southwest Chase Travel credit",
+      "type": "credit",
+      "value": 500,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "southwest"
+      ],
+      "matchVerified": false,
+      "notes": "Only after $75,000 spend in a calendar year: $500 credit on Southwest flights booked through Chase Travel, for the rest of that year and the next. Descriptor unverified."
+    }
+  ]
+}

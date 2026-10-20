@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "1129280627d633940e575deabdaa105f",
+  "name": "Marriott Bonvoy Business",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 125,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.marriott.com/credit-cards/marriott-bonvoy-business-american-express-card.mi",
+    "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/"
+  ],
+  "benefits": [
+    {
+      "id": "free-night-award",
+      "name": "Free Night Award (35K)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One free night (up to 35,000 points, top-up allowed) each card anniversary."
+    },
+    {
+      "id": "free-night-60k",
+      "name": "Free Night after $60K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Second 35K Free Night Award after $60,000 of purchases in a calendar year."
+    },
+    {
+      "id": "elite-night-credits",
+      "name": "15 Elite Night Credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits each calendar year (Silver Elite status included)."
+    }
+  ]
+}

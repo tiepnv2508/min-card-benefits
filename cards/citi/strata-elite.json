@@ -1,0 +1,109 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "19c94f90056968ebde2882f7bb0f1010",
+  "name": "Strata Elite",
+  "issuer": "CITI",
+  "annualFee": 595,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+    "https://thepointsguy.com/credit-cards/citi-strata-elite-statement-credits",
+    "https://onemileatatime.com/guides/citi-strata-elite-card-blacklane-credit/"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "hotel-benefit",
+      "name": "Citi Travel hotel benefit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "notes": "Hotel stay of 2+ nights booked via cititravel.com; discount applied at booking."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "splurge",
+        "1stdibs",
+        "bestbuy",
+        "livenation"
+      ],
+      "matchVerified": false,
+      "id": "splurge-credit",
+      "name": "Splurge Credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "notes": "Choose up to 2 of: 1stDibs, American Airlines, Best Buy, Future Personal Training, Live Nation."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "blacklane"
+      ],
+      "matchVerified": false,
+      "id": "blacklane-credit",
+      "name": "Blacklane credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "notes": "Up to $100 Jan-Jun and $100 Jul-Dec."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "admirals-club-passes",
+      "name": "Admirals Club passes",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "lounge",
+      "notes": "4 Admirals Club Citi Strata Elite passes per calendar year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "type": "perk",
+      "id": "priority-pass",
+      "name": "Priority Pass Select",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge"
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

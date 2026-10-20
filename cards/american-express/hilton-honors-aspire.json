@@ -1,0 +1,134 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "59c1e4c423d078c91e9b7c51d72e893d",
+  "name": "Hilton Honors Aspire",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 550,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.hilton.com/en/hilton-honors/credit-cards/",
+    "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/"
+  ],
+  "benefits": [
+    {
+      "id": "hilton-resort-credit",
+      "name": "Hilton resort credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "hilton"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Hilton"
+      ],
+      "notes": "Up to $200 Jan-Jun and $200 Jul-Dec on eligible purchases made directly with participating Hilton Resorts."
+    },
+    {
+      "id": "flight-credit",
+      "name": "Flight credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "flight",
+        "airline"
+      ],
+      "matchVerified": false,
+      "notes": "Flights purchased directly with any airline or via AmexTravel.com. Descriptor not verified."
+    },
+    {
+      "id": "clear-plus-credit",
+      "name": "CLEAR+ credit",
+      "type": "credit",
+      "value": 219,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "clear"
+      ],
+      "matchVerified": false,
+      "notes": "Raised from $209 to $219 on July 1, 2026 to match the CLEAR+ price increase."
+    },
+    {
+      "id": "free-night-reward",
+      "name": "Free Night Reward",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "One weekend/weeknight Free Night Reward each card anniversary."
+    },
+    {
+      "id": "free-night-30k",
+      "name": "Free Night after $30K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Additional Free Night Reward after $30,000 of purchases in a calendar year."
+    },
+    {
+      "id": "free-night-60k",
+      "name": "Free Night after $60K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Additional Free Night Reward after $60,000 of purchases in a calendar year."
+    },
+    {
+      "id": "diamond-status",
+      "name": "Hilton Honors Diamond",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "national-executive-status",
+      "name": "National Emerald Club Executive",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    }
+  ]
+}

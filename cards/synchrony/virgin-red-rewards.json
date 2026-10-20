@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "06b77b791c904e42695dd12747e89cd8",
+  "name": "Virgin Red Rewards",
+  "issuer": "SYNCHRONY",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/reviews/virgin-red-rewards-world-elite-mastercard/",
+    "https://www.bankrate.com/credit-cards/reviews/virgin-red-rewards-mastercard"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "anniversary-points",
+      "name": "Anniversary 5,000 points",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "5,000 Virgin Points each card anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "virgin-perk",
+      "name": "Virgin spend perk",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Choose one Virgin perk (Virgin Atlantic companion/upgrade voucher, Virgin Hotels free night or suite upgrade, Virgin Voyages bar tab or extras) after $15,000 calendar-year spend, and a second after $30,000."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "virgin-hotels-third-night",
+      "name": "Virgin Hotels 3rd night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "notes": "Book 2 nights, get the third free at participating Virgin Hotels once per cardholder year."
+    }
+  ]
+}

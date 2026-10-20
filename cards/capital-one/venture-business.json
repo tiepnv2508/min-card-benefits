@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "e48261ce7908f2ed8403245217f44de7",
+  "name": "Venture Business",
+  "issuer": "CAPITAL_ONE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.capitalone.com/small-business/credit-cards/venture-business/",
+    "https://www.nerdwallet.com/business/credit-cards/reviews/venture-business"
+  ],
+  "benefits": [
+    {
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "travel-credit",
+      "name": "Business Travel credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "Bookings through Capital One Business Travel; expires on the next account anniversary."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "advertising",
+        "software"
+      ],
+      "matchVerified": false,
+      "id": "advertising-software-credit",
+      "name": "Advertising/software credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "shopping",
+      "notes": "Purchases at merchants coded (MCC) as advertising or software. Descriptor unverified."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "precheck"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security"
+    }
+  ]
+}

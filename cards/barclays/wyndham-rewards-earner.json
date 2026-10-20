@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "6496ff471ffd822105f59ea276547110",
+  "name": "Wyndham Rewards Earner",
+  "issuer": "BARCLAYS",
+  "annualFee": 0,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-card/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-points",
+      "name": "7,500 anniversary points",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "7,500 Wyndham Rewards points each anniversary year if you spend $15,000 on eligible purchases."
+    }
+  ]
+}

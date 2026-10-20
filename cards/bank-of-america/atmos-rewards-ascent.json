@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "12a1230229f936ee5f7b2d333e796ab8",
+  "name": "Atmos Rewards Ascent",
+  "issuer": "BANK_OF_AMERICA",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.alaskaair.com/atmosrewards/content/credit-cards/benefits/visa-ascent",
+    "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-ascent-visa-card/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "companion-fare",
+      "name": "Companion Fare",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "$99 Companion Fare (plus taxes and fees from $23) on Alaska/Hawaiian flights within North America, issued each account anniversary after $6,000+ in purchases during the anniversary year."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "fdd9a5b1485ab0f88d0abd28c32e3b89",
+  "name": "Lufthansa Miles & More",
+  "issuer": "BARCLAYS",
+  "annualFee": 89,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard/"
+  ],
+  "benefits": [
+    {
+      "id": "companion-ticket",
+      "name": "Companion ticket",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Annual companion ticket after each account anniversary; taxes, fees and carrier surcharges apply."
+    },
+    {
+      "id": "business-lounge-vouchers",
+      "name": "Business lounge vouchers",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Two complimentary Lufthansa Business Lounge vouchers each year."
+    }
+  ]
+}

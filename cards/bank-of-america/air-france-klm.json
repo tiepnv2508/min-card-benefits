@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "f2d769efdbe2b9d8734787bc24297be6",
+  "name": "Air France KLM",
+  "issuer": "BANK_OF_AMERICA",
+  "annualFee": 89,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://thepointsguy.com/credit-cards/reviews/air-france-klm-mastercard-review",
+    "https://www.nerdwallet.com/credit-cards/learn/air-france-klm-credit-card"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "anniversary-miles",
+      "name": "Anniversary 5,000 miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "5,000 Flying Blue miles each account anniversary after spending at least $50 on purchases in the account year."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "anniversary-xp",
+      "name": "Anniversary Flying Blue XP",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "notes": "20 XP each account anniversary; additional XP on the anniversary after $15,000 and $25,000 in purchases during the anniversary year (sources differ on the exact totals)."
+    }
+  ]
+}

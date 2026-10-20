@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "1e6ddb097a524ce3b68719ae6c5eb1e8",
+  "name": "Business Altitude Connect",
+  "issuer": "US_BANK",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+    "https://www.cnbc.com/select/us-bank-business-altitude-connect-review/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "rideshare",
+        "taxi"
+      ],
+      "matchVerified": false,
+      "id": "rideshare-credit",
+      "name": "Rideshare credit",
+      "type": "credit",
+      "value": 25,
+      "frequency": "quarterly",
+      "alignment": "anniversary",
+      "category": "rideshare",
+      "notes": "$25 statement credit after every three consecutive months with a taxi or rideshare transaction on the card; rolling, so up to about four per year (not calendar quarters)."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "priority-pass-visits",
+      "name": "Priority Pass visits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "4 complimentary Priority Pass lounge visits per membership year. Priority Pass Digital membership; enroll to activate."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Up to $120 for Global Entry or up to $85 for TSA PreCheck once every four years."
+    }
+  ]
+}

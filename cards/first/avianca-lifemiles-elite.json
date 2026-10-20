@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "0bcc80cc6922e7c7d89e9c9b2efcd9e1",
+  "name": "Avianca LifeMiles Elite",
+  "issuer": "FIRST",
+  "annualFee": 249,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.cardless.com/cards/avianca/lifemiles-elite",
+    "https://upgradedpoints.com/credit-cards/reviews/avianca-lifemiles-american-express-elite-card/"
+  ],
+  "benefits": [
+    {
+      "id": "lifemiles-plus-miles",
+      "name": "LifeMiles+ monthly miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary LifeMiles+ membership: 500 miles per month (up to 6,000 per year)."
+    },
+    {
+      "id": "lounge-passes",
+      "name": "Avianca lounge passes",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Via complimentary Silver status: 2 Avianca VIP lounge passes a year for the cardholder plus 1 for a companion."
+    },
+    {
+      "id": "business-upgrades",
+      "name": "Business class upgrades",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Via Silver status: 6 upgrades to business class in the Americas per year (subject to availability; not on basic/light fares)."
+    }
+  ]
+}

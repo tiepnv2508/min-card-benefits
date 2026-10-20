@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "ad9a96ed5f730a79d0171f1f8ca92d0c",
+  "name": "Green",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 150,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://dannydealguru.com/clear-raises-membership-price-to-219/",
+    "https://yourmileagemayvary.com/2026/07/24/amex-green-card-disappeared-new-version-coming/"
+  ],
+  "benefits": [
+    {
+      "id": "clear-plus-credit",
+      "name": "CLEAR+ credit",
+      "type": "credit",
+      "value": 219,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "clear"
+      ],
+      "matchVerified": false,
+      "notes": "Raised from $209 to $219 on July 1, 2026. Card closed to new applicants July 23, 2026 and renamed \"Classic Green\" Aug 20, 2026; existing cardholders keep the credit."
+    }
+  ]
+}

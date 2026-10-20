@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "c80cdb77c3eda940e2a36abb4f943c69",
+  "name": "Ink Business Preferred",
+  "issuer": "CHASE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+    "https://www.doctorofcredit.com/chase-doordash-partnership-details-free-dashpass-10-grocery-5-restaurant-credits/"
+  ],
+  "benefits": [
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar month while DashPass (activated via the card) is active.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "At least 12 months complimentary DashPass; activate by 12/31/2027."
+    }
+  ]
+}

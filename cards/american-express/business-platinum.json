@@ -1,0 +1,272 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "656a6a4296d40de4c62cc3ec888e5018",
+  "name": "Business Platinum",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 895,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+    "https://www.uscreditcardguide.com/amex-business-platinum-card/",
+    "https://www.doctorofcredit.com/american-express-refreshes-platinum-business-platinum-cards-895-fee-175k-200k-bonus-many-new-credits/",
+    "https://thriftytraveler.com/news/credit-card/amex-business-platinum-dell-adobe-credits/",
+    "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/"
+  ],
+  "benefits": [
+    {
+      "id": "hotel-credit",
+      "name": "FHR / Hotel Collection credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "hotel",
+        "platinum"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Platinum Hotel Credit"
+      ],
+      "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel."
+    },
+    {
+      "id": "airline-fee-credit",
+      "name": "Airline fee credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "airline",
+        "reimbursement"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "AMEX Airline Fee Reimbursement"
+      ],
+      "notes": "Incidental fees on one selected airline."
+    },
+    {
+      "id": "clear-plus-credit",
+      "name": "CLEAR+ credit",
+      "type": "credit",
+      "value": 219,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "clear"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "AMEX CLEAR PLUS CREDIT"
+      ],
+      "notes": "Raised from $209 to $219 on July 1, 2026 to match the CLEAR+ price increase."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "entry",
+        "tsa"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "TSA Global Entry Fee Credit"
+      ],
+      "notes": "Up to $120 for Global Entry every 4 years, or up to $85 for TSA PreCheck (every 4.5 years per Amex terms). Interval counts from the last credit."
+    },
+    {
+      "id": "dell-credit",
+      "name": "Dell credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "dell"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Dell Statement Credit Benefit"
+      ],
+      "notes": "Up to $150 per calendar year on U.S. Dell Technologies purchases (since July 1, 2025)."
+    },
+    {
+      "id": "dell-bonus-credit",
+      "name": "Dell $5K spend bonus credit",
+      "type": "credit",
+      "value": 1000,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "dell"
+      ],
+      "matchVerified": false,
+      "notes": "Additional up to $1,000 after spending $5,000+ with Dell Technologies in a calendar year."
+    },
+    {
+      "id": "adobe-credit",
+      "name": "Adobe credit",
+      "type": "credit",
+      "value": 250,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "adobe"
+      ],
+      "matchVerified": false,
+      "notes": "$250 statement credit after spending $600+ on U.S. Adobe purchases in a calendar year."
+    },
+    {
+      "id": "indeed-credit",
+      "name": "Indeed credit",
+      "type": "credit",
+      "value": 90,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "indeed"
+      ],
+      "matchVerified": false
+    },
+    {
+      "id": "wireless-credit",
+      "name": "Wireless credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "wireless"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. wireless telephone service providers."
+    },
+    {
+      "id": "hilton-credit",
+      "name": "Hilton credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "hilton"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "Hilton"
+      ],
+      "notes": "Eligible purchases directly with Hilton properties; requires a Hilton for Business account."
+    },
+    {
+      "id": "chatgpt-business-credit",
+      "name": "ChatGPT Business credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "chatgpt"
+      ],
+      "matchVerified": true,
+      "descriptorExamples": [
+        "ChatGPT Business Credit"
+      ],
+      "notes": "U.S. ChatGPT Business subscriptions (monthly or annual), added May 2026."
+    },
+    {
+      "id": "amex-travel-flight-credit",
+      "name": "Amex Travel flight credit",
+      "type": "credit",
+      "value": 1200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Only after $250,000+ of spend in a calendar year: up to $1,200 for flights booked via Amex Travel the following year (plus up to $2,400 in One AP credits)."
+    },
+    {
+      "id": "lounge-access",
+      "name": "Global Lounge Collection",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
+    },
+    {
+      "id": "marriott-gold-status",
+      "name": "Marriott Bonvoy Gold Elite",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "hilton-gold-status",
+      "name": "Hilton Honors Gold",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    }
+  ]
+}

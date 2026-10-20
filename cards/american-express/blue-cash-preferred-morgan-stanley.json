@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "b628058009b9f1a24093028750e18112",
+  "name": "Blue Cash Preferred (Morgan Stanley)",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
+    "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/"
+  ],
+  "benefits": [
+    {
+      "id": "disney-streaming-credit",
+      "name": "Disney streaming credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "disney"
+      ],
+      "matchVerified": false,
+      "notes": "Monthly subscriptions at DisneyPlus.com, Hulu.com or Stream.ESPN.com (incl. bundles)."
+    },
+    {
+      "id": "annual-spend-credit",
+      "name": "Annual $15K spend credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "morgan",
+        "stanley"
+      ],
+      "matchVerified": false,
+      "notes": "$100 statement credit after $15,000 of eligible purchases in a calendar year. Descriptor not verified."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "653b14a655f4edc9bfc0332e9370e139",
+  "name": "Marriott Bonvoy Bevy",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 250,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+    "https://upgradedpoints.com/credit-cards/reviews/marriott-bonvoy-bevy-card/"
+  ],
+  "benefits": [
+    {
+      "id": "free-night-15k",
+      "name": "Free Night after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Free Night Award (up to 50,000 points) after $15,000 of purchases in a calendar year."
+    },
+    {
+      "id": "gold-status",
+      "name": "Marriott Bonvoy Gold Elite",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
+      "id": "elite-night-credits",
+      "name": "15 Elite Night Credits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15 Elite Night Credits each calendar year."
+    }
+  ]
+}

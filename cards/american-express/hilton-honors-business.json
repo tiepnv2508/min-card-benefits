@@ -1,0 +1,73 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "434df114291a974c876d58cf79158376",
+  "name": "Hilton Honors Business",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 195,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.hilton.com/en/hilton-honors/credit-cards/",
+    "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/"
+  ],
+  "benefits": [
+    {
+      "id": "hilton-credit",
+      "name": "Hilton credit",
+      "type": "credit",
+      "value": 60,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "hilton"
+      ],
+      "matchVerified": false,
+      "notes": "Eligible purchases made directly with a Hilton property."
+    },
+    {
+      "id": "free-night-15k",
+      "name": "Free Night after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Free Night Reward after $15,000 of purchases in a calendar year."
+    },
+    {
+      "id": "free-night-60k",
+      "name": "Free Night after $60K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Second Free Night Reward after $60,000 of purchases in a calendar year."
+    },
+    {
+      "id": "gold-status",
+      "name": "Hilton Honors Gold",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Diamond status after $40,000 in a calendar year."
+    }
+  ]
+}

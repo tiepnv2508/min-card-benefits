@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "824f4be5b9f38164fb8f44522467876e",
+  "name": "Skypass",
+  "issuer": "US_BANK",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.skypassvisa.com/credit/visaSignatureCard.do"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "korean-air-lounge-vouchers",
+      "name": "Korean Air Lounge vouchers",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "Two Korean Air Lounge vouchers after account opening and each anniversary when the annual fee is paid on time."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "ticket-discount-coupon",
+      "name": "Korean Air 5% coupon",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "notes": "One 5% discount coupon on Korean Air tickets (cardholder + one companion) each year."
+    }
+  ]
+}

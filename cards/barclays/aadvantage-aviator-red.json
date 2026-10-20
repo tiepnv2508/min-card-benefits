@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "bb54057b74adc9514885254a82fd8634",
+  "name": "AAdvantage Aviator Red World Elite",
+  "issuer": "BARCLAYS",
+  "annualFee": 99,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.cnbc.com/select/aviator-aadvantage-red-world-elite-mastercard-review/",
+    "https://thepointsguy.com/credit-cards/barclays-aadvantage-aviator-cards/",
+    "https://www.nerdwallet.com/credit-cards/news/aviator-red-cardholders-moving-to-citi-aadvantage-platinum"
+  ],
+  "benefits": [
+    {
+      "id": "inflight-wifi-credit",
+      "name": "Inflight Wi-Fi credit",
+      "type": "credit",
+      "value": 25,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "wifi",
+        "inflight"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $25 back on inflight Wi-Fi purchases on American Airlines-operated flights each account anniversary year. Card is being converted to the Citi / AAdvantage Platinum Select from April 24, 2026; this is the last known Barclays benefit set."
+    },
+    {
+      "id": "companion-certificate",
+      "name": "Companion certificate",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$99 (plus taxes/fees) domestic economy companion certificate after spending $20,000 in the account anniversary year; account must stay open 45 days past the anniversary."
+    }
+  ]
+}

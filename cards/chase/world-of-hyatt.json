@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "d378a38b56d4c9bd5e1ad184a6ce84f0",
+  "name": "World of Hyatt",
+  "issuer": "CHASE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+    "https://www.instacart.com/p/chase-cobrands"
+  ],
+  "benefits": [
+    {
+      "id": "free-night-award",
+      "name": "Anniversary free night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Free night at a Category 1–4 Hyatt hotel each cardmember anniversary."
+    },
+    {
+      "id": "spend-free-night",
+      "name": "Spend free night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Extra Category 1–4 free night after $15,000 in purchases in a calendar year."
+    },
+    {
+      "id": "instacart-credit",
+      "name": "Instacart credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 credit loaded into your Instacart+ account each month; requires an active Instacart+ membership (3 months complimentary, then paid) and an order paid with the card. Unused credit expires at month end.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "endDate": "2027-12-31"
+    }
+  ]
+}

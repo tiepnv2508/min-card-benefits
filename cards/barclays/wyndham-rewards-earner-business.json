@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "ba9027fba78b5ca88e4d9471aa9e31bd",
+  "name": "Wyndham Rewards Earner Business",
+  "issuer": "BARCLAYS",
+  "annualFee": 149,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://cards.barclaycardus.com/banking/cards/wyndham-rewards-earner-business-card/",
+    "https://www.doctorofcredit.com/barclays-refreshes-wyndham-personal-business-cards-increased-fees-added-credits-changed-points-earning/"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-points",
+      "name": "15,000 anniversary points",
+      "type": "perk",
+      "value": 135,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15,000 Wyndham Rewards points each anniversary year after the annual fee is paid. Value is an estimate (~0.9 cents/point)."
+    },
+    {
+      "id": "wholesale-club-credit",
+      "name": "Wholesale club credit",
+      "type": "credit",
+      "value": 65,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "wholesale",
+        "costco",
+        "sams"
+      ],
+      "matchVerified": false,
+      "notes": "Single $65 statement credit once $65+ is spent per calendar year on wholesale club membership or renewal fees (by merchant category code). Added in the June 2026 refresh with the $149 fee; legacy $95 cardholders may not have it."
+    }
+  ]
+}

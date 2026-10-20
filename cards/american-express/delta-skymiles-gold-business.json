@@ -1,0 +1,75 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "509a09cbd31edd8df85928d044ef7802",
+  "name": "Delta SkyMiles Gold Business",
+  "issuer": "AMERICAN_EXPRESS",
+  "annualFee": 150,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
+    "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+  ],
+  "benefits": [
+    {
+      "id": "delta-stays-credit",
+      "name": "Delta Stays credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "stays",
+        "delta"
+      ],
+      "matchVerified": false,
+      "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
+    },
+    {
+      "id": "rideshare-credit",
+      "name": "Rideshare credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "rideshare",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [
+        "rideshare"
+      ],
+      "matchVerified": false,
+      "notes": "U.S. rideshare purchases with select providers (Uber, Lyft, Curb, Alto). Available after the first card renewal (added June 2026)."
+    },
+    {
+      "id": "delta-flight-credit",
+      "name": "Delta flight credit",
+      "type": "credit",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Issued as a Delta eCredit after $10,000 of purchases in a calendar year; used on delta.com, no statement credit."
+    },
+    {
+      "id": "free-checked-bags",
+      "name": "Free checked bags",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "57f8a819c3bb4c6aa494016703281f35",
+  "name": "Sapphire Preferred",
+  "issuer": "CHASE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+    "https://www.doctorofcredit.com/chase-sapphire-preferred-adds-100-hotel-credit-3x-gas-tsa-ge-benefit-appletv-more-same-95-fee/"
+  ],
+  "benefits": [
+    {
+      "id": "hotel-credit",
+      "name": "Chase Travel hotel credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "hotel"
+      ],
+      "matchVerified": false,
+      "notes": "Statement credit on hotel stays booked through Chase Travel; resets each cardmember year. Was $50 before the June 2026 refresh."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "global",
+        "nexus"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar month with DashPass activated via the card.",
+      "endDate": "2029-12-31"
+    },
+    {
+      "id": "dashpass",
+      "name": "DashPass membership",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary DashPass when activated with the card (through 12/31/2029)."
+    }
+  ]
+}

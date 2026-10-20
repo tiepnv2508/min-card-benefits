@@ -1,0 +1,123 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "40192e08e31f059d91a108ff09ec5dd5",
+  "name": "IHG Premier",
+  "issuer": "CHASE",
+  "annualFee": 150,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+    "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
+    "https://www.instacart.com/p/chase-cobrands"
+  ],
+  "benefits": [
+    {
+      "id": "free-night-award",
+      "name": "Anniversary free night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Anniversary Free Night certificate at IHG hotels up to 50,000 points per night (top-up with points allowed)."
+    },
+    {
+      "id": "airline-credit",
+      "name": "Airline credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airline"
+      ],
+      "matchVerified": false,
+      "notes": "$100 statement credit once per calendar year after a single $250+ flight purchase directly with an airline.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "food-beverage-reward",
+      "name": "IHG food & beverage reward",
+      "type": "credit",
+      "value": 25,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "dining",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$25 food & beverage reward deposited into your IHG One Rewards account each quarter for use at IHG hotels; expires at quarter end."
+    },
+    {
+      "id": "united-travelbank",
+      "name": "United TravelBank cash",
+      "type": "credit",
+      "value": 25,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$25 United TravelBank cash Jan–Jun and Jul–Dec (link your MileagePlus account)."
+    },
+    {
+      "id": "global-entry-credit",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "global",
+        "nexus"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+    },
+    {
+      "id": "instacart-credit",
+      "name": "Instacart credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 credit loaded into your Instacart+ account each month; requires an active Instacart+ membership (3 months complimentary, then paid) and an order paid with the card. Unused credit expires at month end.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "endDate": "2027-12-31"
+    }
+  ]
+}

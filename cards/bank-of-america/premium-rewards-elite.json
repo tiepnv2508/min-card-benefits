@@ -1,0 +1,80 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "20594480e9f5656485a12e13389f60c7",
+  "name": "Premium Rewards Elite",
+  "issuer": "BANK_OF_AMERICA",
+  "annualFee": 550,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+    "https://www.doctorofcredit.com/year-end-credit-card-checklist-for-2025-travel-credits-spend-reset-application-strategy-more/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airline",
+        "incidental"
+      ],
+      "matchVerified": false,
+      "id": "airline-incidental-credit",
+      "name": "Airline incidental credit",
+      "type": "credit",
+      "value": 300,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Seat upgrades, baggage fees, airline lounge fees and in-flight services on qualifying U.S. airlines (airline MCCs). Resets January 1."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "lifestyle"
+      ],
+      "matchVerified": false,
+      "id": "lifestyle-credit",
+      "name": "Lifestyle credit",
+      "type": "credit",
+      "value": 150,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "notes": "Video streaming, food delivery, fitness subscriptions and rideshare. Resets January 1."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Up to $120 toward TSA PreCheck or Global Entry application fee once every four years."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "id": "priority-pass-visits",
+      "name": "Priority Pass visits",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "notes": "Unlimited complimentary Priority Pass lounge visits per membership year. Up to 4 complimentary Priority Pass Select memberships (unlimited visits); listed for completeness."
+    }
+  ]
+}

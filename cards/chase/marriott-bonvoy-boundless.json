@@ -1,0 +1,76 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "6a4a30b866d4d37216b9d586a15ad1cc",
+  "name": "Marriott Bonvoy Boundless",
+  "issuer": "CHASE",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+    "https://upgradedpoints.com/news/chases-marriott-boundless-card-airfare-benefit/",
+    "https://www.instacart.com/p/chase-cobrands"
+  ],
+  "benefits": [
+    {
+      "id": "free-night-award",
+      "name": "Anniversary free night",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Free Night Award each account anniversary, valid at properties up to 35,000 points (top-up allowed)."
+    },
+    {
+      "id": "airline-credit",
+      "name": "Airline credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airline"
+      ],
+      "matchVerified": false,
+      "notes": "$50 statement credit after $250+ spent directly with airlines in each period: 6/4–12/31/2026 and 1/1–6/30/2027.",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "instacart-credit",
+      "name": "Instacart credit",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 credit loaded into your Instacart+ account each month; requires an active Instacart+ membership (3 months complimentary, then paid) and an order paid with the card. Unused credit expires at month end.",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "endDate": "2027-12-31"
+    }
+  ]
+}

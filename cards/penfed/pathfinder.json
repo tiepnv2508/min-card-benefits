@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "9afcb83bfffcdc108fc3ac90a8b384da",
+  "name": "Pathfinder",
+  "issuer": "PENFED",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.penfed.org/content/dam/penfed/en/general/pdf/credit-cards/penfed-pathfinder-travel-credits.pdf",
+    "https://www.insideflyer.com/posts/penfed-pathfinder-card-fee-no-longer-waived/"
+  ],
+  "benefits": [
+    {
+      "id": "air-travel-credit",
+      "name": "Air travel incidentals credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "alaska",
+        "american",
+        "delta",
+        "frontier",
+        "hawaiian",
+        "jetblue",
+        "southwest",
+        "united"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $100 per calendar year for incidental fees (bags, seat upgrades, onboard food/drink, Wi-Fi, lounge) charged at Alaska, American, Delta, Frontier, Hawaiian, JetBlue, Southwest or United. Tickets, miles and gift cards excluded. Keywords are the airline names since the credit descriptor is unverified."
+    },
+    {
+      "id": "global-entry-precheck",
+      "name": "Global Entry / TSA PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "global",
+        "precheck",
+        "tsa"
+      ],
+      "matchVerified": false,
+      "notes": "$120 for Global Entry or $85 for TSA PreCheck, once every 4 years."
+    }
+  ]
+}

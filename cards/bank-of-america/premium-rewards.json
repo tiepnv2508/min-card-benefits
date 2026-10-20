@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "cardId": "eb8bc1a6f86dc471aa0deeca619fbf59",
+  "name": "Premium Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "annualFee": 95,
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+    "https://onemileatatime.com/guides/premium-rewards-card-airline-credit/"
+  ],
+  "benefits": [
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "airline",
+        "incidental"
+      ],
+      "matchVerified": false,
+      "id": "airline-incidental-credit",
+      "name": "Airline incidental credit",
+      "type": "credit",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "notes": "Seat upgrades, baggage fees, in-flight services and airline lounge fees on qualifying U.S. airlines (airline MCCs). Resets January 1."
+    },
+    {
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 100,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "notes": "Up to $100 toward TSA PreCheck or Global Entry application fee once every four years."
+    }
+  ]
+}
