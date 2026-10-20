@@ -11,7 +11,8 @@ Thanks for helping! Every card lives in its own file: `cards/<issuer>/<card-slug
 5. **`autoApplied: true`** (perks only) when the perk is always on while you hold the card — elite status, lounge membership, Priority Pass, free checked bags, a flight discount, points deposited automatically each anniversary. Leave it out for anything you have to redeem (free nights, companion certificates, a fixed number of lounge passes, vouchers, upgrade coupons). `node scripts/autoapplied.mjs` suggests it for new perks by name — review its diff.
 6. **`matchKeywords`** are lower-case words that appear **whole** in the posted credit's description. Use the most specific word(s): `["resy"]`, `["clear"]`, `["dunkin"]`. Generic words (`credit`, `fee`, `annual`, `amex`, `chase`…) are ignored by matchers — never rely on them alone.
 7. **`matchVerified: true` only if you've seen the credit post**, and add the exact text to `descriptorExamples`. Please redact anything personal (amounts are fine to omit).
-8. **Sources:** link the issuer's own benefits page whenever possible, and set `lastVerified` to the day you checked it.
+8. **Read the hidden parts of the page.** Issuer pages tuck benefits and their terms behind "See more benefits", "Show more", "+" accordions, tabs, "Offer details" links and footnote overlays — cadence, caps, enrollment and end dates usually live in those footnotes. Expand everything (or, when scripting, confirm that content is in the raw HTML; if it only loads on click, drive a real browser such as Playwright and click every expander). Never conclude a benefit was removed just because the visible page didn't show it.
+9. **Sources:** link the issuer's own benefits page whenever possible, and set `lastVerified` to the day you checked it.
 
 ## Workflow
 
