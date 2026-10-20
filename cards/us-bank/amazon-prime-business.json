@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-amazon-prime-business",
+  "name": "Amazon Prime Business",
+  "issuer": "US_BANK",
+  "network": "mastercard",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html",
+  "imageUrl": "https://www.usbank.com/dam/en/images/photos/business-banking/photo-amazom-prime-card-7x5.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/business-banking/business-credit-cards.html",
+    "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html"
+  ],
+  "benefits": []
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "cardCount": 178,
-  "benefitCount": 432,
+  "cardCount": 229,
+  "benefitCount": 487,
   "cards": [
     {
       "id": "amex-amazon-business",
@@ -12,14 +12,15 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/",
       "legacyIds": [
         "15cc2b7c31596c0112cfba30180ab739"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amazon-business-card/",
+        "https://www.americanexpress.com/us/customer-service/faq.amazon-program-update.html"
       ],
       "benefits": []
     },
@@ -40,7 +41,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/"
+        "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinesscash-credit-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -61,7 +63,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinessplus-credit-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -83,7 +86,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/blue-cash-everyday-card-american-express/benefits/",
-        "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/"
+        "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0"
       ],
       "benefits": [
         {
@@ -139,7 +143,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
-        "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/"
+        "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0"
       ],
       "benefits": [
         {
@@ -178,7 +183,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
-        "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/"
+        "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/",
+        "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38"
       ],
       "benefits": [
         {
@@ -235,7 +241,8 @@
       "sources": [
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
         "https://www.uscreditcardguide.com/amex-business-gold-rewards-card/",
-        "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/"
+        "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -328,7 +335,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0"
       ],
       "benefits": []
     },
@@ -353,7 +361,8 @@
         "https://www.uscreditcardguide.com/amex-business-platinum-card/",
         "https://www.doctorofcredit.com/american-express-refreshes-platinum-business-platinum-cards-895-fee-175k-200k-bonus-many-new-credits/",
         "https://thriftytraveler.com/news/credit-card/amex-business-platinum-dell-adobe-credits/",
-        "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/"
+        "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -581,6 +590,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
@@ -595,6 +605,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -608,6 +619,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         }
@@ -622,7 +634,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/cash-magnet.png",
       "legacyIds": [
@@ -630,7 +642,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/"
+        "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/",
+        "https://www.americanexpress.com/us/credit-cards/view-all-personal-credit-cards/"
       ],
       "benefits": []
     },
@@ -651,7 +664,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/"
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/26129-10-0"
       ],
       "benefits": []
     },
@@ -673,7 +687,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold-american-express-card/91101-10-0"
       ],
       "benefits": [
         {
@@ -733,6 +748,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -757,7 +773,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold/61468-9-0"
       ],
       "benefits": [
         {
@@ -817,6 +834,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -841,7 +859,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum-american-express-card/91101-10-0"
       ],
       "benefits": [
         {
@@ -936,6 +955,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -950,6 +970,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -974,7 +995,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0"
       ],
       "benefits": [
         {
@@ -1069,6 +1091,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -1083,6 +1106,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -1107,7 +1131,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0"
       ],
       "benefits": [
         {
@@ -1202,6 +1227,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15 visits per Medallion year when flying Delta (unlimited after $75,000 calendar-year spend); Centurion Lounge access when flying Delta."
@@ -1216,6 +1242,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -1230,6 +1257,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -1254,7 +1282,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+        "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+        "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve/65147-9-0?key=tncBody&rwdFlag=rwd"
       ],
       "benefits": [
         {
@@ -1349,6 +1378,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15 visits per Medallion year when flying Delta (unlimited after $75,000 calendar-year spend); Centurion Lounge access when flying Delta."
@@ -1363,6 +1393,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -1377,6 +1408,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."
@@ -1400,7 +1432,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://global.americanexpress.com/card-benefits/view-all/amex-everyday"
+        "https://global.americanexpress.com/card-benefits/view-all/amex-everyday",
+        "https://www.americanexpress.com/us/credit-cards/view-all-personal-credit-cards/"
       ],
       "benefits": []
     },
@@ -1421,7 +1454,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/card/amex-everyday-preferred/"
+        "https://www.americanexpress.com/us/credit-cards/card/amex-everyday-preferred/",
+        "https://www.americanexpress.com/us/credit-cards/view-all-personal-credit-cards/"
       ],
       "benefits": []
     },
@@ -1528,6 +1562,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         }
@@ -1542,7 +1577,7 @@
       "currency": "AMERICAN_EXPRESS",
       "annualFee": 150,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/card/green/",
       "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png",
       "legacyIds": [
@@ -1551,7 +1586,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://dannydealguru.com/clear-raises-membership-price-to-219/",
-        "https://yourmileagemayvary.com/2026/07/24/amex-green-card-disappeared-new-version-coming/"
+        "https://yourmileagemayvary.com/2026/07/24/amex-green-card-disappeared-new-version-coming/",
+        "https://www.americanexpress.com/us/credit-cards/view-all-personal-credit-cards/"
       ],
       "benefits": [
         {
@@ -1589,9 +1625,26 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.hilton.com/en/hilton-honors/credit-cards/"
+        "https://www.hilton.com/en/hilton-honors/credit-cards/",
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
       ],
-      "benefits": []
+      "benefits": [
+        {
+          "id": "silver-status",
+          "name": "Hilton Honors Silver",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Gold status through the end of the next calendar year after $20,000 in purchases in a calendar year."
+        }
+      ]
     },
     {
       "id": "amex-hilton-honors-aspire",
@@ -1611,7 +1664,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
-        "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/"
+        "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
       ],
       "benefits": [
         {
@@ -1718,6 +1772,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -1731,6 +1786,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         }
@@ -1755,7 +1811,9 @@
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
         "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-american-express-business-credit-card-amex/",
+        "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/"
       ],
       "benefits": [
         {
@@ -1775,34 +1833,6 @@
           "notes": "Eligible purchases made directly with a Hilton property."
         },
         {
-          "id": "free-night-15k",
-          "name": "Free Night after $15K spend",
-          "type": "perk",
-          "value": null,
-          "frequency": "annual",
-          "alignment": "calendar",
-          "category": "hotel",
-          "inApp": false,
-          "enrollmentRequired": false,
-          "matchKeywords": [],
-          "matchVerified": false,
-          "notes": "Free Night Reward after $15,000 of purchases in a calendar year."
-        },
-        {
-          "id": "free-night-60k",
-          "name": "Free Night after $60K spend",
-          "type": "perk",
-          "value": null,
-          "frequency": "annual",
-          "alignment": "calendar",
-          "category": "hotel",
-          "inApp": false,
-          "enrollmentRequired": false,
-          "matchKeywords": [],
-          "matchVerified": false,
-          "notes": "Second Free Night Reward after $60,000 of purchases in a calendar year."
-        },
-        {
           "id": "gold-status",
           "name": "Hilton Honors Gold",
           "type": "perk",
@@ -1812,9 +1842,24 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Diamond status after $40,000 in a calendar year."
+        },
+        {
+          "id": "national-executive-status",
+          "name": "National Emerald Club Executive",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false
         }
       ]
     },
@@ -1826,7 +1871,7 @@
       "isBusiness": false,
       "currency": "HILTON",
       "annualFee": 150,
-      "afWaivedFirstYear": false,
+      "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png",
@@ -1836,7 +1881,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
-        "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/"
+        "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
       ],
       "benefits": [
         {
@@ -1879,6 +1925,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Diamond status after $40,000 in a calendar year."
@@ -1893,6 +1940,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         }
@@ -1907,7 +1955,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
       "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/lowes-business-rewards.png",
       "legacyIds": [
@@ -1915,7 +1963,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/"
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/"
       ],
       "benefits": []
     },
@@ -1964,6 +2013,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -1977,6 +2027,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15 Elite Night Credits each calendar year."
@@ -2038,7 +2089,7 @@
             "tsa"
           ],
           "matchVerified": false,
-          "notes": "Global Entry (every 4 years) or TSA PreCheck (every 4.5 years) application fee. Sources differ on the cap ($100 vs $120)."
+          "notes": "Either a $120 Global Entry credit or up to $85 for TSA PreCheck (5-year plan); one credit per 4-year period, whichever fee is charged first."
         },
         {
           "id": "free-night-award",
@@ -2078,6 +2129,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2091,9 +2143,25 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "25 Elite Night Credits toward status each calendar year."
+        },
+        {
+          "id": "priority-pass",
+          "name": "Priority Pass",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority Pass membership with unlimited visits (enrollment required)."
         }
       ]
     },
@@ -2115,7 +2183,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.marriott.com/credit-cards/marriott-bonvoy-business-american-express-card.mi",
-        "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/"
+        "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
       ],
       "benefits": [
         {
@@ -2147,6 +2216,20 @@
           "notes": "Second 35K Free Night Award after $60,000 of purchases in a calendar year."
         },
         {
+          "id": "gold-status",
+          "name": "Marriott Bonvoy Gold Elite",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false
+        },
+        {
           "id": "elite-night-credits",
           "name": "15 Elite Night Credits",
           "type": "perk",
@@ -2156,9 +2239,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "15 Elite Night Credits each calendar year (Silver Elite status included)."
+          "notes": "15 Elite Night Credits each calendar year."
         }
       ]
     },
@@ -2392,6 +2476,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
@@ -2406,6 +2491,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2419,6 +2505,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2432,6 +2519,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "The Leading Hotels of the World."
@@ -2446,6 +2534,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."
@@ -2681,6 +2770,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
@@ -2695,6 +2785,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2708,6 +2799,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2721,6 +2813,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "The Leading Hotels of the World."
@@ -2735,6 +2828,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."
@@ -2972,6 +3066,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
@@ -2986,6 +3081,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -2999,6 +3095,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false
         },
@@ -3012,6 +3109,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "The Leading Hotels of the World."
@@ -3026,6 +3124,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."
@@ -3054,7 +3153,7 @@
       "name": "Rakuten",
       "issuer": "AMERICAN_EXPRESS",
       "network": "amex",
-      "isBusiness": true,
+      "isBusiness": false,
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
@@ -3065,7 +3164,8 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.rakuten.com/american-express-card/"
+        "https://www.rakuten.com/american-express-card/",
+        "https://www.rakuten.com/blog/rakuten-american-express-credit-card/"
       ],
       "benefits": []
     },
@@ -3094,26 +3194,28 @@
       "id": "boa-air-france-klm",
       "name": "Air France KLM",
       "issuer": "BANK_OF_AMERICA",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": false,
       "currency": "FLYING_BLUE",
       "annualFee": 89,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://wwws.airfrance.us/information/flyingblue/carte-bancaire-partenaire",
-      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_eltwldcm_mc_250x158.jpg",
+      "url": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_cmsig_v-250.png",
       "legacyIds": [
         "f2d769efdbe2b9d8734787bc24297be6"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
         "https://thepointsguy.com/credit-cards/reviews/air-france-klm-mastercard-review",
-        "https://www.nerdwallet.com/credit-cards/learn/air-france-klm-credit-card"
+        "https://www.nerdwallet.com/credit-cards/learn/air-france-klm-credit-card",
+        "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
       ],
       "benefits": [
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "anniversary-miles",
@@ -3128,6 +3230,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "anniversary-xp",
@@ -3137,9 +3240,28 @@
           "frequency": "annual",
           "alignment": "anniversary",
           "category": "bonus",
-          "notes": "20 XP each account anniversary; additional XP on the anniversary after $15,000 and $25,000 in purchases during the anniversary year (sources differ on the exact totals)."
+          "notes": "20 XP each account anniversary; 100 XP total on the anniversary after $15,000+ in purchases during the anniversary year, 160 XP total after $25,000+."
         }
       ]
+    },
+    {
+      "id": "boa-allways-rewards",
+      "name": "Allways Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "ALLEGIANT",
+      "annualFee": 59,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragp_sigcm_v_250.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+        "https://www.allegiantair.com/allegiant-credit-card-benefits"
+      ],
+      "benefits": []
     },
     {
       "id": "boa-atmos-rewards-ascent",
@@ -3188,7 +3310,7 @@
       "annualFee": 95,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards/visa-small-business",
       "imageUrl": "https://news.alaskaair.com/wp-content/uploads/2025/08/AS-Atmos-Business-Card.png",
       "legacyIds": [
         "9e42d6cf9c6dcfda0cf7d5f5f015285d"
@@ -3196,7 +3318,9 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/atmos-rewards-visa-business-card/",
-        "https://www.nerdwallet.com/business/credit-cards/reviews/atmos-rewards-visa-signature-business"
+        "https://www.nerdwallet.com/business/credit-cards/reviews/atmos-rewards-visa-signature-business",
+        "https://www.alaskaair.com/atmosrewards/content/credit-cards/visa-small-business",
+        "https://www.bankofamerica.com/smallbusiness/credit-cards/"
       ],
       "benefits": [
         {
@@ -3282,6 +3406,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "anniversary-status-points",
@@ -3324,14 +3449,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/customized_cash_rewards_1200x756.png",
       "legacyIds": [
         "4f6d71dd4d06ff960cae0990b5efda21"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-customized-cash-rewards"
       ],
       "benefits": []
     },
@@ -3345,14 +3470,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-travel-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/travel_rewards_1200x756.png",
       "legacyIds": [
         "1e75cf9ca2ccded9a621d5e8f5630c3c"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-travel-rewards"
       ],
       "benefits": []
     },
@@ -3366,14 +3491,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_1200x756.png",
       "legacyIds": [
         "a99aa675065459b90144275ac18d9ab1"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards"
       ],
       "benefits": []
     },
@@ -3407,7 +3532,7 @@
       "currency": "SPIRIT",
       "annualFee": 79,
       "afWaivedFirstYear": true,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
       "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragb_eltcm_mc_blk_250.png",
       "legacyIds": [
@@ -3415,7 +3540,27 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/"
+        "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
+        "https://www.bankofamerica.com/credit-cards/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "boa-norwegian-cruise-line",
+      "name": "Norwegian Cruise Line World",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "NORWEGIAN",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/radz_wldcm_mc_250.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+        "https://www.ncl.com/world-points"
       ],
       "benefits": []
     },
@@ -3429,14 +3574,14 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card",
+      "url": "https://business.bankofamerica.com/en/credit-cards/platinum-plus",
       "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/platinum_plus_mc_1200x756.png",
       "legacyIds": [
         "9dce80bda519a8616ca4eb288d7cc693"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card"
+        "https://business.bankofamerica.com/en/credit-cards/platinum-plus"
       ],
       "benefits": []
     },
@@ -3575,6 +3720,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "priority-pass-visits",
@@ -3587,6 +3733,110 @@
           "notes": "Unlimited complimentary Priority Pass lounge visits per membership year. Up to 4 complimentary Priority Pass Select memberships (unlimited visits); listed for completeness."
         }
       ]
+    },
+    {
+      "id": "boa-royal-one",
+      "name": "Royal ONE",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "ROYAL_CARIBBEAN",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+        "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/royal-caribbean-group-enhances-travel-loyalty--partners-with-ban.html"
+      ],
+      "benefits": [
+        {
+          "id": "anniversary-reward",
+          "name": "Anniversary cruise reward",
+          "type": "perk",
+          "value": 100,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$100 cruise discount each year after $10,000 in purchases in the cardmember year."
+        }
+      ]
+    },
+    {
+      "id": "boa-royal-one-plus",
+      "name": "Royal ONE Plus",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "ROYAL_CARIBBEAN",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+        "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/royal-caribbean-group-enhances-travel-loyalty--partners-with-ban.html"
+      ],
+      "benefits": [
+        {
+          "id": "anniversary-reward",
+          "name": "Anniversary cruise reward",
+          "type": "perk",
+          "value": 200,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$200 cruise discount each year after $20,000 in purchases in the cardmember year."
+        },
+        {
+          "id": "global-entry-precheck",
+          "name": "Global Entry / PreCheck",
+          "type": "credit",
+          "value": 120,
+          "frequency": "custom",
+          "intervalMonths": 48,
+          "alignment": "anniversary",
+          "category": "security",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [
+            "precheck",
+            "tsa",
+            "global"
+          ],
+          "matchVerified": false,
+          "notes": "Up to $120 in statement credits toward the Global Entry or TSA PreCheck application fee once every 4 years."
+        }
+      ]
+    },
+    {
+      "id": "boa-susan-g-komen-customized-cash-rewards",
+      "name": "Susan G. Komen Customized Cash Rewards",
+      "issuer": "BANK_OF_AMERICA",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/qvys_sigcm_v_250.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
+        "https://www.komen.org/livepink/pink-ribbon-banking-card/"
+      ],
+      "benefits": []
     },
     {
       "id": "boa-travel-rewards",
@@ -3638,7 +3888,7 @@
       "currency": "AMERICAN",
       "annualFee": 99,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://cards.barclaycardus.com/banking/cards/aadvantage-aviator-red-world-elite-mastercard/",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/AA2_card_rRGB_AviatorRed_WE_359x246_4074_072418.png",
       "legacyIds": [
@@ -3648,7 +3898,8 @@
       "sources": [
         "https://www.cnbc.com/select/aviator-aadvantage-red-world-elite-mastercard-review/",
         "https://thepointsguy.com/credit-cards/barclays-aadvantage-aviator-cards/",
-        "https://www.nerdwallet.com/credit-cards/news/aviator-red-cardholders-moving-to-citi-aadvantage-platinum"
+        "https://www.nerdwallet.com/credit-cards/news/aviator-red-cardholders-moving-to-citi-aadvantage-platinum",
+        "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/"
       ],
       "benefits": [
         {
@@ -3693,7 +3944,7 @@
       "currency": "AMERICAN",
       "annualFee": 95,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
       "imageUrl": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
       "legacyIds": [
@@ -3701,6 +3952,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
         "https://thepointsguy.com/credit-cards/reviews/aadvantage-aviator-business-mastercard-review",
         "https://awardwallet.com/news/credit-cards/citi-sole-issuer-aadvantage-cards/"
       ],
@@ -3729,6 +3981,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "5% bonus on the AAdvantage miles earned with the card during the year, posted after the account anniversary."
@@ -3806,6 +4059,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "7,500 BreezePoints after every account anniversary with eligible purchases (BreezePoints are worth 1 cent each)."
@@ -3814,7 +4068,7 @@
     },
     {
       "id": "barclays-carnival-world-mastercard",
-      "name": "Carnival World Mastercard",
+      "name": "Carnival Rewards Mastercard",
       "issuer": "BARCLAYS",
       "network": "mastercard",
       "isBusiness": false,
@@ -3822,14 +4076,16 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/",
+      "url": "https://cards.barclaycardus.com/banking/cards/carnival-rewards-mastercard/",
       "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/carnival/card-art/SMC_LP_Card_Carnival_447x281.png",
       "legacyIds": [
         "eddb365c3098a64170b9e4fb322b2a05"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/"
+        "https://cards.barclaycardus.com/banking/cards/carnival-rewards-mastercard/",
+        "https://cards.barclaycardus.com/banking/about-us/newsroom/carnival-cruise-line-and-barclays-launch-new-carnival-rewards-mastercard-to-accelerate-travel-experience-through-everyday-purchase-power/",
+        "https://www.carnival.com/carnival-rewards/carnival-rewards-mastercard"
       ],
       "benefits": []
     },
@@ -3882,6 +4138,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Skywards Miles each cardmembership year after spending $30,000 on purchases."
@@ -4069,6 +4326,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "5,000 TrueBlue points each year after the account anniversary; value is an estimate (~1.3 cents/point)."
@@ -4122,6 +4380,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "5,000 TrueBlue points each year after the account anniversary; value is an estimate (~1.3 cents/point)."
@@ -4213,6 +4472,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "5,000 TrueBlue points each year after the account anniversary (from year two); value is an estimate (~1.3 cents/point)."
@@ -4227,6 +4487,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "25 Mosaic tiles credited after each calendar year-end toward next year's Mosaic status."
@@ -4362,6 +4623,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "7,500 Wyndham Rewards points each anniversary year if you spend $15,000 on eligible purchases."
@@ -4399,6 +4661,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15,000 Wyndham Rewards points each anniversary year after the annual fee is paid. Value is an estimate (~0.9 cents/point)."
@@ -4455,6 +4718,7 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15,000 Wyndham Rewards points each anniversary year after the annual fee is paid (7,500 on the pre-June-2026 $75 version). Value is an estimate (~0.9 cents/point)."
@@ -4615,6 +4879,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Priority Pass membership for the cardholder and 2 guests (1,300+ lounges). Authorized users get their own membership."
@@ -4876,6 +5141,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -4890,6 +5156,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -4903,6 +5170,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -4970,6 +5238,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -4984,6 +5253,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -4997,6 +5267,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -5114,6 +5385,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Avios each cardmember anniversary."
@@ -5145,7 +5417,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -5234,7 +5506,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -5256,7 +5528,27 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.amazon.com/dp/BT00LN946S"
+        "https://www.amazon.com/dp/BT00LN946S",
+        "https://creditcards.chase.com/cash-back-credit-cards/amazon-prime-rewards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "chase-amazon-visa",
+      "name": "Amazon Visa",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/amazon_visa.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
+        "https://creditcards.chase.com/cash-back-credit-cards/amazon"
       ],
       "benefits": []
     },
@@ -5322,6 +5614,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Avios each cardmember anniversary."
@@ -5353,7 +5646,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -5406,7 +5699,83 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
+          "endDate": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chase-disney-inspire",
+      "name": "Disney Inspire",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 149,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney-inspire.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"
+      ],
+      "benefits": [
+        {
+          "id": "disney-streaming-credit",
+          "name": "Disney streaming credit",
+          "type": "perk",
+          "value": 10,
+          "frequency": "monthly",
+          "alignment": "calendar",
+          "category": "entertainment",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 statement credit each month after $10+ on Disney+, Hulu or ESPN subscriptions bought directly at DisneyPlus.com, Hulu.com or Stream.ESPN.com (annual subscriptions get a one-time $10 in the purchase month). Must activate each calendar year; credit posts 6-8 weeks after the purchase."
+        },
+        {
+          "id": "theme-park-credit",
+          "name": "Theme park ticket credit",
+          "type": "perk",
+          "value": 100,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "entertainment",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$100 statement credit after $200+ on U.S. Disney theme park tickets (incl. Magic Key passes) bought directly with Disney each anniversary year; vacation-package tickets excluded."
+        },
+        {
+          "id": "resort-rewards-dollars",
+          "name": "Disney resort Rewards Dollars",
+          "type": "perk",
+          "value": 200,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "200 Disney Rewards Dollars after $2,000+ on U.S. Disney Resort stays / Disney Cruise Line bookings made directly with Disney each anniversary year."
+        },
+        {
+          "id": "doordash-promo",
+          "name": "DoorDash promo",
+          "type": "credit",
+          "value": 10,
+          "frequency": "monthly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 off one non-restaurant DoorDash order each calendar month while enrolled in DashPass via the card (12 months complimentary, then paid); applies to DashPass activations from 9/1/2026 (activations 2/1/2025-8/31/2026 get $10 per calendar quarter instead). Offer runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -5459,8 +5828,42 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chase-doordash-rewards",
+      "name": "DoorDash Rewards",
+      "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+      "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/doordash.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/doordash"
+      ],
+      "benefits": [
+        {
+          "id": "dashpass-anniversary",
+          "name": "DashPass anniversary bonus",
+          "type": "perk",
+          "value": 96,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "dining",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Complimentary annual DashPass membership ($96 value) each year with $10,000+ in annual card spend (12 months of DashPass are complimentary at account opening)."
         }
       ]
     },
@@ -5484,6 +5887,40 @@
         "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
       ],
       "benefits": []
+    },
+    {
+      "id": "chase-freedom-rise",
+      "name": "Freedom Rise",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "CHASE",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise",
+      "imageUrl": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-rise/card_freedomRise_V.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise"
+      ],
+      "benefits": [
+        {
+          "id": "doordash-promo",
+          "name": "DoorDash promo",
+          "type": "credit",
+          "value": 10,
+          "frequency": "quarterly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+          "endDate": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "chase-freedom-unlimited",
@@ -5551,6 +5988,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2,500 Avios each cardmember anniversary."
@@ -5582,7 +6020,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -5714,7 +6152,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -5862,7 +6300,146 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
+          "endDate": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chase-ihg-premier-select",
+      "name": "IHG Premier Select",
+      "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "IHG",
+      "annualFee": 350,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg_premier_select_card.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
+      ],
+      "benefits": [
+        {
+          "id": "free-night-award",
+          "name": "Anniversary free night",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Anniversary Free Night at IHG hotels up to 60,000 points per night (top-up with points allowed)."
+        },
+        {
+          "id": "spend-free-night",
+          "name": "Spend free night",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Additional Free Night (up to 60,000 points) after $40,000 in purchases each calendar year."
+        },
+        {
+          "id": "food-beverage-reward",
+          "name": "IHG food & beverage reward",
+          "type": "credit",
+          "value": 75,
+          "frequency": "quarterly",
+          "alignment": "calendar",
+          "category": "dining",
+          "inApp": true,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$75 Food & Beverage Reward voucher each quarter for use at IHG hotels."
+        },
+        {
+          "id": "airline-credit",
+          "name": "Airline credit",
+          "type": "perk",
+          "value": 200,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$200 statement credit once per calendar year after spending $250+ on flights purchased directly with an airline, through 12/31/2027.",
+          "endDate": "2027-12-31"
+        },
+        {
+          "id": "united-travelbank",
+          "name": "United TravelBank cash",
+          "type": "credit",
+          "value": 25,
+          "frequency": "semiannual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$25 United TravelBank cash around Jan 5 and Jul 5 each year after a one-time registration at ihg.com/united; Jan-Jun deposits expire Jul 15, Jul-Dec deposits expire Jan 15."
+        },
+        {
+          "id": "global-entry-credit",
+          "name": "Global Entry / TSA PreCheck",
+          "type": "credit",
+          "value": 120,
+          "frequency": "custom",
+          "intervalMonths": 48,
+          "alignment": "anniversary",
+          "category": "security",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [
+            "precheck",
+            "global",
+            "nexus"
+          ],
+          "matchVerified": false,
+          "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+        },
+        {
+          "id": "instacart-credit",
+          "name": "Instacart credit",
+          "type": "credit",
+          "value": 10,
+          "frequency": "monthly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 credit in your Instacart+ account each month on one $10+ order paid with the card (3 months of Instacart+ complimentary). Unused credit expires at month end.",
+          "endDate": "2027-12-31"
+        },
+        {
+          "id": "doordash-promo",
+          "name": "DoorDash promo",
+          "type": "credit",
+          "value": 10,
+          "frequency": "monthly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 off one non-restaurant DoorDash order each calendar month while enrolled in DashPass via the card (12 months complimentary, then paid); applies to DashPass activations from 9/1/2026 (activations 2/1/2025-8/31/2026 get $10 per calendar quarter instead). Offer runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -5915,7 +6492,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -6004,6 +6581,7 @@
           "category": "dining",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "At least 12 months complimentary DashPass; activate by 12/31/2027."
@@ -6070,6 +6648,24 @@
       ]
     },
     {
+      "id": "chase-instacart",
+      "name": "Instacart",
+      "issuer": "CHASE",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/instacart_card.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/cash-back-credit-cards/instacart"
+      ],
+      "benefits": []
+    },
+    {
       "id": "chase-marriott-bonvoy-bold",
       "name": "Marriott Bonvoy Bold",
       "issuer": "CHASE",
@@ -6116,7 +6712,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -6201,7 +6797,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -6242,6 +6838,21 @@
           "notes": "Free Night Award (up to 50,000 points) after $15,000 in purchases in a calendar year."
         },
         {
+          "id": "elite-night-credits",
+          "name": "Elite Night Credits",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "15 Elite Night Credits deposited on or before March 1 each year after the first (card must be open and linked to a Marriott Bonvoy account)."
+        },
+        {
           "id": "instacart-credit",
           "name": "Instacart credit",
           "type": "credit",
@@ -6268,7 +6879,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -6354,6 +6965,7 @@
           "category": "dining",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary DashPass when activated with the card (through 12/31/2029)."
@@ -6549,6 +7161,7 @@
           "category": "dining",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary DashPass when activated with the card (activate by 12/31/2029)."
@@ -6563,6 +7176,7 @@
           "category": "entertainment",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary Apple TV subscription; activate by 6/22/2027.",
@@ -6578,6 +7192,7 @@
           "category": "entertainment",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary Apple Music subscription; activate by 6/22/2027.",
@@ -6612,6 +7227,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Priority Pass Select membership (1,300+ lounges, 2 guests). Also includes Chase Sapphire Lounges and select Air Canada Maple Leaf Lounges."
@@ -6812,6 +7428,7 @@
           "category": "dining",
           "inApp": true,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary DashPass; activate by 12/31/2027."
@@ -6845,6 +7462,7 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Priority Pass Select membership plus Chase Sapphire Lounge access and select Air Canada Maple Leaf Lounges. Not for employee cards."
@@ -6882,6 +7500,39 @@
       ]
     },
     {
+      "id": "chase-slate-edge",
+      "name": "Slate Edge",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.chase.com/credit-building-credit-cards/slate/edge",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/credit-building-credit-cards/slate/edge"
+      ],
+      "benefits": [
+        {
+          "id": "doordash-promo",
+          "name": "DoorDash promo",
+          "type": "credit",
+          "value": 10,
+          "frequency": "quarterly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+          "endDate": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "chase-southwest-performance-business",
       "name": "Southwest Performance Business",
       "issuer": "CHASE",
@@ -6899,7 +7550,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
-        "https://www.instacart.com/p/chase-southwest-airlines"
+        "https://www.instacart.com/p/chase-southwest-airlines",
+        "https://creditcards.chase.com/southwest/performance-business-credit-card"
       ],
       "benefits": [
         {
@@ -6912,6 +7564,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "9,000 Rapid Rewards points each cardmember anniversary."
@@ -6926,6 +7579,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -6976,7 +7630,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -7012,6 +7666,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "3,000 Rapid Rewards points each cardmember anniversary."
@@ -7026,6 +7681,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -7040,6 +7696,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10% promo code each cardmember anniversary (excludes Basic fares)."
@@ -7071,7 +7728,103 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+          "endDate": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chase-southwest-plus-business",
+      "name": "Southwest Plus Business",
+      "issuer": "CHASE",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "SOUTHWEST",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": true,
+      "url": "https://creditcards.chase.com/southwest/plus-business-credit-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-ecm/cccswa/2026/a600-0059/cards/plus_biz_reflect.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.chase.com/southwest/plus-business-credit-card",
+        "https://media.chase.com/news/chase-southwest-introduce-new-card-benefits",
+        "https://www.southwest.com/customer-enhancements/cardmember-benefits/"
+      ],
+      "benefits": [
+        {
+          "id": "anniversary-points",
+          "name": "Anniversary points",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "3,000 Rapid Rewards points each cardmember anniversary."
+        },
+        {
+          "id": "companion-pass-boost",
+          "name": "Companion Pass boost",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000 Companion Pass qualifying points each calendar year."
+        },
+        {
+          "id": "flight-discount",
+          "name": "10% flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10% promo code each cardmember anniversary (excludes Basic fares)."
+        },
+        {
+          "id": "instacart-credit",
+          "name": "Instacart credit",
+          "type": "credit",
+          "value": 10,
+          "frequency": "monthly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 credit loaded into your Instacart+ account each month; requires an active Instacart+ membership (3 months complimentary, then paid) and an order paid with the card. Unused credit expires at month end.",
+          "endDate": "2027-12-31"
+        },
+        {
+          "id": "doordash-promo",
+          "name": "DoorDash promo",
+          "type": "credit",
+          "value": 10,
+          "frequency": "quarterly",
+          "alignment": "calendar",
+          "category": "grocery",
+          "inApp": true,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7107,6 +7860,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "6,000 Rapid Rewards points each cardmember anniversary."
@@ -7121,6 +7875,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -7135,6 +7890,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15% promo code each cardmember anniversary (excludes Basic fares)."
@@ -7166,7 +7922,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7189,7 +7945,8 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
-        "https://www.instacart.com/p/chase-southwest-airlines"
+        "https://www.instacart.com/p/chase-southwest-airlines",
+        "https://creditcards.chase.com/southwest/premier-business-credit-card"
       ],
       "benefits": [
         {
@@ -7202,6 +7959,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "6,000 Rapid Rewards points each cardmember anniversary."
@@ -7216,6 +7974,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -7230,6 +7989,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "15% promo code each cardmember anniversary (excludes Basic fares)."
@@ -7261,7 +8021,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
         }
       ]
@@ -7297,6 +8057,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "7,500 Rapid Rewards points each cardmember anniversary."
@@ -7311,6 +8072,7 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -7342,7 +8104,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7357,16 +8119,18 @@
       "annualFee": 150,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+      "url": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
       "legacyIds": [
         "8101f7827e3a1e797b09653f117b72d9"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
         "https://www2.theexplorercard.com/business-rewards-cards/business-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-        "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+        "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+        "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
       "benefits": [
         {
@@ -7491,6 +8255,50 @@
           "notes": "Two United Club one-time passes each cardmember year."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bag",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "better-together-bonus",
+          "name": "Better-together bonus miles",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 continental U.S. Economy Plus seat upgrades after $25,000 in purchases in a calendar year; valid 12 months."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -7502,7 +8310,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7517,16 +8325,18 @@
       "annualFee": 695,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/club-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_new_infinite_card.png",
       "legacyIds": [
         "d2517ce6b72999e14f50c399347100ed"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
         "https://www2.theexplorercard.com/rewards-cards/club-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-        "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+        "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+        "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
       "benefits": [
         {
@@ -7539,9 +8349,10 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "United Club membership for the primary cardmember (+1 guest)."
+          "notes": "United Club card membership for the primary cardmember (+1 adult guest and dependent children); upgrades to All Access (Star Alliance lounges, 2 guests) with Premier Gold or higher or $50,000 in calendar-year purchases."
         },
         {
           "id": "renowned-hotels-credit",
@@ -7641,6 +8452,109 @@
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "premier-access",
+          "name": "Premier Access",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority check-in, security, boarding and baggage handling (where available) for the primary cardmember and companions on the same reservation."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount for each $20,000 in purchases in a calendar year, up to two (20,000 miles) per year; each expires 12 months after issue."
+        },
+        {
+          "id": "card-bonus-pqp",
+          "name": "1,500 Card Bonus PQP",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "1,500 Premier qualifying points posted within ~8 weeks of February 1 each year, starting the calendar year after account opening (account must be open on Dec 31 of the prior year)."
+        },
+        {
+          "id": "ihg-platinum-status",
+          "name": "IHG Platinum Elite status",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "IHG One Rewards Platinum Elite for the primary cardmember; register at united.com/ihgstatus."
+        },
+        {
+          "id": "avis-presidents-club",
+          "name": "Avis President's Club",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Avis President's Club membership for the primary cardmember; enroll at united.com/AvisChaseBenefit."
+        },
+        {
+          "id": "all-access-club-passes",
+          "name": "United Club passes (All Access)",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "4 United Club one-time passes after each cardmember anniversary, only if you hold United Club All Access (Premier Gold or higher, or $50,000 in calendar-year purchases) and have an authorized user on the account."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -7652,7 +8566,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7667,16 +8581,18 @@
       "annualFee": 695,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/business-rewards-cards/club-card",
+      "url": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
       "legacyIds": [
         "80c6aca49a0e1442d51635c316f4a5ff"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
         "https://www2.theexplorercard.com/business-rewards-cards/club-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-        "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+        "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+        "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
       "benefits": [
         {
@@ -7689,9 +8605,10 @@
           "category": "lounge",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "United Club membership for the primary cardmember (+1 guest)."
+          "notes": "United Club card membership for the primary cardmember (+1 adult guest and dependent children); upgrades to All Access (Star Alliance lounges, 2 guests) with Premier Gold or higher or $50,000 in calendar-year purchases."
         },
         {
           "id": "renowned-hotels-credit",
@@ -7788,6 +8705,94 @@
           "notes": "Statement credit on United FareLock purchases; resets each cardmember year."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "premier-access",
+          "name": "Premier Access",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority check-in, security, boarding and baggage handling (where available) for the primary cardmember and companions on the same reservation."
+        },
+        {
+          "id": "better-together-bonus",
+          "name": "Better-together bonus miles",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
+        },
+        {
+          "id": "avis-presidents-club",
+          "name": "Avis President's Club",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Avis President's Club membership for the primary cardmember; enroll at united.com/AvisChaseBenefit."
+        },
+        {
+          "id": "all-access-club-passes",
+          "name": "United Club passes (All Access)",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "4 United Club one-time passes after each cardmember anniversary, only if you hold United Club All Access (Premier Gold or higher, or $50,000 in calendar-year purchases) and have an employee card on the account."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -7799,7 +8804,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7814,16 +8819,18 @@
       "annualFee": 150,
       "afWaivedFirstYear": true,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
       "legacyIds": [
         "85cd2b7d172e494eefad5b2ab012f21c"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
         "https://www2.theexplorercard.com/rewards-cards/explorer-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-        "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+        "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+        "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
       "benefits": [
         {
@@ -7951,6 +8958,35 @@
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bag",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -7962,7 +8998,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
           "endDate": "2027-12-31"
         }
       ]
@@ -7977,16 +9013,32 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_card.png",
       "legacyIds": [
         "4071699fe4b21cafb02cf8b2c9c57c86"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
         "https://www.theexplorercard.com/rewards-cards/gateway-card"
       ],
-      "benefits": []
+      "benefits": [
+        {
+          "id": "checked-bag-certificates",
+          "name": "Checked bag certificates",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Two first-standard checked bag certificates after $10,000 in purchases in a calendar year."
+        }
+      ]
     },
     {
       "id": "chase-united-quest",
@@ -7998,16 +9050,18 @@
       "annualFee": 350,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
       "legacyIds": [
         "34ab99720941eaa2a1671e5b3a996b19"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
         "https://www2.theexplorercard.com/rewards-cards/quest-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-        "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+        "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+        "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
       "benefits": [
         {
@@ -8112,9 +9166,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "10,000-mile award flight discount each anniversary; another 10,000 after $20,000 annual spend."
+          "notes": "10,000-mile award flight discount deposited after each cardmember anniversary (starting with the first); expires 12 months after issue."
         },
         {
           "id": "global-entry-credit",
@@ -8136,6 +9191,64 @@
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+        },
+        {
+          "id": "card-bonus-pqp",
+          "name": "1,000 Card Bonus PQP",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "1,000 Premier qualifying points posted within ~8 weeks of February 1 each year, starting the calendar year after account opening (account must be open on Dec 31 of the prior year)."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -8147,7 +9260,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
           "endDate": "2027-12-31"
         }
       ]
@@ -8228,7 +9341,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -8238,7 +9351,7 @@
       "name": "World of Hyatt Business",
       "issuer": "CHASE",
       "network": "visa",
-      "isBusiness": false,
+      "isBusiness": true,
       "currency": "HYATT",
       "annualFee": 199,
       "afWaivedFirstYear": false,
@@ -8297,7 +9410,7 @@
           "enrollmentRequired": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+          "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
           "endDate": "2027-12-31"
         }
       ]
@@ -8363,6 +9476,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -8664,6 +9778,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -8694,7 +9809,84 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.att.com/deals/att-points-plus-citi/"
+        "https://www.att.com/deals/att-points-plus-citi/",
+        "https://citi.com/credit-cards/citi-att-pointsplus-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-bloomingdales-amex",
+      "name": "Bloomingdale's American Express",
+      "issuer": "CITI",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/bloomingdales-credit-cards/bloomingdales-credit-cards1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-bloomingdales",
+      "name": "Bloomingdale's Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/bloomingdales-credit-cards/bloomingdales-credit-cards0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-costco-anywhere-visa",
+      "name": "Costco Anywhere Visa",
+      "issuer": "CITI",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-credit-card/citi-costco-anywhere-visa-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-costco-anywhere-visa-business",
+      "name": "Costco Anywhere Visa Business",
+      "issuer": "CITI",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/costco-anywhere-visa-business-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-business-credit-card/citi-costco-anywhere-visa-business-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/costco-anywhere-visa-business-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
       "benefits": []
     },
@@ -8707,7 +9899,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
       "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-custom-cash-credit-card/citi-custom-cash-credit-card_306x192.webp",
       "legacyIds": [
@@ -8716,6 +9908,63 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.citi.com/credit-cards/citi-custom-cash-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-diamond-preferred",
+      "name": "Diamond Preferred",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-diamond-preferred-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-diamond-preferred-credit-card/citi-diamond-preferred-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-diamond-preferred-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-dillards",
+      "name": "Dillard's Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/dillards-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/dillards-credit-cards/dillards-credit-cards1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/dillards-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-dillards-mastercard",
+      "name": "Dillard's Mastercard",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/dillards-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/dillards-credit-cards/dillards-credit-cards0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/dillards-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
       "benefits": []
     },
@@ -8737,6 +9986,196 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-exxon-mobil-smart-card-plus",
+      "name": "Exxon Mobil Smart Card+",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/exxon-mobil-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/exxon-mobil-credit-card/exxon-mobil-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/exxon-mobil-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-goodyear",
+      "name": "Goodyear Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/goodyear-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/goodyear-credit-cards/goodyear-credit-cards_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/goodyear-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-home-depot-pro-xtra",
+      "name": "Home Depot Pro Xtra Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/home-depot-pro-xtra-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/home-depot-pro-xtra-credit-card/home-depot-pro-xtra-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/home-depot-pro-xtra-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-llbean-mastercard",
+      "name": "L.L.Bean Mastercard",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-llbean-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-llbean-credit-card/citi-llbean-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-llbean-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-macys-amex",
+      "name": "Macy's American Express",
+      "issuer": "CITI",
+      "network": "amex",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-macys-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-macys-credit-card/citi-macys-credit-card0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-macys-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-macys",
+      "name": "Macy's Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-macys-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-macys-credit-card/citi-macys-credit-card1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-macys-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-my-best-buy",
+      "name": "My Best Buy Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-best-buy-credit-cards/citi-best-buy-credit-cards0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-my-best-buy-visa",
+      "name": "My Best Buy Visa",
+      "issuer": "CITI",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-best-buy-credit-cards/citi-best-buy-credit-cards1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-secured-mastercard",
+      "name": "Secured Mastercard",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-secured-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-secured-credit-card/citi-secured-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-secured-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-simplicity",
+      "name": "Simplicity",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-simplicity-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-simplicity-credit-card/citi-simplicity-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-simplicity-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
       "benefits": []
     },
@@ -8849,6 +10288,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -8916,6 +10356,101 @@
       ]
     },
     {
+      "id": "citi-home-depot-consumer",
+      "name": "The Home Depot Consumer Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-home-depot-consumer-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-home-depot-consumer-credit-card/citi-home-depot-consumer-credit-card_306x192.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-home-depot-consumer-credit-card",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-tsc-store-card",
+      "name": "TSC Store Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-tractor-supply-credit-cards/citi-tractor-supply-credit-cards0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-tsc-visa",
+      "name": "TSC Visa",
+      "issuer": "CITI",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-tractor-supply-credit-cards/citi-tractor-supply-credit-cards1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-wayfair",
+      "name": "Wayfair Credit Card",
+      "issuer": "CITI",
+      "network": null,
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/wayfair-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/wayfair-credit-cards/wayfair-credit-cards1_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/wayfair-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "citi-wayfair-mastercard",
+      "name": "Wayfair Mastercard",
+      "issuer": "CITI",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.citi.com/credit-cards/wayfair-credit-cards",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/wayfair-credit-cards/wayfair-credit-cards0_306x192.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.citi.com/credit-cards/wayfair-credit-cards",
+        "https://www.citi.com/credit-cards/view-all-credit-cards"
+      ],
+      "benefits": []
+    },
+    {
       "id": "comenity-aaa-daily-advantage",
       "name": "AAA Daily Advantage",
       "issuer": "COMENITY",
@@ -8975,6 +10510,119 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.discover.com/credit-cards/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it-chrome",
+      "name": "Discover It Chrome",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/cash-back/chrome/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-cash-chrome-shadow.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/cash-back/chrome/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it-miles",
+      "name": "Discover It Miles",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/travel/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/it-miles-card-header.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/travel/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it-secured",
+      "name": "Discover It Secured",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/secured-credit-card/",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/secured-credit-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it-student-cash-back",
+      "name": "Discover It Student Cash Back",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/student-credit-card/it-card/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-student-it-iridescent-shadow.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/student-credit-card/it-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-discover-it-student-chrome",
+      "name": "Discover It Student Chrome",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/student-credit-card/chrome-card/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/images/student-chrome-card-marquee.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/student-credit-card/chrome-card/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "discover-nhl-discover-it",
+      "name": "NHL Discover It",
+      "issuer": "DISCOVER",
+      "network": "discover",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.discover.com/credit-cards/cash-back/nhl-card/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-header-nhl.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.discover.com/credit-cards/",
+        "https://www.discover.com/credit-cards/cash-back/nhl-card/"
       ],
       "benefits": []
     },
@@ -9049,6 +10697,7 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary LifeMiles+ membership: 500 miles per month (up to 6,000 per year)."
@@ -9247,6 +10896,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.amtrak.com/Apply",
         "https://upgradedpoints.com/credit-cards/reviews/amtrak-guest-rewards-preferred-mastercard/"
       ],
       "benefits": [
@@ -9298,7 +10948,7 @@
       "id": "fnbo-best-western-rewards",
       "name": "Best Western Rewards",
       "issuer": "FNBO",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": false,
       "currency": "BEST_WESTERN",
       "annualFee": 0,
@@ -9310,7 +10960,9 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+        "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/",
+        "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+        "https://www.mercurycards.com/cdn/cms/partners/bestwestern/BW2RewardsProgramRules.pdf"
       ],
       "benefits": [
         {
@@ -9323,9 +10975,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched card is issued by Mercury Financial."
+          "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
         }
       ]
     },
@@ -9333,7 +10986,7 @@
       "id": "fnbo-best-western-rewards-premium",
       "name": "Best Western Rewards Premium",
       "issuer": "FNBO",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": false,
       "currency": "BEST_WESTERN",
       "annualFee": 89,
@@ -9346,7 +10999,9 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/best-western-rewards-premium-visa-signature-card/",
-        "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+        "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/",
+        "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+        "https://www.mercurycards.com/cdn/cms/partners/bestwestern/BW1RewardsProgramRules.pdf"
       ],
       "benefits": [
         {
@@ -9361,7 +11016,7 @@
           "enrollmentRequired": false,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "One free night award each cardmember anniversary at Best Western properties in the U.S., Canada or Caribbean."
+          "notes": "One free night award each 12-month cardmember period after payment of the annual fee, at Best Western hotels in the U.S., Canada or Caribbean."
         },
         {
           "id": "spend-free-night",
@@ -9375,7 +11030,7 @@
           "enrollmentRequired": false,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "Second free night award after spending $10,000 net in the cardmember year. The relaunched card is issued by Mercury Financial."
+          "notes": "Second free night award after $10,000 in net purchases in the cardmember year (after the annual fee is paid). The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
         }
       ]
     },
@@ -9396,7 +11051,9 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://www.penfed.org/content/dam/penfed/en/general/pdf/credit-cards/penfed-pathfinder-travel-credits.pdf",
-        "https://www.insideflyer.com/posts/penfed-pathfinder-card-fee-no-longer-waived/"
+        "https://www.insideflyer.com/posts/penfed-pathfinder-card-fee-no-longer-waived/",
+        "https://www.penfed.org/credit-cards/pathfinder-rewards",
+        "https://www.penfed.org/content/dam/penfed/general/pdf/creditcardpdfs/Visa/penfed-pathfinder-travel-credits.pdf"
       ],
       "benefits": [
         {
@@ -9440,6 +11097,21 @@
           ],
           "matchVerified": false,
           "notes": "$120 for Global Entry or $85 for TSA PreCheck, once every 4 years."
+        },
+        {
+          "id": "priority-pass",
+          "name": "Priority Pass Select",
+          "type": "perk",
+          "value": 99,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Complimentary 12-month Priority Pass Select membership ($99 value) for one cardholder on the account, auto-renewed yearly while the card is eligible. Lounge visits cost $35 per person (member and guest)."
         }
       ]
     },
@@ -9528,7 +11200,7 @@
       "id": "synchrony-cathay-pacific",
       "name": "Cathay Pacific",
       "issuer": "SYNCHRONY",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CATHAY_PACIFIC",
       "annualFee": 99,
@@ -9583,12 +11255,15 @@
       "lastVerified": "2026-10-20",
       "sources": [
         "https://upgradedpoints.com/credit-cards/reviews/virgin-red-rewards-world-elite-mastercard/",
-        "https://www.bankrate.com/credit-cards/reviews/virgin-red-rewards-mastercard"
+        "https://www.bankrate.com/credit-cards/reviews/virgin-red-rewards-mastercard",
+        "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
+        "https://virginredrewardscard.syf.com/benefitsdetails"
       ],
       "benefits": [
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "anniversary-points",
@@ -9598,7 +11273,7 @@
           "frequency": "annual",
           "alignment": "anniversary",
           "category": "bonus",
-          "notes": "5,000 Virgin Points each card anniversary."
+          "notes": "5,000 Virgin Points each year the account is renewed."
         },
         {
           "inApp": false,
@@ -9610,9 +11285,9 @@
           "type": "perk",
           "value": null,
           "frequency": "annual",
-          "alignment": "calendar",
+          "alignment": "anniversary",
           "category": "travel",
-          "notes": "Choose one Virgin perk (Virgin Atlantic companion/upgrade voucher, Virgin Hotels free night or suite upgrade, Virgin Voyages bar tab or extras) after $15,000 calendar-year spend, and a second after $30,000."
+          "notes": "Choose one Virgin perk (Virgin Atlantic Flying Club companion/upgrade voucher, Virgin Hotels free night or priority suite upgrade, Virgin Voyages up to $300 bar tab or Blue Extras package) after $15,000 in purchases in a cardholder year, and a second after $30,000. Resets on each account-opening anniversary."
         },
         {
           "inApp": false,
@@ -9640,13 +11315,13 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376",
+      "url": "https://www.onepay.com/credit-card",
       "legacyIds": [
         "145320d72bf260a11a537333d4425820"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.walmart.com/cp/onepay-cashrewards-mastercard/9569366376"
+        "https://www.onepay.com/credit-card"
       ],
       "benefits": []
     },
@@ -9658,7 +11333,7 @@
       "isBusiness": false,
       "currency": "US_BANK",
       "annualFee": 0,
-      "afWaivedFirstYear": true,
+      "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",
@@ -9674,6 +11349,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "priority-pass-visits",
@@ -9784,6 +11460,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "priority-pass-visits",
@@ -9817,23 +11494,61 @@
       ]
     },
     {
+      "id": "usbank-amazon-business",
+      "name": "Amazon Business",
+      "issuer": "US_BANK",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html",
+      "imageUrl": "https://www.usbank.com/dam/en/images/photos/business-banking/photo-amazom-business-card-7x5.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-amazon-prime-business",
+      "name": "Amazon Prime Business",
+      "issuer": "US_BANK",
+      "network": "mastercard",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html",
+      "imageUrl": "https://www.usbank.com/dam/en/images/photos/business-banking/photo-amazom-prime-card-7x5.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/amazon-business-credit-cards.html"
+      ],
+      "benefits": []
+    },
+    {
       "id": "usbank-business-altitude-connect",
       "name": "Business Altitude Connect",
       "issuer": "US_BANK",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": true,
       "currency": "US_BANK",
       "annualFee": 95,
       "afWaivedFirstYear": true,
       "discontinued": false,
-      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
       "legacyIds": [
         "1e6ddb097a524ce3b68719ae6c5eb1e8"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
         "https://www.cnbc.com/select/us-bank-business-altitude-connect-review/"
       ],
       "benefits": [
@@ -9857,6 +11572,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "priority-pass-visits",
@@ -9898,7 +11614,7 @@
       "currency": "US_BANK",
       "annualFee": 195,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-power-credit-card.webp",
       "legacyIds": [
@@ -9906,7 +11622,46 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
         "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-business-essentials",
+      "name": "Business Essentials",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-essentials-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/illustration-bank-business-essentials-visa-credit-card.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/business-essentials-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-business-essentials-plus",
+      "name": "Business Essentials Plus",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 295,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-essentials-plus-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/illustration-bank-business-essentials-plus-visa-credit-card.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/business-essentials-plus-credit-card.html"
       ],
       "benefits": []
     },
@@ -9919,7 +11674,7 @@
       "currency": "USD",
       "annualFee": 95,
       "afWaivedFirstYear": true,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-leverage-credit-card.webp",
       "legacyIds": [
@@ -9927,15 +11682,50 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
         "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html"
       ],
       "benefits": []
     },
     {
+      "id": "usbank-business-shield",
+      "name": "Business Shield",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": true,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/business-banking/business-credit-cards/business-shield-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-shield-credit-card.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/business-banking/business-credit-cards.html",
+        "https://www.usbank.com/business-banking/business-credit-cards/business-shield-credit-card.html"
+      ],
+      "benefits": [
+        {
+          "id": "travel-center-credit",
+          "name": "Travel Center credit",
+          "type": "perk",
+          "value": 50,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$50 statement credit after $5,000+ in prepaid air, hotel and car bookings through the U.S. Bank Travel Center (Rewards Center) in each 12-month period starting on the account-open date; posts within 1-2 billing cycles."
+        }
+      ]
+    },
+    {
       "id": "usbank-business-triple-cash-rewards",
       "name": "Business Triple Cash Rewards",
       "issuer": "US_BANK",
-      "network": "mastercard",
+      "network": "visa",
       "isBusiness": true,
       "currency": "USD",
       "annualFee": 0,
@@ -10013,6 +11803,139 @@
       "benefits": []
     },
     {
+      "id": "usbank-hog-elite",
+      "name": "H.O.G. Elite Visa Signature",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "HARLEY_DAVIDSON",
+      "annualFee": 99,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.h-dvisa.com/",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/cobrand-hdv-hog-elite-visa.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/co-branded-credit-cards.html",
+        "https://www.h-dvisa.com/"
+      ],
+      "benefits": [
+        {
+          "id": "hog-membership-credit",
+          "name": "H.O.G. membership credit",
+          "type": "perk",
+          "value": 59,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Statement credit up to $59 per cardmember year when the card pays the annual H.O.G. membership fee. Not for existing Lifetime/multi-year members, who instead get 5% back on H-D dealership purchases up to $59 per calendar year (credited by the following April)."
+        },
+        {
+          "id": "dealership-credit",
+          "name": "H-D dealership credit",
+          "type": "perk",
+          "value": 30,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "shopping",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Statement credit(s) up to $30 per cardmember year on purchases at Harley-Davidson dealerships."
+        },
+        {
+          "id": "siriusxm-credit",
+          "name": "SiriusXM credit",
+          "type": "perk",
+          "value": 10,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "entertainment",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Automatic $10 statement credit per 12-month period, posted within 2 billing cycles after 11 consecutive months of an eligible SiriusXM subscription."
+        }
+      ]
+    },
+    {
+      "id": "usbank-harley-davidson",
+      "name": "Harley-Davidson Visa Signature",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "HARLEY_DAVIDSON",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.h-dvisa.com/",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/cobrand-hdv-sig-heritage-visa.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/co-branded-credit-cards.html",
+        "https://www.h-dvisa.com/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-secured-visa",
+      "name": "Secured Visa",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/secured-visa-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-classic-secured-visa-vertical-2x3.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards.html",
+        "https://www.usbank.com/credit-cards/secured-visa-credit-card.html"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "usbank-shield",
+      "name": "Shield",
+      "issuer": "US_BANK",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.usbank.com/credit-cards/shield-visa-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/shield-credit-card-transparent.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.usbank.com/credit-cards/shield-visa-credit-card.html"
+      ],
+      "benefits": [
+        {
+          "id": "consecutive-purchase-credit",
+          "name": "Annual $20 credit",
+          "type": "perk",
+          "value": 20,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Automatic $20 statement credit per 12-month period, posted within 2 billing cycles after 11 consecutive calendar months with purchases (account in good standing)."
+        }
+      ]
+    },
+    {
       "id": "usbank-shopper-cash-rewards",
       "name": "Shopper Cash Rewards",
       "issuer": "US_BANK",
@@ -10021,7 +11944,7 @@
       "currency": "USD",
       "annualFee": 95,
       "afWaivedFirstYear": true,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/images/rps/large/Shopper-cash-rewards-209x333-no_glow.png",
       "legacyIds": [
@@ -10029,6 +11952,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://www.usbank.com/credit-cards.html",
         "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html"
       ],
       "benefits": []
@@ -10090,7 +12014,7 @@
       "network": "visa",
       "isBusiness": false,
       "currency": "KOREAN",
-      "annualFee": 95,
+      "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
@@ -10208,6 +12132,7 @@
         {
           "inApp": false,
           "enrollmentRequired": true,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "id": "priority-pass-visits",
@@ -10277,7 +12202,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": true,
+      "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html",
       "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-bank-smartly-card-art.png",
       "legacyIds": [
@@ -10340,7 +12265,7 @@
       "currency": "USD",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
       "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/AttuneBonus/attune_card_d.png",
       "legacyIds": [
@@ -10348,6 +12273,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/",
         "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card"
       ],
       "benefits": []
@@ -10405,7 +12331,7 @@
           "type": "credit",
           "value": 50,
           "frequency": "annual",
-          "alignment": "calendar",
+          "alignment": "anniversary",
           "category": "travel",
           "notes": "One-time $50 credit each year on the first airline purchase of $50+."
         }
@@ -10435,7 +12361,7 @@
       "id": "wellsfargo-choice-privileges",
       "name": "Choice Privileges",
       "issuer": "WELLS_FARGO",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CHOICE",
       "annualFee": 0,
@@ -10456,7 +12382,7 @@
       "id": "wellsfargo-choice-privileges-select",
       "name": "Choice Privileges Select",
       "issuer": "WELLS_FARGO",
-      "network": "visa",
+      "network": "mastercard",
       "isBusiness": false,
       "currency": "CHOICE",
       "annualFee": 95,
@@ -10476,6 +12402,7 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -10525,6 +12452,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/one-key-credit-card/",
         "https://www.expedia.com/one-key-cards"
       ],
       "benefits": []
@@ -10546,6 +12474,7 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.wellsfargo.com/one-key-plus-credit-card/",
         "https://upgradedpoints.com/credit-cards/reviews/one-key-plus-card/",
         "https://www.nerdwallet.com/travel/learn/is-the-one-key-card-worth-its-annual-fee"
       ],
@@ -10553,6 +12482,7 @@
         {
           "inApp": true,
           "enrollmentRequired": false,
+          "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -10583,6 +12513,25 @@
           "category": "security"
         }
       ]
+    },
+    {
+      "id": "wellsfargo-reflect",
+      "name": "Reflect",
+      "issuer": "WELLS_FARGO",
+      "network": "visa",
+      "isBusiness": false,
+      "currency": "USD",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://creditcards.wellsfargo.com/reflect-visa-credit-card/",
+      "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/reflect.webp",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://creditcards.wellsfargo.com/",
+        "https://creditcards.wellsfargo.com/reflect-visa-credit-card/"
+      ],
+      "benefits": []
     },
     {
       "id": "wellsfargo-signify-business-cash",

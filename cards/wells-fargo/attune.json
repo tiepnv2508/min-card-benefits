@@ -8,7 +8,7 @@
   "currency": "USD",
   "annualFee": 0,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
   "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/AttuneBonus/attune_card_d.png",
   "legacyIds": [
@@ -16,6 +16,7 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.wellsfargo.com/",
     "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card"
   ],
   "benefits": []

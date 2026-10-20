@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-business-shield",
+  "name": "Business Shield",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": true,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/business-banking/business-credit-cards/business-shield-credit-card.html",
+  "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-shield-credit-card.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/business-banking/business-credit-cards.html",
+    "https://www.usbank.com/business-banking/business-credit-cards/business-shield-credit-card.html"
+  ],
+  "benefits": [
+    {
+      "id": "travel-center-credit",
+      "name": "Travel Center credit",
+      "type": "perk",
+      "value": 50,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$50 statement credit after $5,000+ in prepaid air, hotel and car bookings through the U.S. Bank Travel Center (Rewards Center) in each 12-month period starting on the account-open date; posts within 1-2 billing cycles."
+    }
+  ]
+}

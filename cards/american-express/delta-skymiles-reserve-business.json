@@ -17,7 +17,8 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/american-express-delta-credit-cards/",
-    "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees"
+    "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
+    "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve/65147-9-0?key=tncBody&rwdFlag=rwd"
   ],
   "benefits": [
     {
@@ -112,6 +113,7 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "15 visits per Medallion year when flying Delta (unlimited after $75,000 calendar-year spend); Centurion Lounge access when flying Delta."
@@ -126,6 +128,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -140,6 +143,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."

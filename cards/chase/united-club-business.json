@@ -9,16 +9,18 @@
   "annualFee": 695,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.theexplorercard.com/business-rewards-cards/club-card",
+  "url": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
   "legacyIds": [
     "80c6aca49a0e1442d51635c316f4a5ff"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
     "https://www2.theexplorercard.com/business-rewards-cards/club-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-    "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+    "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "benefits": [
     {
@@ -31,9 +33,10 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "United Club membership for the primary cardmember (+1 guest)."
+      "notes": "United Club card membership for the primary cardmember (+1 adult guest and dependent children); upgrades to All Access (Star Alliance lounges, 2 guests) with Premier Gold or higher or $50,000 in calendar-year purchases."
     },
     {
       "id": "renowned-hotels-credit",
@@ -130,6 +133,94 @@
       "notes": "Statement credit on United FareLock purchases; resets each cardmember year."
     },
     {
+      "id": "free-checked-bags",
+      "name": "Free checked bags",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+    },
+    {
+      "id": "premier-access",
+      "name": "Premier Access",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Priority check-in, security, boarding and baggage handling (where available) for the primary cardmember and companions on the same reservation."
+    },
+    {
+      "id": "better-together-bonus",
+      "name": "Better-together bonus miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+    },
+    {
+      "id": "economy-plus-upgrades",
+      "name": "Economy Plus upgrades",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
+    },
+    {
+      "id": "avis-presidents-club",
+      "name": "Avis President's Club",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Avis President's Club membership for the primary cardmember; enroll at united.com/AvisChaseBenefit."
+    },
+    {
+      "id": "all-access-club-passes",
+      "name": "United Club passes (All Access)",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "4 United Club one-time passes after each cardmember anniversary, only if you hold United Club All Access (Premier Gold or higher, or $50,000 in calendar-year purchases) and have an employee card on the account."
+    },
+    {
       "id": "doordash-promo",
       "name": "DoorDash promo",
       "type": "credit",
@@ -141,7 +232,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
       "endDate": "2027-12-31"
     }
   ]

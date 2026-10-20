@@ -229,6 +229,7 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Centurion Lounges, Priority Pass Select (enrollment required), Escape, Plaza Premium and 10 Delta Sky Club visits per year when flying Delta."
@@ -243,6 +244,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false
     },
@@ -256,6 +258,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false
     },
@@ -269,6 +272,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "The Leading Hotels of the World."
@@ -283,6 +287,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Hertz President's Circle, Avis Preferred, National Emerald Club Executive (enrollment required)."

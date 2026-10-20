@@ -3,20 +3,20 @@
   "id": "usbank-business-altitude-connect",
   "name": "Business Altitude Connect",
   "issuer": "US_BANK",
-  "network": "mastercard",
+  "network": "visa",
   "isBusiness": true,
   "currency": "US_BANK",
   "annualFee": 95,
   "afWaivedFirstYear": true,
   "discontinued": false,
-  "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+  "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
   "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
   "legacyIds": [
     "1e6ddb097a524ce3b68719ae6c5eb1e8"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+    "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-credit-card.html",
     "https://www.cnbc.com/select/us-bank-business-altitude-connect-review/"
   ],
   "benefits": [
@@ -40,6 +40,7 @@
     {
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "priority-pass-visits",

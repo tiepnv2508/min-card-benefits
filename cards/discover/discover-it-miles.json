@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "discover-discover-it-miles",
+  "name": "Discover It Miles",
+  "issuer": "DISCOVER",
+  "network": "discover",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.discover.com/credit-cards/travel/",
+  "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/it-miles-card-header.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.discover.com/credit-cards/",
+    "https://www.discover.com/credit-cards/travel/"
+  ],
+  "benefits": []
+}

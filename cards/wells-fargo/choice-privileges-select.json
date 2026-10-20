@@ -3,7 +3,7 @@
   "id": "wellsfargo-choice-privileges-select",
   "name": "Choice Privileges Select",
   "issuer": "WELLS_FARGO",
-  "network": "visa",
+  "network": "mastercard",
   "isBusiness": false,
   "currency": "CHOICE",
   "annualFee": 95,
@@ -23,6 +23,7 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",

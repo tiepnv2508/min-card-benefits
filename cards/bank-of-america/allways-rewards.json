@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-allways-rewards",
+  "name": "Allways Rewards",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "ALLEGIANT",
+  "annualFee": 59,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+  "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragp_sigcm_v_250.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+    "https://www.allegiantair.com/allegiant-credit-card-benefits"
+  ],
+  "benefits": []
+}

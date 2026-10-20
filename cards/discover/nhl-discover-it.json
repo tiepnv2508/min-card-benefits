@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "discover-nhl-discover-it",
+  "name": "NHL Discover It",
+  "issuer": "DISCOVER",
+  "network": "discover",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.discover.com/credit-cards/cash-back/nhl-card/",
+  "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-header-nhl.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.discover.com/credit-cards/",
+    "https://www.discover.com/credit-cards/cash-back/nhl-card/"
+  ],
+  "benefits": []
+}

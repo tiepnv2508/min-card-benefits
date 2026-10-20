@@ -1,0 +1,77 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-disney-inspire",
+  "name": "Disney Inspire",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 149,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+  "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney-inspire.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"
+  ],
+  "benefits": [
+    {
+      "id": "disney-streaming-credit",
+      "name": "Disney streaming credit",
+      "type": "perk",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 statement credit each month after $10+ on Disney+, Hulu or ESPN subscriptions bought directly at DisneyPlus.com, Hulu.com or Stream.ESPN.com (annual subscriptions get a one-time $10 in the purchase month). Must activate each calendar year; credit posts 6-8 weeks after the purchase."
+    },
+    {
+      "id": "theme-park-credit",
+      "name": "Theme park ticket credit",
+      "type": "perk",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$100 statement credit after $200+ on U.S. Disney theme park tickets (incl. Magic Key passes) bought directly with Disney each anniversary year; vacation-package tickets excluded."
+    },
+    {
+      "id": "resort-rewards-dollars",
+      "name": "Disney resort Rewards Dollars",
+      "type": "perk",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "200 Disney Rewards Dollars after $2,000+ on U.S. Disney Resort stays / Disney Cruise Line bookings made directly with Disney each anniversary year."
+    },
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "monthly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar month while enrolled in DashPass via the card (12 months complimentary, then paid); applies to DashPass activations from 9/1/2026 (activations 2/1/2025-8/31/2026 get $10 per calendar quarter instead). Offer runs through 12/31/2027.",
+      "endDate": "2027-12-31"
+    }
+  ]
+}

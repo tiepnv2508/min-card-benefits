@@ -45,6 +45,7 @@
       "category": "dining",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "At least 12 months complimentary DashPass; activate by 12/31/2027."

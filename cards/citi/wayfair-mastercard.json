@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-wayfair-mastercard",
+  "name": "Wayfair Mastercard",
+  "issuer": "CITI",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/wayfair-credit-cards",
+  "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/wayfair-credit-cards/wayfair-credit-cards0_306x192.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/wayfair-credit-cards",
+    "https://www.citi.com/credit-cards/view-all-credit-cards"
+  ],
+  "benefits": []
+}

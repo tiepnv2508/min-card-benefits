@@ -44,6 +44,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false
     },
@@ -57,6 +58,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "15 Elite Night Credits each calendar year."

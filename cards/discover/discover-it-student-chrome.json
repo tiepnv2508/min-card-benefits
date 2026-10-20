@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "discover-discover-it-student-chrome",
+  "name": "Discover It Student Chrome",
+  "issuer": "DISCOVER",
+  "network": "discover",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.discover.com/credit-cards/student-credit-card/chrome-card/",
+  "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/images/student-chrome-card-marquee.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.discover.com/credit-cards/",
+    "https://www.discover.com/credit-cards/student-credit-card/chrome-card/"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-doordash-rewards",
+  "name": "DoorDash Rewards",
+  "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+  "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/doordash.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/doordash"
+  ],
+  "benefits": [
+    {
+      "id": "dashpass-anniversary",
+      "name": "DashPass anniversary bonus",
+      "type": "perk",
+      "value": 96,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "dining",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary annual DashPass membership ($96 value) each year with $10,000+ in annual card spend (12 months of DashPass are complimentary at account opening)."
+    }
+  ]
+}

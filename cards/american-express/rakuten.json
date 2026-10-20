@@ -4,7 +4,7 @@
   "name": "Rakuten",
   "issuer": "AMERICAN_EXPRESS",
   "network": "amex",
-  "isBusiness": true,
+  "isBusiness": false,
   "currency": "USD",
   "annualFee": 0,
   "afWaivedFirstYear": false,
@@ -15,7 +15,8 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.rakuten.com/american-express-card/"
+    "https://www.rakuten.com/american-express-card/",
+    "https://www.rakuten.com/blog/rakuten-american-express-credit-card/"
   ],
   "benefits": []
 }

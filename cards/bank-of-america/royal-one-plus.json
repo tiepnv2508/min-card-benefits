@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-royal-one-plus",
+  "name": "Royal ONE Plus",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "ROYAL_CARIBBEAN",
+  "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+    "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/royal-caribbean-group-enhances-travel-loyalty--partners-with-ban.html"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-reward",
+      "name": "Anniversary cruise reward",
+      "type": "perk",
+      "value": 200,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$200 cruise discount each year after $20,000 in purchases in the cardmember year."
+    },
+    {
+      "id": "global-entry-precheck",
+      "name": "Global Entry / PreCheck",
+      "type": "credit",
+      "value": 120,
+      "frequency": "custom",
+      "intervalMonths": 48,
+      "alignment": "anniversary",
+      "category": "security",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [
+        "precheck",
+        "tsa",
+        "global"
+      ],
+      "matchVerified": false,
+      "notes": "Up to $120 in statement credits toward the Global Entry or TSA PreCheck application fee once every 4 years."
+    }
+  ]
+}

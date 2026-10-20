@@ -30,6 +30,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "3,000 Rapid Rewards points each cardmember anniversary."
@@ -44,6 +45,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -58,6 +60,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "10% promo code each cardmember anniversary (excludes Basic fares)."
@@ -89,7 +92,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
       "endDate": "2027-12-31"
     }
   ]

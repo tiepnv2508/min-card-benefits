@@ -80,6 +80,7 @@
       "category": "dining",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary DashPass when activated with the card (through 12/31/2029)."

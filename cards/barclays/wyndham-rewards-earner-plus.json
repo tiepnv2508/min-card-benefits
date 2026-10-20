@@ -31,6 +31,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "15,000 Wyndham Rewards points each anniversary year after the annual fee is paid (7,500 on the pre-June-2026 $75 version). Value is an estimate (~0.9 cents/point)."

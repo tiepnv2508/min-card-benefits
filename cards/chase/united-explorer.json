@@ -9,16 +9,18 @@
   "annualFee": 150,
   "afWaivedFirstYear": true,
   "discontinued": false,
-  "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+  "url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
   "legacyIds": [
     "85cd2b7d172e494eefad5b2ab012f21c"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
     "https://www2.theexplorercard.com/rewards-cards/explorer-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
-    "https://upgradedpoints.com/credit-cards/united-hotel-credits/"
+    "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
+    "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
   "benefits": [
     {
@@ -146,6 +148,35 @@
       "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
     },
     {
+      "id": "free-checked-bags",
+      "name": "Free checked bag",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+    },
+    {
+      "id": "spend-award-flight-discount",
+      "name": "Spend award flight discount",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+    },
+    {
       "id": "doordash-promo",
       "name": "DoorDash promo",
       "type": "credit",
@@ -157,7 +188,7 @@
       "enrollmentRequired": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (12 months complimentary, then paid). Cardmembers who first activate DashPass 9/1/2026 or later get the $10 promo monthly instead.",
+      "notes": "$10 off one non-restaurant DoorDash order while enrolled in DashPass via the card, through 12/31/2027. DoorDash lists every Chase co-brand (except Amazon, Instacart, DoorDash cards) as eligible with the promo \"monthly or quarterly\" by card; United's own card pages don't mention DashPass, so cadence is unconfirmed (quarterly assumed — monthly is likely if DashPass was first activated 9/1/2026 or later).",
       "endDate": "2027-12-31"
     }
   ]

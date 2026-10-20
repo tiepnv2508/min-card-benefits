@@ -6,7 +6,7 @@
   "network": "visa",
   "isBusiness": false,
   "currency": "KOREAN",
-  "annualFee": 95,
+  "annualFee": 0,
   "afWaivedFirstYear": false,
   "discontinued": false,
   "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",

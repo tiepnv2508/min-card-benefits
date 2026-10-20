@@ -9,14 +9,30 @@
   "annualFee": 0,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+  "url": "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_card.png",
   "legacyIds": [
     "4071699fe4b21cafb02cf8b2c9c57c86"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
     "https://www.theexplorercard.com/rewards-cards/gateway-card"
   ],
-  "benefits": []
+  "benefits": [
+    {
+      "id": "checked-bag-certificates",
+      "name": "Checked bag certificates",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Two first-standard checked bag certificates after $10,000 in purchases in a calendar year."
+    }
+  ]
 }

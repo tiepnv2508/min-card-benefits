@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-home-depot-consumer",
+  "name": "The Home Depot Consumer Credit Card",
+  "issuer": "CITI",
+  "network": null,
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-home-depot-consumer-credit-card",
+  "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-home-depot-consumer-credit-card/citi-home-depot-consumer-credit-card_306x192.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-home-depot-consumer-credit-card",
+    "https://www.citi.com/credit-cards/view-all-credit-cards"
+  ],
+  "benefits": []
+}

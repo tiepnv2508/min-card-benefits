@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-tsc-store-card",
+  "name": "TSC Store Card",
+  "issuer": "CITI",
+  "network": null,
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+  "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-tractor-supply-credit-cards/citi-tractor-supply-credit-cards0_306x192.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
+    "https://www.citi.com/credit-cards/view-all-credit-cards"
+  ],
+  "benefits": []
+}

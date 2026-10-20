@@ -31,7 +31,7 @@
       "type": "credit",
       "value": 50,
       "frequency": "annual",
-      "alignment": "calendar",
+      "alignment": "anniversary",
       "category": "travel",
       "notes": "One-time $50 credit each year on the first airline purchase of $50+."
     }

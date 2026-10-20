@@ -8,7 +8,7 @@
   "currency": "AMERICAN",
   "annualFee": 99,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://cards.barclaycardus.com/banking/cards/aadvantage-aviator-red-world-elite-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/AA2_card_rRGB_AviatorRed_WE_359x246_4074_072418.png",
   "legacyIds": [
@@ -18,7 +18,8 @@
   "sources": [
     "https://www.cnbc.com/select/aviator-aadvantage-red-world-elite-mastercard-review/",
     "https://thepointsguy.com/credit-cards/barclays-aadvantage-aviator-cards/",
-    "https://www.nerdwallet.com/credit-cards/news/aviator-red-cardholders-moving-to-citi-aadvantage-platinum"
+    "https://www.nerdwallet.com/credit-cards/news/aviator-red-cardholders-moving-to-citi-aadvantage-platinum",
+    "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/"
   ],
   "benefits": [
     {

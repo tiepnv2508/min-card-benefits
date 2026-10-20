@@ -102,6 +102,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false
     }

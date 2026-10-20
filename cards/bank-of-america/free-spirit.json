@@ -8,7 +8,7 @@
   "currency": "SPIRIT",
   "annualFee": 79,
   "afWaivedFirstYear": true,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
   "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragb_eltcm_mc_blk_250.png",
   "legacyIds": [
@@ -16,7 +16,8 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/"
+    "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
+    "https://www.bankofamerica.com/credit-cards/"
   ],
   "benefits": []
 }

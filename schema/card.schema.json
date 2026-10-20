@@ -246,6 +246,10 @@
         "enrollmentRequired": {
           "type": "boolean"
         },
+        "autoApplied": {
+          "type": "boolean",
+          "description": "Perks only: always on while you hold the card (elite status, lounge membership, free checked bags, flight discount, automatic anniversary points) — apps show it as active every period without the user marking it used. Omit/false for things you must redeem (free nights, companion certificates, passes, vouchers)."
+        },
         "matchKeywords": {
           "type": "array",
           "items": {

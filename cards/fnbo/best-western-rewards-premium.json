@@ -3,7 +3,7 @@
   "id": "fnbo-best-western-rewards-premium",
   "name": "Best Western Rewards Premium",
   "issuer": "FNBO",
-  "network": "mastercard",
+  "network": "visa",
   "isBusiness": false,
   "currency": "BEST_WESTERN",
   "annualFee": 89,
@@ -16,7 +16,9 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/best-western-rewards-premium-visa-signature-card/",
-    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/",
+    "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+    "https://www.mercurycards.com/cdn/cms/partners/bestwestern/BW1RewardsProgramRules.pdf"
   ],
   "benefits": [
     {
@@ -31,7 +33,7 @@
       "enrollmentRequired": false,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "One free night award each cardmember anniversary at Best Western properties in the U.S., Canada or Caribbean."
+      "notes": "One free night award each 12-month cardmember period after payment of the annual fee, at Best Western hotels in the U.S., Canada or Caribbean."
     },
     {
       "id": "spend-free-night",
@@ -45,7 +47,7 @@
       "enrollmentRequired": false,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "Second free night award after spending $10,000 net in the cardmember year. The relaunched card is issued by Mercury Financial."
+      "notes": "Second free night award after $10,000 in net purchases in the cardmember year (after the annual fee is paid). The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
     }
   ]
 }

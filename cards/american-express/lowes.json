@@ -8,7 +8,7 @@
   "currency": "USD",
   "annualFee": 0,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
   "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/lowes-business-rewards.png",
   "legacyIds": [
@@ -16,7 +16,8 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/"
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/"
   ],
   "benefits": []
 }

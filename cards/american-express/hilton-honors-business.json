@@ -18,7 +18,9 @@
   "sources": [
     "https://www.hilton.com/en/hilton-honors/credit-cards/",
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
-    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/"
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-american-express-business-credit-card-amex/",
+    "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/"
   ],
   "benefits": [
     {
@@ -38,34 +40,6 @@
       "notes": "Eligible purchases made directly with a Hilton property."
     },
     {
-      "id": "free-night-15k",
-      "name": "Free Night after $15K spend",
-      "type": "perk",
-      "value": null,
-      "frequency": "annual",
-      "alignment": "calendar",
-      "category": "hotel",
-      "inApp": false,
-      "enrollmentRequired": false,
-      "matchKeywords": [],
-      "matchVerified": false,
-      "notes": "Free Night Reward after $15,000 of purchases in a calendar year."
-    },
-    {
-      "id": "free-night-60k",
-      "name": "Free Night after $60K spend",
-      "type": "perk",
-      "value": null,
-      "frequency": "annual",
-      "alignment": "calendar",
-      "category": "hotel",
-      "inApp": false,
-      "enrollmentRequired": false,
-      "matchKeywords": [],
-      "matchVerified": false,
-      "notes": "Second Free Night Reward after $60,000 of purchases in a calendar year."
-    },
-    {
       "id": "gold-status",
       "name": "Hilton Honors Gold",
       "type": "perk",
@@ -75,9 +49,24 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Diamond status after $40,000 in a calendar year."
+    },
+    {
+      "id": "national-executive-status",
+      "name": "National Emerald Club Executive",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false
     }
   ]
 }

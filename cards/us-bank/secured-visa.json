@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-secured-visa",
+  "name": "Secured Visa",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/credit-cards/secured-visa-credit-card.html",
+  "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-classic-secured-visa-vertical-2x3.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards.html",
+    "https://www.usbank.com/credit-cards/secured-visa-credit-card.html"
+  ],
+  "benefits": []
+}

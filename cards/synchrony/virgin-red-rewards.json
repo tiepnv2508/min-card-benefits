@@ -17,12 +17,15 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://upgradedpoints.com/credit-cards/reviews/virgin-red-rewards-world-elite-mastercard/",
-    "https://www.bankrate.com/credit-cards/reviews/virgin-red-rewards-mastercard"
+    "https://www.bankrate.com/credit-cards/reviews/virgin-red-rewards-mastercard",
+    "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
+    "https://virginredrewardscard.syf.com/benefitsdetails"
   ],
   "benefits": [
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "anniversary-points",
@@ -32,7 +35,7 @@
       "frequency": "annual",
       "alignment": "anniversary",
       "category": "bonus",
-      "notes": "5,000 Virgin Points each card anniversary."
+      "notes": "5,000 Virgin Points each year the account is renewed."
     },
     {
       "inApp": false,
@@ -44,9 +47,9 @@
       "type": "perk",
       "value": null,
       "frequency": "annual",
-      "alignment": "calendar",
+      "alignment": "anniversary",
       "category": "travel",
-      "notes": "Choose one Virgin perk (Virgin Atlantic companion/upgrade voucher, Virgin Hotels free night or suite upgrade, Virgin Voyages bar tab or extras) after $15,000 calendar-year spend, and a second after $30,000."
+      "notes": "Choose one Virgin perk (Virgin Atlantic Flying Club companion/upgrade voucher, Virgin Hotels free night or priority suite upgrade, Virgin Voyages up to $300 bar tab or Blue Extras package) after $15,000 in purchases in a cardholder year, and a second after $30,000. Resets on each account-opening anniversary."
     },
     {
       "inApp": false,

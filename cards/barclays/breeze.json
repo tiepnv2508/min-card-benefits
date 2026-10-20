@@ -28,6 +28,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "7,500 BreezePoints after every account anniversary with eligible purchases (BreezePoints are worth 1 cent each)."
