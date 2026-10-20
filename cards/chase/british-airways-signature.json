@@ -61,6 +61,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "2,500 Avios each cardmember anniversary."

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-instacart",
+  "name": "Instacart",
+  "issuer": "CHASE",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+  "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/instacart_card.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/instacart"
+  ],
+  "benefits": []
+}

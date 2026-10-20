@@ -24,6 +24,7 @@
     {
       "inApp": true,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",

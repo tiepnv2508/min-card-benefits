@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "discover-discover-it-student-cash-back",
+  "name": "Discover It Student Cash Back",
+  "issuer": "DISCOVER",
+  "network": "discover",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.discover.com/credit-cards/student-credit-card/it-card/",
+  "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-student-it-iridescent-shadow.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.discover.com/credit-cards/",
+    "https://www.discover.com/credit-cards/student-credit-card/it-card/"
+  ],
+  "benefits": []
+}

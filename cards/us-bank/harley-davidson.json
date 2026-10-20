@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-harley-davidson",
+  "name": "Harley-Davidson Visa Signature",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "HARLEY_DAVIDSON",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.h-dvisa.com/",
+  "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/cobrand-hdv-sig-heritage-visa.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/co-branded-credit-cards.html",
+    "https://www.h-dvisa.com/"
+  ],
+  "benefits": []
+}

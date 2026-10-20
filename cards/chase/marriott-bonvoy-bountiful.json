@@ -44,6 +44,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "15 Elite Night Credits deposited on or before March 1 each year after the first (card must be open and linked to a Marriott Bonvoy account)."

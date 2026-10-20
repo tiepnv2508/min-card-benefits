@@ -16,7 +16,9 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.penfed.org/content/dam/penfed/en/general/pdf/credit-cards/penfed-pathfinder-travel-credits.pdf",
-    "https://www.insideflyer.com/posts/penfed-pathfinder-card-fee-no-longer-waived/"
+    "https://www.insideflyer.com/posts/penfed-pathfinder-card-fee-no-longer-waived/",
+    "https://www.penfed.org/credit-cards/pathfinder-rewards",
+    "https://www.penfed.org/content/dam/penfed/general/pdf/creditcardpdfs/Visa/penfed-pathfinder-travel-credits.pdf"
   ],
   "benefits": [
     {
@@ -60,6 +62,21 @@
       ],
       "matchVerified": false,
       "notes": "$120 for Global Entry or $85 for TSA PreCheck, once every 4 years."
+    },
+    {
+      "id": "priority-pass",
+      "name": "Priority Pass Select",
+      "type": "perk",
+      "value": 99,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Complimentary 12-month Priority Pass Select membership ($99 value) for one cardholder on the account, auto-renewed yearly while the card is eligible. Lounge visits cost $35 per person (member and guest)."
     }
   ]
 }

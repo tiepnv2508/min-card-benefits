@@ -45,6 +45,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "5% bonus on the AAdvantage miles earned with the card during the year, posted after the account anniversary."

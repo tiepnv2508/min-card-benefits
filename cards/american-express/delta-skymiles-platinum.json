@@ -113,6 +113,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "2,500 Medallion Qualification Dollars each Medallion year."
@@ -127,6 +128,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "First checked bag free on Delta flights (up to 9 on the reservation); second bag free on domestic Delta-operated flights since June 2026."

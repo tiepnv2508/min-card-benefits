@@ -38,6 +38,7 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",
@@ -52,6 +53,7 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",
@@ -65,6 +67,7 @@
     {
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",

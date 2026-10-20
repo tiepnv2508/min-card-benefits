@@ -188,6 +188,7 @@
       "category": "dining",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary DashPass when activated with the card (activate by 12/31/2029)."
@@ -202,6 +203,7 @@
       "category": "entertainment",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary Apple TV subscription; activate by 6/22/2027.",
@@ -217,6 +219,7 @@
       "category": "entertainment",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary Apple Music subscription; activate by 6/22/2027.",
@@ -251,6 +254,7 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Priority Pass Select membership (1,300+ lounges, 2 guests). Also includes Chase Sapphire Lounges and select Air Canada Maple Leaf Lounges."

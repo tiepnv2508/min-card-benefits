@@ -3,26 +3,28 @@
   "id": "boa-air-france-klm",
   "name": "Air France KLM",
   "issuer": "BANK_OF_AMERICA",
-  "network": "mastercard",
+  "network": "visa",
   "isBusiness": false,
   "currency": "FLYING_BLUE",
   "annualFee": 89,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://wwws.airfrance.us/information/flyingblue/carte-bancaire-partenaire",
-  "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_eltwldcm_mc_250x158.jpg",
+  "url": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+  "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_cmsig_v-250.png",
   "legacyIds": [
     "f2d769efdbe2b9d8734787bc24297be6"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
     "https://thepointsguy.com/credit-cards/reviews/air-france-klm-mastercard-review",
-    "https://www.nerdwallet.com/credit-cards/learn/air-france-klm-credit-card"
+    "https://www.nerdwallet.com/credit-cards/learn/air-france-klm-credit-card",
+    "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
   ],
   "benefits": [
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "anniversary-miles",
@@ -37,6 +39,7 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "anniversary-xp",
@@ -46,7 +49,7 @@
       "frequency": "annual",
       "alignment": "anniversary",
       "category": "bonus",
-      "notes": "20 XP each account anniversary; additional XP on the anniversary after $15,000 and $25,000 in purchases during the anniversary year (sources differ on the exact totals)."
+      "notes": "20 XP each account anniversary; 100 XP total on the anniversary after $15,000+ in purchases during the anniversary year, 160 XP total after $25,000+."
     }
   ]
 }

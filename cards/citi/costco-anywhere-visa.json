@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-costco-anywhere-visa",
+  "name": "Costco Anywhere Visa",
+  "issuer": "CITI",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
+  "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-costco-anywhere-visa-credit-card/citi-costco-anywhere-visa-credit-card_306x192.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
+    "https://www.citi.com/credit-cards/view-all-credit-cards"
+  ],
+  "benefits": []
+}

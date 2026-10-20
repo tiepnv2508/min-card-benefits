@@ -58,6 +58,7 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Priority Pass membership for the cardholder and 2 guests (1,300+ lounges). Authorized users get their own membership."

@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-hog-elite",
+  "name": "H.O.G. Elite Visa Signature",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "HARLEY_DAVIDSON",
+  "annualFee": 99,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.h-dvisa.com/",
+  "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/cobrand-hdv-hog-elite-visa.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/co-branded-credit-cards.html",
+    "https://www.h-dvisa.com/"
+  ],
+  "benefits": [
+    {
+      "id": "hog-membership-credit",
+      "name": "H.O.G. membership credit",
+      "type": "perk",
+      "value": 59,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Statement credit up to $59 per cardmember year when the card pays the annual H.O.G. membership fee. Not for existing Lifetime/multi-year members, who instead get 5% back on H-D dealership purchases up to $59 per calendar year (credited by the following April)."
+    },
+    {
+      "id": "dealership-credit",
+      "name": "H-D dealership credit",
+      "type": "perk",
+      "value": 30,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "shopping",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Statement credit(s) up to $30 per cardmember year on purchases at Harley-Davidson dealerships."
+    },
+    {
+      "id": "siriusxm-credit",
+      "name": "SiriusXM credit",
+      "type": "perk",
+      "value": 10,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "entertainment",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Automatic $10 statement credit per 12-month period, posted within 2 billing cycles after 11 consecutive months of an eligible SiriusXM subscription."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "$schema": "../../schema/card.schema.json",
   "id": "barclays-carnival-world-mastercard",
-  "name": "Carnival World Mastercard",
+  "name": "Carnival Rewards Mastercard",
   "issuer": "BARCLAYS",
   "network": "mastercard",
   "isBusiness": false,
@@ -9,14 +9,16 @@
   "annualFee": 0,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/",
+  "url": "https://cards.barclaycardus.com/banking/cards/carnival-rewards-mastercard/",
   "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/carnival/card-art/SMC_LP_Card_Carnival_447x281.png",
   "legacyIds": [
     "eddb365c3098a64170b9e4fb322b2a05"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/"
+    "https://cards.barclaycardus.com/banking/cards/carnival-rewards-mastercard/",
+    "https://cards.barclaycardus.com/banking/about-us/newsroom/carnival-cruise-line-and-barclays-launch-new-carnival-rewards-mastercard-to-accelerate-travel-experience-through-everyday-purchase-power/",
+    "https://www.carnival.com/carnival-rewards/carnival-rewards-mastercard"
   ],
   "benefits": []
 }

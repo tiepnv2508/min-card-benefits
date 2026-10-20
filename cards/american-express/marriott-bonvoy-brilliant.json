@@ -54,7 +54,7 @@
         "tsa"
       ],
       "matchVerified": false,
-      "notes": "Global Entry (every 4 years) or TSA PreCheck (every 4.5 years) application fee. Sources differ on the cap ($100 vs $120)."
+      "notes": "Either a $120 Global Entry credit or up to $85 for TSA PreCheck (5-year plan); one credit per 4-year period, whichever fee is charged first."
     },
     {
       "id": "free-night-award",
@@ -94,6 +94,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false
     },
@@ -107,9 +108,25 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "25 Elite Night Credits toward status each calendar year."
+    },
+    {
+      "id": "priority-pass",
+      "name": "Priority Pass",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "lounge",
+      "inApp": false,
+      "enrollmentRequired": true,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Priority Pass membership with unlimited visits (enrollment required)."
     }
   ]
 }

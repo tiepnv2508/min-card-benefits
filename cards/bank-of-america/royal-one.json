@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-royal-one",
+  "name": "Royal ONE",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "ROYAL_CARIBBEAN",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+    "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/royal-caribbean-group-enhances-travel-loyalty--partners-with-ban.html"
+  ],
+  "benefits": [
+    {
+      "id": "anniversary-reward",
+      "name": "Anniversary cruise reward",
+      "type": "perk",
+      "value": 100,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$100 cruise discount each year after $10,000 in purchases in the cardmember year."
+    }
+  ]
+}

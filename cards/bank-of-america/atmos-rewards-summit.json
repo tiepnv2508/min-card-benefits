@@ -66,6 +66,7 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "anniversary-status-points",

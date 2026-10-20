@@ -29,6 +29,7 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "7,500 Wyndham Rewards points each anniversary year if you spend $15,000 on eligible purchases."

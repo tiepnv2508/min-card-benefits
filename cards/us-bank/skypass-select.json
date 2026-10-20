@@ -53,6 +53,7 @@
     {
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "id": "priority-pass-visits",

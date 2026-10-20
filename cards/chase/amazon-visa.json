@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-amazon-visa",
+  "name": "Amazon Visa",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
+  "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/amazon_visa.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
+    "https://creditcards.chase.com/cash-back-credit-cards/amazon"
+  ],
+  "benefits": []
+}

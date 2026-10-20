@@ -17,7 +17,8 @@
   "lastVerified": "2026-10-20",
   "sources": [
     "https://www.marriott.com/credit-cards/marriott-bonvoy-business-american-express-card.mi",
-    "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/"
+    "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
   ],
   "benefits": [
     {
@@ -49,6 +50,20 @@
       "notes": "Second 35K Free Night Award after $60,000 of purchases in a calendar year."
     },
     {
+      "id": "gold-status",
+      "name": "Marriott Bonvoy Gold Elite",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false
+    },
+    {
       "id": "elite-night-credits",
       "name": "15 Elite Night Credits",
       "type": "perk",
@@ -58,9 +73,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "15 Elite Night Credits each calendar year (Silver Elite status included)."
+      "notes": "15 Elite Night Credits each calendar year."
     }
   ]
 }

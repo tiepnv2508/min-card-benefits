@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "boa-norwegian-cruise-line",
+  "name": "Norwegian Cruise Line World",
+  "issuer": "BANK_OF_AMERICA",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "NORWEGIAN",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+  "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/radz_wldcm_mc_250.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+    "https://www.ncl.com/world-points"
+  ],
+  "benefits": []
+}

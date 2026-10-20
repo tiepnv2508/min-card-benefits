@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "usbank-shield",
+  "name": "Shield",
+  "issuer": "US_BANK",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.usbank.com/credit-cards/shield-visa-credit-card.html",
+  "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/shield-credit-card-transparent.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.usbank.com/credit-cards/shield-visa-credit-card.html"
+  ],
+  "benefits": [
+    {
+      "id": "consecutive-purchase-credit",
+      "name": "Annual $20 credit",
+      "type": "perk",
+      "value": 20,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Automatic $20 statement credit per 12-month period, posted within 2 billing cycles after 11 consecutive calendar months with purchases (account in good standing)."
+    }
+  ]
+}

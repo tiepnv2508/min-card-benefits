@@ -16,7 +16,24 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://www.hilton.com/en/hilton-honors/credit-cards/"
+    "https://www.hilton.com/en/hilton-honors/credit-cards/",
+    "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
   ],
-  "benefits": []
+  "benefits": [
+    {
+      "id": "silver-status",
+      "name": "Hilton Honors Silver",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Gold status through the end of the next calendar year after $20,000 in purchases in a calendar year."
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "wellsfargo-reflect",
+  "name": "Reflect",
+  "issuer": "WELLS_FARGO",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.wellsfargo.com/reflect-visa-credit-card/",
+  "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/reflect.webp",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.wellsfargo.com/",
+    "https://creditcards.wellsfargo.com/reflect-visa-credit-card/"
+  ],
+  "benefits": []
+}

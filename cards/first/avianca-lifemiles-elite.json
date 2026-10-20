@@ -29,6 +29,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary LifeMiles+ membership: 500 miles per month (up to 6,000 per year)."

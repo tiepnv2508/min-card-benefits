@@ -163,6 +163,7 @@
       "category": "dining",
       "inApp": true,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Complimentary DashPass; activate by 12/31/2027."
@@ -196,6 +197,7 @@
       "category": "lounge",
       "inApp": false,
       "enrollmentRequired": true,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Priority Pass Select membership plus Chase Sapphire Lounge access and select Air Canada Maple Leaf Lounges. Not for employee cards."

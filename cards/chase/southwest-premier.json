@@ -30,6 +30,7 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "6,000 Rapid Rewards points each cardmember anniversary."
@@ -44,6 +45,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "10,000 Companion Pass qualifying points each calendar year."
@@ -58,6 +60,7 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "15% promo code each cardmember anniversary (excludes Basic fares)."

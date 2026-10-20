@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-freedom-rise",
+  "name": "Freedom Rise",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "CHASE",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise",
+  "imageUrl": "https://www.chase.com/content/dam/unified-assets/card-art/chase-freedom/freedom-rise/card_freedomRise_V.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise"
+  ],
+  "benefits": [
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    }
+  ]
+}

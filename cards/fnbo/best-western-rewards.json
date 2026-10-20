@@ -3,7 +3,7 @@
   "id": "fnbo-best-western-rewards",
   "name": "Best Western Rewards",
   "issuer": "FNBO",
-  "network": "mastercard",
+  "network": "visa",
   "isBusiness": false,
   "currency": "BEST_WESTERN",
   "annualFee": 0,
@@ -15,7 +15,9 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/"
+    "https://awardwallet.com/credit-cards/hotels/best-western-credit-cards/",
+    "https://www.bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+    "https://www.mercurycards.com/cdn/cms/partners/bestwestern/BW2RewardsProgramRules.pdf"
   ],
   "benefits": [
     {
@@ -28,9 +30,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched card is issued by Mercury Financial."
+      "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
     }
   ]
 }

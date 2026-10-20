@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "citi-macys",
+  "name": "Macy's Credit Card",
+  "issuer": "CITI",
+  "network": null,
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.citi.com/credit-cards/citi-macys-credit-card",
+  "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-macys-credit-card/citi-macys-credit-card1_306x192.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.citi.com/credit-cards/citi-macys-credit-card",
+    "https://www.citi.com/credit-cards/view-all-credit-cards"
+  ],
+  "benefits": []
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "chase-slate-edge",
+  "name": "Slate Edge",
+  "issuer": "CHASE",
+  "network": "visa",
+  "isBusiness": false,
+  "currency": "USD",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://creditcards.chase.com/credit-building-credit-cards/slate/edge",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://creditcards.chase.com/credit-building-credit-cards/slate/edge"
+  ],
+  "benefits": [
+    {
+      "id": "doordash-promo",
+      "name": "DoorDash promo",
+      "type": "credit",
+      "value": 10,
+      "frequency": "quarterly",
+      "alignment": "calendar",
+      "category": "grocery",
+      "inApp": true,
+      "enrollmentRequired": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$10 off one non-restaurant DoorDash order each calendar quarter while enrolled in DashPass via the card (6 months complimentary, then paid). Offer runs through 12/31/2027 (activate DashPass by then).",
+      "endDate": "2027-12-31"
+    }
+  ]
+}
