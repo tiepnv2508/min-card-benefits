@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "bilt-blue",
+  "name": "Blue",
+  "issuer": "BILT",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BILT",
+  "annualFee": 0,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bilt.com/card/blue",
+  "imageUrl": "https://img.bilt.com/43819/1778286910-blue_sq.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bilt.com/card/blue",
+    "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
+    "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+  ],
+  "benefits": []
+}

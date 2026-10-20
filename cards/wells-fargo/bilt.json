@@ -8,7 +8,7 @@
   "currency": "WELLS_FARGO",
   "annualFee": 0,
   "afWaivedFirstYear": false,
-  "discontinued": false,
+  "discontinued": true,
   "url": "https://www.biltrewards.com/card",
   "legacyIds": [
     "c077a47639c7b47d1895200c72588ee3"

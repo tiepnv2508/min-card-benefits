@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "cardCount": 175,
-  "benefitCount": 428,
+  "cardCount": 178,
+  "benefitCount": 432,
   "cards": [
     {
       "id": "amex-amazon-business",
@@ -4502,6 +4502,126 @@
         "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/"
       ],
       "benefits": []
+    },
+    {
+      "id": "bilt-blue",
+      "name": "Blue",
+      "issuer": "BILT",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BILT",
+      "annualFee": 0,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bilt.com/card/blue",
+      "imageUrl": "https://img.bilt.com/43819/1778286910-blue_sq.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bilt.com/card/blue",
+        "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
+        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+      ],
+      "benefits": []
+    },
+    {
+      "id": "bilt-obsidian",
+      "name": "Obsidian",
+      "issuer": "BILT",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BILT",
+      "annualFee": 95,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bilt.com/card/obsidian",
+      "imageUrl": "https://img.bilt.com/43819/1778286910-obsidian_sq.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bilt.com/card/obsidian",
+        "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
+        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+      ],
+      "benefits": [
+        {
+          "id": "hotel-credit",
+          "name": "Hotel credit",
+          "type": "credit",
+          "value": 50,
+          "frequency": "semiannual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": true,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$100/year Bilt Travel Hotel credit: $50 Jan-Jun and $50 Jul-Dec on hotels booked through the Bilt Travel portal (bilt.com / Bilt app), 2-night minimum stay. Applied at checkout in the portal; unused credit does not roll over."
+        }
+      ]
+    },
+    {
+      "id": "bilt-palladium",
+      "name": "Palladium",
+      "issuer": "BILT",
+      "network": "mastercard",
+      "isBusiness": false,
+      "currency": "BILT",
+      "annualFee": 495,
+      "afWaivedFirstYear": false,
+      "discontinued": false,
+      "url": "https://www.bilt.com/card/palladium",
+      "imageUrl": "https://img.bilt.com/43819/1778286910-palladium_sq.png",
+      "lastVerified": "2026-10-20",
+      "sources": [
+        "https://www.bilt.com/card/palladium",
+        "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
+        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
+        "https://upgradedpoints.com/credit-cards/reviews/bilt-palladium-card/beneifts/",
+        "https://www.nerdwallet.com/credit-cards/reviews/bilt-palladium"
+      ],
+      "benefits": [
+        {
+          "id": "hotel-credit",
+          "name": "Hotel credit",
+          "type": "credit",
+          "value": 200,
+          "frequency": "semiannual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": true,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$400/year Bilt Travel Hotel credit: $200 Jan-Jun and $200 Jul-Dec on hotels booked through the Bilt Travel portal (bilt.com / Bilt app), 2-night minimum stay. Applied at checkout in the portal; unused credit does not roll over."
+        },
+        {
+          "id": "bilt-cash",
+          "name": "Bilt Cash",
+          "type": "credit",
+          "value": 200,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "bonus",
+          "inApp": true,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "$200 Bilt Cash deposited to your Bilt account on approval and then every January 1. Spent inside Bilt (dining, Lyft, Walgreens, Bilt Travel, rent/points unlocks); up to $100 rolls over, the rest expires Dec 31."
+        },
+        {
+          "id": "priority-pass",
+          "name": "Priority Pass Select",
+          "type": "perk",
+          "value": 469,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority Pass membership for the cardholder and 2 guests (1,300+ lounges). Authorized users get their own membership."
+        }
+      ]
     },
     {
       "id": "brex-brex",
@@ -10306,7 +10426,7 @@
       "currency": "WELLS_FARGO",
       "annualFee": 0,
       "afWaivedFirstYear": false,
-      "discontinued": false,
+      "discontinued": true,
       "url": "https://www.biltrewards.com/card",
       "legacyIds": [
         "c077a47639c7b47d1895200c72588ee3"

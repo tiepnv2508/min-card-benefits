@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/card.schema.json",
+  "id": "bilt-obsidian",
+  "name": "Obsidian",
+  "issuer": "BILT",
+  "network": "mastercard",
+  "isBusiness": false,
+  "currency": "BILT",
+  "annualFee": 95,
+  "afWaivedFirstYear": false,
+  "discontinued": false,
+  "url": "https://www.bilt.com/card/obsidian",
+  "imageUrl": "https://img.bilt.com/43819/1778286910-obsidian_sq.png",
+  "lastVerified": "2026-10-20",
+  "sources": [
+    "https://www.bilt.com/card/obsidian",
+    "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
+    "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+  ],
+  "benefits": [
+    {
+      "id": "hotel-credit",
+      "name": "Hotel credit",
+      "type": "credit",
+      "value": 50,
+      "frequency": "semiannual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": true,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "$100/year Bilt Travel Hotel credit: $50 Jan-Jun and $50 Jul-Dec on hotels booked through the Bilt Travel portal (bilt.com / Bilt app), 2-night minimum stay. Applied at checkout in the portal; unused credit does not roll over."
+    }
+  ]
+}
