@@ -34,6 +34,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-cash.png",
       "legacyIds": [
         "a37efd1da4e7f0d468c87d3b6f021250"
       ],
@@ -54,6 +55,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/blue-business-plus.png",
       "legacyIds": [
         "a851f08b98f839a01a7e8fa367d8b8be"
       ],
@@ -74,6 +76,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000305_480x304_straight_withname.png",
       "legacyIds": [
         "6980c320c341292b63273e4362601aa8"
       ],
@@ -129,6 +132,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000264_480x304_straight_withname.png",
       "legacyIds": [
         "04abf9273e03fbe626fe80a9ffd53523"
       ],
@@ -167,6 +171,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://us.etrade.com/l/morgan-stanley-blue-cash-preferred",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000284_480x304_straight_withname.png",
       "legacyIds": [
         "b628058009b9f1a24093028750e18112"
       ],
@@ -222,6 +227,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-gold.png",
       "legacyIds": [
         "191f603ca5af9306d5db0fb208e9a646"
       ],
@@ -316,6 +322,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-green-rewards.png",
       "legacyIds": [
         "aff8fcfdc6a69cef4936e1e474820516"
       ],
@@ -336,6 +343,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-platinum.png",
       "legacyIds": [
         "656a6a4296d40de4c62cc3ec888e5018"
       ],
@@ -616,6 +624,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/cash-magnet/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/cash-magnet.png",
       "legacyIds": [
         "27ebb66ce240c9dcf6e1d13d63e319b4"
       ],
@@ -636,6 +645,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000386_480x304_straight_withname.png",
       "legacyIds": [
         "90436ebe63417596fbc6cb5b7e5a2e8c"
       ],
@@ -656,6 +666,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000385_480x304_straight_withname.png",
       "legacyIds": [
         "99d4ec3c5bcd51b70b83b4b792af3ef6"
       ],
@@ -739,6 +750,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/gold-delta-skymiles-business.png",
       "legacyIds": [
         "509a09cbd31edd8df85928d044ef7802"
       ],
@@ -822,6 +834,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000384_480x304_straight_withname.png",
       "legacyIds": [
         "bdf4ae17ff6808592f785fff3ae81a2a"
       ],
@@ -954,6 +967,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/platinum-delta-skymiles-business.png",
       "legacyIds": [
         "1e9c3dae029612a7a40adf6144bf43d4"
       ],
@@ -1086,6 +1100,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000383_480x304_straight_withname.png",
       "legacyIds": [
         "2a3949c2232cf6646a59531728264a5c"
       ],
@@ -1232,6 +1247,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/delta-reserve-business.png",
       "legacyIds": [
         "a8032dfcc9bc6af82eb1a0a487e710b5"
       ],
@@ -1378,6 +1394,7 @@
       "afWaivedFirstYear": false,
       "discontinued": true,
       "url": "https://global.americanexpress.com/card-benefits/view-all/amex-everyday",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday.png",
       "legacyIds": [
         "54fddf9e59dfad730320eb65a04b7ea5"
       ],
@@ -1398,6 +1415,7 @@
       "afWaivedFirstYear": false,
       "discontinued": true,
       "url": "https://www.americanexpress.com/us/credit-cards/card/amex-everyday-preferred/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday-preferred.png",
       "legacyIds": [
         "84c122e1077e2929b1f563bd143ce82e"
       ],
@@ -1418,6 +1436,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000174_480x304_straight_withname.png",
       "legacyIds": [
         "cafe43d37256bec116dff4be6cced2cf"
       ],
@@ -1525,6 +1544,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/green/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000274_480x304_straight_withname.png",
       "legacyIds": [
         "ad9a96ed5f730a79d0171f1f8ca92d0c"
       ],
@@ -1563,6 +1583,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png",
       "legacyIds": [
         "0710239dc6fbd92077bce7118572e217"
       ],
@@ -1583,6 +1604,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-aspire.png",
       "legacyIds": [
         "59c1e4c423d078c91e9b7c51d72e893d"
       ],
@@ -1725,6 +1747,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/hilton-honors.png",
       "legacyIds": [
         "434df114291a974c876d58cf79158376"
       ],
@@ -1806,6 +1829,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.hilton.com/en/hilton-honors/credit-cards/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png",
       "legacyIds": [
         "f6c6aa50b533b758df7be5151d805571"
       ],
@@ -1885,6 +1909,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/lowes-credit-cards/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/lowes-business-rewards.png",
       "legacyIds": [
         "9bf8d331ae97a8ddc47ef3d22dcaf213"
       ],
@@ -1905,6 +1930,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
       "legacyIds": [
         "653b14a655f4edc9bfc0332e9370e139"
       ],
@@ -1968,6 +1994,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
       "legacyIds": [
         "4d2115812f09d194440ef99b1a5210cd"
       ],
@@ -2081,6 +2108,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+      "imageUrl": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/amex-marriott-bonvoy-business.png",
       "legacyIds": [
         "1129280627d633940e575deabdaa105f"
       ],
@@ -2145,6 +2173,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000237_480x304_straight_withname.png",
       "legacyIds": [
         "ec1872dfd8a65491a33bae2da4dd487f"
       ],
@@ -2434,6 +2463,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://us.etrade.com/l/morgan-stanley-platinum",
+      "imageUrl": "https://icm.aexp-static.com/acquisition/card-art/NUS000000365_480x304_straight_withname.png",
       "legacyIds": [
         "ab55a96910ffc7f31fc1605c99430ec5"
       ],
@@ -2722,6 +2752,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.schwab.com/credit-cards/platinum-card",
+      "imageUrl": "https://www.aexp-static.com/online/myca/shared/summary/cardasset/images/NUS000000367_480x304_STRAIGHT_96.png",
       "legacyIds": [
         "7eb93f5f9ab64e1c12b82ec8822c25ef"
       ],
@@ -3049,6 +3080,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.schwab.com/public/schwab/investing/accounts_products/credit_cards",
+      "imageUrl": "https://www.aexp-static.com/online/myca/shared/summary/cardasset/images/NUS000000377_480x304_STRAIGHT_96.png",
       "legacyIds": [
         "a3b091353bd1a45ad58f75e5287f1fd6"
       ],
@@ -3069,6 +3101,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://wwws.airfrance.us/information/flyingblue/carte-bancaire-partenaire",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_eltwldcm_mc_250x158.jpg",
       "legacyIds": [
         "f2d769efdbe2b9d8734787bc24297be6"
       ],
@@ -3119,6 +3152,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/blt2d6e98619050fddd/6a99bb6c5301913049e37f84/70k-ascent-card-ar.jpg",
       "legacyIds": [
         "12a1230229f936ee5f7b2d333e796ab8"
       ],
@@ -3155,6 +3189,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltcda6249a54b3eda1/6a99bb6f8c8f8c22c287b19b/Asset-Card-Overlay-Business-AR-BP-Badge.jpg",
       "legacyIds": [
         "9e42d6cf9c6dcfda0cf7d5f5f015285d"
       ],
@@ -3191,6 +3226,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.alaskaair.com/atmosrewards/content/credit-cards",
+      "imageUrl": "https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/bltce5a39e78490b34a/6a99bb7106d1394d0f4eda1f/Asset-Card-Overlay-Summit-AR-BP-Badge.jpg",
       "legacyIds": [
         "2878b32104d7bf242496a8af56f33952"
       ],
@@ -3289,6 +3325,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/cash-rewards-business-credit-card",
+      "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/customized_cash_rewards_1200x756.png",
       "legacyIds": [
         "4f6d71dd4d06ff960cae0990b5efda21"
       ],
@@ -3309,6 +3346,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/travel-rewards-business-credit-card",
+      "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/travel_rewards_1200x756.png",
       "legacyIds": [
         "1e75cf9ca2ccded9a621d5e8f5630c3c"
       ],
@@ -3329,6 +3367,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/unlimited-cash-rewards-business-credit-card",
+      "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_1200x756.png",
       "legacyIds": [
         "a99aa675065459b90144275ac18d9ab1"
       ],
@@ -3349,6 +3388,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_250x158.png",
       "legacyIds": [
         "f2461735a56702c428c209486e2f9e55"
       ],
@@ -3369,6 +3409,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/spirit-airlines-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/ragb_eltcm_mc_blk_250.png",
       "legacyIds": [
         "541d121bd20b148d43a8c896d0de6830"
       ],
@@ -3389,6 +3430,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/products/platinum-plus-business-credit-card",
+      "imageUrl": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/platinum_plus_mc_1200x756.png",
       "legacyIds": [
         "9dce80bda519a8616ca4eb288d7cc693"
       ],
@@ -3409,6 +3451,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8CAL_prmsigcm_v_250_158.png",
       "legacyIds": [
         "eb8bc1a6f86dc471aa0deeca619fbf59"
       ],
@@ -3467,6 +3510,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
       "legacyIds": [
         "20594480e9f5656485a12e13389f60c7"
       ],
@@ -3555,6 +3599,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png",
       "legacyIds": [
         "fecfaab2c32f3edd5d97eafd8f3f19d6"
       ],
@@ -3575,6 +3620,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+      "imageUrl": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png",
       "legacyIds": [
         "98db04658d4deee69293bd67bd2fd341"
       ],
@@ -3595,6 +3641,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/aadvantage-aviator-red-world-elite-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/AA2_card_rRGB_AviatorRed_WE_359x246_4074_072418.png",
       "legacyIds": [
         "bb54057b74adc9514885254a82fd8634"
       ],
@@ -3649,6 +3696,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.aa.com/barclay-credit-card-aviator-business-american-airlines-aadvantage/",
+      "imageUrl": "https://creditcards.aa.com/barclay-credit-cards-aviator-american-airlines-aadvantage/wp-content/uploads/sites/7/2020/10/aviator_business_credit_card.png",
       "legacyIds": [
         "4b3dee677718c19aace2e927e6e26704"
       ],
@@ -3699,6 +3747,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.aarp.org/membership/benefits/finance/aarp-essential-rewards-mastercard-from-barclays/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/ARE_card_rRGB_Essential_6146_359x246_Angle_L.png",
       "legacyIds": [
         "f2fcdd7db964fb3c55f6df704f5678c8"
       ],
@@ -3719,6 +3768,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.aarp.org/membership/benefits/finance/aarp-travel-rewards-mastercard-from-barclays/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/aarp/card-art/ART_card_rCMY_Travel_WM_5492_359x246_angle_L.png-Medium.png",
       "legacyIds": [
         "fc80c887a321dde1faa7e9282c813683"
       ],
@@ -3739,6 +3789,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/breeze/card/BRZ_card_wMoneyBadge_CardDetails_359x226.png",
       "legacyIds": [
         "b52f6b684aec5d5b2465c27e6ccd1adc"
       ],
@@ -3774,6 +3825,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/carnival-world-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/carnival/card-art/SMC_LP_Card_Carnival_447x281.png",
       "legacyIds": [
         "eddb365c3098a64170b9e4fb322b2a05"
       ],
@@ -3794,6 +3846,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-premium-world-elite-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/EKE_LP_Card_SkywardsPrem_320x205.png",
       "legacyIds": [
         "990a75f557890d22402183b20a8fe09d"
       ],
@@ -3848,6 +3901,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/emirates-skywards-rewards-world-elite-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/EKS_card_Rewards_359x227.png",
       "legacyIds": [
         "e33253806e1da76436e527e3c7b6179d"
       ],
@@ -3868,6 +3922,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/frontier-airlines-world-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/adobe-dam/frontier/FTF_card_rRGB_Fee_MC_NoBleed_padding.png",
       "legacyIds": [
         "e33d8701c8e81d5befe82ec5ed5cda23"
       ],
@@ -3903,6 +3958,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/credit-card/hawaiian-airlines/child/hawaiian-hcl-inflight-landing-page/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/card_HCL_DHR3ZHC1_359x226.png",
       "legacyIds": [
         "44effaf95f470d31302d6f366207a543"
       ],
@@ -3975,6 +4031,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/jetblue-card/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBM_card_NoFee_WM_Flat_230x157.png",
       "legacyIds": [
         "d760441e47fada8604f084285fbaeb39"
       ],
@@ -3995,6 +4052,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/jetblue-business-card/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/BJT_card_BC_WE_Flat_230x157.png",
       "legacyIds": [
         "499685453910108ad817d64f9728eb46"
       ],
@@ -4047,6 +4105,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/jetblue-plus-card/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBE_card_Plus_WE_Flat_230x157.png",
       "legacyIds": [
         "fafac50a80daae929873eca389fafd15"
       ],
@@ -4099,6 +4158,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/jetblue-premier-card/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/JBP_CD_card_Premier_WE_Flat_230x157.png",
       "legacyIds": [
         "c7698b8b99a60ae3ccdd4d880ff5fe68"
       ],
@@ -4214,6 +4274,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/lufthansa-miles-more-world-elite-mastercard",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/LFT_DFW1ZLF1.png",
       "legacyIds": [
         "fdd9a5b1485ab0f88d0abd28c32e3b89"
       ],
@@ -4263,6 +4324,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/upromise-world-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/UPR_card_rRGB_Upromise_WM_230x157.png",
       "legacyIds": [
         "d0fa846548af110fa31bc7bfa25828df"
       ],
@@ -4283,6 +4345,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earner",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYD-WYZ-Rewards-Earner-VS_noBleed_230x157.png",
       "legacyIds": [
         "6496ff471ffd822105f59ea276547110"
       ],
@@ -4318,6 +4381,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earnerbusiness",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/BWY-Earner-Business-Card_VS_noBleed_230x157.png",
       "legacyIds": [
         "ba9027fba78b5ca88e4d9471aa9e31bd"
       ],
@@ -4372,6 +4436,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.wyndhamrewardscreditcard.com/#earnerplus",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/WYF-Earner-Plus_VS_noBleed_230x157.png",
       "legacyIds": [
         "b910f422064772c65840288c632cf900"
       ],
@@ -4428,6 +4493,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://cards.barclaycardus.com/banking/cards/xbox-mastercard/",
+      "imageUrl": "https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/XBO_card_Xbox_MC_Angle_359x246.png",
       "legacyIds": [
         "274b5ad3d42b14ff81fb588dd8938aa6"
       ],
@@ -4468,6 +4534,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/quicksilver/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
       "legacyIds": [
         "66f7413248c7f2c61ce1e8008685eac2"
       ],
@@ -4488,6 +4555,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/savor/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art.png",
       "legacyIds": [
         "2d16431e0caee645b420cc3d3255b2ee"
       ],
@@ -4508,6 +4576,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-select",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/cash_new_2021_optimized.png",
       "legacyIds": [
         "d4955a21df61a45ad86c3d60c58b91fc"
       ],
@@ -4528,6 +4597,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/spark-cash-plus2.png",
       "legacyIds": [
         "9bd7d14db16dcc106d2eb062b08bf15f"
       ],
@@ -4548,6 +4618,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/venture-business/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-vb-card-art.png",
       "legacyIds": [
         "e48261ce7908f2ed8403245217f44de7"
       ],
@@ -4619,6 +4690,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/venture/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venture_cardart_prim_323x203-1.png",
       "legacyIds": [
         "4a7a8036e514f187ca7c41b31925251e"
       ],
@@ -4658,6 +4730,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/venture-x/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
       "legacyIds": [
         "9aa036266b8cc7e7512a630efdecae0b"
       ],
@@ -4753,6 +4826,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/vxb-card-alt-at-2x.png",
       "legacyIds": [
         "1d2ff07648fdd4b06d89ef0309f1c4cb"
       ],
@@ -4846,6 +4920,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/credit-cards/ventureone/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203.png",
       "legacyIds": [
         "d0298263cc453d34160558a93fd1bcb2"
       ],
@@ -4866,6 +4941,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.capitalone.com/small-business/credit-cards/ventureone-business/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-vb-card-art.png",
       "legacyIds": [
         "c8d364bb32a8d2f6a359cf57a5e58cde"
       ],
@@ -4886,6 +4962,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/aer_lingus_card.png",
       "legacyIds": [
         "dcafcac45d86331a7f6b9cfdb980b81e"
       ],
@@ -4966,6 +5043,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/AirCanada_Aeroplan_cardart.png",
       "legacyIds": [
         "7662e34a89a906b869b93bb12a2e1b3b"
       ],
@@ -5054,6 +5132,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amazon.com/dp/BT00LN946S",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/prime-visa.png",
       "legacyIds": [
         "f4d8c429f58f9f74944a9108bcae4a22"
       ],
@@ -5074,6 +5153,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
+      "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/british-airways.png",
       "legacyIds": [
         "7b06f0b6a307509b71862ffa5933ef0b"
       ],
@@ -5171,6 +5251,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney_vintage_mickey_Jan_2026.png",
       "legacyIds": [
         "12a1578aeb5bfcdd3bc794154ad1f6cc"
       ],
@@ -5223,6 +5304,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney_sleeping_beauty_premier_vs_Jan_2026.png",
       "legacyIds": [
         "cd81837eb0aedd4752197e044e77381a"
       ],
@@ -5275,6 +5357,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/freedom_flex_card.png",
       "legacyIds": [
         "6ba7f561f6a4f7f2934bec25bd9a3130"
       ],
@@ -5295,6 +5378,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/freedom_unlimited_card_alt.png",
       "legacyIds": [
         "3a9ea798ce73485fc8456280fd4b1816"
       ],
@@ -5315,6 +5399,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
+      "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/iberia.png",
       "legacyIds": [
         "60c2e7b4bc2e526bf38dac5be5f4433c"
       ],
@@ -5395,6 +5480,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihgpremiercardart2026.png",
       "legacyIds": [
         "40192e08e31f059d91a108ff09ec5dd5"
       ],
@@ -5526,6 +5612,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewards-biz-card2026.png",
       "legacyIds": [
         "bc82fb7022c639f90b9378410127b9e6"
       ],
@@ -5673,6 +5760,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg-one-rewardscard.png",
       "legacyIds": [
         "2c6c7e215b4a1e791250d1fb48997e02"
       ],
@@ -5725,6 +5813,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+      "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/ink-cash.png",
       "legacyIds": [
         "8ec7f405d03afa62eaeea7e197a29e8a"
       ],
@@ -5762,6 +5851,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_preferred_card.png",
       "legacyIds": [
         "c80cdb77c3eda940e2a36abb4f943c69"
       ],
@@ -5813,6 +5903,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/ink/premier",
+      "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/ink-premier.png",
       "legacyIds": [
         "94c9b624738adce05fbe0e5bfc5d620e"
       ],
@@ -5833,6 +5924,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_unlimited_card.png",
       "legacyIds": [
         "4a1c1e46f145b76fcc72ebd391fc5766"
       ],
@@ -5870,6 +5962,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott_bonvoy_bold_card_NAF.png",
       "legacyIds": [
         "918c978a06c7c36f9a321b2efa0ff974"
       ],
@@ -5922,6 +6015,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott-bonvoy-boundless-card.png",
       "legacyIds": [
         "6a4a30b866d4d37216b9d586a15ad1cc"
       ],
@@ -6006,6 +6100,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/marriott_bonvoy_bountiful_card.png",
       "legacyIds": [
         "fb5e3887059d5d8600b2a5eaed7ddaf7"
       ],
@@ -6072,6 +6167,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire-preferredcard2026.png",
       "legacyIds": [
         "57f8a819c3bb4c6aa494016703281f35"
       ],
@@ -6158,6 +6254,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_card_Halo.png",
       "legacyIds": [
         "77e3ef2fc9c35498ba1a3f46a63235cb"
       ],
@@ -6445,6 +6542,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_biz_card.png",
       "legacyIds": [
         "5d8c589d1e7c1294d04fa6e4a2685624"
       ],
@@ -6677,6 +6775,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_performance_biz_card.png",
       "legacyIds": [
         "682a4f0c425d15b5ca34214378cfc3de"
       ],
@@ -6776,6 +6875,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_plus_card_New.png",
       "legacyIds": [
         "32a0c8c7eda25330e2c176589e386d7f"
       ],
@@ -6870,6 +6970,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_premier_card.png",
       "legacyIds": [
         "76e73a4afe8dfc1f8f1be1e345d7eca8"
       ],
@@ -6964,6 +7065,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_premier_biz_card.png",
       "legacyIds": [
         "f86d26bad5af78feff0335845003c47e"
       ],
@@ -7058,6 +7160,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/swa_priority_card-2.png",
       "legacyIds": [
         "169256a9988f3161381ee6a9ebe6667e"
       ],
@@ -7138,6 +7241,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
       "legacyIds": [
         "8101f7827e3a1e797b09653f117b72d9"
       ],
@@ -7297,6 +7401,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/rewards-cards/club-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_new_infinite_card.png",
       "legacyIds": [
         "d2517ce6b72999e14f50c399347100ed"
       ],
@@ -7446,6 +7551,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/business-rewards-cards/club-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
       "legacyIds": [
         "80c6aca49a0e1442d51635c316f4a5ff"
       ],
@@ -7592,6 +7698,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
       "legacyIds": [
         "85cd2b7d172e494eefad5b2ab012f21c"
       ],
@@ -7754,6 +7861,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_new_ribbon_card.png",
       "legacyIds": [
         "4071699fe4b21cafb02cf8b2c9c57c86"
       ],
@@ -7774,6 +7882,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
       "legacyIds": [
         "34ab99720941eaa2a1671e5b3a996b19"
       ],
@@ -7937,6 +8046,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_of_hyatt_card.png",
       "legacyIds": [
         "d378a38b56d4c9bd5e1ad184a6ce84f0"
       ],
@@ -8017,6 +8127,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+      "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_hyatt_biz_card.png",
       "legacyIds": [
         "0d9d833e7298ab0f1892a4035686fa06"
       ],
@@ -8085,6 +8196,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citibusiness-aadvantage-platinum-select-credit-card/citibusiness-aadvantage-platinum-select-credit-card_306x192.webp",
       "legacyIds": [
         "f6ff3383cc6c52a81eb4715eb8d5de03"
       ],
@@ -8120,6 +8232,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-executive-world-legend-mastercard/citi-aadvantage-executive-world-legend-mastercard_306x192.webp",
       "legacyIds": [
         "3543149f6555df6f7e4974923c55d853"
       ],
@@ -8270,6 +8383,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-globe-mastercard/citi-aadvantage-globe-mastercard_306x192.webp",
       "legacyIds": [
         "c6b04cf07dd821ddcfba3dbe398a4b31"
       ],
@@ -8384,6 +8498,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/aadvantage-mile-up-credit-card/aadvantage-mile-up-credit-card_306x192.webp",
       "legacyIds": [
         "196b33e005dd1bc8e1c505f2bf98a1d1"
       ],
@@ -8404,6 +8519,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-platinum-elite-credit-card/citi-aadvantage-platinum-elite-credit-card_306x192.webp",
       "legacyIds": [
         "a497d6ba509538db9e3e4a3e5e313fe9"
       ],
@@ -8455,6 +8571,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.att.com/deals/att-points-plus-citi/",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-att-pointsplus-credit-card/citi-att-pointsplus-credit-card_306x192.webp",
       "legacyIds": [
         "d4bbd57e45d6a6ddb445ddec4e781d7c"
       ],
@@ -8475,6 +8592,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-custom-cash-credit-card/citi-custom-cash-credit-card_306x192.webp",
       "legacyIds": [
         "49fe6c73c0e823a89346979f50d5b981"
       ],
@@ -8495,6 +8613,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-double-cash-credit-card/citi-double-cash-credit-card_306x192.webp",
       "legacyIds": [
         "06b9a384d710e73db7f0ded7613c9c4b"
       ],
@@ -8515,6 +8634,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-credit-card/citi-strata-credit-card_306x192.webp",
       "legacyIds": [
         "cbc737da5cbd44575dec6325bbbd8688"
       ],
@@ -8535,6 +8655,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-elite-credit-card/citi-strata-elite-credit-card_306x192.webp",
       "legacyIds": [
         "19c94f90056968ebde2882f7bb0f1010"
       ],
@@ -8652,6 +8773,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
+      "imageUrl": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-premier-credit-card/citi-strata-premier-credit-card_306x192.webp",
       "legacyIds": [
         "d7e2e5b5e595ca6510c101349c914513"
       ],
@@ -8687,6 +8809,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+      "imageUrl": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20daily%205050.png",
       "legacyIds": [
         "eb573cdc20d07fc2d60e8528f73cafb0"
       ],
@@ -8707,6 +8830,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.ace.aaa.com/financial/aaa-credit-card.html",
+      "imageUrl": "https://northeast.aaa.com/content/dam/aaa-ne-web/Images/custom/visa%20travel%205050.png",
       "legacyIds": [
         "6862ac82f65ac34d31032dbe0cf1e87b"
       ],
@@ -8727,6 +8851,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.discover.com/credit-cards/",
+      "imageUrl": "https://ecm.capitalone.com/WCM/dfs-card/products/cardart-cashit-with-shadow.png",
       "legacyIds": [
         "dae75a5609dea8f39f750f4b225d2c5c"
       ],
@@ -8747,6 +8872,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.anacardusa.com/en/",
+      "imageUrl": "https://www.anacardusa.com/wp-content/uploads/2025/02/card-new.png",
       "legacyIds": [
         "0b3a9849575c68ce5cbf31aad08f015e"
       ],
@@ -8767,6 +8893,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+      "imageUrl": "https://www.cardless.com/_next/static/media/card-angled-standard.85056e73.png",
       "legacyIds": [
         "1babfb0011a010a6149965531021ad2e"
       ],
@@ -8787,6 +8914,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.lifemiles.com/discover/landing-page/avianca-lifemiles-creditcard",
+      "imageUrl": "https://www.cardless.com/_next/static/media/card-angled-premium.a4b2fc80.png",
       "legacyIds": [
         "0bcc80cc6922e7c7d89e9c9b2efcd9e1"
       ],
@@ -8891,6 +9019,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+      "imageUrl": "https://www.cardless.com/_next/static/media/card-blue-chip.e77ba1d9.png",
       "legacyIds": [
         "73015adf7b2ca52331e05203c4ad5462"
       ],
@@ -8911,6 +9040,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://latampass.latam.com/en_us/earn-miles/latam-airlines-credit-cards",
+      "imageUrl": "https://www.cardless.com/_next/static/media/card-black-chip.7708717e.png",
       "legacyIds": [
         "7e578b54e8976a7b9027124c56b2377f"
       ],
@@ -8975,6 +9105,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amtrak.com/Apply",
+      "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-white-cardart.png",
       "legacyIds": [
         "1f13c36d3b8218b1a22d5ab050d30b09"
       ],
@@ -8995,6 +9126,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amtrak.com/Apply",
+      "imageUrl": "https://www.card.fnbo.com/content/dam/partner/cardart/amtrak-front-facing-cardart.png",
       "legacyIds": [
         "4a2f48392c94bc6b0ef9b6d30153bddc"
       ],
@@ -9267,6 +9399,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.amazon.com/Synchrony-Bank-Amazon-com-Store-Card/dp/B008A0GNA8",
+      "imageUrl": "https://m.media-amazon.com/images/G/01/credit/PLCC/CardArt/PLCC_MAPLE_Prime_card_500x315.png",
       "legacyIds": [
         "25e394e76617c0a660b48d7c5c4449ea"
       ],
@@ -9287,6 +9420,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://pay.cathaypacific.com/en_US/offers/uscreditcard.html",
+      "imageUrl": "https://www.cathaypacific.com/content/dam/focal-point/digital-library/US/sync-update-2026-apr/1600x1600-card-blackshadow.renditionimage.900.900.jpg",
       "legacyIds": [
         "0d2caa1705cde187692a28873930c605"
       ],
@@ -9307,6 +9441,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.verizon.com/financial-services/verizon-visa-card/",
+      "imageUrl": "https://www.synchrony.com/syc/img/verizon-cards.png",
       "legacyIds": [
         "d2dd7fe800c9788452ec41c3fc3a06fa"
       ],
@@ -9327,6 +9462,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.virgin.com/en-us/virgin-red/rewards-credit-card",
+      "imageUrl": "https://images.ctfassets.net/ubrcxzi8y7m2/6K9D8BhRWWXG9KMYDEsJ5i/810e5253bc00a7155cd709799003703f/img_creditCard.png",
       "legacyIds": [
         "06b77b791c904e42695dd12747e89cd8"
       ],
@@ -9411,6 +9547,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-altitude-connect-consumer.png",
       "legacyIds": [
         "9a35bfe5845f7f9909244b1e3549b7e1"
       ],
@@ -9466,6 +9603,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/altitude-go-visa-signature-credit-card.png",
       "legacyIds": [
         "b523a3cc7d6d355737b1c4dda1eb7a04"
       ],
@@ -9503,6 +9641,7 @@
       "afWaivedFirstYear": true,
       "discontinued": true,
       "url": "https://www.nerdwallet.com/article/credit-cards/u-s-bank-altitude-reserve-closed-to-new-applications",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/images/rps/large/Altitude_Reserve_382x609.png",
       "legacyIds": [
         "f81e751b8d46af2e7c84cc4cf4083dec"
       ],
@@ -9574,6 +9713,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-connect-world-elite-mastercard.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
       "legacyIds": [
         "1e6ddb097a524ce3b68719ae6c5eb1e8"
       ],
@@ -9646,6 +9786,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-altitude-power-world-elite-mastercard.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-power-credit-card.webp",
       "legacyIds": [
         "3d777bda73262fa43b11626eb383f9ab"
       ],
@@ -9666,6 +9807,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-leverage-rewards-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-leverage-credit-card.webp",
       "legacyIds": [
         "4899141df2aa46191c192c6f216b74cf"
       ],
@@ -9686,6 +9828,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/business-banking/business-credit-cards/business-triple-cash-back-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-triple-cash-credit-card.webp",
       "legacyIds": [
         "a9fe40efecc22039a980c039bb6841be"
       ],
@@ -9724,6 +9867,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-cash-plus-signature-lg.png",
       "legacyIds": [
         "78726438553c1f6b63383f3bac6df57b"
       ],
@@ -9744,6 +9888,7 @@
       "afWaivedFirstYear": false,
       "discontinued": true,
       "url": "https://www.usbank.com/credit-cards/flexperks-gold-american-express-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/images/rps/large/cardArt_flexperks-gold-large-638x1013.png",
       "legacyIds": [
         "6ad6818a9b47a8e42efd29440616e249"
       ],
@@ -9764,6 +9909,7 @@
       "afWaivedFirstYear": true,
       "discontinued": false,
       "url": "https://www.usbank.com/credit-cards/shopper-cash-rewards-visa-signature-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/images/rps/large/Shopper-cash-rewards-209x333-no_glow.png",
       "legacyIds": [
         "8de694e89b9c26c9f72fc7450c66665b"
       ],
@@ -9784,6 +9930,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSignatureCard.do",
+      "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/signature-spv-card.png",
       "legacyIds": [
         "824f4be5b9f38164fb8f44522467876e"
       ],
@@ -9833,6 +9980,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSkyBlueCard.do",
+      "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/spv-nav-card.png",
       "legacyIds": [
         "90d9bd31d33bc6cfbdb1eb0962cbce57"
       ],
@@ -9853,6 +10001,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaBusinessCard.do",
+      "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/biz-spv-card.png",
       "legacyIds": [
         "cf146925642ec392eee6c924cfc7ec0d"
       ],
@@ -9902,6 +10051,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.skypassvisa.com/credit/visaSelectCard.do",
+      "imageUrl": "https://www.skypassvisa.com/credit/skypass/images/select-spv-card.png",
       "legacyIds": [
         "aceef720d7ec6cf06ee46865fc39d612"
       ],
@@ -10015,6 +10165,7 @@
       "afWaivedFirstYear": false,
       "discontinued": true,
       "url": "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html",
+      "imageUrl": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/photo-bank-smartly-card-art.png",
       "legacyIds": [
         "e1679e714c2139ed85bd250e229ded16"
       ],
@@ -10035,6 +10186,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.gemini.com/credit-card",
+      "imageUrl": "https://images.ctfassets.net/jg6lo9a2ukvr/3z9JLwzKSHFuRGf6Cah3ys/c21f2c0019c14c6165cc432d1b828390/Hero_Cards_Alt_Desktop.png",
       "legacyIds": [
         "eb105ba41f6ad2ea3b5f151f03f3dcfa"
       ],
@@ -10055,6 +10207,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/active-cash-credit-card/",
+      "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/active-cash.webp",
       "legacyIds": [
         "df2960b75b50536daa6e05a33479b198"
       ],
@@ -10075,6 +10228,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/attune-world-elite-mastercard-credit-card",
+      "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/AttuneBonus/attune_card_d.png",
       "legacyIds": [
         "8b60912df8dd8406cbbf96469c4cfaec"
       ],
@@ -10095,6 +10249,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/autograph-visa-credit-card",
+      "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/autograph.webp",
       "legacyIds": [
         "ce08e0bddd774433cb77be87f5d6af76"
       ],
@@ -10115,6 +10270,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card",
+      "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/autograph-journey.webp",
       "legacyIds": [
         "d1fcd95962c94d1b56d691fda30acead"
       ],
@@ -10172,6 +10328,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/ChoicePrivileges/WF_Choice_NoFee_Card.png",
       "legacyIds": [
         "2745fd62ecf1bba1056f7933b1ab285e"
       ],
@@ -10192,6 +10349,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/ChoicePrivilegesSelect/WF_Choice_Fee_Card.png",
       "legacyIds": [
         "c68bed03d88b439b70c905e490757271"
       ],
@@ -10247,6 +10405,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.expedia.com/one-key-cards",
+      "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeycash_card.png",
       "legacyIds": [
         "546dccf995e97f42d656d069c95efacf"
       ],
@@ -10267,6 +10426,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://www.expedia.com/one-key-cards",
+      "imageUrl": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v10-7-26/images/Products/OneKey/onekeyplus_card.png",
       "legacyIds": [
         "dfdf46ff6cbfcea7b738c7092e00af78"
       ],
@@ -10321,6 +10481,7 @@
       "afWaivedFirstYear": false,
       "discontinued": false,
       "url": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card",
+      "imageUrl": "https://creditcards.wellsfargo.com/rv/next/images/cards/signify.webp",
       "legacyIds": [
         "429640c66f9a2e3bd077978aa5a1f0aa"
       ],
