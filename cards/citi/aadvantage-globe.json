@@ -13,9 +13,7 @@
       "inApp": false,
       "enrollmentRequired": false,
       "matchKeywords": [
-        "splurge",
-        "1stdibs",
-        "livenation"
+        "splurge"
       ],
       "matchVerified": false,
       "id": "splurge-credit",

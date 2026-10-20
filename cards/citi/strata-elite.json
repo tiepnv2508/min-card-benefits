@@ -29,10 +29,7 @@
       "inApp": false,
       "enrollmentRequired": false,
       "matchKeywords": [
-        "splurge",
-        "1stdibs",
-        "bestbuy",
-        "livenation"
+        "splurge"
       ],
       "matchVerified": true,
       "id": "splurge-credit",

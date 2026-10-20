@@ -6791,9 +6791,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "splurge",
-            "1stdibs",
-            "livenation"
+            "splurge"
           ],
           "matchVerified": false,
           "id": "splurge-credit",
@@ -6956,10 +6954,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "splurge",
-            "1stdibs",
-            "bestbuy",
-            "livenation"
+            "splurge"
           ],
           "matchVerified": true,
           "id": "splurge-credit",
