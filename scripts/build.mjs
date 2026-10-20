@@ -1,0 +1,96 @@
+// Validates every cards/**/*.json against schema/card.schema.json plus the
+// rules JSON Schema can't express, then writes exports/benefits.json — the
+// single file apps fetch.
+//
+//   npm run build      validate + (re)write exports/benefits.json
+//   npm run validate   validate + fail if exports/benefits.json is stale (CI)
+//   node scripts/build.mjs --dry   validate only
+
+import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
+import { join, relative } from 'node:path';
+import Ajv2020 from 'ajv/dist/2020.js';
+import addFormats from 'ajv-formats';
+
+const ROOT = new URL('..', import.meta.url).pathname;
+const CHECK = process.argv.includes('--check');
+// --dry: validate only (no export read/write) — safe to run in parallel.
+const DRY = process.argv.includes('--dry');
+// Words matchers ignore — a keyword made only of these would match every
+// credit on the card.
+const GENERIC = new Set([
+  'the', 'and', 'for', 'per', 'each', 'credit', 'credits', 'fee', 'fees', 'annual',
+  'monthly', 'quarterly', 'semiannual', 'semi', 'statement', 'card', 'reward', 'rewards',
+  'promo', 'membership', 'amex', 'american', 'express', 'chase', 'citi', 'capital', 'bank',
+]);
+
+const walk = (dir) =>
+  readdirSync(dir).flatMap((f) => {
+    const p = join(dir, f);
+    return statSync(p).isDirectory() ? walk(p) : p.endsWith('.json') ? [p] : [];
+  });
+
+const ajv = new Ajv2020({ allErrors: true, strict: false });
+addFormats(ajv);
+const validate = ajv.compile(JSON.parse(readFileSync(join(ROOT, 'schema/card.schema.json'), 'utf8')));
+
+const errors = [];
+const cards = [];
+const seenCardIds = new Map();
+for (const file of walk(join(ROOT, 'cards')).sort()) {
+  const rel = relative(ROOT, file);
+  let card;
+  try {
+    card = JSON.parse(readFileSync(file, 'utf8'));
+  } catch (e) {
+    errors.push(`${rel}: invalid JSON — ${e.message}`);
+    continue;
+  }
+  if (!validate(card)) {
+    for (const e of validate.errors) errors.push(`${rel}: ${e.instancePath || '/'} ${e.message}`);
+    continue;
+  }
+  if (seenCardIds.has(card.cardId)) errors.push(`${rel}: cardId also used by ${seenCardIds.get(card.cardId)}`);
+  seenCardIds.set(card.cardId, rel);
+  const ids = new Set();
+  for (const b of card.benefits) {
+    if (ids.has(b.id)) errors.push(`${rel}: duplicate benefit id "${b.id}"`);
+    ids.add(b.id);
+    if (b.type === 'credit' && !b.inApp && b.matchKeywords.length === 0)
+      errors.push(`${rel}: "${b.id}" is a statement credit but has no matchKeywords`);
+    if (b.matchKeywords.length > 0 && b.matchKeywords.every((k) => GENERIC.has(k)))
+      errors.push(`${rel}: "${b.id}" matchKeywords are all generic words (${b.matchKeywords.join(', ')})`);
+    if (b.matchVerified && !(b.descriptorExamples?.length))
+      errors.push(`${rel}: "${b.id}" is matchVerified but has no descriptorExamples`);
+  }
+  const { $schema, ...data } = card;
+  cards.push(data);
+}
+
+if (errors.length) {
+  console.error(`✗ ${errors.length} problem(s):\n` + errors.map((e) => `  - ${e}`).join('\n'));
+  process.exit(1);
+}
+
+cards.sort((a, b) => a.issuer.localeCompare(b.issuer) || a.name.localeCompare(b.name));
+const out =
+  JSON.stringify(
+    { schemaVersion: 1, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), cards },
+    null,
+    2,
+  ) + '\n';
+const exportPath = join(ROOT, 'exports/benefits.json');
+let current = '';
+try {
+  current = readFileSync(exportPath, 'utf8');
+} catch {}
+if (DRY) {
+  // validation only
+} else if (CHECK) {
+  if (current !== out) {
+    console.error('✗ exports/benefits.json is out of date — run `npm run build` and commit it.');
+    process.exit(1);
+  }
+} else if (current !== out) {
+  writeFileSync(exportPath, out);
+}
+console.log(`✓ ${cards.length} cards, ${cards.reduce((n, c) => n + c.benefits.length, 0)} benefits`);

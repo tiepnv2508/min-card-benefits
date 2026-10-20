@@ -1,0 +1,16 @@
+{
+  "name": "min-card-benefits",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open, community-maintained dataset of recurring US credit card benefits (statement credits & perks).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
