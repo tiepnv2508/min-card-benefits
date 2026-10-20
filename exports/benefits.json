@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "cardCount": 229,
-  "benefitCount": 464,
+  "benefitCount": 487,
   "cards": [
     {
       "id": "amex-amazon-business",
@@ -8119,13 +8119,14 @@
       "annualFee": 150,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+      "url": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
       "legacyIds": [
         "8101f7827e3a1e797b09653f117b72d9"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
         "https://www2.theexplorercard.com/business-rewards-cards/business-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -8254,6 +8255,50 @@
           "notes": "Two United Club one-time passes each cardmember year."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bag",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "better-together-bonus",
+          "name": "Better-together bonus miles",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 continental U.S. Economy Plus seat upgrades after $25,000 in purchases in a calendar year; valid 12 months."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -8280,13 +8325,14 @@
       "annualFee": 695,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/club-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_new_infinite_card.png",
       "legacyIds": [
         "d2517ce6b72999e14f50c399347100ed"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
         "https://www2.theexplorercard.com/rewards-cards/club-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -8306,7 +8352,7 @@
           "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "United Club membership for the primary cardmember (+1 guest)."
+          "notes": "United Club card membership for the primary cardmember (+1 adult guest and dependent children); upgrades to All Access (Star Alliance lounges, 2 guests) with Premier Gold or higher or $50,000 in calendar-year purchases."
         },
         {
           "id": "renowned-hotels-credit",
@@ -8406,6 +8452,109 @@
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "premier-access",
+          "name": "Premier Access",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority check-in, security, boarding and baggage handling (where available) for the primary cardmember and companions on the same reservation."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount for each $20,000 in purchases in a calendar year, up to two (20,000 miles) per year; each expires 12 months after issue."
+        },
+        {
+          "id": "card-bonus-pqp",
+          "name": "1,500 Card Bonus PQP",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "1,500 Premier qualifying points posted within ~8 weeks of February 1 each year, starting the calendar year after account opening (account must be open on Dec 31 of the prior year)."
+        },
+        {
+          "id": "ihg-platinum-status",
+          "name": "IHG Platinum Elite status",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "IHG One Rewards Platinum Elite for the primary cardmember; register at united.com/ihgstatus."
+        },
+        {
+          "id": "avis-presidents-club",
+          "name": "Avis President's Club",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Avis President's Club membership for the primary cardmember; enroll at united.com/AvisChaseBenefit."
+        },
+        {
+          "id": "all-access-club-passes",
+          "name": "United Club passes (All Access)",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "4 United Club one-time passes after each cardmember anniversary, only if you hold United Club All Access (Premier Gold or higher, or $50,000 in calendar-year purchases) and have an authorized user on the account."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -8432,13 +8581,14 @@
       "annualFee": 695,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/business-rewards-cards/club-card",
+      "url": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
       "legacyIds": [
         "80c6aca49a0e1442d51635c316f4a5ff"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
         "https://www2.theexplorercard.com/business-rewards-cards/club-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -8458,7 +8608,7 @@
           "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "United Club membership for the primary cardmember (+1 guest)."
+          "notes": "United Club card membership for the primary cardmember (+1 adult guest and dependent children); upgrades to All Access (Star Alliance lounges, 2 guests) with Premier Gold or higher or $50,000 in calendar-year purchases."
         },
         {
           "id": "renowned-hotels-credit",
@@ -8555,6 +8705,94 @@
           "notes": "Statement credit on United FareLock purchases; resets each cardmember year."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "premier-access",
+          "name": "Premier Access",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Priority check-in, security, boarding and baggage handling (where available) for the primary cardmember and companions on the same reservation."
+        },
+        {
+          "id": "better-together-bonus",
+          "name": "Better-together bonus miles",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
+        },
+        {
+          "id": "avis-presidents-club",
+          "name": "Avis President's Club",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": true,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Avis President's Club membership for the primary cardmember; enroll at united.com/AvisChaseBenefit."
+        },
+        {
+          "id": "all-access-club-passes",
+          "name": "United Club passes (All Access)",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "lounge",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "4 United Club one-time passes after each cardmember anniversary, only if you hold United Club All Access (Premier Gold or higher, or $50,000 in calendar-year purchases) and have an employee card on the account."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -8581,13 +8819,14 @@
       "annualFee": 150,
       "afWaivedFirstYear": true,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/explorer-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_explorer_new_card.png",
       "legacyIds": [
         "85cd2b7d172e494eefad5b2ab012f21c"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
         "https://www2.theexplorercard.com/rewards-cards/explorer-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -8719,6 +8958,35 @@
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
         },
         {
+          "id": "free-checked-bags",
+          "name": "Free checked bag",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+        },
+        {
           "id": "doordash-promo",
           "name": "DoorDash promo",
           "type": "credit",
@@ -8745,16 +9013,32 @@
       "annualFee": 0,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/gateway-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_gateway_card.png",
       "legacyIds": [
         "4071699fe4b21cafb02cf8b2c9c57c86"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
         "https://www.theexplorercard.com/rewards-cards/gateway-card"
       ],
-      "benefits": []
+      "benefits": [
+        {
+          "id": "checked-bag-certificates",
+          "name": "Checked bag certificates",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Two first-standard checked bag certificates after $10,000 in purchases in a calendar year."
+        }
+      ]
     },
     {
       "id": "chase-united-quest",
@@ -8766,13 +9050,14 @@
       "annualFee": 350,
       "afWaivedFirstYear": false,
       "discontinued": false,
-      "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+      "url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
       "legacyIds": [
         "34ab99720941eaa2a1671e5b3a996b19"
       ],
       "lastVerified": "2026-10-20",
       "sources": [
+        "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
         "https://www2.theexplorercard.com/rewards-cards/quest-card",
         "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -8884,7 +9169,7 @@
           "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "10,000-mile award flight discount each anniversary; another 10,000 after $20,000 annual spend."
+          "notes": "10,000-mile award flight discount deposited after each cardmember anniversary (starting with the first); expires 12 months after issue."
         },
         {
           "id": "global-entry-credit",
@@ -8904,6 +9189,64 @@
           ],
           "matchVerified": false,
           "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+        },
+        {
+          "id": "free-checked-bags",
+          "name": "Free checked bags",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "anniversary",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+        },
+        {
+          "id": "spend-award-flight-discount",
+          "name": "Spend award flight discount",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+        },
+        {
+          "id": "card-bonus-pqp",
+          "name": "1,000 Card Bonus PQP",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "bonus",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "autoApplied": true,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "1,000 Premier qualifying points posted within ~8 weeks of February 1 each year, starting the calendar year after account opening (account must be open on Dec 31 of the prior year)."
+        },
+        {
+          "id": "economy-plus-upgrades",
+          "name": "Economy Plus upgrades",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "travel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
         },
         {
           "id": "doordash-promo",

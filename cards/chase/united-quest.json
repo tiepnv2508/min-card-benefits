@@ -9,13 +9,14 @@
   "annualFee": 350,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.theexplorercard.com/rewards-cards/quest-card",
+  "url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_quest_new_card.png",
   "legacyIds": [
     "34ab99720941eaa2a1671e5b3a996b19"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
     "https://www2.theexplorercard.com/rewards-cards/quest-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
     "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -127,7 +128,7 @@
       "autoApplied": true,
       "matchKeywords": [],
       "matchVerified": false,
-      "notes": "10,000-mile award flight discount each anniversary; another 10,000 after $20,000 annual spend."
+      "notes": "10,000-mile award flight discount deposited after each cardmember anniversary (starting with the first); expires 12 months after issue."
     },
     {
       "id": "global-entry-credit",
@@ -147,6 +148,64 @@
       ],
       "matchVerified": false,
       "notes": "Up to $120 statement credit for the Global Entry, TSA PreCheck or NEXUS application fee, once every 4 years."
+    },
+    {
+      "id": "free-checked-bags",
+      "name": "Free checked bags",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First and second standard checked bags free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+    },
+    {
+      "id": "spend-award-flight-discount",
+      "name": "Spend award flight discount",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
+    },
+    {
+      "id": "card-bonus-pqp",
+      "name": "1,000 Card Bonus PQP",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "1,000 Premier qualifying points posted within ~8 weeks of February 1 each year, starting the calendar year after account opening (account must be open on Dec 31 of the prior year)."
+    },
+    {
+      "id": "economy-plus-upgrades",
+      "name": "Economy Plus upgrades",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
     },
     {
       "id": "doordash-promo",

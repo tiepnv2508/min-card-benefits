@@ -9,13 +9,14 @@
   "annualFee": 150,
   "afWaivedFirstYear": false,
   "discontinued": false,
-  "url": "https://www.theexplorercard.com/business-rewards-cards/business-card",
+  "url": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_biz_new_card.png",
   "legacyIds": [
     "8101f7827e3a1e797b09653f117b72d9"
   ],
   "lastVerified": "2026-10-20",
   "sources": [
+    "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
     "https://www2.theexplorercard.com/business-rewards-cards/business-card",
     "https://www.doctorofcredit.com/chase-united-cards-add-instacart-rideshare-credits-discussion-post/",
     "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
@@ -142,6 +143,50 @@
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Two United Club one-time passes each cardmember year."
+    },
+    {
+      "id": "free-checked-bags",
+      "name": "Free checked bag",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "First standard checked bag free for the primary cardmember and one companion on the same reservation (United/United Express-operated flights; ticket bought with the card, MileagePlus number on the reservation)."
+    },
+    {
+      "id": "better-together-bonus",
+      "name": "Better-together bonus miles",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "anniversary",
+      "category": "bonus",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "autoApplied": true,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5,000 bonus miles each account anniversary year when the business card's authorizing officer is also primary cardmember on a personal Chase United card."
+    },
+    {
+      "id": "economy-plus-upgrades",
+      "name": "Economy Plus upgrades",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "travel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "2 continental U.S. Economy Plus seat upgrades after $25,000 in purchases in a calendar year; valid 12 months."
     },
     {
       "id": "doordash-promo",
