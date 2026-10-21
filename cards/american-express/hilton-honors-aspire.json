@@ -38,7 +38,7 @@
       "descriptorExamples": [
         "Hilton"
       ],
-      "notes": "Up to $200 Jan-Jun and $200 Jul-Dec on eligible purchases made directly with participating Hilton Resorts."
+      "notes": "Up to $200 Jan-Jun and $200 Jul-Dec on eligible purchases made directly with participating Hilton Resorts. Shares the \"Hilton\" descriptor with the $50 flight credit; resort credits post at the stay amount."
     },
     {
       "id": "flight-credit",
@@ -52,10 +52,14 @@
       "enrollmentRequired": true,
       "matchKeywords": [
         "flight",
-        "airline"
+        "airline",
+        "hilton"
       ],
-      "matchVerified": false,
-      "notes": "Flights purchased directly with any airline or via AmexTravel.com. Descriptor not verified."
+      "matchVerified": true,
+      "notes": "Flights purchased directly with any airline or via AmexTravel.com. Descriptor not verified. Posts with the SAME descriptor as the resort credit (\"Hilton\" / merchant \"Aspire\"); the flight credit is always exactly $50, so matchers must disambiguate by amount.",
+      "descriptorExamples": [
+        "Hilton (merchant: Aspire), exactly $50"
+      ]
     },
     {
       "id": "clear-plus-credit",
