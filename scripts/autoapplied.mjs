@@ -12,7 +12,8 @@ for (const f of walk('cards')) {
   const j = JSON.parse(readFileSync(f, 'utf8'));
   let changed = false;
   for (const b of j.benefits) {
-    if (b.type !== 'perk' || 'autoApplied' in b) continue;
+    // Spend-gated perks are never always-on.
+    if (b.type !== 'perk' || 'autoApplied' in b || b.unlockSpend) continue;
     if ((AUTO.test(b.name) && !NOT.test(b.name)) || ALWAYS.test(b.name)) {
       // keep key order: insert after enrollmentRequired/inApp if present
       const o = {}; let placed = false;
