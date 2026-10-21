@@ -64,6 +64,10 @@
       "category": "travel",
       "inApp": true,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 10000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Issued as a Delta eCredit after $10,000 of purchases in a calendar year; used on delta.com, no statement credit."

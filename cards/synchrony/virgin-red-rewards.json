@@ -40,6 +40,10 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "id": "virgin-perk",

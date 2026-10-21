@@ -184,6 +184,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 25000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "2 continental U.S. Economy Plus seat upgrades after $25,000 in purchases in a calendar year; valid 12 months."

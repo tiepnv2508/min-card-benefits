@@ -38,7 +38,10 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
-      "autoApplied": true,
+      "unlockSpend": {
+        "amount": 20000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "type": "perk",

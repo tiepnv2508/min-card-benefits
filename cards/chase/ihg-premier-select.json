@@ -40,6 +40,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 40000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Additional Free Night (up to 60,000 points) after $40,000 in purchases each calendar year."

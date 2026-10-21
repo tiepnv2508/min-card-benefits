@@ -29,6 +29,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 2500,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$100 Frontier flight voucher each account anniversary after spending $2,500+ in the cardmember year. Voucher excludes taxes/fees and is valid 180 days."

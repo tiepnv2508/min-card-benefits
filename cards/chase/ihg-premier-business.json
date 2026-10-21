@@ -92,6 +92,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 60000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Additional Free Night certificate after $60,000 in purchases in a calendar year."

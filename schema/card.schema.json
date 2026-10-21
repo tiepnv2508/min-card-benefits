@@ -255,6 +255,29 @@
           "type": "boolean",
           "description": "Perks only: always on while you hold the card (elite status, lounge membership, free checked bags, flight discount, automatic anniversary points) — apps show it as active every period without the user marking it used. Omit/false for things you must redeem (free nights, companion certificates, passes, vouchers)."
         },
+        "unlockSpend": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "amount",
+            "window"
+          ],
+          "description": "The benefit only becomes available after the cardholder's TOTAL card purchases reach `amount` USD within `window` (e.g. Sapphire Reserve's $500 Southwest credit after $75,000 in a calendar year). Not for merchant-specific thresholds (\"$5,000 with Dell\") or spend that only upgrades a benefit you already have — keep those in notes.",
+          "properties": {
+            "amount": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "description": "USD of total card purchases needed."
+            },
+            "window": {
+              "enum": [
+                "calendar",
+                "anniversary"
+              ],
+              "description": "calendar = Jan 1–Dec 31; anniversary = the cardmember year."
+            }
+          }
+        },
         "matchKeywords": {
           "type": "array",
           "items": {

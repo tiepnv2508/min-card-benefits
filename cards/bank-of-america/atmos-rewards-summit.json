@@ -38,6 +38,10 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 60000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "id": "global-companion-award-100k",

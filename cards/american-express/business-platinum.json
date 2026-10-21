@@ -235,6 +235,10 @@
       "category": "travel",
       "inApp": true,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 250000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Only after $250,000+ of spend in a calendar year: up to $1,200 for flights booked via Amex Travel the following year (plus up to $2,400 in One AP credits)."

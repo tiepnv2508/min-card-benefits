@@ -47,6 +47,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Free Night Reward after $15,000 of purchases in a calendar year."

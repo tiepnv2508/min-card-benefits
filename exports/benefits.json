@@ -213,6 +213,10 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [
             "morgan",
             "stanley"
@@ -576,6 +580,10 @@
           "category": "travel",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 250000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Only after $250,000+ of spend in a calendar year: up to $1,200 for flights booked via Amex Travel the following year (plus up to $2,400 in One AP credits)."
@@ -734,6 +742,10 @@
           "category": "travel",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Issued as a Delta eCredit after $10,000 of purchases in a calendar year; used on delta.com, no statement credit."
@@ -820,6 +832,10 @@
           "category": "travel",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Issued as a Delta eCredit after $10,000 of purchases in a calendar year; used on delta.com, no statement credit."
@@ -1748,6 +1764,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Additional Free Night Reward after $30,000 of purchases in a calendar year."
@@ -1762,6 +1782,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 60000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Additional Free Night Reward after $60,000 of purchases in a calendar year."
@@ -1915,6 +1939,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Free Night Reward after $15,000 of purchases in a calendar year."
@@ -2003,6 +2031,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Free Night Award (up to 50,000 points) after $15,000 of purchases in a calendar year."
@@ -2119,6 +2151,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 60000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "After $60,000 in a calendar year: choose a second 85K free night or another Brilliant Earned Choice Award."
@@ -2215,6 +2251,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 60000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Second 35K Free Night Award after $60,000 of purchases in a calendar year."
@@ -3220,7 +3260,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
-          "autoApplied": true,
+          "unlockSpend": {
+            "amount": 50,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "id": "anniversary-miles",
@@ -3292,6 +3335,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 6000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "id": "companion-fare",
@@ -3331,6 +3378,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 6000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "id": "companion-fare",
@@ -3383,6 +3434,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 60000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "id": "global-companion-award-100k",
@@ -3766,6 +3821,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$100 cruise discount each year after $10,000 in purchases in the cardmember year."
@@ -3799,6 +3858,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$200 cruise discount each year after $20,000 in purchases in the cardmember year."
@@ -4143,7 +4206,10 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
-          "autoApplied": true,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Skywards Miles each cardmembership year after spending $30,000 on purchases."
@@ -4201,6 +4267,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 2500,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$100 Frontier flight voucher each account anniversary after spending $2,500+ in the cardmember year. Voucher excludes taxes/fees and is valid 180 days."
@@ -4274,6 +4344,10 @@
           "category": "bonus",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 50000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "20,000 bonus points after $50,000-$99,999 in purchases in the account year, or 40,000 total after $100,000+. Now Atmos Rewards points."
@@ -4507,6 +4581,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Companion pass worth up to $500, applied as a statement credit after travel, earned after $15,000 in eligible purchases in a calendar year."
@@ -4521,6 +4599,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 75000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Second companion pass worth up to $1,500, applied as a statement credit after travel, earned after $75,000 total eligible purchases in a calendar year."
@@ -4628,7 +4710,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
-          "autoApplied": true,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "7,500 Wyndham Rewards points each anniversary year if you spend $15,000 on eligible purchases."
@@ -5376,6 +5461,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Economy companion ticket after $30,000 in purchases in a calendar year."
@@ -5605,6 +5694,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Companion reward ticket after $30,000 in purchases in a calendar year; valid 2 years."
@@ -5979,6 +6072,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$1,000 discount voucher (two tickets on the same Iberia flight) after $30,000 in purchases in a calendar year."
@@ -6255,6 +6352,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 60000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Additional Free Night certificate after $60,000 in purchases in a calendar year."
@@ -6351,6 +6452,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 40000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Additional Free Night (up to 60,000 points) after $40,000 in purchases each calendar year."
@@ -6838,6 +6943,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Free Night Award (up to 50,000 points) after $15,000 in purchases in a calendar year."
@@ -7247,6 +7356,10 @@
           "category": "shopping",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 75000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Only after $75,000 spend in a calendar year: $250 credit at The Shops at Chase for the rest of that year and the next."
@@ -7261,6 +7374,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 75000,
+            "window": "calendar"
+          },
           "matchKeywords": [
             "southwest"
           ],
@@ -7482,6 +7599,10 @@
           "category": "shopping",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 120000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Only after $120,000 spend in a calendar year: $500 at The Shops at Chase for the rest of that year and the next."
@@ -7496,6 +7617,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 120000,
+            "window": "calendar"
+          },
           "matchKeywords": [
             "southwest"
           ],
@@ -8299,6 +8424,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 25000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2 continental U.S. Economy Plus seat upgrades after $25,000 in purchases in a calendar year; valid 12 months."
@@ -8496,6 +8625,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000-mile award flight discount for each $20,000 in purchases in a calendar year, up to two (20,000 miles) per year; each expires 12 months after issue."
@@ -8764,6 +8897,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 40000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
@@ -8848,6 +8985,10 @@
           "category": "travel",
           "inApp": true,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$100 United TravelBank cash after $10,000 in purchases in a calendar year."
@@ -8987,6 +9128,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
@@ -9039,6 +9184,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Two first-standard checked bag certificates after $10,000 in purchases in a calendar year."
@@ -9220,6 +9369,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000-mile award flight discount after $20,000 in purchases in a calendar year (one per year); expires 12 months after issue."
@@ -9249,6 +9402,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 40000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "2 global Economy Plus seat upgrades after $40,000 in purchases in a calendar year; valid 12 months."
@@ -9315,6 +9472,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Extra Category 1–4 free night after $15,000 in purchases in a calendar year."
@@ -9443,6 +9604,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -9783,7 +9948,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
-          "autoApplied": true,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "type": "perk",
@@ -10984,7 +11152,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
-          "autoApplied": true,
+          "unlockSpend": {
+            "amount": 5000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
@@ -11038,6 +11209,10 @@
           "category": "hotel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Second free night award after $10,000 in net purchases in the cardmember year (after the annual fee is paid). The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
@@ -11288,6 +11463,10 @@
         {
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "id": "virgin-perk",

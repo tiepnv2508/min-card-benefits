@@ -80,6 +80,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 60000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "After $60,000 in a calendar year: choose a second 85K free night or another Brilliant Earned Choice Award."

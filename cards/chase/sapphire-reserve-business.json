@@ -212,6 +212,10 @@
       "category": "shopping",
       "inApp": true,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 120000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Only after $120,000 spend in a calendar year: $500 at The Shops at Chase for the rest of that year and the next."
@@ -226,6 +230,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 120000,
+        "window": "calendar"
+      },
       "matchKeywords": [
         "southwest"
       ],

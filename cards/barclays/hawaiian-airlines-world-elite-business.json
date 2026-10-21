@@ -29,6 +29,10 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 50000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "20,000 bonus points after $50,000-$99,999 in purchases in the account year, or 40,000 total after $100,000+. Now Atmos Rewards points."

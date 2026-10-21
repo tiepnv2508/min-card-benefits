@@ -26,6 +26,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 20000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$200 cruise discount each year after $20,000 in purchases in the cardmember year."

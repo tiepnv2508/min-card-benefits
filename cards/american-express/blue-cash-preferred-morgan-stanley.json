@@ -47,6 +47,10 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
       "matchKeywords": [
         "morgan",
         "stanley"

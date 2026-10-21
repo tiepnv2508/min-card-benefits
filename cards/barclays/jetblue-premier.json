@@ -97,6 +97,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Companion pass worth up to $500, applied as a statement credit after travel, earned after $15,000 in eligible purchases in a calendar year."
@@ -111,6 +115,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 75000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Second companion pass worth up to $1,500, applied as a statement credit after travel, earned after $75,000 total eligible purchases in a calendar year."

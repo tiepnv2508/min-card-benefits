@@ -23,6 +23,10 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 6000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "id": "companion-fare",

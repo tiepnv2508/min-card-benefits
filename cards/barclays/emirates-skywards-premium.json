@@ -48,7 +48,10 @@
       "category": "bonus",
       "inApp": false,
       "enrollmentRequired": false,
-      "autoApplied": true,
+      "unlockSpend": {
+        "amount": 30000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "10,000 Skywards Miles each cardmembership year after spending $30,000 on purchases."

@@ -45,6 +45,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 60000,
+        "window": "calendar"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "Second 35K Free Night Award after $60,000 of purchases in a calendar year."

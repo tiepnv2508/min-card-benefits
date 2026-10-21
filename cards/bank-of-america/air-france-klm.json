@@ -24,7 +24,10 @@
     {
       "inApp": false,
       "enrollmentRequired": false,
-      "autoApplied": true,
+      "unlockSpend": {
+        "amount": 50,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "id": "anniversary-miles",

@@ -31,7 +31,10 @@
       "category": "hotel",
       "inApp": false,
       "enrollmentRequired": false,
-      "autoApplied": true,
+      "unlockSpend": {
+        "amount": 5000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "10,000 Best Western Rewards points after $5,000 in net purchases in the cardmember year. The relaunched Visa Signature card is issued by First Bank & Trust and serviced by Mercury Financial."
