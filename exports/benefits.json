@@ -1703,7 +1703,7 @@
             "hilton"
           ],
           "matchVerified": true,
-          "notes": "Flights purchased directly with any airline or via AmexTravel.com. Descriptor not verified. Posts with the SAME descriptor as the resort credit (\"Hilton\" / merchant \"Aspire\"); the flight credit is always exactly $50, so matchers must disambiguate by amount.",
+          "notes": "Flights purchased directly with any airline or via AmexTravel.com. Descriptor not verified. Posts with the SAME descriptor as the resort credit (\"Hilton\" / merchant \"Aspire\"); a credit above $50 can only be the resort credit, but a $50 one is ambiguous — apps should let the user link it rather than guess.",
           "descriptorExamples": [
             "Hilton (merchant: Aspire), exactly $50"
           ]
