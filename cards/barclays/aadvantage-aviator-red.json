@@ -49,6 +49,10 @@
       "category": "travel",
       "inApp": false,
       "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 20000,
+        "window": "anniversary"
+      },
       "matchKeywords": [],
       "matchVerified": false,
       "notes": "$99 (plus taxes/fees) domestic economy companion certificate after spending $20,000 in the account anniversary year; account must stay open 45 days past the anniversary."

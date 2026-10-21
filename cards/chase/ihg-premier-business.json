@@ -14,7 +14,7 @@
   "legacyIds": [
     "bc82fb7022c639f90b9378410127b9e6"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-10-21",
   "sources": [
     "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
     "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -148,6 +148,24 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "spend-25k-bonus",
+      "name": "20K bonus points after $25K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 25000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "20,000 bonus points after $25,000 in purchases each calendar year."
     }
   ]
 }

@@ -14,7 +14,7 @@
   "legacyIds": [
     "2c6c7e215b4a1e791250d1fb48997e02"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-10-21",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
     "https://www.instacart.com/p/chase-cobrands"
@@ -49,6 +49,60 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "spend-15k-bonus",
+      "name": "10K bonus points after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "10,000 bonus points after $15,000 in purchases each calendar year."
+    },
+    {
+      "id": "gold-elite-status",
+      "name": "Gold Elite after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Gold Elite status through December 31 of the following year after $15,000 in purchases in a calendar year."
+    },
+    {
+      "id": "fourth-night-free",
+      "name": "4th Reward Night free after $5K",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 5000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Fourth reward night free on a consecutive four-night points stay. No spend needed through December 31, 2026; from 2027 it requires $5,000 in purchases in the calendar year (then applies for the rest of that year)."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "cardCount": 229,
-  "benefitCount": 487,
+  "benefitCount": 496,
   "cards": [
     {
       "id": "amex-amazon-business",
@@ -3997,6 +3997,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 20000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$99 (plus taxes/fees) domestic economy companion certificate after spending $20,000 in the account anniversary year; account must stay open 45 days past the anniversary."
@@ -4035,6 +4039,10 @@
           "category": "travel",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 30000,
+            "window": "anniversary"
+          },
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "$99 (plus taxes/fees) domestic economy companion certificate after spending $30,000 in the card membership year. Card is being converted to the Citi / AAdvantage Business World Elite Mastercard from April 2026; last known Barclays benefit set."
@@ -5943,7 +5951,7 @@
       "discontinued": false,
       "url": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
       "imageUrl": "https://creditcards.chase.com/bcs/api/images/file/public-card-marketplace/card-art/doordash.png",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/doordash"
       ],
@@ -5958,10 +5966,14 @@
           "category": "dining",
           "inApp": false,
           "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 10000,
+            "window": "anniversary"
+          },
           "autoApplied": true,
           "matchKeywords": [],
           "matchVerified": false,
-          "notes": "Complimentary annual DashPass membership ($96 value) each year with $10,000+ in annual card spend (12 months of DashPass are complimentary at account opening)."
+          "notes": "Complimentary 12 months of DashPass ($96 value) for you and one authorized user each anniversary year with $10,000+ in purchases on the card (12 months of DashPass are complimentary at account opening)."
         }
       ]
     },
@@ -6142,7 +6154,7 @@
       "legacyIds": [
         "40192e08e31f059d91a108ff09ec5dd5"
       ],
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
         "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -6256,6 +6268,60 @@
           "matchVerified": false,
           "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
+        },
+        {
+          "id": "spend-15k-bonus",
+          "name": "15K bonus points after $15K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "15,000 bonus points plus 5 Elite Night Credits after $15,000 in purchases each calendar year (on top of the 2 ENC earned per $5,000 spent)."
+        },
+        {
+          "id": "platinum-elite-status",
+          "name": "Platinum Elite after $15K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Platinum Elite status through December 31 of the following year after $15,000 in purchases in a calendar year."
+        },
+        {
+          "id": "diamond-elite-status",
+          "name": "Diamond Elite after $40K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 40000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Diamond Elite status through December 31 of the following year after $40,000 in purchases in a calendar year."
         }
       ]
     },
@@ -6274,7 +6340,7 @@
       "legacyIds": [
         "bc82fb7022c639f90b9378410127b9e6"
       ],
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
         "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -6408,6 +6474,24 @@
           "matchVerified": false,
           "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
+        },
+        {
+          "id": "spend-25k-bonus",
+          "name": "20K bonus points after $25K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 25000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "20,000 bonus points after $25,000 in purchases each calendar year."
         }
       ]
     },
@@ -6423,7 +6507,7 @@
       "discontinued": false,
       "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
       "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg_premier_select_card.png",
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
       ],
@@ -6551,6 +6635,42 @@
           "matchVerified": false,
           "notes": "$10 off one non-restaurant DoorDash order each calendar month while enrolled in DashPass via the card (12 months complimentary, then paid); applies to DashPass activations from 9/1/2026 (activations 2/1/2025-8/31/2026 get $10 per calendar quarter instead). Offer runs through 12/31/2027.",
           "endDate": "2027-12-31"
+        },
+        {
+          "id": "diamond-elite-status",
+          "name": "Diamond Elite after $25K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 25000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Diamond Elite status through December 31 of the following year after $25,000 in purchases in a calendar year."
+        },
+        {
+          "id": "spend-15k-enc",
+          "name": "5 Elite Night Credits after $15K",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "5 extra Elite Night Credits after $15,000 in purchases each calendar year (on top of the 2 ENC earned per $5,000 spent)."
         }
       ]
     },
@@ -6569,7 +6689,7 @@
       "legacyIds": [
         "2c6c7e215b4a1e791250d1fb48997e02"
       ],
-      "lastVerified": "2026-10-20",
+      "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
         "https://www.instacart.com/p/chase-cobrands"
@@ -6604,6 +6724,60 @@
           "matchVerified": false,
           "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
           "endDate": "2027-12-31"
+        },
+        {
+          "id": "spend-15k-bonus",
+          "name": "10K bonus points after $15K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "10,000 bonus points after $15,000 in purchases each calendar year."
+        },
+        {
+          "id": "gold-elite-status",
+          "name": "Gold Elite after $15K spend",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 15000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Gold Elite status through December 31 of the following year after $15,000 in purchases in a calendar year."
+        },
+        {
+          "id": "fourth-night-free",
+          "name": "4th Reward Night free after $5K",
+          "type": "perk",
+          "value": null,
+          "frequency": "annual",
+          "alignment": "calendar",
+          "category": "hotel",
+          "inApp": false,
+          "enrollmentRequired": false,
+          "unlockSpend": {
+            "amount": 5000,
+            "window": "calendar"
+          },
+          "matchKeywords": [],
+          "matchVerified": false,
+          "notes": "Fourth reward night free on a consecutive four-night points stay. No spend needed through December 31, 2026; from 2027 it requires $5,000 in purchases in the calendar year (then applies for the rest of that year)."
         }
       ]
     },

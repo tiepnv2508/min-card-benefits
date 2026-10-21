@@ -14,7 +14,7 @@
   "legacyIds": [
     "40192e08e31f059d91a108ff09ec5dd5"
   ],
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-10-21",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
     "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
@@ -128,6 +128,60 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar quarter if DashPass was first activated with the card 2/1/2025-8/31/2026; activations 9/1/2026-12/31/2027 get it each calendar month instead. Runs through 12/31/2027.",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "spend-15k-bonus",
+      "name": "15K bonus points after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "15,000 bonus points plus 5 Elite Night Credits after $15,000 in purchases each calendar year (on top of the 2 ENC earned per $5,000 spent)."
+    },
+    {
+      "id": "platinum-elite-status",
+      "name": "Platinum Elite after $15K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Platinum Elite status through December 31 of the following year after $15,000 in purchases in a calendar year."
+    },
+    {
+      "id": "diamond-elite-status",
+      "name": "Diamond Elite after $40K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 40000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Diamond Elite status through December 31 of the following year after $40,000 in purchases in a calendar year."
     }
   ]
 }

@@ -11,7 +11,7 @@
   "discontinued": false,
   "url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
   "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ihg_premier_select_card.png",
-  "lastVerified": "2026-10-20",
+  "lastVerified": "2026-10-21",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
   ],
@@ -139,6 +139,42 @@
       "matchVerified": false,
       "notes": "$10 off one non-restaurant DoorDash order each calendar month while enrolled in DashPass via the card (12 months complimentary, then paid); applies to DashPass activations from 9/1/2026 (activations 2/1/2025-8/31/2026 get $10 per calendar quarter instead). Offer runs through 12/31/2027.",
       "endDate": "2027-12-31"
+    },
+    {
+      "id": "diamond-elite-status",
+      "name": "Diamond Elite after $25K spend",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 25000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "Diamond Elite status through December 31 of the following year after $25,000 in purchases in a calendar year."
+    },
+    {
+      "id": "spend-15k-enc",
+      "name": "5 Elite Night Credits after $15K",
+      "type": "perk",
+      "value": null,
+      "frequency": "annual",
+      "alignment": "calendar",
+      "category": "hotel",
+      "inApp": false,
+      "enrollmentRequired": false,
+      "unlockSpend": {
+        "amount": 15000,
+        "window": "calendar"
+      },
+      "matchKeywords": [],
+      "matchVerified": false,
+      "notes": "5 extra Elite Night Credits after $15,000 in purchases each calendar year (on top of the 2 ENC earned per $5,000 spent)."
     }
   ]
 }
