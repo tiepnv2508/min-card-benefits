@@ -59,6 +59,14 @@ for (const file of walk(join(ROOT, 'cards')).sort()) {
       errors.push(`${rel}: "${b.id}" is a statement credit but has no matchKeywords`);
     if (b.matchKeywords.length > 0 && b.matchKeywords.every((k) => GENERIC.has(k)))
       errors.push(`${rel}: "${b.id}" matchKeywords are all generic words (${b.matchKeywords.join(', ')})`);
+    // A generic keyword next to specific ones is silently ignored by the
+    // app's matcher — it only hides that the list is weaker than it looks.
+    const generic = b.matchKeywords.filter((k) => GENERIC.has(k));
+    if (generic.length > 0 && generic.length < b.matchKeywords.length)
+      errors.push(`${rel}: "${b.id}" has generic matchKeywords that matchers ignore (${generic.join(', ')}) — remove them`);
+    // CONTRIBUTING rule 6: a spend-gated perk is never always-on.
+    if (b.unlockSpend && b.autoApplied)
+      errors.push(`${rel}: "${b.id}" has both unlockSpend and autoApplied — a spend-gated perk is never autoApplied`);
     if (b.matchVerified && !(b.descriptorExamples?.length))
       errors.push(`${rel}: "${b.id}" is matchVerified but has no descriptorExamples`);
   }

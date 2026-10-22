@@ -35,8 +35,7 @@
       "inApp": false,
       "enrollmentRequired": false,
       "matchKeywords": [
-        "hotel",
-        "platinum"
+        "hotel"
       ],
       "matchVerified": true,
       "descriptorExamples": [

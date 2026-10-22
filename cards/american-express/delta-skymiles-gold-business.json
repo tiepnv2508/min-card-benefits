@@ -32,8 +32,7 @@
       "inApp": false,
       "enrollmentRequired": false,
       "matchKeywords": [
-        "stays",
-        "delta"
+        "stays"
       ],
       "matchVerified": false,
       "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."

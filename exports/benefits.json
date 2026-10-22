@@ -380,8 +380,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "hotel",
-            "platinum"
+            "hotel"
           ],
           "matchVerified": true,
           "descriptorExamples": [
@@ -710,8 +709,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -800,8 +798,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -890,8 +887,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -1026,8 +1022,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -1162,8 +1157,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -1313,8 +1307,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "stays",
-            "delta"
+            "stays"
           ],
           "matchVerified": false,
           "notes": "Prepaid hotels / vacation rentals booked through Delta Stays on delta.com."
@@ -2324,8 +2317,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "hotel",
-            "platinum"
+            "hotel"
           ],
           "matchVerified": false,
           "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
@@ -2404,8 +2396,7 @@
           "inApp": false,
           "enrollmentRequired": true,
           "matchKeywords": [
-            "uber",
-            "one"
+            "uber"
           ],
           "matchVerified": false,
           "notes": "Statement credits for an auto-renewing Uber One membership charged to the card, up to $120 per calendar year."
@@ -2618,8 +2609,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "hotel",
-            "platinum"
+            "hotel"
           ],
           "matchVerified": false,
           "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
@@ -2698,8 +2688,7 @@
           "inApp": false,
           "enrollmentRequired": true,
           "matchKeywords": [
-            "uber",
-            "one"
+            "uber"
           ],
           "matchVerified": false,
           "notes": "Statement credits for an auto-renewing Uber One membership charged to the card, up to $120 per calendar year."
@@ -2914,8 +2903,7 @@
           "inApp": false,
           "enrollmentRequired": false,
           "matchKeywords": [
-            "hotel",
-            "platinum"
+            "hotel"
           ],
           "matchVerified": false,
           "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
@@ -2994,8 +2982,7 @@
           "inApp": false,
           "enrollmentRequired": true,
           "matchKeywords": [
-            "uber",
-            "one"
+            "uber"
           ],
           "matchVerified": false,
           "notes": "Statement credits for an auto-renewing Uber One membership charged to the card, up to $120 per calendar year."
@@ -5970,7 +5957,7 @@
             "amount": 10000,
             "window": "anniversary"
           },
-          "autoApplied": true,
+          "autoApplied": false,
           "matchKeywords": [],
           "matchVerified": false,
           "notes": "Complimentary 12 months of DashPass ($96 value) for you and one authorized user each anniversary year with $10,000+ in purchases on the card (12 months of DashPass are complimentary at account opening)."
@@ -11427,7 +11414,6 @@
           "enrollmentRequired": false,
           "matchKeywords": [
             "alaska",
-            "american",
             "delta",
             "frontier",
             "hawaiian",

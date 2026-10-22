@@ -14,6 +14,7 @@ Thanks for helping! Every card lives in its own file: `cards/<issuer>/<card-slug
 8. **`matchVerified: true` only if you've seen the credit post**, and add the exact text to `descriptorExamples`. Please redact anything personal (amounts are fine to omit).
 9. **Read the hidden parts of the page.** Issuer pages tuck benefits and their terms behind "See more benefits", "Show more", "+" accordions, tabs, "Offer details" links and footnote overlays — cadence, caps, enrollment and end dates usually live in those footnotes. Expand everything (or, when scripting, confirm that content is in the raw HTML; if it only loads on click, drive a real browser such as Playwright and click every expander). Never conclude a benefit was removed just because the visible page didn't show it.
 10. **Sources:** link the issuer's own benefits page whenever possible, and set `lastVerified` to the day you checked it.
+11. **Never delete a benefit the issuer ended — set `endDate`** (the last day it was available, YYYY-MM-DD). Apps use `endDate` to retire copies users already track; a benefit that simply disappears from the file is treated as unknown, not ended. Benefit `id`s are permanent and only need to be unique within a card.
 
 ## Workflow
 

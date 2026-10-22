@@ -32,8 +32,7 @@
       "inApp": false,
       "enrollmentRequired": false,
       "matchKeywords": [
-        "hotel",
-        "platinum"
+        "hotel"
       ],
       "matchVerified": false,
       "notes": "Up to $300 Jan-Jun and $300 Jul-Dec on prepaid Fine Hotels + Resorts or The Hotel Collection (2-night min) bookings via Amex Travel. Business Platinum posts as \"Platinum Hotel Credit\"."
@@ -112,8 +111,7 @@
       "inApp": false,
       "enrollmentRequired": true,
       "matchKeywords": [
-        "uber",
-        "one"
+        "uber"
       ],
       "matchVerified": false,
       "notes": "Statement credits for an auto-renewing Uber One membership charged to the card, up to $120 per calendar year."
