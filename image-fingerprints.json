@@ -358,8 +358,8 @@
   },
   "bilt-blue": {
     "url": "https://img.bilt.com/43819/1790799681-bilt-tahoe.webp",
-    "sha256": "a04f6264f12aaacd072828676f39509a2ab236b6c176fff095542b661e8947f4",
-    "bytes": 101363,
+    "sha256": "d0b57b7d055624b1d5345da09300c8b92c2a6c8a20e140a1650cc82cab92d8d8",
+    "bytes": 101355,
     "width": 500,
     "height": 317
   },
@@ -372,8 +372,8 @@
   },
   "bilt-palladium": {
     "url": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
-    "sha256": "609858e50f5ede5fe01c03e014625f9e1c3e60c8f4c5560812ae8118edb3bb72",
-    "bytes": 78762,
+    "sha256": "123da03ab42045e2629b03e540f2dc09d5364c47fcf5b2de472a751c8366a69f",
+    "bytes": 79302,
     "width": 500,
     "height": 317
   },
@@ -1209,6 +1209,20 @@
     "bytes": 128711,
     "width": 384,
     "height": 609
+  },
+  "usbank-amazon-business": {
+    "url": "https://m.media-amazon.com/images/G/01/SBCC/ZenithTest/DetailPage/SBCC_US_Core_DP_Comparison_2x_280x176.png",
+    "sha256": "667688eb6ad23c7798fb6f50c3153785b7c034175061c44cb47e52ad4e19cb14",
+    "bytes": 36868,
+    "width": 280,
+    "height": 176
+  },
+  "usbank-amazon-prime-business": {
+    "url": "https://m.media-amazon.com/images/G/01/SBCC/ZenithTest/DetailPage/SBCC_US_Prime_DP_Comparison_2x_280x176.png",
+    "sha256": "2bf2222d181285f9f03b58adea65598e2143f859fd0e38133593f94b9646192f",
+    "bytes": 35519,
+    "width": 280,
+    "height": 176
   },
   "usbank-business-altitude-connect": {
     "url": "https://www.usbank.com/content/dam/usbank/en/images/illustrations/card-art/credit-cards/business-altitude-connect-credit-card.webp",
