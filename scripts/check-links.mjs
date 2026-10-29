@@ -1,8 +1,11 @@
 // Weekly link check (CI): fetches every card's imageUrl and issuer page url
 // the way a phone would (iPhone UA, no Referer) and writes a Markdown report
 // to link-report.md. Exit code 1 if any IMAGE is broken — apps show those, so
-// they matter most. Page failures are listed separately: bank sites often
-// block datacenter IPs, so a failing page can be a false positive.
+// they matter most. Page failures are listed separately, and bot-blocked
+// responses (401 / 403 / 429 — bank sites often block datacenter IPs) go in
+// their own section so they never read as a data problem. A discontinued
+// card's page is not checked at all (the issuer pulled it; cardholders keep
+// the card, so its image still is).
 //
 // It also catches images whose URL still works but whose CONTENT changed —
 // issuers swap promo art ("50,000 BONUS POINTS" badges) in under the same
@@ -28,6 +31,15 @@ const walk = (d) =>
   });
 
 const ACCEPT = process.argv.includes('--accept');
+// "Too small" is judged in pixels, not bytes: a legitimate flat card can be
+// tiny (US Bank serves the Amazon Business cards at 150×94 / 1.8 KB), while
+// the things worth catching — a 1×1 tracking pixel, a placeholder — are a
+// few pixels wide. Bytes are only the fallback for formats whose header we
+// can't parse (SVG, AVIF).
+const MIN_IMAGE_WIDTH = 100;
+const MIN_UNKNOWN_BYTES = 1000;
+// Bot protection, not a broken link — reported, never counted as a failure.
+const BLOCKED = /^HTTP (401|403|429)$/;
 const FP_FILE = join(ROOT, 'image-fingerprints.json');
 const baseline = existsSync(FP_FILE) ? JSON.parse(readFileSync(FP_FILE, 'utf8')) : {};
 
@@ -68,9 +80,13 @@ const fingerprints = {};
 // The raw hash is too strict: some CDNs serve byte-different copies of the
 // same art from different edges (Chase: identical size, different sha256 on
 // alternating fetches). A real swap — promo badge, new design — changes the
-// pixel size or the file size, so compare those.
+// pixel size or the file size, so compare those. The byte tolerance is 5%:
+// Bilt's CDN alternated between a 77 KB and a 78 KB rendition of the same
+// 500×317 art (2026-10-26, ~2% apart), which the old 1% flagged every week.
+// A promo overlay on the same canvas adds far more than that; a redesign
+// usually changes the pixel size as well.
 const contentChanged = (a, b) =>
-  a.width !== b.width || a.height !== b.height || Math.abs(a.bytes - b.bytes) / a.bytes > 0.01;
+  a.width !== b.width || a.height !== b.height || Math.abs(a.bytes - b.bytes) / a.bytes > 0.05;
 
 async function check(url, wantImage, id) {
   const ctrl = new AbortController();
@@ -80,13 +96,14 @@ async function check(url, wantImage, id) {
     const type = res.headers.get('content-type') ?? '';
     const body = await res.arrayBuffer();
     if (!res.ok) return `HTTP ${res.status}`;
-    if (wantImage && !type.startsWith('image/')) return `not an image (${type || 'no type'})`;
-    if (wantImage && body.byteLength < 3000) return `too small (${body.byteLength} B)`;
-    if (wantImage) {
-      const sha256 = createHash('sha256').update(new Uint8Array(body)).digest('hex');
-      const [width, height] = dimensions(body) ?? [null, null];
-      fingerprints[id] = { url, sha256, bytes: body.byteLength, width, height };
-    }
+    if (!wantImage) return null;
+    if (!type.startsWith('image/')) return `not an image (${type || 'no type'})`;
+    const dims = dimensions(body);
+    if (dims && dims[0] < MIN_IMAGE_WIDTH) return `too small (${dims[0]}×${dims[1]} px)`;
+    if (!dims && body.byteLength < MIN_UNKNOWN_BYTES) return `too small (${body.byteLength} B, unparsed format)`;
+    const sha256 = createHash('sha256').update(new Uint8Array(body)).digest('hex');
+    const [width, height] = dims ?? [null, null];
+    fingerprints[id] = { url, sha256, bytes: body.byteLength, width, height };
     return null;
   } catch (e) {
     return e.name === 'AbortError' ? 'timeout' : `error: ${e.message}`;
@@ -100,7 +117,9 @@ for (const file of walk(join(ROOT, 'cards'))) {
   const card = JSON.parse(readFileSync(file, 'utf8'));
   const rel = relative(ROOT, file);
   if (card.imageUrl) jobs.push({ rel, id: card.id, kind: 'image', url: card.imageUrl });
-  if (card.url) jobs.push({ rel, kind: 'page', url: card.url });
+  // A discontinued card's page is expected to vanish (Aviator Red: Barclays
+  // 404s since the AA portfolio moved to Citi) — checking it only adds noise.
+  if (card.url && !card.discontinued) jobs.push({ rel, kind: 'page', url: card.url });
 }
 
 const failures = [];
@@ -115,18 +134,26 @@ await Promise.all(
 );
 
 const images = failures.filter((f) => f.kind === 'image').sort((a, b) => a.rel.localeCompare(b.rel));
-const pages = failures.filter((f) => f.kind === 'page').sort((a, b) => a.rel.localeCompare(b.rel));
+const allPages = failures.filter((f) => f.kind === 'page').sort((a, b) => a.rel.localeCompare(b.rel));
+const pages = allPages.filter((f) => !BLOCKED.test(f.why));
+const blocked = allPages.filter((f) => BLOCKED.test(f.why));
 const row = (f) => `| \`${f.rel}\` | ${f.why} | ${f.url} |`;
+const table = (rows) => (rows.length ? '| File | Problem | URL |\n|---|---|---|\n' + rows.map(row).join('\n') : 'None 🎉');
 const report = [
   `Checked ${jobs.length} links on ${new Date().toISOString().slice(0, 10)}.`,
   '',
   `## Broken card images (${images.length})`,
-  images.length ? '| File | Problem | URL |\n|---|---|---|\n' + images.map(row).join('\n') : 'None 🎉',
+  table(images),
   '',
   `## Issuer pages that failed (${pages.length})`,
-  'Often bot-blocking of CI IPs — confirm in a browser before changing data.',
+  'Confirm in a browser before changing data — a 404 can mean the card moved issuer or was retired (set `discontinued`, never delete the file).',
   '',
-  pages.length ? '| File | Problem | URL |\n|---|---|---|\n' + pages.map(row).join('\n') : 'None 🎉',
+  table(pages),
+  '',
+  `## Issuer pages that blocked the check (${blocked.length})`,
+  'HTTP 401 / 403 / 429 from bot protection on CI IPs. Not a data problem; listed for the record.',
+  '',
+  table(blocked),
   '',
 ].join('\n');
 writeFileSync(join(ROOT, 'link-report.md'), report);
