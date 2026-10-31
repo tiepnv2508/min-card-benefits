@@ -18,6 +18,49 @@
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "phone_internet",
+        "rate": 2,
+        "channel": "any",
+        "note": "Internet, cable and phone."
+      },
+      {
+        "category": "streaming",
+        "rate": 2,
+        "channel": "any",
+        "note": "Select streaming services."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any",
+        "note": "Rideshare category, including taxicabs and limousines."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "DoorDash, Caviar, Uber Eats, Postmates, Grubhub, Seamless, Delivery.com",
+        "note": "Food delivery only, direct through their site or app; restaurants earn 1X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "instacart-credit",

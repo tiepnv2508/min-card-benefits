@@ -20,6 +20,43 @@
     "https://thepointsguy.com/credit-cards/citi-strata-elite-statement-credits",
     "https://onemileatatime.com/guides/citi-strata-elite-card-blacklane-credit/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1.5,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 12,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "car_rental",
+        "rate": 12,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "entertainment",
+        "rate": 12,
+        "channel": "issuer_portal",
+        "merchants": "Attractions booked through Citi Travel"
+      },
+      {
+        "category": "flights",
+        "rate": 6,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "6X only for purchases authorized Fri or Sat 6 PM to 6 AM ET (Citi Nights). Includes restaurant delivery."
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": true,

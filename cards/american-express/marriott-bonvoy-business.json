@@ -20,6 +20,43 @@
     "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/",
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Restaurants worldwide"
+      },
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "U.S. gas stations"
+      },
+      {
+        "category": "phone_internet",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Wireless telephone services bought directly from U.S. providers"
+      },
+      {
+        "category": "shipping",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "U.S. purchases for shipping"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

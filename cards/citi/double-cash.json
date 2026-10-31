@@ -18,5 +18,31 @@
   "sources": [
     "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 2,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "entertainment",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Attractions booked through Citi Travel"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "1% when you buy + 1% as you pay for those purchases, paid as ThankYou Points. Citi Travel bookings earn 3% more, 5% in total. No caps or categories to enroll in."
+  },
   "benefits": []
 }

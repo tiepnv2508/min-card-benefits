@@ -18,8 +18,35 @@
   "sources": [
     "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
     "https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/",
-    "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/"
+    "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/",
+    "https://creditcards.aa.com/exec_standard"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 12,
+        "channel": "issuer_portal",
+        "merchants": "Only on aadvantagehotels.com; excludes AA Vacations and Reserve Now, Pay Later"
+      },
+      {
+        "category": "car_rental",
+        "rate": 12,
+        "channel": "issuer_portal",
+        "merchants": "Only on aadvantagecars.com; excludes Payless and AA Vacations"
+      },
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "direct",
+        "merchants": "Purchases billed by American Airlines as merchant of record",
+        "note": "5X after $150,000 in purchases in a calendar year, for the rest of that year."
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": false,

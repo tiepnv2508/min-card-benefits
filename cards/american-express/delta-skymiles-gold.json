@@ -20,6 +20,31 @@
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold-american-express-card/91101-10-0"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Eligible purchases made directly with Delta"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Restaurants, including takeout and delivery in the U.S."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "U.S. supermarkets"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "delta-stays-credit",

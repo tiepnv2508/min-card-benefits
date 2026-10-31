@@ -19,6 +19,61 @@
     "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
     "https://www.doctorofcredit.com/chase-doordash-partnership-details-free-dashpass-10-grocery-5-restaurant-credits/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "$150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+      },
+      {
+        "category": "shipping",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "$150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+      },
+      {
+        "category": "advertising",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "Social media and search engine advertising. $150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+      },
+      {
+        "category": "phone_internet",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "Internet, cable and phone services. $150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+      },
+      {
+        "category": "rideshare",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Lyft",
+        "endDate": "2027-09-30",
+        "note": "In the Lyft app. Terms describe it as 2 extra points on the 3X travel rate until the $150,000 cap; the rate after the cap is not stated."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "doordash-promo",

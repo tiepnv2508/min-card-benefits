@@ -19,6 +19,65 @@
     "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
     "https://upgradedpoints.com/news/amex-gold-easier-to-use-benefits-refresh/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 50000,
+          "period": "year"
+        },
+        "merchants": "Restaurants worldwide",
+        "note": "Per calendar year, then 1X."
+      },
+      {
+        "category": "groceries",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 25000,
+          "period": "year"
+        },
+        "merchants": "U.S. supermarkets",
+        "note": "Per calendar year, then 1X."
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "merchants": "AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Purchased directly from airlines"
+      },
+      {
+        "category": "car_rental",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid car rentals on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Cruises booked and paid through AmexTravel.com"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "dining-credit",

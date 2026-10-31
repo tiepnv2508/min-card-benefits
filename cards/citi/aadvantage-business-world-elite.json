@@ -16,8 +16,40 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/"
+    "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/",
+    "https://creditcards.aa.com/cbaa_standard/"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Purchases billed by American Airlines as merchant of record"
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes warehouse clubs not coded as gas stations, discount, department and convenience stores."
+      },
+      {
+        "category": "car_rental",
+        "rate": 2,
+        "channel": "direct",
+        "note": "Excludes travel agencies, tour operators and online third-party travel sites."
+      },
+      {
+        "category": "phone_internet",
+        "rate": 2,
+        "channel": "any",
+        "note": "Certain telecommunications merchants and cable/satellite providers."
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": false,

@@ -20,8 +20,32 @@
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/",
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-american-express-business-credit-card-amex/",
-    "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/"
+    "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/",
+    "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 12,
+        "channel": "direct",
+        "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+      },
+      {
+        "category": "other",
+        "rate": 5,
+        "channel": "any",
+        "cap": {
+          "amount": 100000,
+          "period": "year"
+        },
+        "note": "Other eligible purchases, first $100,000 per calendar year, then 3X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hilton-credit",

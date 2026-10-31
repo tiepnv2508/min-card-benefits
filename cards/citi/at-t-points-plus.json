@@ -19,5 +19,35 @@
     "https://www.att.com/deals/att-points-plus-citi/",
     "https://citi.com/credit-cards/citi-att-pointsplus-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "note": "Gas station/EV merchant codes only."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes grocery delivery; excludes superstores and warehouse clubs."
+      },
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Products and services purchased directly from AT&T, including phone or internet bills"
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": []
 }

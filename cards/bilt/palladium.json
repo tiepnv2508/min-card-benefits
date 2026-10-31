@@ -17,8 +17,43 @@
     "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
     "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
     "https://upgradedpoints.com/credit-cards/reviews/bilt-palladium-card/beneifts/",
-    "https://www.nerdwallet.com/credit-cards/reviews/bilt-palladium"
+    "https://www.nerdwallet.com/credit-cards/reviews/bilt-palladium",
+    "https://www.biltrewards.com/terms/bilt-card-offer-terms"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "notes": "Housing rate depends on non-housing spend vs housing each billing cycle: 25% 0.5X, 50% 0.75X, 75% 1X, 100%+ 1.25X; under 25%, flat 250 points. Pre-2027 accounts may elect Flexible Bilt Cash: 4% Bilt Cash, housing max 1X. Bilt Dining partners: up to 5X, varies.",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 4,
+        "channel": "issuer_portal",
+        "note": "Bilt Travel Portal only."
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "note": "Bilt Travel Portal only."
+      },
+      {
+        "category": "rideshare",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Lyft only",
+        "note": "Link Bilt and Lyft accounts; book in the Lyft app."
+      },
+      {
+        "category": "rent",
+        "rate": 0.5,
+        "channel": "issuer_portal",
+        "merchants": "Rent/mortgage paid through Bilt",
+        "note": "Lowest tier: non-housing spend must reach 25% of housing in the billing cycle; 1.25X at 100%+. Below 25%: flat 250 points. Pay through Bilt app/site."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hotel-credit",

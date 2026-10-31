@@ -19,6 +19,39 @@
     "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "groceries",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 15000,
+          "period": "year"
+        },
+        "note": "$15,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+      },
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 15000,
+          "period": "year"
+        },
+        "note": "$15,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

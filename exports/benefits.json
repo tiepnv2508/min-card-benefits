@@ -44,6 +44,23 @@
         "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinesscash-credit-card/42732-9-0"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "note": "All eligible purchases, first $50,000 per calendar year, then 1%."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -66,6 +83,30 @@
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinessplus-credit-card/42732-9-0"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "note": "All eligible purchases, first $50,000 per calendar year, then 1X."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "AmexTravel.com",
+            "note": "Stays 2X and does not count toward the $50,000."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -89,6 +130,46 @@
         "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "merchants": "U.S. supermarkets",
+            "note": "Then 1%. Cap is per category."
+          },
+          {
+            "category": "online_retail",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "merchants": "U.S. online retail purchases",
+            "note": "Then 1%. Cap is per category."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "merchants": "U.S. gas stations",
+            "note": "Then 1%. Cap is per category."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "disney-streaming-credit",
@@ -146,6 +227,48 @@
         "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "groceries",
+            "rate": 6,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "merchants": "U.S. supermarkets",
+            "note": "Then 1%."
+          },
+          {
+            "category": "streaming",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Select U.S. streaming subscriptions"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "U.S. gas stations"
+          },
+          {
+            "category": "transit",
+            "rate": 3,
+            "channel": "any",
+            "note": "Includes taxis/rideshare, parking, tolls, trains, buses and more."
+          },
+          {
+            "category": "rideshare",
+            "rate": 3,
+            "channel": "any",
+            "note": "Counted as part of the transit category."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "disney-streaming-credit",
@@ -186,6 +309,48 @@
         "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/",
         "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "groceries",
+            "rate": 6,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "merchants": "U.S. supermarkets",
+            "note": "Then 1%."
+          },
+          {
+            "category": "streaming",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Select U.S. streaming subscriptions"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "U.S. gas stations"
+          },
+          {
+            "category": "transit",
+            "rate": 3,
+            "channel": "any",
+            "note": "Includes taxis/rideshare, parking, tolls, trains, buses and more."
+          },
+          {
+            "category": "rideshare",
+            "rate": 3,
+            "channel": "any",
+            "note": "Counted as part of the transit category."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "disney-streaming-credit",
@@ -248,6 +413,101 @@
         "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "4X applies automatically to the top 2 of 6 eligible categories each billing cycle, not to all six.",
+        "rates": [
+          {
+            "category": "advertising",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "merchants": "U.S. media providers, select media (online, TV, radio)",
+            "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X. Select merchants only from 2027-02-17."
+          },
+          {
+            "category": "other",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "merchants": "U.S. electronic goods retailers and software & cloud system providers",
+            "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "merchants": "U.S. restaurants, including takeout and delivery",
+            "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "merchants": "U.S. gas stations",
+            "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+          },
+          {
+            "category": "transit",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "Trains, taxicabs, rideshare, ferries, tolls, parking, buses, subways. Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+          },
+          {
+            "category": "rideshare",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "Part of transit. Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+          },
+          {
+            "category": "phone_internet",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "merchants": "Monthly wireless service bought directly from a U.S. provider",
+            "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X. Select merchants only from 2027-02-17."
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "merchants": "AmexTravel.com"
+          },
+          {
+            "category": "hotels",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid hotels on AmexTravel.com"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "flexible-business-credit",
@@ -342,6 +602,37 @@
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "flights",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid hotels on AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "car_rental",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid car rentals on AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "Cruises and other eligible travel on AmexTravel.com or Amex Travel App"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -368,6 +659,69 @@
         "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "AmexTravel.com"
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid hotels through American Express Travel, including FHR and The Hotel Collection"
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2000000,
+              "period": "year"
+            },
+            "merchants": "U.S. construction material and hardware suppliers",
+            "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2000000,
+              "period": "year"
+            },
+            "merchants": "U.S. electronic goods retailers and software & cloud system providers",
+            "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2000000,
+              "period": "year"
+            },
+            "merchants": "Each eligible purchase of $5,000 or more",
+            "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+          },
+          {
+            "category": "shipping",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 2000000,
+              "period": "year"
+            },
+            "merchants": "U.S. shipping providers",
+            "note": "$2 million cap is combined per calendar year. Highest eligible bonus only. Select merchants only from 2027-02-17."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hotel-credit",
@@ -674,6 +1028,25 @@
         "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-blue-american-express-card/26129-10-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Eligible purchases made directly with Delta"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, including takeout and delivery in the U.S."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -697,6 +1070,31 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold-american-express-card/91101-10-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Eligible purchases made directly with Delta"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, including takeout and delivery in the U.S."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "U.S. supermarkets"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -786,6 +1184,44 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-gold/61468-9-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Eligible purchases made directly with Delta"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "shipping",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "merchants": "U.S. shipping providers"
+          },
+          {
+            "category": "advertising",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "merchants": "U.S. providers of advertising in select media"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -875,6 +1311,37 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum-american-express-card/91101-10-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Delta purchases, including Delta flights and Delta Vacations"
+          },
+          {
+            "category": "hotels",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Purchases made directly with hotels"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants, including takeout and delivery in the U.S."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "U.S. supermarkets"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -1010,6 +1477,67 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Eligible purchases made directly with Delta"
+          },
+          {
+            "category": "hotels",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Purchases made directly with hotels"
+          },
+          {
+            "category": "transit",
+            "rate": 1.5,
+            "channel": "any",
+            "cap": {
+              "amount": 100000,
+              "period": "year"
+            },
+            "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+          },
+          {
+            "category": "rideshare",
+            "rate": 1.5,
+            "channel": "any",
+            "cap": {
+              "amount": 100000,
+              "period": "year"
+            },
+            "note": "Part of transit. $100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+          },
+          {
+            "category": "shipping",
+            "rate": 1.5,
+            "channel": "any",
+            "cap": {
+              "amount": 100000,
+              "period": "year"
+            },
+            "merchants": "U.S. shipping providers",
+            "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+          },
+          {
+            "category": "other",
+            "rate": 1.5,
+            "channel": "any",
+            "cap": {
+              "amount": 100000,
+              "period": "year"
+            },
+            "merchants": "Single eligible purchases of $5,000 or more",
+            "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -1145,6 +1673,19 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Delta purchases, including Delta flights and Delta Vacations"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -1295,6 +1836,37 @@
         "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
         "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve/65147-9-0?key=tncBody&rwdFlag=rwd"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "After $150,000 in purchases on the Card in a year, all eligible purchases earn 1.5 miles for the rest of that year. A higher accelerator wins.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Eligible purchases made directly with Delta"
+          },
+          {
+            "category": "transit",
+            "rate": 1.5,
+            "channel": "any"
+          },
+          {
+            "category": "shipping",
+            "rate": 1.5,
+            "channel": "any",
+            "merchants": "U.S. shipping providers"
+          },
+          {
+            "category": "office_supplies",
+            "rate": 1.5,
+            "channel": "any",
+            "merchants": "U.S. office supply stores"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "delta-stays-credit",
@@ -1488,6 +2060,65 @@
         "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
         "https://upgradedpoints.com/news/amex-gold-easier-to-use-benefits-refresh/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 50000,
+              "period": "year"
+            },
+            "merchants": "Restaurants worldwide",
+            "note": "Per calendar year, then 1X."
+          },
+          {
+            "category": "groceries",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 25000,
+              "period": "year"
+            },
+            "merchants": "U.S. supermarkets",
+            "note": "Per calendar year, then 1X."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid hotels on AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "merchants": "AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Purchased directly from airlines"
+          },
+          {
+            "category": "car_rental",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid car rentals on AmexTravel.com or Amex Travel App"
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "merchants": "Cruises booked and paid through AmexTravel.com"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "dining-credit",
@@ -1637,6 +2268,37 @@
         "https://www.hilton.com/en/hilton-honors/credit-cards/",
         "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 7,
+            "channel": "direct",
+            "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+          },
+          {
+            "category": "dining",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "U.S. restaurants"
+          },
+          {
+            "category": "groceries",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "U.S. supermarkets"
+          },
+          {
+            "category": "gas",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "U.S. gas stations"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "silver-status",
@@ -1676,6 +2338,43 @@
         "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
         "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 14,
+            "channel": "direct",
+            "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+          },
+          {
+            "category": "flights",
+            "rate": 7,
+            "channel": "direct",
+            "merchants": "Booked directly with airlines"
+          },
+          {
+            "category": "flights",
+            "rate": 7,
+            "channel": "issuer_portal",
+            "merchants": "American Express Travel"
+          },
+          {
+            "category": "car_rental",
+            "rate": 7,
+            "channel": "direct",
+            "merchants": "Directly from select car rental companies"
+          },
+          {
+            "category": "dining",
+            "rate": 7,
+            "channel": "any",
+            "merchants": "U.S. restaurants"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hilton-resort-credit",
@@ -1834,8 +2533,32 @@
         "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-business-credit-card/",
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors-american-express-business-credit-card-amex/",
-        "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/"
+        "https://frequentmiler.com/huge-changes-to-amex-hilton-honors-business-card-no-more-free-night-higher-annual-fee-and-more/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 12,
+            "channel": "direct",
+            "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+          },
+          {
+            "category": "other",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 100000,
+              "period": "year"
+            },
+            "note": "Other eligible purchases, first $100,000 per calendar year, then 3X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hilton-credit",
@@ -1905,6 +2628,43 @@
         "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
         "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 12,
+            "channel": "direct",
+            "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+          },
+          {
+            "category": "dining",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "U.S. restaurants"
+          },
+          {
+            "category": "groceries",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "U.S. supermarkets"
+          },
+          {
+            "category": "gas",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "U.S. gas stations"
+          },
+          {
+            "category": "online_retail",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "U.S. online retail purchases"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hilton-credit",
@@ -2013,6 +2773,41 @@
         "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
         "https://upgradedpoints.com/credit-cards/reviews/marriott-bonvoy-bevy-card/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 15000,
+              "period": "year"
+            },
+            "merchants": "Restaurants worldwide, including takeout and delivery in the U.S.",
+            "note": "$15,000 cap is combined across restaurants and U.S. supermarkets per calendar year, then 2X."
+          },
+          {
+            "category": "groceries",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 15000,
+              "period": "year"
+            },
+            "merchants": "U.S. supermarkets",
+            "note": "$15,000 cap is combined across restaurants and U.S. supermarkets per calendar year, then 2X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-15k",
@@ -2084,6 +2879,31 @@
         "https://www.uscreditcardguide.com/amex-spg-luxury-credit-card/",
         "https://frequentmiler.com/amex-marriott-bonvoy-brilliant-credit-card-review/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Restaurants worldwide"
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Booked directly with airlines"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "dining-credit",
@@ -2219,6 +3039,43 @@
         "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-business-card/",
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Restaurants worldwide"
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "U.S. gas stations"
+          },
+          {
+            "category": "phone_internet",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Wireless telephone services bought directly from U.S. providers"
+          },
+          {
+            "category": "shipping",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "U.S. purchases for shipping"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -2305,6 +3162,41 @@
         "https://frequentmiler.com/amex-removes-saks-benefit-for-new-platinum-cardholders-cardholders-prior-to-3-26-unaffected/",
         "https://upgradedpoints.com/news/clear-plus-membership-price-increase-july-2026/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "direct",
+            "cap": {
+              "amount": 500000,
+              "period": "year"
+            },
+            "merchants": "Booked directly with airlines",
+            "note": "$500,000 cap per calendar year applies to these flights. Shared with American Express Travel flights."
+          },
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "cap": {
+              "amount": 500000,
+              "period": "year"
+            },
+            "merchants": "American Express Travel",
+            "note": "$500,000 cap per calendar year applies to these flights. Shared with flights booked directly."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Prepaid hotels through American Express Travel"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hotel-credit",
@@ -4866,8 +5758,43 @@
       "sources": [
         "https://www.bilt.com/card/blue",
         "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
-        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
+        "https://www.biltrewards.com/terms/bilt-card-offer-terms"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Housing rate depends on non-housing spend vs housing each billing cycle: 25% 0.5X, 50% 0.75X, 75% 1X, 100%+ 1.25X; under 25%, flat 250 points. Pre-2027 accounts may elect Flexible Bilt Cash: 4% Bilt Cash, housing max 1X. Bilt Dining partners: up to 4X, varies.",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "flights",
+            "rate": 2,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "rideshare",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Lyft only",
+            "note": "Link Bilt and Lyft accounts; book in the Lyft app."
+          },
+          {
+            "category": "rent",
+            "rate": 0.5,
+            "channel": "issuer_portal",
+            "merchants": "Rent/mortgage paid through Bilt",
+            "note": "Lowest tier: non-housing spend must reach 25% of housing in the billing cycle; 1.25X at 100%+. Below 25%: flat 250 points. Pay through Bilt app/site."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -4886,8 +5813,65 @@
       "sources": [
         "https://www.bilt.com/card/obsidian",
         "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
-        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/"
+        "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
+        "https://www.biltrewards.com/terms/bilt-card-offer-terms"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Housing rate depends on non-housing spend vs housing each billing cycle: 25% 0.5X, 50% 0.75X, 75% 1X, 100%+ 1.25X; under 25%, flat 250 points. Pre-2027 accounts may elect Flexible Bilt Cash: 4% Bilt Cash, housing max 1X. Bilt Dining partners: up to 6X, varies.",
+        "rates": [
+          {
+            "category": "chosen_category",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Dining (default) or grocery, pick one",
+            "note": "Grocery capped at $25,000 per calendar year, then 1X; dining uncapped. Change only in January. Unchosen category earns 1X."
+          },
+          {
+            "category": "hotels",
+            "rate": 4,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct"
+          },
+          {
+            "category": "flights",
+            "rate": 2,
+            "channel": "direct"
+          },
+          {
+            "category": "car_rental",
+            "rate": 2,
+            "channel": "direct"
+          },
+          {
+            "category": "rideshare",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Lyft only",
+            "note": "Link Bilt and Lyft accounts; book in the Lyft app."
+          },
+          {
+            "category": "rent",
+            "rate": 0.5,
+            "channel": "issuer_portal",
+            "merchants": "Rent/mortgage paid through Bilt",
+            "note": "Lowest tier: non-housing spend must reach 25% of housing in the billing cycle; 1.25X at 100%+. Below 25%: flat 250 points. Pay through Bilt app/site."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hotel-credit",
@@ -4923,8 +5907,43 @@
         "https://support.biltrewards.com/hc/en-us/articles/42897766682381-Bilt-Card-2-0-Program-Overview",
         "https://www.doctorofcredit.com/three-brand-new-bilt-2-0-cards-blue-obsidian-palladium/",
         "https://upgradedpoints.com/credit-cards/reviews/bilt-palladium-card/beneifts/",
-        "https://www.nerdwallet.com/credit-cards/reviews/bilt-palladium"
+        "https://www.nerdwallet.com/credit-cards/reviews/bilt-palladium",
+        "https://www.biltrewards.com/terms/bilt-card-offer-terms"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "notes": "Housing rate depends on non-housing spend vs housing each billing cycle: 25% 0.5X, 50% 0.75X, 75% 1X, 100%+ 1.25X; under 25%, flat 250 points. Pre-2027 accounts may elect Flexible Bilt Cash: 4% Bilt Cash, housing max 1X. Bilt Dining partners: up to 5X, varies.",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 4,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "note": "Bilt Travel Portal only."
+          },
+          {
+            "category": "rideshare",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Lyft only",
+            "note": "Link Bilt and Lyft accounts; book in the Lyft app."
+          },
+          {
+            "category": "rent",
+            "rate": 0.5,
+            "channel": "issuer_portal",
+            "merchants": "Rent/mortgage paid through Bilt",
+            "note": "Lowest tier: non-housing spend must reach 25% of housing in the billing cycle; 1.25X at 100%+. Below 25%: flat 250 points. Pay through Bilt app/site."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hotel-credit",
@@ -5010,6 +6029,31 @@
       "sources": [
         "https://www.capitalone.com/credit-cards/quicksilver/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          },
+          {
+            "category": "entertainment",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Capital One Entertainment purchases only"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5031,6 +6075,54 @@
       "sources": [
         "https://www.capitalone.com/credit-cards/savor/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "note": "Superstores like Walmart and Target are excluded."
+          },
+          {
+            "category": "entertainment",
+            "rate": 3,
+            "channel": "any",
+            "note": "Tickets at theaters, live events, parks, zoos etc. Golf, collegiate sports, cable and memberships excluded."
+          },
+          {
+            "category": "streaming",
+            "rate": 3,
+            "channel": "any",
+            "note": "Eligible services such as Netflix, Hulu, Disney+. Prime Video, AT&T TV, Verizon FIOS On Demand, audiobooks and fitness excluded."
+          },
+          {
+            "category": "entertainment",
+            "rate": 8,
+            "channel": "issuer_portal",
+            "merchants": "Capital One Entertainment purchases only"
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5052,6 +6144,25 @@
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/spark-cash-select"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5073,6 +6184,25 @@
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Business Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5095,6 +6225,25 @@
         "https://www.capitalone.com/small-business/credit-cards/venture-business/",
         "https://www.nerdwallet.com/business/credit-cards/reviews/venture-business"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Business Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": true,
@@ -5166,6 +6315,31 @@
       "sources": [
         "https://www.capitalone.com/credit-cards/venture/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          },
+          {
+            "category": "entertainment",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Capital One Entertainment purchases only"
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": false,
@@ -5208,6 +6382,38 @@
         "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
         "https://upgradedpoints.com/credit-cards/reviews/capital-one-venture-x/benefits-history/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "notes": "Vacation rentals booked through Capital One Travel earn 5X.",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only. Vacation rentals earn 5X."
+          },
+          {
+            "category": "car_rental",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          },
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          },
+          {
+            "category": "entertainment",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Capital One Entertainment purchases only"
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": true,
@@ -5305,6 +6511,32 @@
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "notes": "Vacation rentals booked through Capital One Business Travel earn 5X.",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only. Vacation rentals earn 5X."
+          },
+          {
+            "category": "car_rental",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          },
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          }
+        ]
+      },
       "benefits": [
         {
           "inApp": true,
@@ -5402,6 +6634,25 @@
       "sources": [
         "https://www.capitalone.com/credit-cards/ventureone/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1.25,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Travel only."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5423,6 +6674,25 @@
       "sources": [
         "https://www.capitalone.com/small-business/credit-cards/ventureone-business/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Also vacation rentals. Capital One Business Travel only."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Capital One Business Travel only."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5445,6 +6715,26 @@
         "https://creditcards.chase.com/travel-credit-cards/avios/aer-lingus",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Aer Lingus, British Airways, Iberia, LEVEL",
+            "note": "Flight purchases only, made directly with the airline."
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Hotel accommodations purchased directly with the hotel."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "companion-ticket",
@@ -5532,6 +6822,42 @@
         "https://upgradedpoints.com/news/refreshed-chase-aeroplan-card-2026/",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Air Canada",
+            "note": "Excludes gift cards, partner hotels and cars on aircanada.com, onboard Wi-Fi, agency tickets. Page's 5X adds 2X from Air Canada for Aeroplan 25K members."
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Earns 3X on purchases posted by 12/31/2026; 2X is the rate after that."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery. Earns 3X on purchases posted by 12/31/2026; 2X after."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "air-canada-credit",
@@ -5620,6 +6946,49 @@
         "https://www.amazon.com/dp/BT00LN946S",
         "https://creditcards.chase.com/cash-back-credit-cards/amazon-prime-rewards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Rotating 10%+ back on selected Amazon.com items for eligible Prime members is a limited-time offer and is not listed.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Amazon.com, Audible.com, Whole Foods Market",
+            "note": "Needs an eligible Prime membership, otherwise 3%. Not Amazon Pay, international Amazon sites, or Whole Foods via third parties."
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Needs an eligible Prime membership, otherwise 3%. Not earned booking directly with travel suppliers."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any",
+            "note": "Local transit and commuting."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any",
+            "note": "Part of local transit and commuting."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5639,6 +7008,48 @@
         "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
         "https://creditcards.chase.com/cash-back-credit-cards/amazon"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Amazon.com, Audible.com, Whole Foods Market",
+            "note": "Page headline rate. Shared terms state 5% with an eligible Prime membership. Not Amazon Pay, international Amazon sites, or Whole Foods via third parties."
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "issuer_portal",
+            "note": "Page headline rate. Shared terms state 5% with an eligible Prime membership. Not earned booking directly with suppliers."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any",
+            "note": "Local transit and commuting."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any",
+            "note": "Part of local transit and commuting."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -5661,6 +7072,26 @@
         "https://creditcards.chase.com/travel-credit-cards/avios/british-airways",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "British Airways, Aer Lingus, Iberia, LEVEL",
+            "note": "Flight purchases only, made directly with the airline."
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Hotel accommodations purchased directly with the hotel."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "reward-flight-credit",
@@ -5764,6 +7195,13 @@
         "https://creditcards.chase.com/rewards-credit-cards/disney/rewards",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Earns Disney Rewards Dollars, not cash: $1 each, redeemable at Disney U.S. locations or against airline purchases.",
+        "rates": []
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -5813,6 +7251,42 @@
       "sources": [
         "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Earns Disney Rewards Dollars, not cash: $1 each, redeemable at Disney U.S. locations or against airline purchases.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 10,
+            "channel": "direct",
+            "merchants": "DisneyPlus.com, Hulu.com, Stream.ESPN.com",
+            "note": "Disney+, Hulu, ESPN subscriptions and add-ons bought directly on their sites; not via third-party platforms or cable bundles."
+          },
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Disney locations in the U.S."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "disney-streaming-credit",
@@ -5893,6 +7367,42 @@
         "https://creditcards.chase.com/rewards-credit-cards/disney/premier",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Earns Disney Rewards Dollars, not cash: $1 each, redeemable at Disney U.S. locations or against airline purchases.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "DisneyPlus.com, Hulu.com, Stream.ESPN.com",
+            "note": "Disney+, Hulu, ESPN subscriptions and add-ons bought directly on their sites; not via third-party platforms or cable bundles."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Disney locations in the U.S."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -5942,6 +7452,32 @@
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/doordash"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "direct",
+            "merchants": "DoorDash, Caviar",
+            "note": "Orders on their sites or apps; DashPass subscription fees excluded."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "direct",
+            "note": "Only when purchased directly from a restaurant."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Grocery stores, online or in-store."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "dashpass-anniversary",
@@ -5983,6 +7519,46 @@
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "rotating",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 1500,
+              "period": "quarter"
+            },
+            "note": "Activate each quarter by the deadline; $1,500 is combined across that quarter's categories."
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "drugstores",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -6001,6 +7577,21 @@
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "doordash-promo",
@@ -6038,6 +7629,36 @@
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "drugstores",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -6060,6 +7681,26 @@
         "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Iberia, British Airways, Aer Lingus, LEVEL",
+            "note": "Flight purchases only, made directly with the airline."
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Hotel accommodations purchased directly with the hotel."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "discount-voucher",
@@ -6147,6 +7788,53 @@
         "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 10,
+            "channel": "any",
+            "merchants": "Hotels participating in IHG One Rewards"
+          },
+          {
+            "category": "groceries",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "gas",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 5,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          },
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "direct",
+            "note": "Airline tickets purchased directly with the airline."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Excludes IHG hotels (10X). Purchases posted by 12/31/2026; other travel earns 3X after."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -6331,8 +8019,64 @@
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/IHG/business-premier",
         "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
-        "https://www.instacart.com/p/chase-cobrands"
+        "https://www.instacart.com/p/chase-cobrands",
+        "https://creditcards.chase.com/business-credit-cards/IHG/business"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 10,
+            "channel": "any",
+            "merchants": "Hotels participating in IHG One Rewards"
+          },
+          {
+            "category": "dining",
+            "rate": 5,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          },
+          {
+            "category": "gas",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "advertising",
+            "rate": 5,
+            "channel": "any",
+            "note": "Social media and search engine advertising."
+          },
+          {
+            "category": "flights",
+            "rate": 5,
+            "channel": "direct",
+            "note": "Airline tickets purchased directly with the airline."
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "any"
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Excludes IHG hotels (10X). Purchases posted by 12/31/2026; other travel earns 3X after."
+          },
+          {
+            "category": "office_supplies",
+            "rate": 5,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Purchases posted by 12/31/2026; 3X after."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -6498,6 +8242,36 @@
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 12,
+            "channel": "any",
+            "merchants": "Hotels participating in IHG One Rewards"
+          },
+          {
+            "category": "travel",
+            "rate": 6,
+            "channel": "any",
+            "note": "Excludes IHG hotels (12X)."
+          },
+          {
+            "category": "rideshare",
+            "rate": 6,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 6,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -6679,8 +8453,59 @@
       "lastVerified": "2026-10-21",
       "sources": [
         "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
-        "https://www.instacart.com/p/chase-cobrands"
+        "https://www.instacart.com/p/chase-cobrands",
+        "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/one-rewards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Hotels participating in IHG One Rewards"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          },
+          {
+            "category": "utilities",
+            "rate": 3,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Purchases posted by 12/31/2026; 2X after."
+          },
+          {
+            "category": "phone_internet",
+            "rate": 3,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Internet, cable and phone. Purchases posted by 12/31/2026; 2X after."
+          },
+          {
+            "category": "streaming",
+            "rate": 3,
+            "channel": "any",
+            "endDate": "2026-12-31",
+            "note": "Select streaming services. Purchases posted by 12/31/2026; 2X after."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -6788,6 +8613,61 @@
         "https://creditcards.chase.com/business-credit-cards/ink/cash",
         "https://www.instacart.com/p/chase-ink"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "office_supplies",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 25000,
+              "period": "year"
+            },
+            "note": "Cap of $25,000 is combined across every category marked with it, per account anniversary year. Shared with internet, cable and phone."
+          },
+          {
+            "category": "phone_internet",
+            "rate": 5,
+            "channel": "any",
+            "cap": {
+              "amount": 25000,
+              "period": "year"
+            },
+            "note": "Internet, cable and phone services. Cap of $25,000 is combined across every category marked with it, per account anniversary year. Shared with office supply stores."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 25000,
+              "period": "year"
+            },
+            "note": "Separate $25,000 cap combined with restaurants, per account anniversary year."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 25000,
+              "period": "year"
+            },
+            "note": "Separate $25,000 cap combined with gas stations, per account anniversary year."
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -6826,6 +8706,61 @@
         "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
         "https://www.doctorofcredit.com/chase-doordash-partnership-details-free-dashpass-10-grocery-5-restaurant-credits/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "$150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+          },
+          {
+            "category": "shipping",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "$150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+          },
+          {
+            "category": "advertising",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "Social media and search engine advertising. $150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+          },
+          {
+            "category": "phone_internet",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 150000,
+              "period": "year"
+            },
+            "note": "Internet, cable and phone services. $150,000 cap is combined across travel, shipping, advertising and phone/internet, per account anniversary year."
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "In the Lyft app. Terms describe it as 2 extra points on the 3X travel rate until the $150,000 cap; the rate after the cap is not stated."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "doordash-promo",
@@ -6878,6 +8813,27 @@
       "sources": [
         "https://creditcards.chase.com/business-credit-cards/ink/premier"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "notes": "Any single purchase that posts at $5,000 or more earns 2.5% total. Items billed separately under $5,000 earn 2%.",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal"
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -6900,6 +8856,21 @@
         "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
         "https://www.instacart.com/p/chase-ink"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -6934,6 +8905,46 @@
       "sources": [
         "https://creditcards.chase.com/cash-back-credit-cards/instacart"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Instacart.com, Instacart app, Instacart memberships",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "note": "Qualifying purchases only. Year runs between December statement dates."
+          },
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal"
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes restaurant orders on Instacart powered by Uber Eats."
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Select streaming services"
+          }
+        ]
+      },
       "benefits": []
     },
     {
@@ -6955,6 +8966,49 @@
         "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "phone_internet",
+            "rate": 2,
+            "channel": "any",
+            "note": "Internet, cable and phone."
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "note": "Select streaming services."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any",
+            "note": "Rideshare category, including taxicabs and limousines."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "DoorDash, Caviar, Uber Eats, Postmates, Grubhub, Seamless, Delivery.com",
+            "note": "Food delivery only, direct through their site or app; restaurants earn 1X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "instacart-credit",
@@ -7009,6 +9063,49 @@
         "https://upgradedpoints.com/news/chases-marriott-boundless-card-airfare-benefit/",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 6000,
+              "period": "year"
+            },
+            "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -7093,6 +9190,39 @@
         "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 2,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 6,
+            "channel": "any",
+            "merchants": "Hotels participating in Marriott Bonvoy"
+          },
+          {
+            "category": "groceries",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 15000,
+              "period": "year"
+            },
+            "note": "$15,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+          },
+          {
+            "category": "dining",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 15000,
+              "period": "year"
+            },
+            "note": "$15,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -7179,6 +9309,75 @@
         "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
         "https://www.doctorofcredit.com/chase-sapphire-preferred-adds-100-hotel-credit-3x-gas-tsa-ge-benefit-appletv-more-same-95-fee/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Purchases covered by the $100 Chase Travel hotel credit earn no points.",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "note": "Not bookings through FROSCH or Valerie Wilson Travel, which earn 2X."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Vacation homes at select top brands (chase.com/RewardsCategoryFAQs)"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "streaming",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Select top streaming services (chase.com/RewardsCategoryFAQs)"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Online grocery only",
+            "note": "Excludes Target, Walmart and wholesale clubs."
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          },
+          {
+            "category": "other",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Peloton equipment and accessories",
+            "endDate": "2027-12-31",
+            "note": "Purchases over $150 direct from Peloton, U.S. only; $5,000 total limit for the whole offer. No apparel or gift cards."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hotel-credit",
@@ -7268,6 +9467,51 @@
         "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/",
         "https://frequentmiler.com/new-sapphire-reserve-benefit-for-2026-a-250-credit-for-select-chase-travel%E2%84%A0-hotels/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Purchases covered by the $300 travel credit or The Edit credit earn no points.",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 8,
+            "channel": "issuer_portal",
+            "note": "Not bookings through FROSCH or Valerie Wilson Travel. Reserve Travel Designers only if booked directly through Chase Travel."
+          },
+          {
+            "category": "flights",
+            "rate": 4,
+            "channel": "direct"
+          },
+          {
+            "category": "hotels",
+            "rate": 4,
+            "channel": "direct"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          },
+          {
+            "category": "other",
+            "rate": 10,
+            "channel": "direct",
+            "merchants": "Peloton equipment and accessories",
+            "endDate": "2027-12-31",
+            "note": "Purchases over $150 direct from Peloton, U.S. only; $5,000 total limit for the whole offer. No apparel or gift cards."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "travel-credit",
@@ -7568,6 +9812,48 @@
         "https://www.doctorofcredit.com/chase-sapphire-reserve-for-business-increases-the-edit-credit-to-1000-per-year-4-x-250/",
         "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "Purchases covered by the $300 travel credit or The Edit credit earn no points.",
+        "rates": [
+          {
+            "category": "travel",
+            "rate": 8,
+            "channel": "issuer_portal",
+            "note": "Not bookings through FROSCH or Valerie Wilson Travel. Reserve Travel Designers only if booked directly through Chase Travel."
+          },
+          {
+            "category": "flights",
+            "rate": 4,
+            "channel": "direct"
+          },
+          {
+            "category": "hotels",
+            "rate": 4,
+            "channel": "direct"
+          },
+          {
+            "category": "advertising",
+            "rate": 3,
+            "channel": "any",
+            "cap": {
+              "amount": 1000000,
+              "period": "year"
+            },
+            "note": "Social media and search engine advertising. Uncapped until 2026-11-14; the cap per account anniversary year starts 2026-11-15."
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "Lyft",
+            "endDate": "2027-09-30",
+            "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "travel-credit",
@@ -7844,6 +10130,46 @@
         "https://www.instacart.com/p/chase-southwest-airlines",
         "https://creditcards.chase.com/southwest/performance-business-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "direct",
+            "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+            "note": "Excludes Southwest Cruises, Charters and Cargo."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Hotel accommodations purchased directly with the hotel."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -7946,6 +10272,48 @@
         "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
         "https://www.instacart.com/p/chase-southwest-airlines"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+            "note": "Excludes Southwest Cruises, Charters and Cargo."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 5000,
+              "period": "year"
+            },
+            "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 5000,
+              "period": "year"
+            },
+            "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Lyft, in the Lyft app",
+            "endDate": "2027-12-31",
+            "note": "Qualifying Lyft rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -8140,6 +10508,48 @@
         "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
         "https://www.instacart.com/p/chase-southwest-airlines"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+            "note": "Excludes Southwest Cruises, Charters and Cargo."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 8000,
+              "period": "year"
+            },
+            "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 8000,
+              "period": "year"
+            },
+            "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+          },
+          {
+            "category": "rideshare",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Lyft, in the Lyft app",
+            "endDate": "2027-12-31",
+            "note": "Qualifying Lyft rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -8239,6 +10649,40 @@
         "https://www.instacart.com/p/chase-southwest-airlines",
         "https://creditcards.chase.com/southwest/premier-business-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+            "note": "Excludes Southwest Cruises, Charters and Cargo."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 8000,
+              "period": "year"
+            },
+            "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "cap": {
+              "amount": 8000,
+              "period": "year"
+            },
+            "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -8337,6 +10781,38 @@
         "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
         "https://www.instacart.com/p/chase-southwest-airlines"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "direct",
+            "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+            "note": "Excludes Southwest Cruises, Charters and Cargo."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Lyft, in the Lyft app",
+            "endDate": "2027-12-31",
+            "note": "Qualifying Lyft rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "anniversary-points",
@@ -8423,6 +10899,46 @@
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
         "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes eligible delivery."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "office_supplies",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "united-travel-credit",
@@ -8633,6 +11149,49 @@
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
         "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Renowned Hotels and Resorts for United Cardmembers",
+            "note": "Via Chase Travel; prepaid hotel stays. FROSCH bookings do not qualify."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "any",
+            "note": "All other travel, excluding United purchases at 5X."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "united-club-membership",
@@ -8893,6 +11452,27 @@
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
         "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1.5,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Renowned Hotels and Resorts for United Cardmembers",
+            "note": "Via Chase Travel; prepaid hotel stays. FROSCH bookings do not qualify."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "united-club-membership",
@@ -9135,6 +11715,32 @@
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
         "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "hotels",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Hotel accommodations purchased directly with the hotel."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "united-travel-credit",
@@ -9334,6 +11940,35 @@
         "https://creditcards.chase.com/travel-credit-cards/united/united-gateway",
         "https://www.theexplorercard.com/rewards-cards/gateway-card"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "checked-bag-certificates",
@@ -9378,6 +12013,55 @@
         "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
         "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "direct",
+            "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+            "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+          },
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Renowned Hotels and Resorts for United Cardmembers",
+            "note": "Via Chase Travel; prepaid hotel stays. FROSCH bookings do not qualify."
+          },
+          {
+            "category": "travel",
+            "rate": 2,
+            "channel": "any",
+            "note": "All other travel, excluding United purchases at 4X."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes takeout and eligible delivery."
+          },
+          {
+            "category": "streaming",
+            "rate": 2,
+            "channel": "any",
+            "note": "Select streaming services."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "united-travel-credit",
@@ -9608,6 +12292,48 @@
         "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "New accounts also earn 2X total on 1X purchases for the first 6 months, on up to $15,000 spent.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Hyatt hotels and resorts, World of Hyatt Experiences",
+            "note": "See hyatt.com/chase-earn-terms for purchases that do not qualify."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "flights",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Airline tickets purchased directly with the airline."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Fitness clubs and gym memberships"
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "free-night-award",
@@ -9693,6 +12419,34 @@
         "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
         "https://www.instacart.com/p/chase-cobrands"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "lastVerified": "2026-10-31",
+        "notes": "2X applies automatically to the 3 listed categories with the most spend each calendar quarter, so no single category is guaranteed; others stay at 1X.",
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "any",
+            "merchants": "Hyatt hotels and resorts, World of Hyatt Experiences",
+            "note": "See hyatt.com/chase-earn-terms for purchases that do not qualify."
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Fitness clubs and gym memberships"
+          },
+          {
+            "category": "other",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Top 3 of 8 categories each quarter, set by spend",
+            "note": "Dining, shipping, direct airline tickets, local transit, social/search ads, car rental, gas, internet/cable/phone."
+          }
+        ]
+      },
       "benefits": [
         {
           "id": "hyatt-credit",
@@ -9759,8 +12513,40 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/"
+        "https://creditcards.aa.com/credit-cards/citi-business-card-american-airlines-direct/",
+        "https://creditcards.aa.com/cbaa_standard/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Purchases billed by American Airlines as merchant of record"
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes warehouse clubs not coded as gas stations, discount, department and convenience stores."
+          },
+          {
+            "category": "car_rental",
+            "rate": 2,
+            "channel": "direct",
+            "note": "Excludes travel agencies, tour operators and online third-party travel sites."
+          },
+          {
+            "category": "phone_internet",
+            "rate": 2,
+            "channel": "any",
+            "note": "Certain telecommunications merchants and cable/satellite providers."
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": false,
@@ -9801,8 +12587,35 @@
       "sources": [
         "https://creditcards.aa.com/citi-executive-card-american-airlines-direct/",
         "https://thepointsguy.com/news/citi-aadvantage-executive-mastercard-refresh-2026/",
-        "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/"
+        "https://awardwallet.com/news/american-aadvantage/citi-aadvantage-executive-card-2026-refresh/",
+        "https://creditcards.aa.com/exec_standard"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 12,
+            "channel": "issuer_portal",
+            "merchants": "Only on aadvantagehotels.com; excludes AA Vacations and Reserve Now, Pay Later"
+          },
+          {
+            "category": "car_rental",
+            "rate": 12,
+            "channel": "issuer_portal",
+            "merchants": "Only on aadvantagecars.com; excludes Payless and AA Vacations"
+          },
+          {
+            "category": "brand",
+            "rate": 4,
+            "channel": "direct",
+            "merchants": "Purchases billed by American Airlines as merchant of record",
+            "note": "5X after $150,000 in purchases in a calendar year, for the rest of that year."
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": false,
@@ -9951,8 +12764,45 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/"
+        "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
+        "https://creditcards.aa.com/globe_standard/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 6,
+            "channel": "issuer_portal",
+            "merchants": "Only on aadvantagehotels.com; excludes AA Vacations and Reserve Now, Pay Later"
+          },
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "direct",
+            "merchants": "Purchases billed by American Airlines as merchant of record"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes takeout and delivery; excludes meal kits."
+          },
+          {
+            "category": "transit",
+            "rate": 2,
+            "channel": "any",
+            "note": "Rides and Rails: ferries, commuter rail, subways, taxis, tolls. Excludes charter buses and car rentals."
+          },
+          {
+            "category": "rideshare",
+            "rate": 2,
+            "channel": "any"
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": false,
@@ -10066,8 +12916,28 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/"
+        "https://creditcards.aa.com/citi-mileup-card-american-airlines-direct/",
+        "https://creditcards.aa.com/mileup_standard/"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes superstores, warehouse clubs and candy stores; includes bakeries and convenience stores."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Purchases billed by American Airlines as merchant of record"
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": []
     },
     {
@@ -10087,8 +12957,34 @@
       ],
       "lastVerified": "2026-10-20",
       "sources": [
-        "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/"
+        "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
+        "https://creditcards.aa.com/plat_standard"
       ],
+      "earn": {
+        "unit": "miles",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes restaurants inside department stores, caterers and meal kits."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes warehouse clubs not coded as gas stations, discount, department and convenience stores."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Purchases billed by American Airlines as merchant of record"
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": false,
@@ -10146,6 +13042,36 @@
         "https://www.att.com/deals/att-points-plus-citi/",
         "https://citi.com/credit-cards/citi-att-pointsplus-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "note": "Gas station/EV merchant codes only."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "Includes grocery delivery; excludes superstores and warehouse clubs."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "direct",
+            "merchants": "Products and services purchased directly from AT&T, including phone or internet bills"
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": []
     },
     {
@@ -10165,6 +13091,21 @@
         "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 3,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Bloomingdale's, bloomingdales.com and The Outlet Store",
+            "note": "3 at Loyallists, 4 at Top of the List and Top of the List Unlocked."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Earns anywhere American Express is accepted; the page lists 4 points at higher tiers. 5,000 points = $25 Reward, usable at Bloomingdale's."
+      },
       "benefits": []
     },
     {
@@ -10184,6 +13125,21 @@
         "https://www.citi.com/credit-cards/bloomingdales-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Bloomingdale's, bloomingdales.com and The Outlet Store",
+            "note": "3 at Loyallists, 4 at Top of the List, 10 at Top of the List Unlocked."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card: earns only at Bloomingdale's. 5,000 points = $25 Reward."
+      },
       "benefits": []
     },
     {
@@ -10204,6 +13160,63 @@
         "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Gas at Costco warehouse locations",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%. Excludes some superstores, supermarkets and warehouse clubs."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Only 1% at bakeries and certain restaurants inside department stores, grocery stores or warehouse clubs."
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "note": "Airfare, hotels, car rentals, travel agencies, cruise lines, Costco Travel. Only 1% on timeshares, campgrounds, B&Bs, train and commuter travel."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Costco and Costco.com"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Paid once a year as a reward certificate redeemable at U.S. Costco warehouses."
+      },
       "benefits": []
     },
     {
@@ -10224,6 +13237,63 @@
         "https://www.citi.com/credit-cards/costco-anywhere-visa-business-card",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "gas",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Gas at Costco warehouse locations",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+          },
+          {
+            "category": "gas",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%. Excludes some superstores, supermarkets and warehouse clubs."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 4,
+            "channel": "any",
+            "cap": {
+              "amount": 7000,
+              "period": "year"
+            },
+            "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Only 1% at bakeries and certain restaurants inside department stores, grocery stores or warehouse clubs."
+          },
+          {
+            "category": "travel",
+            "rate": 3,
+            "channel": "any",
+            "note": "Airfare, hotels, car rentals, travel agencies, cruise lines, Costco Travel. Only 1% on timeshares, campgrounds, B&Bs, train and commuter travel."
+          },
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Costco and Costco.com"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Paid once a year as a reward certificate redeemable at U.S. Costco warehouses."
+      },
       "benefits": []
     },
     {
@@ -10283,6 +13353,20 @@
         "https://www.citi.com/credit-cards/dillards-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Dillard's"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card. 1,500 points = a $10 Reward Certificate or 10% off Shopping Pass at Dillard's. Points expire after 12 months."
+      },
       "benefits": []
     },
     {
@@ -10302,6 +13386,32 @@
         "https://www.citi.com/credit-cards/dillards-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Dillard's"
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "U.S. gas stations."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "U.S. supermarkets and grocery stores."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "1,500 points = a $10 Reward Certificate or 10% off Shopping Pass at Dillard's. Points expire after 12 months."
+      },
       "benefits": []
     },
     {
@@ -10323,6 +13433,32 @@
       "sources": [
         "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 2,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "entertainment",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Attractions booked through Citi Travel"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "1% when you buy + 1% as you pay for those purchases, paid as ThankYou Points. Citi Travel bookings earn 3% more, 5% in total. No caps or categories to enroll in."
+      },
       "benefits": []
     },
     {
@@ -10399,6 +13535,26 @@
         "https://www.citi.com/credit-cards/citi-llbean-credit-card",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "L.L.Bean's U.S. businesses"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Only 1% at bakeries and certain restaurants inside department stores, grocery stores or warehouse clubs."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Paid as Bean Bucks."
+      },
       "benefits": []
     },
     {
@@ -10418,6 +13574,39 @@
         "https://www.citi.com/credit-cards/citi-macys-credit-card",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Macy's, Macy's Backstage and macys.com",
+            "note": "2 at Silver (where new accounts start), 3 at Gold, 5 at Platinum."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "U.S. stand-alone restaurants, including delivery."
+          },
+          {
+            "category": "gas",
+            "rate": 2,
+            "channel": "any",
+            "note": "U.S. stand-alone gas stations."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any",
+            "note": "U.S. stand-alone supermarkets; excludes superstores and warehouses."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "1,000 points = $10 Star Money, usable only at Macy's."
+      },
       "benefits": []
     },
     {
@@ -10437,6 +13626,21 @@
         "https://www.citi.com/credit-cards/citi-macys-credit-card",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 2,
+            "channel": "any",
+            "merchants": "Macy's, Macy's Backstage and macys.com",
+            "note": "2 at Silver (where new accounts start), 3 at Gold, 5 at Platinum."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card: usable only at Macy's. 1,000 points = $10 Star Money."
+      },
       "benefits": []
     },
     {
@@ -10456,6 +13660,20 @@
         "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Best Buy, BestBuy.com"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card. Paid as reward certificates for Best Buy (1 point = 2% back). Best Buy purchases earn only when you choose Standard Credit, not financing."
+      },
       "benefits": []
     },
     {
@@ -10476,6 +13694,36 @@
         "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Best Buy, BestBuy.com"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Restaurants and bars."
+          },
+          {
+            "category": "groceries",
+            "rate": 2,
+            "channel": "any"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Paid as reward certificates for Best Buy (1 point = 2% back). Best Buy purchases earn only when you choose Standard Credit, not financing."
+      },
       "benefits": []
     },
     {
@@ -10535,6 +13783,72 @@
       "sources": [
         "https://www.citi.com/credit-cards/citi-strata-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "car_rental",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "entertainment",
+            "rate": 5,
+            "channel": "issuer_portal",
+            "merchants": "Attractions booked through Citi Travel"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "note": "Supermarkets only. Excludes superstores, warehouse clubs, drugstores, bakeries, specialty and meal kit merchants."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any",
+            "note": "Gas station merchant codes only; excludes warehouse clubs, superstores and convenience stores."
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "transit",
+            "rate": 3,
+            "channel": "any",
+            "note": "Includes ferries, commuter rail, subways, taxis/car services, tolls, parking, buses. Excludes bike/scooter rentals."
+          },
+          {
+            "category": "car_rental",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "chosen_category",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "One of: fitness clubs, select streaming, live entertainment, cosmetics/barber/salon, pet supply",
+            "note": "Default is select streaming; changeable once per calendar quarter."
+          },
+          {
+            "category": "dining",
+            "rate": 2,
+            "channel": "any",
+            "note": "Excludes bakeries, caterers and restaurants inside another business."
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": []
     },
     {
@@ -10558,6 +13872,43 @@
         "https://thepointsguy.com/credit-cards/citi-strata-elite-statement-credits",
         "https://onemileatatime.com/guides/citi-strata-elite-card-blacklane-credit/"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1.5,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 12,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "car_rental",
+            "rate": 12,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "entertainment",
+            "rate": 12,
+            "channel": "issuer_portal",
+            "merchants": "Attractions booked through Citi Travel"
+          },
+          {
+            "category": "flights",
+            "rate": 6,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "6X only for purchases authorized Fri or Sat 6 PM to 6 AM ET (Citi Nights). Includes restaurant delivery."
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": true,
@@ -10675,6 +14026,64 @@
       "sources": [
         "https://www.citi.com/credit-cards/citi-strata-premier-credit-card"
       ],
+      "earn": {
+        "unit": "points",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "hotels",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "car_rental",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+          },
+          {
+            "category": "entertainment",
+            "rate": 10,
+            "channel": "issuer_portal",
+            "merchants": "Attractions booked through Citi Travel"
+          },
+          {
+            "category": "flights",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "hotels",
+            "rate": 3,
+            "channel": "any",
+            "note": "Includes hotels not booked through Citi Travel; travel agencies also earn 3X."
+          },
+          {
+            "category": "dining",
+            "rate": 3,
+            "channel": "any",
+            "note": "Excludes bakeries, caterers and restaurants inside another business."
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "note": "Supermarkets only. Excludes superstores, warehouse clubs, drugstores, bakeries, specialty and meal kit merchants."
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "ev_charging",
+            "rate": 3,
+            "channel": "any"
+          }
+        ],
+        "lastVerified": "2026-10-31"
+      },
       "benefits": [
         {
           "inApp": true,
@@ -10728,6 +14137,20 @@
         "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Tractor Supply stores, TractorSupply.com"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card; also usable at Petsense stores. 5 points per $1 = 5% in Rewards, redeemable at Tractor Supply."
+      },
       "benefits": []
     },
     {
@@ -10747,6 +14170,36 @@
         "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 5,
+            "channel": "any",
+            "merchants": "Tractor Supply stores, TractorSupply.com"
+          },
+          {
+            "category": "gas",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any"
+          },
+          {
+            "category": "other",
+            "rate": 3,
+            "channel": "any",
+            "merchants": "Veterinary services"
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "5 points per $1 = 5% in Rewards, redeemable at Tractor Supply."
+      },
       "benefits": []
     },
     {
@@ -10766,6 +14219,21 @@
         "https://www.citi.com/credit-cards/wayfair-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 0,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 7,
+            "channel": "any",
+            "merchants": "Wayfair's family of brands: websites, apps and stores",
+            "note": "5%, not 7%, on purchases using promotional financing."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Store card. Paid as Wayfair Rewards."
+      },
       "benefits": []
     },
     {
@@ -10785,6 +14253,33 @@
         "https://www.citi.com/credit-cards/wayfair-credit-cards",
         "https://www.citi.com/credit-cards/view-all-credit-cards"
       ],
+      "earn": {
+        "unit": "cashback_percent",
+        "baseRate": 1,
+        "rates": [
+          {
+            "category": "brand",
+            "rate": 7,
+            "channel": "any",
+            "merchants": "Wayfair's family of brands: websites, apps and stores",
+            "note": "5%, not 7%, on purchases using promotional financing."
+          },
+          {
+            "category": "groceries",
+            "rate": 3,
+            "channel": "any",
+            "note": "Only 1% at convenience stores, gas stations, warehouse clubs, supercenters and discount stores."
+          },
+          {
+            "category": "online_retail",
+            "rate": 2,
+            "channel": "any",
+            "note": "Online purchases only; excludes subscriptions, utilities, insurance, medical and government payments, among others."
+          }
+        ],
+        "lastVerified": "2026-10-31",
+        "notes": "Paid as Wayfair Rewards."
+      },
       "benefits": []
     },
     {

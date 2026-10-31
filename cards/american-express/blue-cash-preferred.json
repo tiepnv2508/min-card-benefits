@@ -20,6 +20,48 @@
     "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-preferred-credit-card/28810-10-0"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "groceries",
+        "rate": 6,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "merchants": "U.S. supermarkets",
+        "note": "Then 1%."
+      },
+      {
+        "category": "streaming",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Select U.S. streaming subscriptions"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "U.S. gas stations"
+      },
+      {
+        "category": "transit",
+        "rate": 3,
+        "channel": "any",
+        "note": "Includes taxis/rideshare, parking, tolls, trains, buses and more."
+      },
+      {
+        "category": "rideshare",
+        "rate": 3,
+        "channel": "any",
+        "note": "Counted as part of the transit category."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "disney-streaming-credit",

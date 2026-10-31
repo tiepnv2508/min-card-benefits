@@ -15,6 +15,36 @@
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 12,
+        "channel": "any",
+        "merchants": "Hotels participating in IHG One Rewards"
+      },
+      {
+        "category": "travel",
+        "rate": 6,
+        "channel": "any",
+        "note": "Excludes IHG hotels (12X)."
+      },
+      {
+        "category": "rideshare",
+        "rate": 6,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 6,
+        "channel": "any",
+        "note": "Includes takeout and eligible delivery."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

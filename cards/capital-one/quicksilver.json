@@ -18,5 +18,30 @@
   "sources": [
     "https://www.capitalone.com/credit-cards/quicksilver/"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.5,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Also vacation rentals. Capital One Travel only."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only."
+      },
+      {
+        "category": "entertainment",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Capital One Entertainment purchases only"
+      }
+    ]
+  },
   "benefits": []
 }

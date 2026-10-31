@@ -18,5 +18,45 @@
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "rotating",
+        "rate": 5,
+        "channel": "any",
+        "cap": {
+          "amount": 1500,
+          "period": "quarter"
+        },
+        "note": "Activate each quarter by the deadline; $1,500 is combined across that quarter's categories."
+      },
+      {
+        "category": "travel",
+        "rate": 5,
+        "channel": "issuer_portal"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "drugstores",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Lyft",
+        "endDate": "2027-09-30",
+        "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
   "benefits": []
 }

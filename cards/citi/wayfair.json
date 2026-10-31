@@ -16,5 +16,20 @@
     "https://www.citi.com/credit-cards/wayfair-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 0,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 7,
+        "channel": "any",
+        "merchants": "Wayfair's family of brands: websites, apps and stores",
+        "note": "5%, not 7%, on purchases using promotional financing."
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "Store card. Paid as Wayfair Rewards."
+  },
   "benefits": []
 }

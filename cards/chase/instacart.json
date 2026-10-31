@@ -15,5 +15,45 @@
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/instacart"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Instacart.com, Instacart app, Instacart memberships",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "note": "Qualifying purchases only. Year runs between December statement dates."
+      },
+      {
+        "category": "travel",
+        "rate": 5,
+        "channel": "issuer_portal"
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes restaurant orders on Instacart powered by Uber Eats."
+      },
+      {
+        "category": "streaming",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Select streaming services"
+      }
+    ]
+  },
   "benefits": []
 }

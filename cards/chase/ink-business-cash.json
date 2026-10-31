@@ -19,6 +19,61 @@
     "https://creditcards.chase.com/business-credit-cards/ink/cash",
     "https://www.instacart.com/p/chase-ink"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "office_supplies",
+        "rate": 5,
+        "channel": "any",
+        "cap": {
+          "amount": 25000,
+          "period": "year"
+        },
+        "note": "Cap of $25,000 is combined across every category marked with it, per account anniversary year. Shared with internet, cable and phone."
+      },
+      {
+        "category": "phone_internet",
+        "rate": 5,
+        "channel": "any",
+        "cap": {
+          "amount": 25000,
+          "period": "year"
+        },
+        "note": "Internet, cable and phone services. Cap of $25,000 is combined across every category marked with it, per account anniversary year. Shared with office supply stores."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 25000,
+          "period": "year"
+        },
+        "note": "Separate $25,000 cap combined with restaurants, per account anniversary year."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 25000,
+          "period": "year"
+        },
+        "note": "Separate $25,000 cap combined with gas stations, per account anniversary year."
+      },
+      {
+        "category": "rideshare",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Lyft",
+        "endDate": "2027-09-30",
+        "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "instacart-credit",

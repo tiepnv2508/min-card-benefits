@@ -17,5 +17,35 @@
     "https://www.citi.com/credit-cards/citi-best-buy-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Best Buy, BestBuy.com"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Restaurants and bars."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "Paid as reward certificates for Best Buy (1 point = 2% back). Best Buy purchases earn only when you choose Standard Credit, not financing."
+  },
   "benefits": []
 }

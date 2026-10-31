@@ -17,8 +17,59 @@
   "lastVerified": "2026-10-21",
   "sources": [
     "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/traveler",
-    "https://www.instacart.com/p/chase-cobrands"
+    "https://www.instacart.com/p/chase-cobrands",
+    "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/one-rewards"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Hotels participating in IHG One Rewards"
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "Includes takeout and eligible delivery."
+      },
+      {
+        "category": "utilities",
+        "rate": 3,
+        "channel": "any",
+        "endDate": "2026-12-31",
+        "note": "Purchases posted by 12/31/2026; 2X after."
+      },
+      {
+        "category": "phone_internet",
+        "rate": 3,
+        "channel": "any",
+        "endDate": "2026-12-31",
+        "note": "Internet, cable and phone. Purchases posted by 12/31/2026; 2X after."
+      },
+      {
+        "category": "streaming",
+        "rate": 3,
+        "channel": "any",
+        "endDate": "2026-12-31",
+        "note": "Select streaming services. Purchases posted by 12/31/2026; 2X after."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "instacart-credit",

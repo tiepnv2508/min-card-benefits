@@ -18,6 +18,64 @@
   "sources": [
     "https://www.citi.com/credit-cards/citi-strata-premier-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 10,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "car_rental",
+        "rate": 10,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "entertainment",
+        "rate": 10,
+        "channel": "issuer_portal",
+        "merchants": "Attractions booked through Citi Travel"
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "hotels",
+        "rate": 3,
+        "channel": "any",
+        "note": "Includes hotels not booked through Citi Travel; travel agencies also earn 3X."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "Excludes bakeries, caterers and restaurants inside another business."
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "note": "Supermarkets only. Excludes superstores, warehouse clubs, drugstores, bakeries, specialty and meal kit merchants."
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "ev_charging",
+        "rate": 3,
+        "channel": "any"
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": true,

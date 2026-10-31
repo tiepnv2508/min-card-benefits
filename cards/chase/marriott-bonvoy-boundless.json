@@ -20,6 +20,49 @@
     "https://upgradedpoints.com/news/chases-marriott-boundless-card-airfare-benefit/",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "note": "$6,000 cap is combined across these categories per year (ends with the December statement), then 2X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

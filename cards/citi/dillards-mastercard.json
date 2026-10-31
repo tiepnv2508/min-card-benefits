@@ -16,5 +16,31 @@
     "https://www.citi.com/credit-cards/dillards-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Dillard's"
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "note": "U.S. gas stations."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "U.S. supermarkets and grocery stores."
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "1,500 points = a $10 Reward Certificate or 10% off Shopping Pass at Dillard's. Points expire after 12 months."
+  },
   "benefits": []
 }

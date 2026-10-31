@@ -16,5 +16,20 @@
     "https://www.citi.com/credit-cards/citi-macys-credit-card",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 0,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Macy's, Macy's Backstage and macys.com",
+        "note": "2 at Silver (where new accounts start), 3 at Gold, 5 at Platinum."
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "Store card: usable only at Macy's. 1,000 points = $10 Star Money."
+  },
   "benefits": []
 }

@@ -23,6 +23,69 @@
     "https://thepointsguy.com/news/american-express-business-chat-gpt-credits-launch/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-platinum-charge-card/57460-9-0?key=tncBody&rwdFlag=rwd"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "AmexTravel.com"
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels through American Express Travel, including FHR and The Hotel Collection"
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2000000,
+          "period": "year"
+        },
+        "merchants": "U.S. construction material and hardware suppliers",
+        "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2000000,
+          "period": "year"
+        },
+        "merchants": "U.S. electronic goods retailers and software & cloud system providers",
+        "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2000000,
+          "period": "year"
+        },
+        "merchants": "Each eligible purchase of $5,000 or more",
+        "note": "$2 million cap is combined per calendar year. Highest eligible bonus only."
+      },
+      {
+        "category": "shipping",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 2000000,
+          "period": "year"
+        },
+        "merchants": "U.S. shipping providers",
+        "note": "$2 million cap is combined per calendar year. Highest eligible bonus only. Select merchants only from 2027-02-17."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hotel-credit",

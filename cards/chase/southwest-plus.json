@@ -19,6 +19,48 @@
     "https://creditcards.chase.com/travel-credit-cards/southwest/plus",
     "https://www.instacart.com/p/chase-southwest-airlines"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+        "note": "Excludes Southwest Cruises, Charters and Cargo."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 5000,
+          "period": "year"
+        },
+        "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 5000,
+          "period": "year"
+        },
+        "note": "$5,000 cap is combined across these categories per account anniversary year, then 1X."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Lyft, in the Lyft app",
+        "endDate": "2027-12-31",
+        "note": "Qualifying Lyft rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "anniversary-points",

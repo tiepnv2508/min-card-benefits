@@ -20,6 +20,48 @@
     "https://www.forbes.com/advisor/credit-cards/reviews/morgan-stanley-blue-cash-preferred-american-express-credit-card/",
     "https://apply.americanexpress.com/amex-morgan-stanley-credit-cards/?page_url=38"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "groceries",
+        "rate": 6,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "merchants": "U.S. supermarkets",
+        "note": "Then 1%."
+      },
+      {
+        "category": "streaming",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Select U.S. streaming subscriptions"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "U.S. gas stations"
+      },
+      {
+        "category": "transit",
+        "rate": 3,
+        "channel": "any",
+        "note": "Includes taxis/rideshare, parking, tolls, trains, buses and more."
+      },
+      {
+        "category": "rideshare",
+        "rate": 3,
+        "channel": "any",
+        "note": "Counted as part of the transit category."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "disney-streaming-credit",

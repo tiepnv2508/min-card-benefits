@@ -20,6 +20,38 @@
     "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
     "https://upgradedpoints.com/credit-cards/reviews/capital-one-venture-x/benefits-history/"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "notes": "Vacation rentals booked through Capital One Travel earn 5X.",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 10,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only. Vacation rentals earn 5X."
+      },
+      {
+        "category": "car_rental",
+        "rate": 10,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only."
+      },
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only."
+      },
+      {
+        "category": "entertainment",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Capital One Entertainment purchases only"
+      }
+    ]
+  },
   "benefits": [
     {
       "inApp": true,

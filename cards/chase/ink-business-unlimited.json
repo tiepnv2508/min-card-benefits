@@ -19,6 +19,21 @@
     "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
     "https://www.instacart.com/p/chase-ink"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1.5,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "rideshare",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Lyft",
+        "endDate": "2027-09-30",
+        "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "instacart-credit",
