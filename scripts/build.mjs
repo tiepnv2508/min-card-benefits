@@ -70,6 +70,18 @@ for (const file of walk(join(ROOT, 'cards')).sort()) {
     if (b.matchVerified && !(b.descriptorExamples?.length))
       errors.push(`${rel}: "${b.id}" is matchVerified but has no descriptorExamples`);
   }
+  if (card.earn) {
+    const seen = new Set();
+    for (const r of card.earn.rates) {
+      const key = `${r.category}|${r.channel}|${r.merchants ?? ''}`;
+      if (seen.has(key)) errors.push(`${rel}: duplicate earn rate ${key}`);
+      seen.add(key);
+      if (r.category === 'brand' && !r.merchants)
+        errors.push(`${rel}: earn rate "brand" needs merchants`);
+      if (r.rate <= card.earn.baseRate && !r.cap && !r.note)
+        errors.push(`${rel}: earn rate ${r.category} is not above baseRate`);
+    }
+  }
   const { $schema, ...data } = card;
   cards.push(data);
 }
