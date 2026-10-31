@@ -17,6 +17,7 @@ Thanks for helping! Every card lives in its own file: `cards/<issuer>/<card-slug
 11. **Never delete a benefit the issuer ended — set `endDate`** (the last day it was available, YYYY-MM-DD). Apps use `endDate` to retire copies users already track; a benefit that simply disappears from the file is treated as unknown, not ended. Benefit `id`s are permanent and only need to be unique within a card.
 
 12. **`earn` comes only from the issuer's own page, read in full.** Never fill it from memory, a blog or an AI answer. If the page can't confirm a rate, leave the whole `earn` field out. Set `channel` honestly: a rate that needs the issuer's portal is `issuer_portal`, one that needs booking direct is `direct`. Record caps, end dates and activation terms. A hotel or airline's own purchases are `brand` with `merchants`.
+13. **`data/point-values.json` is an estimate, not a fact from an issuer.** Each value is the median of the listed public valuation sources, rounded to 0.05. Update it from those sources together and change `asOf`; don't adjust one program by opinion.
 
 ## Workflow
 

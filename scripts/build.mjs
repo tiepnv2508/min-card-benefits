@@ -92,9 +92,17 @@ if (errors.length) {
 }
 
 cards.sort((a, b) => a.issuer.localeCompare(b.issuer) || a.name.localeCompare(b.name));
+const pointValues = JSON.parse(readFileSync(join(ROOT, 'data/point-values.json'), 'utf8'));
+const codes = new Set(cards.map((c) => c.currency));
+for (const code of Object.keys(pointValues.values)) {
+  if (!codes.has(code)) {
+    console.error(`✗ data/point-values.json: no card uses currency ${code}`);
+    process.exit(1);
+  }
+}
 const out =
   JSON.stringify(
-    { schemaVersion: 2, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), cards },
+    { schemaVersion: 2, cardCount: cards.length, benefitCount: cards.reduce((n, c) => n + c.benefits.length, 0), pointValues, cards },
     null,
     2,
   ) + '\n';
