@@ -16,8 +16,34 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/"
+    "https://creditcards.aa.com/credit-cards/citi-platinum-card-american-airlines-direct/",
+    "https://creditcards.aa.com/plat_standard"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes restaurants inside department stores, caterers and meal kits."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes warehouse clubs not coded as gas stations, discount, department and convenience stores."
+      },
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "Purchases billed by American Airlines as merchant of record"
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": false,

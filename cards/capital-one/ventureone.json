@@ -18,5 +18,24 @@
   "sources": [
     "https://www.capitalone.com/credit-cards/ventureone/"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1.25,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Also vacation rentals. Capital One Travel only."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only."
+      }
+    ]
+  },
   "benefits": []
 }

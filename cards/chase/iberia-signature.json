@@ -19,6 +19,26 @@
     "https://creditcards.chase.com/travel-credit-cards/avios/iberia",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Iberia, British Airways, Aer Lingus, LEVEL",
+        "note": "Flight purchases only, made directly with the airline."
+      },
+      {
+        "category": "hotels",
+        "rate": 2,
+        "channel": "direct",
+        "note": "Hotel accommodations purchased directly with the hotel."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "discount-voucher",

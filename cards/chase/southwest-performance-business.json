@@ -20,6 +20,46 @@
     "https://www.instacart.com/p/chase-southwest-airlines",
     "https://creditcards.chase.com/southwest/performance-business-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "direct",
+        "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+        "note": "Excludes Southwest Cruises, Charters and Cargo."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "hotels",
+        "rate": 2,
+        "channel": "direct",
+        "note": "Hotel accommodations purchased directly with the hotel."
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "anniversary-points",

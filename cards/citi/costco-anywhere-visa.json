@@ -17,5 +17,62 @@
     "https://www.citi.com/credit-cards/costco-anywhere-visa-card",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "gas",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Gas at Costco warehouse locations",
+        "cap": {
+          "amount": 7000,
+          "period": "year"
+        },
+        "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+      },
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 7000,
+          "period": "year"
+        },
+        "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%. Excludes some superstores, supermarkets and warehouse clubs."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 7000,
+          "period": "year"
+        },
+        "note": "5% and 4% share one $7,000 per year cap across Costco gas, other gas and EV charging; then 1%."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "note": "Only 1% at bakeries and certain restaurants inside department stores, grocery stores or warehouse clubs."
+      },
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "any",
+        "note": "Airfare, hotels, car rentals, travel agencies, cruise lines, Costco Travel. Only 1% on timeshares, campgrounds, B&Bs, train and commuter travel."
+      },
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Costco and Costco.com"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "Paid once a year as a reward certificate redeemable at U.S. Costco warehouses."
+  },
   "benefits": []
 }

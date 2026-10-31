@@ -18,5 +18,53 @@
   "sources": [
     "https://www.capitalone.com/credit-cards/savor/"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "note": "Superstores like Walmart and Target are excluded."
+      },
+      {
+        "category": "entertainment",
+        "rate": 3,
+        "channel": "any",
+        "note": "Tickets at theaters, live events, parks, zoos etc. Golf, collegiate sports, cable and memberships excluded."
+      },
+      {
+        "category": "streaming",
+        "rate": 3,
+        "channel": "any",
+        "note": "Eligible services such as Netflix, Hulu, Disney+. Prime Video, AT&T TV, Verizon FIOS On Demand, audiobooks and fitness excluded."
+      },
+      {
+        "category": "entertainment",
+        "rate": 8,
+        "channel": "issuer_portal",
+        "merchants": "Capital One Entertainment purchases only"
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Also vacation rentals. Capital One Travel only."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Capital One Travel only."
+      }
+    ]
+  },
   "benefits": []
 }

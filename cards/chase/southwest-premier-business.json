@@ -20,6 +20,40 @@
     "https://www.instacart.com/p/chase-southwest-airlines",
     "https://creditcards.chase.com/southwest/premier-business-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Southwest flights, inflight, gift cards, Getaways by Southwest",
+        "note": "Excludes Southwest Cruises, Charters and Cargo."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 8000,
+          "period": "year"
+        },
+        "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 8000,
+          "period": "year"
+        },
+        "note": "$8,000 cap is combined across these categories per account anniversary year, then 1X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "anniversary-points",

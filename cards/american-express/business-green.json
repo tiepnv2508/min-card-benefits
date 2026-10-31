@@ -19,5 +19,36 @@
     "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-green-card-amex/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/business-green-rewards-charge-card/42732-9-0"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "flights",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "hotels",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "car_rental",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid car rentals on AmexTravel.com or Amex Travel App"
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "issuer_portal",
+        "merchants": "Cruises and other eligible travel on AmexTravel.com or Amex Travel App"
+      }
+    ]
+  },
   "benefits": []
 }

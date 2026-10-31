@@ -21,6 +21,101 @@
     "https://upgradedpoints.com/credit-cards/amex-business-cards-chatgpt-business-credit/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/businessgold-card/57460-9-0?key=tncBody&rwdFlag=rwd"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "notes": "4X applies automatically to the top 2 of 6 eligible categories each billing cycle, not to all six.",
+    "rates": [
+      {
+        "category": "advertising",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "merchants": "U.S. media providers, select media (online, TV, radio)",
+        "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X. Select merchants only from 2027-02-17."
+      },
+      {
+        "category": "other",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "merchants": "U.S. electronic goods retailers and software & cloud system providers",
+        "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+      },
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "merchants": "U.S. restaurants, including takeout and delivery",
+        "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+      },
+      {
+        "category": "gas",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "merchants": "U.S. gas stations",
+        "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+      },
+      {
+        "category": "transit",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "Trains, taxicabs, rideshare, ferries, tolls, parking, buses, subways. Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+      },
+      {
+        "category": "rideshare",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "note": "Part of transit. Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X."
+      },
+      {
+        "category": "phone_internet",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 150000,
+          "period": "year"
+        },
+        "merchants": "Monthly wireless service bought directly from a U.S. provider",
+        "note": "Only if among your top 2 of 6 categories that billing cycle. $150,000 cap is combined per calendar year, then 1X. Select merchants only from 2027-02-17."
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "merchants": "AmexTravel.com"
+      },
+      {
+        "category": "hotels",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels on AmexTravel.com"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "flexible-business-credit",

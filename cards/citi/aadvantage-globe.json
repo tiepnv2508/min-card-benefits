@@ -16,8 +16,45 @@
   ],
   "lastVerified": "2026-10-20",
   "sources": [
-    "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/"
+    "https://creditcards.aa.com/credit-cards/citi-globe-card-american-airlines-direct/",
+    "https://creditcards.aa.com/globe_standard/"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 6,
+        "channel": "issuer_portal",
+        "merchants": "Only on aadvantagehotels.com; excludes AA Vacations and Reserve Now, Pay Later"
+      },
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Purchases billed by American Airlines as merchant of record"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes takeout and delivery; excludes meal kits."
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any",
+        "note": "Rides and Rails: ferries, commuter rail, subways, taxis, tolls. Excludes charter buses and car rentals."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": [
     {
       "inApp": false,

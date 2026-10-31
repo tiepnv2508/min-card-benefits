@@ -20,6 +20,53 @@
     "https://frequentmiler.com/all-the-existing-ihg-credit-cards-have-been-refreshed-here-are-the-changes/",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 10,
+        "channel": "any",
+        "merchants": "Hotels participating in IHG One Rewards"
+      },
+      {
+        "category": "groceries",
+        "rate": 5,
+        "channel": "any"
+      },
+      {
+        "category": "gas",
+        "rate": 5,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 5,
+        "channel": "any",
+        "note": "Includes takeout and eligible delivery."
+      },
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "direct",
+        "note": "Airline tickets purchased directly with the airline."
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "any"
+      },
+      {
+        "category": "travel",
+        "rate": 5,
+        "channel": "any",
+        "endDate": "2026-12-31",
+        "note": "Excludes IHG hotels (10X). Purchases posted by 12/31/2026; other travel earns 3X after."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

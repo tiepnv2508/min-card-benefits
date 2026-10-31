@@ -19,5 +19,48 @@
     "https://www.amazon.com/dp/BT00LN946S",
     "https://creditcards.chase.com/cash-back-credit-cards/amazon-prime-rewards"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "notes": "Rotating 10%+ back on selected Amazon.com items for eligible Prime members is a limited-time offer and is not listed.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Amazon.com, Audible.com, Whole Foods Market",
+        "note": "Needs an eligible Prime membership, otherwise 3%. Not Amazon Pay, international Amazon sites, or Whole Foods via third parties."
+      },
+      {
+        "category": "travel",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "note": "Needs an eligible Prime membership, otherwise 3%. Not earned booking directly with travel suppliers."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any",
+        "note": "Local transit and commuting."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any",
+        "note": "Part of local transit and commuting."
+      }
+    ]
+  },
   "benefits": []
 }

@@ -16,5 +16,35 @@
     "https://www.citi.com/credit-cards/citi-tractor-supply-credit-cards",
     "https://www.citi.com/credit-cards/view-all-credit-cards"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "Tractor Supply stores, TractorSupply.com"
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "other",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Veterinary services"
+      }
+    ],
+    "lastVerified": "2026-10-31",
+    "notes": "5 points per $1 = 5% in Rewards, redeemable at Tractor Supply."
+  },
   "benefits": []
 }

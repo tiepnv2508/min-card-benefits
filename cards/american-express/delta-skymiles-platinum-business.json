@@ -20,6 +20,67 @@
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-platinum/61468-9-0"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Eligible purchases made directly with Delta"
+      },
+      {
+        "category": "hotels",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Purchases made directly with hotels"
+      },
+      {
+        "category": "transit",
+        "rate": 1.5,
+        "channel": "any",
+        "cap": {
+          "amount": 100000,
+          "period": "year"
+        },
+        "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+      },
+      {
+        "category": "rideshare",
+        "rate": 1.5,
+        "channel": "any",
+        "cap": {
+          "amount": 100000,
+          "period": "year"
+        },
+        "note": "Part of transit. $100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+      },
+      {
+        "category": "shipping",
+        "rate": 1.5,
+        "channel": "any",
+        "cap": {
+          "amount": 100000,
+          "period": "year"
+        },
+        "merchants": "U.S. shipping providers",
+        "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+      },
+      {
+        "category": "other",
+        "rate": 1.5,
+        "channel": "any",
+        "cap": {
+          "amount": 100000,
+          "period": "year"
+        },
+        "merchants": "Single eligible purchases of $5,000 or more",
+        "note": "$100,000 cap is combined across transit, U.S. shipping and $5,000+ purchases per year. Higher accelerator wins."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "delta-stays-credit",

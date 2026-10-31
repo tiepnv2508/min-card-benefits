@@ -22,6 +22,49 @@
     "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
     "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+        "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Renowned Hotels and Resorts for United Cardmembers",
+        "note": "Via Chase Travel; prepaid hotel stays. FROSCH bookings do not qualify."
+      },
+      {
+        "category": "travel",
+        "rate": 2,
+        "channel": "any",
+        "note": "All other travel, excluding United purchases at 5X."
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes takeout and eligible delivery."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "united-club-membership",

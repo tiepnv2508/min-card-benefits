@@ -22,6 +22,46 @@
     "https://upgradedpoints.com/credit-cards/united-hotel-credits/",
     "https://help.doordash.com/consumers/s/article/Chase-Partnership?language=en_US"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 2,
+        "channel": "direct",
+        "merchants": "United tickets, upgrades, Economy Plus, inflight, bag fees",
+        "note": "Bought from United. Excludes third-party travel packages, some discount sites, United Cruises, Merchandise Awards."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes eligible delivery."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "office_supplies",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "united-travel-credit",

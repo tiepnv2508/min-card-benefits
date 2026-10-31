@@ -20,6 +20,19 @@
     "https://news.delta.com/more-travel-value-added-delta-skymiles-cards-no-increase-annual-fees",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/delta-skymiles-reserve-american-express-card/26129-10-0"
   ],
+  "earn": {
+    "unit": "miles",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Delta purchases, including Delta flights and Delta Vacations"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "delta-stays-credit",

@@ -16,5 +16,47 @@
     "https://creditcards.chase.com/cash-back-credit-cards/amazon-rewards",
     "https://creditcards.chase.com/cash-back-credit-cards/amazon"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Amazon.com, Audible.com, Whole Foods Market",
+        "note": "Page headline rate. Shared terms state 5% with an eligible Prime membership. Not Amazon Pay, international Amazon sites, or Whole Foods via third parties."
+      },
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "issuer_portal",
+        "note": "Page headline rate. Shared terms state 5% with an eligible Prime membership. Not earned booking directly with suppliers."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any",
+        "note": "Local transit and commuting."
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any",
+        "note": "Part of local transit and commuting."
+      }
+    ]
+  },
   "benefits": []
 }

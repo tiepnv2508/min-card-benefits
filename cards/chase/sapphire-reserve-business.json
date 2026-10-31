@@ -20,6 +20,48 @@
     "https://www.doctorofcredit.com/chase-sapphire-reserve-for-business-increases-the-edit-credit-to-1000-per-year-4-x-250/",
     "https://thepointsguy.com/news/new-and-enhanced-hotel-credits-for-sapphire-reserve-cards/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "notes": "Purchases covered by the $300 travel credit or The Edit credit earn no points.",
+    "rates": [
+      {
+        "category": "travel",
+        "rate": 8,
+        "channel": "issuer_portal",
+        "note": "Not bookings through FROSCH or Valerie Wilson Travel. Reserve Travel Designers only if booked directly through Chase Travel."
+      },
+      {
+        "category": "flights",
+        "rate": 4,
+        "channel": "direct"
+      },
+      {
+        "category": "hotels",
+        "rate": 4,
+        "channel": "direct"
+      },
+      {
+        "category": "advertising",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 1000000,
+          "period": "year"
+        },
+        "note": "Social media and search engine advertising. Uncapped until 2026-11-14; the cap per account anniversary year starts 2026-11-15."
+      },
+      {
+        "category": "rideshare",
+        "rate": 5,
+        "channel": "direct",
+        "merchants": "Lyft",
+        "endDate": "2027-09-30",
+        "note": "Rides and memberships bought in the Lyft app; gift cards and car rentals excluded."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "travel-credit",

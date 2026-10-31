@@ -19,6 +19,48 @@
     "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "notes": "New accounts also earn 2X total on 1X purchases for the first 6 months, on up to $15,000 spent.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Hyatt hotels and resorts, World of Hyatt Experiences",
+        "note": "See hyatt.com/chase-earn-terms for purchases that do not qualify."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "flights",
+        "rate": 2,
+        "channel": "direct",
+        "note": "Airline tickets purchased directly with the airline."
+      },
+      {
+        "category": "transit",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "rideshare",
+        "rate": 2,
+        "channel": "any"
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Fitness clubs and gym memberships"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-award",

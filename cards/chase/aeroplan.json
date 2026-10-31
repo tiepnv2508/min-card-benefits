@@ -20,6 +20,42 @@
     "https://upgradedpoints.com/news/refreshed-chase-aeroplan-card-2026/",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Air Canada",
+        "note": "Excludes gift cards, partner hotels and cars on aircanada.com, onboard Wi-Fi, agency tickets. Page's 5X adds 2X from Air Canada for Aeroplan 25K members."
+      },
+      {
+        "category": "travel",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Earns 3X on purchases posted by 12/31/2026; 2X is the rate after that."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Includes takeout and eligible delivery. Earns 3X on purchases posted by 12/31/2026; 2X after."
+      },
+      {
+        "category": "gas",
+        "rate": 2,
+        "channel": "any"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "air-canada-credit",

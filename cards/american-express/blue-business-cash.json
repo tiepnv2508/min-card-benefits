@@ -19,5 +19,22 @@
     "https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/bluebusinesscash-credit-card/42732-9-0"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "cap": {
+          "amount": 50000,
+          "period": "year"
+        },
+        "note": "All eligible purchases, first $50,000 per calendar year, then 1%."
+      }
+    ]
+  },
   "benefits": []
 }

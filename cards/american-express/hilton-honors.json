@@ -19,6 +19,37 @@
     "https://www.hilton.com/en/hilton-honors/credit-cards/",
     "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 7,
+        "channel": "direct",
+        "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+      },
+      {
+        "category": "dining",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "U.S. restaurants"
+      },
+      {
+        "category": "groceries",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "U.S. supermarkets"
+      },
+      {
+        "category": "gas",
+        "rate": 5,
+        "channel": "any",
+        "merchants": "U.S. gas stations"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "silver-status",

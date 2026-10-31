@@ -20,6 +20,46 @@
     "https://upgradedpoints.com/news/amex-blue-cash-cards-disney-streaming-credit/",
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/prospect/terms/blue-cash-everyday-credit-card/25330-10-0"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "merchants": "U.S. supermarkets",
+        "note": "Then 1%. Cap is per category."
+      },
+      {
+        "category": "online_retail",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "merchants": "U.S. online retail purchases",
+        "note": "Then 1%. Cap is per category."
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "cap": {
+          "amount": 6000,
+          "period": "year"
+        },
+        "merchants": "U.S. gas stations",
+        "note": "Then 1%. Cap is per category."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "disney-streaming-credit",

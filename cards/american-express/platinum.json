@@ -21,6 +21,41 @@
     "https://frequentmiler.com/amex-removes-saks-benefit-for-new-platinum-cardholders-cardholders-prior-to-3-26-unaffected/",
     "https://upgradedpoints.com/news/clear-plus-membership-price-increase-july-2026/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "direct",
+        "cap": {
+          "amount": 500000,
+          "period": "year"
+        },
+        "merchants": "Booked directly with airlines",
+        "note": "$500,000 cap per calendar year applies to these flights. Shared with American Express Travel flights."
+      },
+      {
+        "category": "flights",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "cap": {
+          "amount": 500000,
+          "period": "year"
+        },
+        "merchants": "American Express Travel",
+        "note": "$500,000 cap per calendar year applies to these flights. Shared with flights booked directly."
+      },
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Prepaid hotels through American Express Travel"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hotel-credit",

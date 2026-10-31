@@ -20,6 +20,43 @@
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
     "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 12,
+        "channel": "direct",
+        "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+      },
+      {
+        "category": "dining",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "U.S. restaurants"
+      },
+      {
+        "category": "groceries",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "U.S. supermarkets"
+      },
+      {
+        "category": "gas",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "U.S. gas stations"
+      },
+      {
+        "category": "online_retail",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "U.S. online retail purchases"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hilton-credit",

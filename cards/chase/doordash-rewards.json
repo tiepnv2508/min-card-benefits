@@ -15,6 +15,32 @@
   "sources": [
     "https://creditcards.chase.com/cash-back-credit-cards/doordash"
   ],
+  "earn": {
+    "unit": "cashback_percent",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "direct",
+        "merchants": "DoorDash, Caviar",
+        "note": "Orders on their sites or apps; DashPass subscription fees excluded."
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "direct",
+        "note": "Only when purchased directly from a restaurant."
+      },
+      {
+        "category": "groceries",
+        "rate": 2,
+        "channel": "any",
+        "note": "Grocery stores, online or in-store."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "dashpass-anniversary",

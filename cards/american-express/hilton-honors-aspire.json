@@ -20,6 +20,43 @@
     "https://upgradedpoints.com/news/hilton-honors-aspire-surpass-card-changes/",
     "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 3,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 14,
+        "channel": "direct",
+        "merchants": "Purchases directly with hotels and resorts in the Hilton portfolio"
+      },
+      {
+        "category": "flights",
+        "rate": 7,
+        "channel": "direct",
+        "merchants": "Booked directly with airlines"
+      },
+      {
+        "category": "flights",
+        "rate": 7,
+        "channel": "issuer_portal",
+        "merchants": "American Express Travel"
+      },
+      {
+        "category": "car_rental",
+        "rate": 7,
+        "channel": "direct",
+        "merchants": "Directly from select car rental companies"
+      },
+      {
+        "category": "dining",
+        "rate": 7,
+        "channel": "any",
+        "merchants": "U.S. restaurants"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hilton-resort-credit",

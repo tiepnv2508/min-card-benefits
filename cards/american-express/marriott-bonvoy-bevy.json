@@ -19,6 +19,41 @@
     "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
     "https://upgradedpoints.com/credit-cards/reviews/marriott-bonvoy-bevy-card/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "dining",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 15000,
+          "period": "year"
+        },
+        "merchants": "Restaurants worldwide, including takeout and delivery in the U.S.",
+        "note": "$15,000 cap is combined across restaurants and U.S. supermarkets per calendar year, then 2X."
+      },
+      {
+        "category": "groceries",
+        "rate": 4,
+        "channel": "any",
+        "cap": {
+          "amount": 15000,
+          "period": "year"
+        },
+        "merchants": "U.S. supermarkets",
+        "note": "$15,000 cap is combined across restaurants and U.S. supermarkets per calendar year, then 2X."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "free-night-15k",

@@ -20,6 +20,31 @@
     "https://www.uscreditcardguide.com/amex-spg-luxury-credit-card/",
     "https://frequentmiler.com/amex-marriott-bonvoy-brilliant-credit-card-review/"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 2,
+    "lastVerified": "2026-10-31",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 6,
+        "channel": "any",
+        "merchants": "Hotels participating in Marriott Bonvoy"
+      },
+      {
+        "category": "dining",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "Restaurants worldwide"
+      },
+      {
+        "category": "flights",
+        "rate": 3,
+        "channel": "direct",
+        "merchants": "Booked directly with airlines"
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "dining-credit",

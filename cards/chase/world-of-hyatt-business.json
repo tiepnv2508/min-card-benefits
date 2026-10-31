@@ -19,6 +19,34 @@
     "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
     "https://www.instacart.com/p/chase-cobrands"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "lastVerified": "2026-10-31",
+    "notes": "2X applies automatically to the 3 listed categories with the most spend each calendar quarter, so no single category is guaranteed; others stay at 1X.",
+    "rates": [
+      {
+        "category": "brand",
+        "rate": 4,
+        "channel": "any",
+        "merchants": "Hyatt hotels and resorts, World of Hyatt Experiences",
+        "note": "See hyatt.com/chase-earn-terms for purchases that do not qualify."
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Fitness clubs and gym memberships"
+      },
+      {
+        "category": "other",
+        "rate": 2,
+        "channel": "any",
+        "merchants": "Top 3 of 8 categories each quarter, set by spend",
+        "note": "Dining, shipping, direct airline tickets, local transit, social/search ads, car rental, gas, internet/cable/phone."
+      }
+    ]
+  },
   "benefits": [
     {
       "id": "hyatt-credit",

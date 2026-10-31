@@ -18,5 +18,71 @@
   "sources": [
     "https://www.citi.com/credit-cards/citi-strata-credit-card"
   ],
+  "earn": {
+    "unit": "points",
+    "baseRate": 1,
+    "rates": [
+      {
+        "category": "hotels",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "car_rental",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Booked through Citi Travel (cititravel.com or by phone)"
+      },
+      {
+        "category": "entertainment",
+        "rate": 5,
+        "channel": "issuer_portal",
+        "merchants": "Attractions booked through Citi Travel"
+      },
+      {
+        "category": "groceries",
+        "rate": 3,
+        "channel": "any",
+        "note": "Supermarkets only. Excludes superstores, warehouse clubs, drugstores, bakeries, specialty and meal kit merchants."
+      },
+      {
+        "category": "gas",
+        "rate": 3,
+        "channel": "any",
+        "note": "Gas station merchant codes only; excludes warehouse clubs, superstores and convenience stores."
+      },
+      {
+        "category": "ev_charging",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "transit",
+        "rate": 3,
+        "channel": "any",
+        "note": "Includes ferries, commuter rail, subways, taxis/car services, tolls, parking, buses. Excludes bike/scooter rentals."
+      },
+      {
+        "category": "car_rental",
+        "rate": 3,
+        "channel": "any"
+      },
+      {
+        "category": "chosen_category",
+        "rate": 3,
+        "channel": "any",
+        "merchants": "One of: fitness clubs, select streaming, live entertainment, cosmetics/barber/salon, pet supply",
+        "note": "Default is select streaming; changeable once per calendar quarter."
+      },
+      {
+        "category": "dining",
+        "rate": 2,
+        "channel": "any",
+        "note": "Excludes bakeries, caterers and restaurants inside another business."
+      }
+    ],
+    "lastVerified": "2026-10-31"
+  },
   "benefits": []
 }
