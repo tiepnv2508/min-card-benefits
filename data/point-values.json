@@ -2,6 +2,7 @@
   "asOf": "2026-10-31",
   "unit": "US cents per point or mile",
   "method": "Median of the published estimates below, rounded to 0.05. An estimate for comparing currencies, never a promised redemption value.",
+  "ownerSet": { "HYATT": "Set by the app owner on 2026-11-01 instead of the median. Do not change without the owner." },
   "sources": [
     { "name": "The Points Guy", "url": "https://thepointsguy.com/loyalty-programs/monthly-valuations" },
     { "name": "Upgraded Points", "url": "https://upgradedpoints.com/points-and-miles-valuations/" },
@@ -26,7 +27,7 @@
     "AVIOS": 1.2,
     "HILTON": 0.45,
     "MARRIOTT": 0.7,
-    "HYATT": 1.45,
+    "HYATT": 1.4,
     "IHG": 0.55,
     "WYNDHAM": 0.6,
     "CHOICE": 0.7,
